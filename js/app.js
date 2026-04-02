@@ -7,6 +7,46 @@ import { state, setState, getState, emit, subscribe, getDueCards, getNewCards, i
 import { initRouter, navigate, registerRoute } from './router.js';
 import { loadShared, loadLevel, preloadLevel } from './loader.js';
 import { createCard } from './srs.js';
+import { startExercise } from './ui/exercise-shell.js';
+
+// Exercise modules registry
+const exerciseModules = {};
+
+async function loadExerciseModule(type) {
+  if (exerciseModules[type]) return exerciseModules[type];
+  try {
+    const mod = await import(`./exercises/${type}.js`);
+    exerciseModules[type] = mod;
+    return mod;
+  } catch (err) {
+    console.error(`Failed to load exercise module: ${type}`, err);
+    return null;
+  }
+}
+
+// Map exercise types to the data keys in level JSON files
+const exerciseTypeToDataKey = {
+  'word-match': 'word_match',
+  'gap-fill': 'gap_fill',
+  'collocation': 'collocation',
+  'b1-b2-upgrade': 'b1_b2_upgrade',
+  'paraphrase-match': 'paraphrase_match',
+  'sentence-type-id': 'sentence_type_id',
+  'sentence-transform': 'sentence_transform',
+  'gps-placement': 'gps_placement',
+  'paragraph-assembly': 'paragraph_assembly',
+  'essay-type-id': 'essay_type_sort'
+};
+
+// Map levels to their available exercise types
+const levelExerciseTypes = {
+  1: ['word-match', 'gap-fill'],
+  2: ['collocation', 'b1-b2-upgrade'],
+  3: ['sentence-type-id', 'sentence-transform'],
+  4: ['gps-placement'],
+  5: ['paragraph-assembly'],
+  6: ['essay-type-id']
+};
 
 // ============================================================================
 // Placeholder Auth Module (to be replaced with real Firebase auth in Phase 2)
@@ -171,8 +211,7 @@ function renderHomeScreen() {
   const startBtn = container.querySelector('#start-practice-btn');
   if (startBtn) {
     startBtn.addEventListener('click', () => {
-      const firstLevel = state.currentLevel;
-      navigate(`exercise/listening`);
+      navigate(`exercise`);
     });
   }
 
@@ -208,7 +247,7 @@ function renderLevelsScreen() {
     card.addEventListener('click', () => {
       const levelNum = parseInt(card.dataset.level);
       setState({ currentLevel: levelNum });
-      navigate(`exercise/listening`);
+      navigate(`exercise`);
     });
   });
 }
@@ -369,25 +408,129 @@ function renderSettingsScreen() {
 }
 
 /**
- * Render exercise screen (placeholder for Phase 2)
+ * Render exercise screen — loads and starts real exercise modules
  */
-function renderExerciseScreen(path, params) {
+async function renderExerciseScreen(path, params) {
   const container = document.querySelector('[data-screen="exercise"]');
   if (!container) return;
 
-  const exerciseType = params.type || 'listening';
+  const exerciseType = params.type;
+  const level = state.currentLevel;
+
+  // If no specific type requested, show exercise picker for this level
+  if (!exerciseType || !exerciseTypeToDataKey[exerciseType]) {
+    renderExercisePicker(container, level);
+    return;
+  }
+
+  // Show loading state
+  container.innerHTML = `<div class="screen-content"><p>Loading exercise...</p></div>`;
+
+  try {
+    // Load the exercise module and level data in parallel
+    const [exerciseModule, levelData] = await Promise.all([
+      loadExerciseModule(exerciseType),
+      loadLevel(level)
+    ]);
+
+    if (!exerciseModule) {
+      container.innerHTML = `<div class="screen-content"><p>Exercise not available yet.</p>
+        <button class="btn btn-secondary" id="back-btn">Back</button></div>`;
+      container.querySelector('#back-btn')?.addEventListener('click', () => navigate('levels'));
+      return;
+    }
+
+    // Get the exercise items from level data
+    const dataKey = exerciseTypeToDataKey[exerciseType];
+    const items = levelData.exercises?.[dataKey] || [];
+
+    if (items.length === 0) {
+      container.innerHTML = `<div class="screen-content">
+        <p>No exercises available for this type at Level ${level}.</p>
+        <button class="btn btn-secondary" id="back-btn">Back to Levels</button></div>`;
+      container.querySelector('#back-btn')?.addEventListener('click', () => navigate('levels'));
+      return;
+    }
+
+    // Start the exercise using the shell
+    startExercise(container, {
+      exerciseType,
+      levelData: items,
+      exerciseModule,
+      currentLevel: level,
+      onComplete: (results) => {
+        console.log('Exercise complete:', results);
+        // Save progress
+        const progress = state.progress[String(level)] || { completed: 0, total: items.length, dueToday: 0 };
+        progress.completed = Math.max(progress.completed, results.score);
+        setState({ progress: { ...state.progress, [String(level)]: progress } });
+        // Save to localStorage
+        db.saveUserData({ cards: state.cards, progress: state.progress, settings: state.settings });
+      }
+    });
+  } catch (err) {
+    console.error('Failed to start exercise:', err);
+    container.innerHTML = `<div class="screen-content"><p>Error loading exercise. Please try again.</p>
+      <button class="btn btn-secondary" id="back-btn">Back</button></div>`;
+    container.querySelector('#back-btn')?.addEventListener('click', () => navigate('levels'));
+  }
+}
+
+/**
+ * Show exercise type picker for a given level
+ */
+function renderExercisePicker(container, level) {
+  const types = levelExerciseTypes[level] || [];
+
+  if (types.length === 0) {
+    container.innerHTML = `<div class="screen-content">
+      <h2>Level ${level}</h2>
+      <p>Exercises for this level are coming soon!</p>
+      <button class="btn btn-secondary" id="back-btn">Back to Levels</button></div>`;
+    container.querySelector('#back-btn')?.addEventListener('click', () => navigate('levels'));
+    return;
+  }
+
+  const typeNames = {
+    'word-match': { name: 'Word Match', desc: 'Match words to their definitions', icon: '🔤' },
+    'gap-fill': { name: 'Gap Fill', desc: 'Complete sentences with the right word', icon: '📝' },
+    'collocation': { name: 'Collocation Match', desc: 'Find natural word partners', icon: '🤝' },
+    'b1-b2-upgrade': { name: 'B1→B2 Upgrade', desc: 'Upgrade basic words to Band 7+', icon: '⬆️' },
+    'paraphrase-match': { name: 'Paraphrase Match', desc: 'Match texts to their paraphrases', icon: '🔄' },
+    'sentence-type-id': { name: 'Sentence Type ID', desc: 'Identify sentence structures', icon: '🔍' },
+    'sentence-transform': { name: 'Sentence Transform', desc: 'Transform sentence types', icon: '✏️' },
+    'gps-placement': { name: 'GPS Placement', desc: 'Place phrases in PEEEL/UPEPE slots', icon: '📍' },
+    'paragraph-assembly': { name: 'Paragraph Assembly', desc: 'Build GPS-structured paragraphs', icon: '🏗️' },
+    'essay-type-id': { name: 'Essay Type ID', desc: 'Identify IELTS essay types', icon: '📋' }
+  };
 
   container.innerHTML = `
-    <div class="screen-content exercise-placeholder">
-      <h2>${exerciseType.charAt(0).toUpperCase() + exerciseType.slice(1)} Exercise</h2>
-      <p>Level ${state.currentLevel}</p>
-      <div class="placeholder-message">
-        <p>Exercise content coming soon in Phase 2!</p>
-        <p>This will include interactive listening, reading, and writing exercises.</p>
+    <div class="screen-content">
+      <h2>Level ${level} Exercises</h2>
+      <div class="exercise-picker">
+        ${types.map(type => {
+          const info = typeNames[type] || { name: type, desc: '', icon: '📚' };
+          return `
+            <div class="exercise-pick-card" data-type="${type}">
+              <span class="exercise-pick-icon">${info.icon}</span>
+              <div class="exercise-pick-info">
+                <strong>${info.name}</strong>
+                <span>${info.desc}</span>
+              </div>
+            </div>`;
+        }).join('')}
       </div>
-      <button class="btn btn-secondary" onclick="window.history.back()">Back</button>
+      <button class="btn btn-secondary" id="back-btn" style="margin-top:1.5rem">Back to Levels</button>
     </div>
   `;
+
+  // Add click handlers
+  container.querySelectorAll('.exercise-pick-card').forEach(card => {
+    card.addEventListener('click', () => {
+      navigate(`exercise/${card.dataset.type}`);
+    });
+  });
+  container.querySelector('#back-btn')?.addEventListener('click', () => navigate('levels'));
 }
 
 // ============================================================================

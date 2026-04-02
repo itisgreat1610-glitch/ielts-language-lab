@@ -1708,3 +1708,396 @@ input[type='checkbox']:focus {
         max-width: 1200px;
     }
 }
+
+/* ============================================================================
+   21. EXERCISE SHELL COMPONENT
+   ============================================================================ */
+
+.exercise-shell {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    background-color: var(--bg-cream);
+    position: relative;
+}
+
+/* Header */
+.exercise-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: var(--spacing-lg);
+    background-color: var(--bg-card);
+    border-bottom: 1px solid var(--border);
+    box-shadow: var(--shadow-sm);
+    gap: var(--spacing-md);
+    position: sticky;
+    top: 0;
+    z-index: var(--z-sticky);
+}
+
+.exercise-back-btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 40px;
+    height: 40px;
+    font-size: var(--font-size-lg);
+    color: var(--accent-indigo);
+    background-color: rgba(61, 90, 128, 0.05);
+    border-radius: var(--radius-md);
+    transition: all var(--duration-fast) var(--easing-default));
+    flex-shrink: 0;
+}
+
+.exercise-back-btn:hover {
+    background-color: rgba(61, 90, 128, 0.1);
+    transform: scale(1.05);
+}
+
+.exercise-back-btn:active {
+    transform: scale(0.95);
+}
+
+.exercise-title {
+    flex: 1;
+    font-size: var(--font-size-lg);
+    font-weight: var(--font-weight-semibold);
+    color: var(--text-primary);
+    text-align: center;
+}
+
+.exercise-counter {
+    font-size: var(--font-size-sm);
+    color: var(--text-secondary);
+    background-color: rgba(45, 52, 54, 0.05);
+    padding: var(--spacing-sm) var(--spacing-md);
+    border-radius: var(--radius-sm);
+    white-space: nowrap;
+    flex-shrink: 0;
+}
+
+.exercise-counter .current {
+    font-weight: var(--font-weight-semibold);
+    color: var(--accent-indigo);
+}
+
+/* Progress Container */
+.exercise-progress-container {
+    position: relative;
+    padding: var(--spacing-md) 0;
+    background-color: var(--bg-card);
+    border-bottom: 1px solid var(--border);
+}
+
+.exercise-progress {
+    height: 4px;
+    background-color: rgba(45, 52, 54, 0.1);
+    border-radius: var(--radius-full);
+    overflow: hidden;
+    margin: 0 var(--spacing-lg);
+}
+
+.exercise-progress-fill {
+    height: 100%;
+    background: linear-gradient(90deg, var(--accent-indigo), var(--accent-matcha));
+    transition: width var(--duration-base) var(--easing-smooth);
+    border-radius: var(--radius-full);
+}
+
+/* Timer Display */
+.exercise-timer {
+    position: absolute;
+    right: var(--spacing-lg);
+    top: 50%;
+    transform: translateY(-50%);
+    font-size: var(--font-size-sm);
+    font-weight: var(--font-weight-semibold);
+    color: var(--text-primary);
+    background-color: rgba(232, 168, 124, 0.1);
+    padding: var(--spacing-sm) var(--spacing-md);
+    border-radius: var(--radius-sm);
+    min-width: 50px;
+    text-align: center;
+}
+
+.exercise-timer.warning {
+    color: var(--accent-amber);
+    background-color: rgba(232, 168, 124, 0.2);
+}
+
+.exercise-timer.critical {
+    color: var(--accent-coral);
+    background-color: rgba(193, 102, 107, 0.15);
+    animation: pulse 1s var(--easing-default) infinite;
+}
+
+/* Exercise Body */
+.exercise-body {
+    flex: 1;
+    overflow-y: auto;
+    -webkit-overflow-scrolling: touch;
+    padding: var(--spacing-lg);
+    padding-bottom: var(--spacing-2xl);
+}
+
+.exercise-body.hidden {
+    display: none;
+}
+
+.exercise-body::-webkit-scrollbar {
+    width: 6px;
+}
+
+.exercise-body::-webkit-scrollbar-track {
+    background-color: transparent;
+}
+
+.exercise-body::-webkit-scrollbar-thumb {
+    background-color: rgba(45, 52, 54, 0.2);
+    border-radius: var(--radius-full);
+}
+
+.exercise-body::-webkit-scrollbar-thumb:hover {
+    background-color: rgba(45, 52, 54, 0.3);
+}
+
+/* Feedback Container */
+.exercise-feedback {
+    position: fixed;
+    bottom: var(--spacing-2xl);
+    left: 50%;
+    transform: translateX(-50%);
+    width: 90%;
+    max-width: 320px;
+    padding: var(--spacing-lg);
+    background-color: var(--bg-card);
+    border-radius: var(--radius-lg);
+    box-shadow: var(--shadow-lg);
+    z-index: var(--z-modal);
+    animation: slideUp var(--duration-fast) var(--easing-smooth);
+}
+
+.exercise-feedback.hidden {
+    display: none;
+}
+
+.feedback-content {
+    display: flex;
+    align-items: center;
+    gap: var(--spacing-lg);
+    text-align: center;
+}
+
+.feedback-icon {
+    font-size: var(--font-size-3xl);
+    flex-shrink: 0;
+    animation: bounce 0.6s var(--easing-smooth);
+}
+
+.feedback-text {
+    font-size: var(--font-size-lg);
+    font-weight: var(--font-weight-semibold);
+    color: var(--text-primary);
+}
+
+.exercise-feedback.correct {
+    border-left: 4px solid var(--success);
+    animation: slideUp var(--duration-fast) var(--easing-smooth), greenPulse 0.4s var(--easing-smooth);
+}
+
+.exercise-feedback.incorrect {
+    border-left: 4px solid var(--error);
+    animation: slideUp var(--duration-fast) var(--easing-smooth), shake 0.4s var(--easing-smooth);
+}
+
+/* Results Container */
+.exercise-results {
+    position: fixed;
+    inset: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgba(45, 52, 54, 0.5);
+    z-index: var(--z-modal);
+    animation: fadeIn var(--duration-base) var(--easing-default);
+    padding: var(--spacing-lg);
+}
+
+.exercise-results.hidden {
+    display: none;
+}
+
+.results-content {
+    background-color: var(--bg-card);
+    border-radius: var(--radius-xl);
+    padding: var(--spacing-2xl);
+    max-width: 400px;
+    width: 100%;
+    box-shadow: var(--shadow-xl);
+    animation: slideUp var(--duration-base) var(--easing-smooth);
+}
+
+.results-content h2 {
+    text-align: center;
+    margin-bottom: var(--spacing-xl);
+    color: var(--text-primary);
+}
+
+.results-stats {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: var(--spacing-lg);
+    margin-bottom: var(--spacing-2xl);
+}
+
+.stat {
+    text-align: center;
+}
+
+.stat-label {
+    font-size: var(--font-size-sm);
+    color: var(--text-secondary);
+    margin-bottom: var(--spacing-sm);
+}
+
+.stat-value {
+    font-size: var(--font-size-2xl);
+    font-weight: var(--font-weight-bold);
+    color: var(--accent-indigo);
+}
+
+.results-buttons {
+    display: flex;
+    gap: var(--spacing-md);
+    flex-direction: column;
+}
+
+.results-buttons .btn {
+    width: 100%;
+}
+
+/* Mistake Review Container */
+.review-container {
+    padding: var(--spacing-lg);
+}
+
+.review-container h3 {
+    margin-bottom: var(--spacing-xl);
+    color: var(--text-primary);
+    text-align: center;
+}
+
+.mistake-card {
+    background-color: var(--bg-card);
+    border-left: 4px solid var(--error);
+    border-radius: var(--radius-md);
+    padding: var(--spacing-lg);
+    margin-bottom: var(--spacing-lg);
+    box-shadow: var(--shadow-sm);
+}
+
+.mistake-number {
+    font-size: var(--font-size-sm);
+    font-weight: var(--font-weight-semibold);
+    color: var(--accent-coral);
+    margin-bottom: var(--spacing-md);
+}
+
+.mistake-item,
+.mistake-answer,
+.mistake-correct {
+    font-size: var(--font-size-sm);
+    color: var(--text-secondary);
+    margin-bottom: var(--spacing-sm);
+}
+
+.mistake-item strong,
+.mistake-answer strong,
+.mistake-correct strong {
+    color: var(--text-primary);
+}
+
+.review-container .btn {
+    width: 100%;
+}
+
+/* Error State */
+.exercise-body .error {
+    padding: var(--spacing-2xl);
+    text-align: center;
+    color: var(--accent-coral);
+    font-weight: var(--font-weight-semibold);
+}
+
+/* Celebration Animation (high scores) */
+.exercise-shell.celebration::before {
+    content: '';
+    position: fixed;
+    inset: 0;
+    pointer-events: none;
+    z-index: 50;
+}
+
+/* ============================================================================
+   22. EXERCISE ANIMATIONS
+   ============================================================================ */
+
+@keyframes slideUp {
+    from {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+@keyframes bounce {
+    0%, 100% {
+        transform: scale(1);
+    }
+    50% {
+        transform: scale(1.15);
+    }
+}
+
+@keyframes shake {
+    0%, 100% {
+        transform: translateX(0);
+    }
+    25% {
+        transform: translateX(-8px);
+    }
+    75% {
+        transform: translateX(8px);
+    }
+}
+
+@keyframes greenPulse {
+    0%, 100% {
+        box-shadow: var(--shadow-lg);
+    }
+    50% {
+        box-shadow: 0 0 0 8px rgba(163, 177, 138, 0.2);
+    }
+}
+
+@keyframes pulse {
+    0%, 100% {
+        opacity: 1;
+    }
+    50% {
+        opacity: 0.7;
+    }
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
