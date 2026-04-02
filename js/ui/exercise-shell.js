@@ -47,7 +47,11 @@ export function startExercise(container, options) {
     ? exerciseModule.generateItems(levelData)
     : levelData.slice(0, 10);
 
-  totalItems = items.length;
+  // Some modules handle their own internal iteration (e.g., collocation, b1-b2-upgrade).
+  // These expect the full items array passed to render() at once.
+  const batchMode = exerciseModule.meta?.batchMode === true;
+
+  totalItems = batchMode ? 1 : items.length;
 
   // =========================================================================
   // DOM Structure
@@ -243,8 +247,8 @@ export function startExercise(container, options) {
     // Clear body
     body.innerHTML = '';
 
-    // Render exercise item
-    const item = items[currentIndex];
+    // Render exercise item — batch modules get the full array, others get one item
+    const item = batchMode ? items : items[currentIndex];
     try {
       exerciseModule.render(body, item, exerciseCallbacks);
     } catch (error) {

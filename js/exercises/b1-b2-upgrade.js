@@ -10,7 +10,8 @@ export const meta = {
   name: 'B1→B2 Upgrade',
   layer: 1,
   minLevel: 2,
-  estimatedTime: 25
+  estimatedTime: 25,
+  batchMode: true
 };
 
 /**

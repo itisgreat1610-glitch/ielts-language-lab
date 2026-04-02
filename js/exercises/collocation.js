@@ -10,7 +10,8 @@ export const meta = {
   name: 'Collocation Match',
   layer: 1,
   minLevel: 2,
-  estimatedTime: 30
+  estimatedTime: 30,
+  batchMode: true
 };
 
 /**
