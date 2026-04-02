@@ -15,7 +15,7 @@ const exerciseModules = {};
 async function loadExerciseModule(type) {
   if (exerciseModules[type]) return exerciseModules[type];
   try {
-    const mod = await import(`./exercises/${type}.js`);
+    const mod = await import(`./exercises/${type}.js?v=2`);
     exerciseModules[type] = mod;
     return mod;
   } catch (err) {
