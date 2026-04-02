@@ -1,0 +1,742 @@
+[
+  {
+    "phrase": "answer sheet.",
+    "frequency": 237,
+    "source": "question"
+  },
+  {
+    "phrase": "correct letter,",
+    "frequency": 126,
+    "source": "question"
+  },
+  {
+    "phrase": "each answer.",
+    "frequency": 94,
+    "source": "question"
+  },
+  {
+    "phrase": "below. choose",
+    "frequency": 92,
+    "source": "question"
+  },
+  {
+    "phrase": "answer. write",
+    "frequency": 82,
+    "source": "question"
+  },
+  {
+    "phrase": "answer sheet,",
+    "frequency": 78,
+    "source": "question"
+  },
+  {
+    "phrase": "sheet, write",
+    "frequency": 64,
+    "source": "question"
+  },
+  {
+    "phrase": "below. write",
+    "frequency": 51,
+    "source": "question"
+  },
+  {
+    "phrase": "writer thinks",
+    "frequency": 38,
+    "source": "question"
+  },
+  {
+    "phrase": "thinks about",
+    "frequency": 38,
+    "source": "question"
+  },
+  {
+    "phrase": "following information?",
+    "frequency": 37,
+    "source": "question"
+  },
+  {
+    "phrase": "information? write",
+    "frequency": 35,
+    "source": "question"
+  },
+  {
+    "phrase": "summary below.",
+    "frequency": 35,
+    "source": "question"
+  },
+  {
+    "phrase": "the views",
+    "frequency": 29,
+    "source": "question"
+  },
+  {
+    "phrase": "than once.",
+    "frequency": 29,
+    "source": "question"
+  },
+  {
+    "phrase": "below. match",
+    "frequency": 25,
+    "source": "question"
+  },
+  {
+    "phrase": "write yes",
+    "frequency": 24,
+    "source": "question"
+  },
+  {
+    "phrase": "questions 14-26",
+    "frequency": 24,
+    "source": "question"
+  },
+  {
+    "phrase": "14-26 which",
+    "frequency": 24,
+    "source": "question"
+  },
+  {
+    "phrase": "questions 27-40",
+    "frequency": 24,
+    "source": "question"
+  },
+  {
+    "phrase": "27-40 which",
+    "frequency": 24,
+    "source": "question"
+  },
+  {
+    "phrase": "questions 1-13",
+    "frequency": 23,
+    "source": "question"
+  },
+  {
+    "phrase": "1-13 which",
+    "frequency": 23,
+    "source": "question"
+  },
+  {
+    "phrase": "sheet. the",
+    "frequency": 23,
+    "source": "question"
+  },
+  {
+    "phrase": "cutty sark",
+    "frequency": 23,
+    "source": "question"
+  },
+  {
+    "phrase": "sheet. list",
+    "frequency": 22,
+    "source": "question"
+  },
+  {
+    "phrase": "notes below.",
+    "frequency": 22,
+    "source": "question"
+  },
+  {
+    "phrase": "two letters,",
+    "frequency": 21,
+    "source": "question"
+  },
+  {
+    "phrase": "headings below.",
+    "frequency": 20,
+    "source": "question"
+  },
+  {
+    "phrase": "correct number,",
+    "frequency": 20,
+    "source": "question"
+  },
+  {
+    "phrase": "a-e. write",
+    "frequency": 19,
+    "source": "question"
+  },
+  {
+    "phrase": "letter, a-g,",
+    "frequency": 19,
+    "source": "question"
+  },
+  {
+    "phrase": "sheet. which",
+    "frequency": 18,
+    "source": "question"
+  },
+  {
+    "phrase": "the sentences",
+    "frequency": 17,
+    "source": "question"
+  },
+  {
+    "phrase": "letter, a-f,",
+    "frequency": 16,
+    "source": "question"
+  },
+  {
+    "phrase": "sentences below.",
+    "frequency": 16,
+    "source": "question"
+  },
+  {
+    "phrase": "boxes 27-31",
+    "frequency": 16,
+    "source": "question"
+  },
+  {
+    "phrase": "research into",
+    "frequency": 15,
+    "source": "question"
+  },
+  {
+    "phrase": "which section",
+    "frequency": 15,
+    "source": "question"
+  },
+  {
+    "phrase": "section contains",
+    "frequency": 15,
+    "source": "question"
+  },
+  {
+    "phrase": "reading passage?",
+    "frequency": 14,
+    "source": "question"
+  },
+  {
+    "phrase": "sheet, write:",
+    "frequency": 14,
+    "source": "question"
+  },
+  {
+    "phrase": "seven paragraphs,",
+    "frequency": 14,
+    "source": "question"
+  },
+  {
+    "phrase": "boxes 37-40",
+    "frequency": 14,
+    "source": "question"
+  },
+  {
+    "phrase": "letters, a-e.",
+    "frequency": 14,
+    "source": "question"
+  },
+  {
+    "phrase": "the development",
+    "frequency": 13,
+    "source": "question"
+  },
+  {
+    "phrase": "boxes 9-13",
+    "frequency": 13,
+    "source": "question"
+  },
+  {
+    "phrase": "boxes 14-18",
+    "frequency": 12,
+    "source": "question"
+  },
+  {
+    "phrase": "paragraphs, a-g.",
+    "frequency": 12,
+    "source": "question"
+  },
+  {
+    "phrase": "for example,",
+    "frequency": 62,
+    "source": "passage"
+  },
+  {
+    "phrase": "the university",
+    "frequency": 48,
+    "source": "passage"
+  },
+  {
+    "phrase": "the world",
+    "frequency": 44,
+    "source": "passage"
+  },
+  {
+    "phrase": "found that",
+    "frequency": 37,
+    "source": "passage"
+  },
+  {
+    "phrase": "rather than",
+    "frequency": 33,
+    "source": "passage"
+  },
+  {
+    "phrase": "the world’s",
+    "frequency": 29,
+    "source": "passage"
+  },
+  {
+    "phrase": "the world.",
+    "frequency": 26,
+    "source": "passage"
+  },
+  {
+    "phrase": "the brain",
+    "frequency": 25,
+    "source": "passage"
+  },
+  {
+    "phrase": "suggest that",
+    "frequency": 24,
+    "source": "passage"
+  },
+  {
+    "phrase": "the water",
+    "frequency": 22,
+    "source": "passage"
+  },
+  {
+    "phrase": "the last",
+    "frequency": 21,
+    "source": "passage"
+  },
+  {
+    "phrase": "associated with",
+    "frequency": 21,
+    "source": "passage"
+  },
+  {
+    "phrase": "new zealand",
+    "frequency": 21,
+    "source": "passage"
+  },
+  {
+    "phrase": "the dutch",
+    "frequency": 21,
+    "source": "passage"
+  },
+  {
+    "phrase": "the early",
+    "frequency": 20,
+    "source": "passage"
+  },
+  {
+    "phrase": "the idea",
+    "frequency": 20,
+    "source": "passage"
+  },
+  {
+    "phrase": "the best",
+    "frequency": 20,
+    "source": "passage"
+  },
+  {
+    "phrase": "the right",
+    "frequency": 20,
+    "source": "passage"
+  },
+  {
+    "phrase": "however, the",
+    "frequency": 19,
+    "source": "passage"
+  },
+  {
+    "phrase": "the fact",
+    "frequency": 19,
+    "source": "passage"
+  },
+  {
+    "phrase": "fact that",
+    "frequency": 19,
+    "source": "passage"
+  },
+  {
+    "phrase": "the development",
+    "frequency": 18,
+    "source": "passage"
+  },
+  {
+    "phrase": "show that",
+    "frequency": 18,
+    "source": "passage"
+  },
+  {
+    "phrase": "the past",
+    "frequency": 18,
+    "source": "passage"
+  },
+  {
+    "phrase": "like the",
+    "frequency": 18,
+    "source": "passage"
+  },
+  {
+    "phrase": "the city",
+    "frequency": 18,
+    "source": "passage"
+  },
+  {
+    "phrase": "the public",
+    "frequency": 18,
+    "source": "passage"
+  },
+  {
+    "phrase": "the original",
+    "frequency": 17,
+    "source": "passage"
+  },
+  {
+    "phrase": "the united",
+    "frequency": 17,
+    "source": "passage"
+  },
+  {
+    "phrase": "the end",
+    "frequency": 17,
+    "source": "passage"
+  },
+  {
+    "phrase": "throughout the",
+    "frequency": 17,
+    "source": "passage"
+  },
+  {
+    "phrase": "the human",
+    "frequency": 17,
+    "source": "passage"
+  },
+  {
+    "phrase": "for instance,",
+    "frequency": 17,
+    "source": "passage"
+  },
+  {
+    "phrase": "the study",
+    "frequency": 17,
+    "source": "passage"
+  },
+  {
+    "phrase": "the work",
+    "frequency": 17,
+    "source": "passage"
+  },
+  {
+    "phrase": "the story",
+    "frequency": 17,
+    "source": "passage"
+  },
+  {
+    "phrase": "implicit theories",
+    "frequency": 17,
+    "source": "passage"
+  },
+  {
+    "phrase": "per cent",
+    "frequency": 16,
+    "source": "passage"
+  },
+  {
+    "phrase": "the company",
+    "frequency": 16,
+    "source": "passage"
+  },
+  {
+    "phrase": "the world,",
+    "frequency": 16,
+    "source": "passage"
+  },
+  {
+    "phrase": "climate change",
+    "frequency": 16,
+    "source": "passage"
+  },
+  {
+    "phrase": "the ability",
+    "frequency": 16,
+    "source": "passage"
+  },
+  {
+    "phrase": "the importance",
+    "frequency": 16,
+    "source": "passage"
+  },
+  {
+    "phrase": "the next",
+    "frequency": 16,
+    "source": "passage"
+  },
+  {
+    "phrase": "down the",
+    "frequency": 15,
+    "source": "passage"
+  },
+  {
+    "phrase": "the results",
+    "frequency": 14,
+    "source": "passage"
+  },
+  {
+    "phrase": "the case",
+    "frequency": 14,
+    "source": "passage"
+  },
+  {
+    "phrase": "the process",
+    "frequency": 14,
+    "source": "passage"
+  },
+  {
+    "phrase": "the middle",
+    "frequency": 14,
+    "source": "passage"
+  },
+  {
+    "phrase": "the late",
+    "frequency": 14,
+    "source": "passage"
+  },
+  {
+    "phrase": "the brain.",
+    "frequency": 14,
+    "source": "passage"
+  },
+  {
+    "phrase": "away from",
+    "frequency": 14,
+    "source": "passage"
+  },
+  {
+    "phrase": "the area",
+    "frequency": 14,
+    "source": "passage"
+  },
+  {
+    "phrase": "palm oil",
+    "frequency": 14,
+    "source": "passage"
+  },
+  {
+    "phrase": "years ago,",
+    "frequency": 13,
+    "source": "passage"
+  },
+  {
+    "phrase": "the lower",
+    "frequency": 13,
+    "source": "passage"
+  },
+  {
+    "phrase": "called the",
+    "frequency": 13,
+    "source": "passage"
+  },
+  {
+    "phrase": "the rest",
+    "frequency": 13,
+    "source": "passage"
+  },
+  {
+    "phrase": "reason for",
+    "frequency": 13,
+    "source": "passage"
+  },
+  {
+    "phrase": "the key",
+    "frequency": 13,
+    "source": "passage"
+  },
+  {
+    "phrase": "the value",
+    "frequency": 13,
+    "source": "passage"
+  },
+  {
+    "phrase": "carried out",
+    "frequency": 13,
+    "source": "passage"
+  },
+  {
+    "phrase": "suggests that",
+    "frequency": 13,
+    "source": "passage"
+  },
+  {
+    "phrase": "the british",
+    "frequency": 13,
+    "source": "passage"
+  },
+  {
+    "phrase": "the entire",
+    "frequency": 12,
+    "source": "passage"
+  },
+  {
+    "phrase": "other words,",
+    "frequency": 12,
+    "source": "passage"
+  },
+  {
+    "phrase": "the growth",
+    "frequency": 12,
+    "source": "passage"
+  },
+  {
+    "phrase": "the potential",
+    "frequency": 12,
+    "source": "passage"
+  },
+  {
+    "phrase": "argued that",
+    "frequency": 12,
+    "source": "passage"
+  },
+  {
+    "phrase": "the 19th",
+    "frequency": 12,
+    "source": "passage"
+  },
+  {
+    "phrase": "the role",
+    "frequency": 12,
+    "source": "passage"
+  },
+  {
+    "phrase": "the island",
+    "frequency": 12,
+    "source": "passage"
+  },
+  {
+    "phrase": "growth mindset",
+    "frequency": 12,
+    "source": "passage"
+  },
+  {
+    "phrase": "new york",
+    "frequency": 11,
+    "source": "passage"
+  },
+  {
+    "phrase": "evidence that",
+    "frequency": 11,
+    "source": "passage"
+  },
+  {
+    "phrase": "better than",
+    "frequency": 11,
+    "source": "passage"
+  },
+  {
+    "phrase": "the problem",
+    "frequency": 11,
+    "source": "passage"
+  },
+  {
+    "phrase": "the great",
+    "frequency": 11,
+    "source": "passage"
+  },
+  {
+    "phrase": "the european",
+    "frequency": 11,
+    "source": "passage"
+  },
+  {
+    "phrase": "the result",
+    "frequency": 11,
+    "source": "passage"
+  },
+  {
+    "phrase": "suggested that",
+    "frequency": 11,
+    "source": "passage"
+  },
+  {
+    "phrase": "far more",
+    "frequency": 11,
+    "source": "passage"
+  },
+  {
+    "phrase": "off the",
+    "frequency": 11,
+    "source": "passage"
+  },
+  {
+    "phrase": "the english",
+    "frequency": 11,
+    "source": "passage"
+  },
+  {
+    "phrase": "the amount",
+    "frequency": 11,
+    "source": "passage"
+  },
+  {
+    "phrase": "the tree",
+    "frequency": 11,
+    "source": "passage"
+  },
+  {
+    "phrase": "the site",
+    "frequency": 11,
+    "source": "passage"
+  },
+  {
+    "phrase": "the team",
+    "frequency": 11,
+    "source": "passage"
+  },
+  {
+    "phrase": "believe that",
+    "frequency": 11,
+    "source": "passage"
+  },
+  {
+    "phrase": "the students",
+    "frequency": 11,
+    "source": "passage"
+  },
+  {
+    "phrase": "the tunnel",
+    "frequency": 11,
+    "source": "passage"
+  },
+  {
+    "phrase": "above the",
+    "frequency": 10,
+    "source": "passage"
+  },
+  {
+    "phrase": "the researchers",
+    "frequency": 10,
+    "source": "passage"
+  },
+  {
+    "phrase": "the field",
+    "frequency": 10,
+    "source": "passage"
+  },
+  {
+    "phrase": "far from",
+    "frequency": 10,
+    "source": "passage"
+  },
+  {
+    "phrase": "the west",
+    "frequency": 10,
+    "source": "passage"
+  },
+  {
+    "phrase": "the beginning",
+    "frequency": 10,
+    "source": "passage"
+  },
+  {
+    "phrase": "and social",
+    "frequency": 10,
+    "source": "passage"
+  },
+  {
+    "phrase": "can help",
+    "frequency": 10,
+    "source": "passage"
+  }
+]

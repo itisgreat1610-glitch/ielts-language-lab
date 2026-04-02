@@ -1,0 +1,3426 @@
+[
+  {
+    "text": "Although many zoos have made great improvements over the years, there can be no doubt that the captive animals suffer.",
+    "type": "complex",
+    "word_count": 20,
+    "source_essay": "essay-001",
+    "source_para": 1,
+    "source_topic": "Animals"
+  },
+  {
+    "text": "Not only are the enclosures usually far too small, but the climate and conditions are often completely unsuitable.",
+    "type": "compound",
+    "word_count": 18,
+    "source_essay": "essay-001",
+    "source_para": 1,
+    "source_topic": "Animals"
+  },
+  {
+    "text": "Polar bears, for instance, travel across vast distances of ice daily and yet, in some tropical regions, they are kept in small pens with only a tiny pool for relief.",
+    "type": "simple",
+    "word_count": 30,
+    "source_essay": "essay-001",
+    "source_para": 1,
+    "source_topic": "Animals"
+  },
+  {
+    "text": "In addition to this discomfort, zoo animals can suffer stress as a result of being kept with unfamiliar and unrelated cage-mates, not to mention the crowds of noisy visitors.",
+    "type": "simple",
+    "word_count": 29,
+    "source_essay": "essay-001",
+    "source_para": 1,
+    "source_topic": "Animals"
+  },
+  {
+    "text": "In terms of conservation, while zoos can assist in the preservation of endangered species, this effort is ultimately futile.",
+    "type": "complex",
+    "word_count": 19,
+    "source_essay": "essay-001",
+    "source_para": 2,
+    "source_topic": "Animals"
+  },
+  {
+    "text": "The Sumatran tiger, for example, has been successfully bred in captivity, however, having been reared by humans, the captive population has lost its natural instinct to hunt, avoid humans, and raise its young.",
+    "type": "compound",
+    "word_count": 33,
+    "source_essay": "essay-001",
+    "source_para": 2,
+    "source_topic": "Animals"
+  },
+  {
+    "text": "It would therefore be impossible to re-introduce these creatures into the wild.",
+    "type": "simple",
+    "word_count": 12,
+    "source_essay": "essay-001",
+    "source_para": 2,
+    "source_topic": "Animals"
+  },
+  {
+    "text": "As well as this loss of instinct, there is also the loss of habitat to consider.",
+    "type": "complex",
+    "word_count": 16,
+    "source_essay": "essay-001",
+    "source_para": 2,
+    "source_topic": "Animals"
+  },
+  {
+    "text": "Urban sprawl, industrialisation, farming and logging all contribute to the destruction of habitat, meaning that even if a captive bred population of pandas or tigers were ready for release, there is, in fact, nowhere left for them to go.",
+    "type": "complex",
+    "word_count": 39,
+    "source_essay": "essay-001",
+    "source_para": 2,
+    "source_topic": "Animals"
+  },
+  {
+    "text": "Those who support government funding usually argue that it is essential to maintain a healthy arts scene.",
+    "type": "complex",
+    "word_count": 17,
+    "source_essay": "essay-002",
+    "source_para": 1,
+    "source_topic": "Art"
+  },
+  {
+    "text": "In Australia, the government pours millions of dollars into this sector, with the National Gallery alone receiving over $8 million annually.",
+    "type": "simple",
+    "word_count": 21,
+    "source_essay": "essay-002",
+    "source_para": 1,
+    "source_topic": "Art"
+  },
+  {
+    "text": "Such institutions, it is claimed, are pillars of society, and money from the government makes them more accessible.",
+    "type": "compound",
+    "word_count": 18,
+    "source_essay": "essay-002",
+    "source_para": 1,
+    "source_topic": "Art"
+  },
+  {
+    "text": "Indeed, it is free to enter most public galleries and museums in Australia, thanks to the government’s support.",
+    "type": "simple",
+    "word_count": 18,
+    "source_essay": "essay-002",
+    "source_para": 1,
+    "source_topic": "Art"
+  },
+  {
+    "text": "Smaller arts groups and emerging artists also benefit from government funding, and without it, many worry that arts bodies would not survive, and that society would be poorer for it.",
+    "type": "compound",
+    "word_count": 30,
+    "source_essay": "essay-002",
+    "source_para": 1,
+    "source_topic": "Art"
+  },
+  {
+    "text": "There are others, however, myself included, who feel that these fears are unfounded, and that taxpayers’ money would be more wisely spent on services that benefit the entire community.",
+    "type": "mixed",
+    "word_count": 29,
+    "source_essay": "essay-002",
+    "source_para": 2,
+    "source_topic": "Art"
+  },
+  {
+    "text": "Already, many arts organisations not only survive but thrive without government handouts.",
+    "type": "simple",
+    "word_count": 12,
+    "source_essay": "essay-002",
+    "source_para": 2,
+    "source_topic": "Art"
+  },
+  {
+    "text": "The Museum of Old and New Art in Tasmania, for instance, is the state’s major tourist attraction, despite earning money solely from ticket sales and private investors.",
+    "type": "complex",
+    "word_count": 27,
+    "source_essay": "essay-002",
+    "source_para": 2,
+    "source_topic": "Art"
+  },
+  {
+    "text": "This kind of self-sufficiency supports the claim that state money should instead go to hospitals which could certainly use more staff, more wards and better technology or schools where the money could be put towards updating facilities, hiring more teachers or improving their resources.",
+    "type": "complex",
+    "word_count": 44,
+    "source_essay": "essay-002",
+    "source_para": 2,
+    "source_topic": "Art"
+  },
+  {
+    "text": "These are services used by every citizen and, in many cases, they are severely underfunded.",
+    "type": "simple",
+    "word_count": 15,
+    "source_essay": "essay-002",
+    "source_para": 2,
+    "source_topic": "Art"
+  },
+  {
+    "text": "Certainly, it could be argued that more traditional methods of communicating had a more personal touch.",
+    "type": "simple",
+    "word_count": 16,
+    "source_essay": "essay-003",
+    "source_para": 1,
+    "source_topic": "Communication"
+  },
+  {
+    "text": "Take the handwritten letter as an example.",
+    "type": "simple",
+    "word_count": 7,
+    "source_essay": "essay-003",
+    "source_para": 1,
+    "source_topic": "Communication"
+  },
+  {
+    "text": "It used to be the case that to contact someone living abroad, we had to write out a letter or card by hand, buy a stamp and envelope, take it to the post office, and wait for weeks until it reached its destination.",
+    "type": "mixed",
+    "word_count": 43,
+    "source_essay": "essay-003",
+    "source_para": 1,
+    "source_topic": "Communication"
+  },
+  {
+    "text": "Upon arrival, it is easy to imagine that the recipient felt a much greater sense of connection than they would these days simply clicking on an email or opening a WatsApp message.",
+    "type": "simple",
+    "word_count": 32,
+    "source_essay": "essay-003",
+    "source_para": 1,
+    "source_topic": "Communication"
+  },
+  {
+    "text": "Similarly, speaking on the phone, as opposed to sending a text, could also be viewed as a more personal interaction.",
+    "type": "complex",
+    "word_count": 20,
+    "source_essay": "essay-003",
+    "source_para": 1,
+    "source_topic": "Communication"
+  },
+  {
+    "text": "I would argue, however, that such views of the past are clouded by nostalgia rather than truth.",
+    "type": "mixed",
+    "word_count": 17,
+    "source_essay": "essay-003",
+    "source_para": 1,
+    "source_topic": "Communication"
+  },
+  {
+    "text": "Modern forms of communication, by contrast, create even stronger connections between people.",
+    "type": "simple",
+    "word_count": 12,
+    "source_essay": "essay-003",
+    "source_para": 2,
+    "source_topic": "Communication"
+  },
+  {
+    "text": "Nowadays, when living abroad, we can maintain our relationships as if we were living under the same roof.",
+    "type": "complex",
+    "word_count": 18,
+    "source_essay": "essay-003",
+    "source_para": 2,
+    "source_topic": "Communication"
+  },
+  {
+    "text": "Given that it is free to message and email, there is not the need to keep interactions brief and irregular.",
+    "type": "complex",
+    "word_count": 20,
+    "source_essay": "essay-003",
+    "source_para": 2,
+    "source_topic": "Communication"
+  },
+  {
+    "text": "In fact, friends and loved ones can be in almost constant contact, regardless of their geographic proximity.",
+    "type": "simple",
+    "word_count": 17,
+    "source_essay": "essay-003",
+    "source_para": 2,
+    "source_topic": "Communication"
+  },
+  {
+    "text": "In addition to this physical ability to keep in touch, there is also the depth of intimacy that comes from sharing pictures and stories on social media platforms like instagram and facebook.",
+    "type": "simple",
+    "word_count": 32,
+    "source_essay": "essay-003",
+    "source_para": 2,
+    "source_topic": "Communication"
+  },
+  {
+    "text": "These tools enable us to have access to aspects of our loved ones’ lives that we never had before.",
+    "type": "complex",
+    "word_count": 19,
+    "source_essay": "essay-003",
+    "source_para": 2,
+    "source_topic": "Communication"
+  },
+  {
+    "text": "We can share in celebrations, tragedies and triumphs, all of which strengthen our bonds and networks.",
+    "type": "complex",
+    "word_count": 16,
+    "source_essay": "essay-003",
+    "source_para": 2,
+    "source_topic": "Communication"
+  },
+  {
+    "text": "Criminals commit offences after punishment for several reasons.",
+    "type": "complex",
+    "word_count": 8,
+    "source_essay": "essay-004",
+    "source_para": 1,
+    "source_topic": "Crime"
+  },
+  {
+    "text": "One major factor is their background.",
+    "type": "simple",
+    "word_count": 6,
+    "source_essay": "essay-004",
+    "source_para": 1,
+    "source_topic": "Crime"
+  },
+  {
+    "text": "If a person comes from a criminal family, for instance, or has friends involved in drugs and burglaries, it can be difficult for them to escape this world.",
+    "type": "mixed",
+    "word_count": 28,
+    "source_essay": "essay-004",
+    "source_para": 1,
+    "source_topic": "Crime"
+  },
+  {
+    "text": "In addition to their upbringing and environment, substance abuse may increase the likelihood of a person returning to crime.",
+    "type": "simple",
+    "word_count": 19,
+    "source_essay": "essay-004",
+    "source_para": 1,
+    "source_topic": "Crime"
+  },
+  {
+    "text": "Indeed, the majority of crime in Australia stems from drug and alcohol addiction.",
+    "type": "simple",
+    "word_count": 13,
+    "source_essay": "essay-004",
+    "source_para": 1,
+    "source_topic": "Crime"
+  },
+  {
+    "text": "If these issues and addictions are left untreated, it is inevitable that the offender, seeking money or a high, will return to a life of crime after serving their time.",
+    "type": "complex",
+    "word_count": 30,
+    "source_essay": "essay-004",
+    "source_para": 1,
+    "source_topic": "Crime"
+  },
+  {
+    "text": "Despite the seriousness of the reoffending problem, there are a number of possible ways to remedy the situation.",
+    "type": "complex",
+    "word_count": 18,
+    "source_essay": "essay-004",
+    "source_para": 2,
+    "source_topic": "Crime"
+  },
+  {
+    "text": "The key factor is the treatment of the underlying issues.",
+    "type": "simple",
+    "word_count": 10,
+    "source_essay": "essay-004",
+    "source_para": 2,
+    "source_topic": "Crime"
+  },
+  {
+    "text": "In many cases, this may mean addiction rehabilitation in prison or in the community.",
+    "type": "simple",
+    "word_count": 14,
+    "source_essay": "essay-004",
+    "source_para": 2,
+    "source_topic": "Crime"
+  },
+  {
+    "text": "In other cases, providing education programs or training can enhance employability, which would dramatically reduce their risk of re-offending.",
+    "type": "complex",
+    "word_count": 19,
+    "source_essay": "essay-004",
+    "source_para": 2,
+    "source_topic": "Crime"
+  },
+  {
+    "text": "Offering work placements or providing job-hunting assistance after jail or community service would also help to improve former criminals’ prospects.",
+    "type": "complex",
+    "word_count": 20,
+    "source_essay": "essay-004",
+    "source_para": 2,
+    "source_topic": "Crime"
+  },
+  {
+    "text": "While the addition of a decade or more onto our lives can be wonderful, there are inevitably challenges that will arise for the individual.",
+    "type": "complex",
+    "word_count": 24,
+    "source_essay": "essay-005",
+    "source_para": 1,
+    "source_topic": "Culture and Society"
+  },
+  {
+    "text": "One of these is the onset of debilitating diseases such as alzheimers and diabetes.",
+    "type": "simple",
+    "word_count": 14,
+    "source_essay": "essay-005",
+    "source_para": 1,
+    "source_topic": "Culture and Society"
+  },
+  {
+    "text": "These diseases not only make it difficult to continue to enjoy a normal life but also put a great strain on other members of the family who may have to bear much of the burden of care financially and/or physically.",
+    "type": "complex",
+    "word_count": 40,
+    "source_essay": "essay-005",
+    "source_para": 1,
+    "source_topic": "Culture and Society"
+  },
+  {
+    "text": "Another issue is the financial strain the elderly themselves can be under.",
+    "type": "simple",
+    "word_count": 12,
+    "source_essay": "essay-005",
+    "source_para": 1,
+    "source_topic": "Culture and Society"
+  },
+  {
+    "text": "If they retired at the age of 65 but live beyond 90, they may well find that their savings run out and they become either destitute or reliant on state or family care.",
+    "type": "complex",
+    "word_count": 33,
+    "source_essay": "essay-005",
+    "source_para": 1,
+    "source_topic": "Culture and Society"
+  },
+  {
+    "text": "Clearly, society as a whole is impacted as well.",
+    "type": "complex",
+    "word_count": 9,
+    "source_essay": "essay-005",
+    "source_para": 2,
+    "source_topic": "Culture and Society"
+  },
+  {
+    "text": "As an increasing proportion of a country’s resources end up being dedicated to the care of the elderly, much needed funds are taken away from other areas of society such as schooling and security.",
+    "type": "complex",
+    "word_count": 34,
+    "source_essay": "essay-005",
+    "source_para": 2,
+    "source_topic": "Culture and Society"
+  },
+  {
+    "text": "In the UK, for example, the budget for aged care has risen by millions of pounds, though it is still not enough to provide adequate care for pensioners.",
+    "type": "complex",
+    "word_count": 28,
+    "source_essay": "essay-005",
+    "source_para": 2,
+    "source_topic": "Culture and Society"
+  },
+  {
+    "text": "Meanwhile, schools and law enforcement have had their budgets slashed, to the detriment of education standards and public safety.",
+    "type": "simple",
+    "word_count": 19,
+    "source_essay": "essay-005",
+    "source_para": 2,
+    "source_topic": "Culture and Society"
+  },
+  {
+    "text": "In order to adapt to this new reality, several steps can be taken.",
+    "type": "complex",
+    "word_count": 13,
+    "source_essay": "essay-005",
+    "source_para": 3,
+    "source_topic": "Culture and Society"
+  },
+  {
+    "text": "The most obvious one would be to increase the age of retirement.",
+    "type": "simple",
+    "word_count": 12,
+    "source_essay": "essay-005",
+    "source_para": 3,
+    "source_topic": "Culture and Society"
+  },
+  {
+    "text": "Rather than force people to give up work at 65, which could eventually place them in dire financial circumstances, healthy individuals should be encouraged to continue working longer.",
+    "type": "complex",
+    "word_count": 28,
+    "source_essay": "essay-005",
+    "source_para": 3,
+    "source_topic": "Culture and Society"
+  },
+  {
+    "text": "This would mean more taxes paid, and less money flowing out into pensions.",
+    "type": "compound",
+    "word_count": 13,
+    "source_essay": "essay-005",
+    "source_para": 3,
+    "source_topic": "Culture and Society"
+  },
+  {
+    "text": "A second simple measure would be to prioritise preventative healthcare.",
+    "type": "simple",
+    "word_count": 10,
+    "source_essay": "essay-005",
+    "source_para": 3,
+    "source_topic": "Culture and Society"
+  },
+  {
+    "text": "In other words, rather than wait for aged people to develop illnesses, the government should subsidise exercise programs, nutrition classes, and even fund practitioners to conduct home visits in order to keep elderly people active members of society for longer.",
+    "type": "mixed",
+    "word_count": 40,
+    "source_essay": "essay-005",
+    "source_para": 3,
+    "source_topic": "Culture and Society"
+  },
+  {
+    "text": "One of the main factors driving this problem is lack of discipline at school.",
+    "type": "simple",
+    "word_count": 14,
+    "source_essay": "essay-006",
+    "source_para": 1,
+    "source_topic": "Education"
+  },
+  {
+    "text": "Whereas in the past, schools and teachers maintained extremely strict rules regarding everything from hairstyles to handwriting neatness, now there are few boundaries and expectations.",
+    "type": "complex",
+    "word_count": 25,
+    "source_essay": "essay-006",
+    "source_para": 1,
+    "source_topic": "Education"
+  },
+  {
+    "text": "Indeed, just this month, a Sydney school teacher was physically attacked by three students, and not one of them was suspended, let alone expelled.",
+    "type": "compound",
+    "word_count": 24,
+    "source_essay": "essay-006",
+    "source_para": 1,
+    "source_topic": "Education"
+  },
+  {
+    "text": "Without explicit and firmly enforced rules, such incidents serve to further encourage other students to play up as there seems to be no consequences.",
+    "type": "simple",
+    "word_count": 24,
+    "source_essay": "essay-006",
+    "source_para": 1,
+    "source_topic": "Education"
+  },
+  {
+    "text": "The other contributing factor related to parents.",
+    "type": "simple",
+    "word_count": 7,
+    "source_essay": "essay-006",
+    "source_para": 2,
+    "source_topic": "Education"
+  },
+  {
+    "text": "Those who are excessively lenient at home, allowing their children to set their own rules and essentially run wild, must also be held accountable when their child behaves badly at school.",
+    "type": "complex",
+    "word_count": 31,
+    "source_essay": "essay-006",
+    "source_para": 2,
+    "source_topic": "Education"
+  },
+  {
+    "text": "The problem is, even if the teachers report and punish the bad behaviour, many parents refuse to accept the matter, preferring instead to undermine the school’s authority, and further fuel their child’s delinquency.",
+    "type": "mixed",
+    "word_count": 33,
+    "source_essay": "essay-006",
+    "source_para": 2,
+    "source_topic": "Education"
+  },
+  {
+    "text": "Clearly, in order to manage the problem, it must be tackled both at school and at home.",
+    "type": "complex",
+    "word_count": 17,
+    "source_essay": "essay-006",
+    "source_para": 3,
+    "source_topic": "Education"
+  },
+  {
+    "text": "On an institutional level, school authorities need to get tough on bad behaviour.",
+    "type": "simple",
+    "word_count": 13,
+    "source_essay": "essay-006",
+    "source_para": 3,
+    "source_topic": "Education"
+  },
+  {
+    "text": "That means they need to set rules regarding uniforms, homework, classroom conduct, and other important areas.",
+    "type": "compound",
+    "word_count": 16,
+    "source_essay": "essay-006",
+    "source_para": 3,
+    "source_topic": "Education"
+  },
+  {
+    "text": "If the rules are broken, the teachers must have the power to discipline by, for instance, giving a detention or banning the student from school social events.",
+    "type": "complex",
+    "word_count": 27,
+    "source_essay": "essay-006",
+    "source_para": 3,
+    "source_topic": "Education"
+  },
+  {
+    "text": "On the home front, parents too need to set up and get tough.",
+    "type": "simple",
+    "word_count": 13,
+    "source_essay": "essay-006",
+    "source_para": 3,
+    "source_topic": "Education"
+  },
+  {
+    "text": "Without expectations and limitations around behaviour, they are setting their child up for a life of trouble.",
+    "type": "simple",
+    "word_count": 17,
+    "source_essay": "essay-006",
+    "source_para": 3,
+    "source_topic": "Education"
+  },
+  {
+    "text": "Many feel that cognitively stimulating activities should be pursued during leisure time.",
+    "type": "simple",
+    "word_count": 12,
+    "source_essay": "essay-007",
+    "source_para": 1,
+    "source_topic": "Entertainment"
+  },
+  {
+    "text": "The idea behind this, which is well-supported by scientific research, is that when we use our minds, we keep the synapses or connections in our brains in good condition.",
+    "type": "complex",
+    "word_count": 29,
+    "source_essay": "essay-007",
+    "source_para": 1,
+    "source_topic": "Entertainment"
+  },
+  {
+    "text": "Games like sudoku, crosswords, puzzles or more high-tech activities on apps or websites have indeed been proven to keep our minds alert and sharp, and even ward off dementia.",
+    "type": "compound",
+    "word_count": 29,
+    "source_essay": "essay-007",
+    "source_para": 1,
+    "source_topic": "Entertainment"
+  },
+  {
+    "text": "Although the claims some of the creators of these make that they can change the very structure of our brains or enlarge its capacity may well be exaggerated, there is enough reliable evidence that they can benefit our minds.",
+    "type": "complex",
+    "word_count": 39,
+    "source_essay": "essay-007",
+    "source_para": 1,
+    "source_topic": "Entertainment"
+  },
+  {
+    "text": "The other view, however, is that leisure time ought to be devoted to mental rest.",
+    "type": "compound",
+    "word_count": 15,
+    "source_essay": "essay-007",
+    "source_para": 2,
+    "source_topic": "Entertainment"
+  },
+  {
+    "text": "Given the overwhelmingly long work hours expected nowadays, along with the stress of being eternal contactable, thanks to our phones, there is good reason for people to advocate switching off.",
+    "type": "simple",
+    "word_count": 30,
+    "source_essay": "essay-007",
+    "source_para": 2,
+    "source_topic": "Entertainment"
+  },
+  {
+    "text": "Indeed, there is plenty of research to show how healing and beneficial a walk in nature can be or how calming and renewing it is to simply sit quietly in meditation or contemplation using our mental faculties as little as possible.",
+    "type": "complex",
+    "word_count": 41,
+    "source_essay": "essay-007",
+    "source_para": 2,
+    "source_topic": "Entertainment"
+  },
+  {
+    "text": "A study of Buddhist monks too showed that when they were deep in meditation, their cells regenerated more rapidly and their bodies’ ageing processes slowed down.",
+    "type": "complex",
+    "word_count": 26,
+    "source_essay": "essay-007",
+    "source_para": 2,
+    "source_topic": "Entertainment"
+  },
+  {
+    "text": "Personally, I see the value in both uses of leisure time.",
+    "type": "simple",
+    "word_count": 11,
+    "source_essay": "essay-007",
+    "source_para": 3,
+    "source_topic": "Entertainment"
+  },
+  {
+    "text": "Following periods of extreme stress, problem-solving, or meetings with lots of people, spending time alone doing nothing can be hugely re-energising.",
+    "type": "compound",
+    "word_count": 21,
+    "source_essay": "essay-007",
+    "source_para": 3,
+    "source_topic": "Entertainment"
+  },
+  {
+    "text": "Similarly, after spending a day doing monotonous work or without much mental stimulation, a good book or challenging puzzle can have the same impact.",
+    "type": "complex",
+    "word_count": 24,
+    "source_essay": "essay-007",
+    "source_para": 3,
+    "source_topic": "Entertainment"
+  },
+  {
+    "text": "There is no point, in my view, in declaring one form of leisure better than another.",
+    "type": "simple",
+    "word_count": 16,
+    "source_essay": "essay-007",
+    "source_para": 3,
+    "source_topic": "Entertainment"
+  },
+  {
+    "text": "The main reason why people take no action to take care of their environment is because they are largely cut off from it.",
+    "type": "complex",
+    "word_count": 23,
+    "source_essay": "essay-008",
+    "source_para": 1,
+    "source_topic": "Environment"
+  },
+  {
+    "text": "Let us take the example of half of our world’s population who are now living in urban areas.",
+    "type": "complex",
+    "word_count": 18,
+    "source_essay": "essay-008",
+    "source_para": 1,
+    "source_topic": "Environment"
+  },
+  {
+    "text": "They often reside in high rise air-conditioned apartments, travel to work on trains and buses and rarely leave the city.",
+    "type": "simple",
+    "word_count": 20,
+    "source_essay": "essay-008",
+    "source_para": 1,
+    "source_topic": "Environment"
+  },
+  {
+    "text": "Their offices are cooled too so, being mostly unaffected by pollution, global heating and other symptoms of our disregard for our environment, they have few daily reminders of the need to do anything to protect it.",
+    "type": "simple",
+    "word_count": 36,
+    "source_essay": "essay-008",
+    "source_para": 1,
+    "source_topic": "Environment"
+  },
+  {
+    "text": "Although they recognise that their world needs their help, they are not sufficiently affected or inconvenienced by decades of failure to care for it.",
+    "type": "complex",
+    "word_count": 24,
+    "source_essay": "essay-008",
+    "source_para": 1,
+    "source_topic": "Environment"
+  },
+  {
+    "text": "There are so many ways in which people could act in support of their environment.",
+    "type": "complex",
+    "word_count": 15,
+    "source_essay": "essay-008",
+    "source_para": 2,
+    "source_topic": "Environment"
+  },
+  {
+    "text": "The two I would propose take a lead from the saying, \"Think globally, act locally\".",
+    "type": "simple",
+    "word_count": 15,
+    "source_essay": "essay-008",
+    "source_para": 2,
+    "source_topic": "Environment"
+  },
+  {
+    "text": "Because it is usually overwhelming for an individual when she thinks about how to protect the planet, the first action to take is to lobby elected officials such as members of parliament and local councillors to share her concerns, ask what environmental policies are in place and find out what her state and country representatives are doing to protect the environment.",
+    "type": "complex",
+    "word_count": 61,
+    "source_essay": "essay-008",
+    "source_para": 2,
+    "source_topic": "Environment"
+  },
+  {
+    "text": "On a local level, in every city around the world there are groups actively engaged in caring for and improving their neighbourhood which anyone can join.",
+    "type": "complex",
+    "word_count": 26,
+    "source_essay": "essay-008",
+    "source_para": 2,
+    "source_topic": "Environment"
+  },
+  {
+    "text": "From street gardens which supply free produce to citizens to groups campaigning for greener transport options, from food cooperatives which grow food on rooftops and in underground carparks to those working to better recycle plastic waste, there are numerous ways the individual can take action to look after the local environment.",
+    "type": "complex",
+    "word_count": 51,
+    "source_essay": "essay-008",
+    "source_para": 2,
+    "source_topic": "Environment"
+  },
+  {
+    "text": "To begin with, there are a number of reasons teenagers and those in their twenties are with their families less during their leisure time, the main one being the need for them to work.",
+    "type": "simple",
+    "word_count": 34,
+    "source_essay": "essay-009",
+    "source_para": 1,
+    "source_topic": "Family"
+  },
+  {
+    "text": "A good example of this is in Indonesia where studies have shown that an increase in the cost of living has forced parents to ask their children who are still at school to work in the evenings and on Sundays and persuade those already in work to do overtime or work two jobs.",
+    "type": "complex",
+    "word_count": 53,
+    "source_essay": "essay-009",
+    "source_para": 1,
+    "source_topic": "Family"
+  },
+  {
+    "text": "Although this brings in much needed funds, it comes at a huge cost, depriving families of important time to relax and spend time together and causing stress and ill health through over work and lack of sleep.",
+    "type": "complex",
+    "word_count": 37,
+    "source_essay": "essay-009",
+    "source_para": 1,
+    "source_topic": "Family"
+  },
+  {
+    "text": "Families these days are also unable to enjoy each other’s company as they used to because young people are under increasing pressure.",
+    "type": "complex",
+    "word_count": 22,
+    "source_essay": "essay-009",
+    "source_para": 2,
+    "source_topic": "Family"
+  },
+  {
+    "text": "They are compelled to study and train in their spare time in the hope of securing a place at the best university or college or, if already in work, develop further skills to ensure they keep their positions and are favourably considered for promotion.",
+    "type": "complex",
+    "word_count": 44,
+    "source_essay": "essay-009",
+    "source_para": 2,
+    "source_topic": "Family"
+  },
+  {
+    "text": "This pressure to succeed in studies and work is huge as demonstrated by research by the London School of Economics, which revealed a huge increase in hours worked in unpaid internship positions both for those still students and for young graduates hoping to persuade a company to employ them.",
+    "type": "complex",
+    "word_count": 49,
+    "source_essay": "essay-009",
+    "source_para": 2,
+    "source_topic": "Family"
+  },
+  {
+    "text": "Again, the loss of precious time with families cannot compensate for the advantages which ensue although promotion may be achieved or jobs secured by this practice.",
+    "type": "complex",
+    "word_count": 26,
+    "source_essay": "essay-009",
+    "source_para": 2,
+    "source_topic": "Family"
+  },
+  {
+    "text": "Although an outright ban on fast food promotion may seem appealing, it would not be a sensible move.",
+    "type": "complex",
+    "word_count": 18,
+    "source_essay": "essay-010",
+    "source_para": 1,
+    "source_topic": "Food and Farming"
+  },
+  {
+    "text": "For starters, companies would suffer huge financial losses if they were unable to promote their products.",
+    "type": "complex",
+    "word_count": 16,
+    "source_essay": "essay-010",
+    "source_para": 1,
+    "source_topic": "Food and Farming"
+  },
+  {
+    "text": "Magnum Ice Creams, for instance, runs TV and billboard campaigns when they launch a new product, and if they were prevented from doing so, far fewer consumers would even know the new treat existed.",
+    "type": "mixed",
+    "word_count": 34,
+    "source_essay": "essay-010",
+    "source_para": 1,
+    "source_topic": "Food and Farming"
+  },
+  {
+    "text": "This would inevitably lead to a reduction in revenue, possibly a fall in the company’s stock prices, retrenchments and so on.",
+    "type": "simple",
+    "word_count": 21,
+    "source_essay": "essay-010",
+    "source_para": 1,
+    "source_topic": "Food and Farming"
+  },
+  {
+    "text": "The consumers have a right to know what is on the market, so, clearly, the solution need not be so drastic.",
+    "type": "simple",
+    "word_count": 21,
+    "source_essay": "essay-010",
+    "source_para": 1,
+    "source_topic": "Food and Farming"
+  },
+  {
+    "text": "The alternative is to impose stricter laws regarding when and how advertising happens.",
+    "type": "complex",
+    "word_count": 13,
+    "source_essay": "essay-010",
+    "source_para": 2,
+    "source_topic": "Food and Farming"
+  },
+  {
+    "text": "This is particularly important when it comes to children.",
+    "type": "complex",
+    "word_count": 9,
+    "source_essay": "essay-010",
+    "source_para": 2,
+    "source_topic": "Food and Farming"
+  },
+  {
+    "text": "McDonald’s is just one example of a company that deliberately advertises during children’s shows, and actively seeks to push their marketing into schools and clubs.",
+    "type": "compound",
+    "word_count": 25,
+    "source_essay": "essay-010",
+    "source_para": 2,
+    "source_topic": "Food and Farming"
+  },
+  {
+    "text": "If the government limited the amount of junk food advertising during typical children’s viewing hours on TV, and also banned it inside school gates, the problem of excessive consumption by youngsters could be tackled.",
+    "type": "mixed",
+    "word_count": 34,
+    "source_essay": "essay-010",
+    "source_para": 2,
+    "source_topic": "Food and Farming"
+  },
+  {
+    "text": "Regarding the ad itself, authorities should also require that companies are upfront about the health risks of their product.",
+    "type": "simple",
+    "word_count": 19,
+    "source_essay": "essay-010",
+    "source_para": 2,
+    "source_topic": "Food and Farming"
+  },
+  {
+    "text": "A Coca Cola ad, for example, should contain the sugar quantity.",
+    "type": "simple",
+    "word_count": 11,
+    "source_essay": "essay-010",
+    "source_para": 2,
+    "source_topic": "Food and Farming"
+  },
+  {
+    "text": "Alerting people, especially parents, to the real nutritional value of junk foods through honest information in advertising, would form part of a public education program which could have, over time, a significant positive impact on the health of our societies.",
+    "type": "complex",
+    "word_count": 40,
+    "source_essay": "essay-010",
+    "source_para": 2,
+    "source_topic": "Food and Farming"
+  },
+  {
+    "text": "The first step in curbing the damage caused by fossil fuel use must be to phase out extraction and use.",
+    "type": "simple",
+    "word_count": 20,
+    "source_essay": "essay-011",
+    "source_para": 1,
+    "source_topic": "Global Issues"
+  },
+  {
+    "text": "That is, mining, fracking, deep sea drilling and other methods need to be stopped in order to end the damage such activities cause to ecosystems and the atmosphere.",
+    "type": "complex",
+    "word_count": 28,
+    "source_essay": "essay-011",
+    "source_para": 1,
+    "source_topic": "Global Issues"
+  },
+  {
+    "text": "Indeed, ending oil drilling alone would greatly reduce the risk of environmental disasters such as the BP spill in the Gulf of Mexico which had a catastrophic and far-reaching impact on marine life, air and water quality.",
+    "type": "complex",
+    "word_count": 37,
+    "source_essay": "essay-011",
+    "source_para": 1,
+    "source_topic": "Global Issues"
+  },
+  {
+    "text": "The burning of coal and use of petrol, oil and gas in industry and transport also contributes to the greenhouse gases that are causing climate change and poor air quality globally.",
+    "type": "simple",
+    "word_count": 31,
+    "source_essay": "essay-011",
+    "source_para": 1,
+    "source_topic": "Global Issues"
+  },
+  {
+    "text": "Clearly, steps need to be taken to eliminate these sources of energy and promote alternatives.",
+    "type": "simple",
+    "word_count": 15,
+    "source_essay": "essay-011",
+    "source_para": 1,
+    "source_topic": "Global Issues"
+  },
+  {
+    "text": "To replace fossil fuels, greener energy sources must be further developed.",
+    "type": "simple",
+    "word_count": 11,
+    "source_essay": "essay-011",
+    "source_para": 2,
+    "source_topic": "Global Issues"
+  },
+  {
+    "text": "Currently, although solar, wind and hydro power systems are available, they are not yet able to provide the vast quantities required to keep nations supplied with their energy requirements.",
+    "type": "complex",
+    "word_count": 29,
+    "source_essay": "essay-011",
+    "source_para": 2,
+    "source_topic": "Global Issues"
+  },
+  {
+    "text": "Solar panels, for instance, are still prohibitively expensive for many households and businesses to install.",
+    "type": "simple",
+    "word_count": 15,
+    "source_essay": "essay-011",
+    "source_para": 2,
+    "source_topic": "Global Issues"
+  },
+  {
+    "text": "Wind power too has limitations in terms of energy production and reliability; it only works when the wind blows.",
+    "type": "complex",
+    "word_count": 19,
+    "source_essay": "essay-011",
+    "source_para": 2,
+    "source_topic": "Global Issues"
+  },
+  {
+    "text": "Unless these alternatives are improved, and made more affordable, it will simply not be possible to end fossil fuel use.",
+    "type": "mixed",
+    "word_count": 20,
+    "source_essay": "essay-011",
+    "source_para": 2,
+    "source_topic": "Global Issues"
+  },
+  {
+    "text": "Investment, not only by governments, but also by organisations and individuals, is crucial to bridge this gap.",
+    "type": "compound",
+    "word_count": 17,
+    "source_essay": "essay-011",
+    "source_para": 2,
+    "source_topic": "Global Issues"
+  },
+  {
+    "text": "While obesity has several causes, poor diets and insufficient exercise appear to be key drivers of this serious disease.",
+    "type": "complex",
+    "word_count": 19,
+    "source_essay": "essay-012",
+    "source_para": 1,
+    "source_topic": "Health"
+  },
+  {
+    "text": "A move to a convenience food diet both in schools and at home has resulted in many youngsters eating mostly nutrient-low foods, which are high in sugars and fats and low in fibre.",
+    "type": "complex",
+    "word_count": 33,
+    "source_essay": "essay-012",
+    "source_para": 1,
+    "source_topic": "Health"
+  },
+  {
+    "text": "Our bodies are unable to process these foods efficiently so fat accumulates until our body mass index is high enough for us to be diagnosed as obese.",
+    "type": "complex",
+    "word_count": 27,
+    "source_essay": "essay-012",
+    "source_para": 1,
+    "source_topic": "Health"
+  },
+  {
+    "text": "Exercise is well known to assist the body in getting rid of fat but the reality today for many children is that they take almost none.",
+    "type": "simple",
+    "word_count": 26,
+    "source_essay": "essay-012",
+    "source_para": 1,
+    "source_topic": "Health"
+  },
+  {
+    "text": "Spending more time sitting at school or on devices, and being driven everywhere in cars, it is difficult for many children to avoid becoming overweight.",
+    "type": "simple",
+    "word_count": 25,
+    "source_essay": "essay-012",
+    "source_para": 1,
+    "source_topic": "Health"
+  },
+  {
+    "text": "This combination of a sedentary lifestyle and a junk food diet is, indeed, a dangerous one.",
+    "type": "simple",
+    "word_count": 16,
+    "source_essay": "essay-012",
+    "source_para": 1,
+    "source_topic": "Health"
+  },
+  {
+    "text": "Challenging though this problem of childhood obesity is, there is much that can be done to manage it.",
+    "type": "complex",
+    "word_count": 18,
+    "source_essay": "essay-012",
+    "source_para": 2,
+    "source_topic": "Health"
+  },
+  {
+    "text": "Addressing the two causes which I outlined above would be good but the matter may not be so simply overcome.",
+    "type": "complex",
+    "word_count": 20,
+    "source_essay": "essay-012",
+    "source_para": 2,
+    "source_topic": "Health"
+  },
+  {
+    "text": "Because the causes of this disease are deeply rooted and complex it would seem that a broad educational strategy could work well.",
+    "type": "complex",
+    "word_count": 22,
+    "source_essay": "essay-012",
+    "source_para": 2,
+    "source_topic": "Health"
+  },
+  {
+    "text": "This would involve governments funding programs, in schools and in communities, which are designed to help young people and their parents to understand the causes of obesity and then to assist them to make whatever changes are needed to deal with these.",
+    "type": "complex",
+    "word_count": 42,
+    "source_essay": "essay-012",
+    "source_para": 2,
+    "source_topic": "Health"
+  },
+  {
+    "text": "In addition, governments would need to address the so-called food deserts found in many urban areas within which healthy nutritious food is hard to obtain, the majority of food outlets being fast food restaurants and 7/11s.",
+    "type": "complex",
+    "word_count": 36,
+    "source_essay": "essay-012",
+    "source_para": 2,
+    "source_topic": "Health"
+  },
+  {
+    "text": "If parents struggle to buy good food, education is unlikely to have a long term impact on the health of their offspring.",
+    "type": "complex",
+    "word_count": 22,
+    "source_essay": "essay-012",
+    "source_para": 2,
+    "source_topic": "Health"
+  },
+  {
+    "text": "In terms of individuals, the effects of this overwhelming amount of bad news in the media manifest in changes to our wellbeing and behaviour.",
+    "type": "simple",
+    "word_count": 24,
+    "source_essay": "essay-013",
+    "source_para": 1,
+    "source_topic": "Media"
+  },
+  {
+    "text": "First of all, mental health can suffer.",
+    "type": "simple",
+    "word_count": 7,
+    "source_essay": "essay-013",
+    "source_para": 1,
+    "source_topic": "Media"
+  },
+  {
+    "text": "When a person is continually absorbing news about crime, accidents and terrorism, for instance, they may begin to feel anxious and fearful.",
+    "type": "complex",
+    "word_count": 22,
+    "source_essay": "essay-013",
+    "source_para": 1,
+    "source_topic": "Media"
+  },
+  {
+    "text": "In serious cases, they may even suffer agoraphobia or panic attacks as a result.",
+    "type": "simple",
+    "word_count": 14,
+    "source_essay": "essay-013",
+    "source_para": 1,
+    "source_topic": "Media"
+  },
+  {
+    "text": "The sheer volume of bad news can also lead to feelings of hopelessness or even depression.",
+    "type": "simple",
+    "word_count": 16,
+    "source_essay": "essay-013",
+    "source_para": 1,
+    "source_topic": "Media"
+  },
+  {
+    "text": "The other issue is the changes in behaviour that stem from fear.",
+    "type": "simple",
+    "word_count": 12,
+    "source_essay": "essay-013",
+    "source_para": 1,
+    "source_topic": "Media"
+  },
+  {
+    "text": "After seeing hours and hours of footage of plane crashes or tsunami destruction, many people may feel reluctant to travel or simply try something new.",
+    "type": "complex",
+    "word_count": 25,
+    "source_essay": "essay-013",
+    "source_para": 1,
+    "source_topic": "Media"
+  },
+  {
+    "text": "This is a direct result of the media’s bad news saturation.",
+    "type": "simple",
+    "word_count": 11,
+    "source_essay": "essay-013",
+    "source_para": 1,
+    "source_topic": "Media"
+  },
+  {
+    "text": "Obviously, such impacts also have a knock-on effect throughout society.",
+    "type": "simple",
+    "word_count": 10,
+    "source_essay": "essay-013",
+    "source_para": 2,
+    "source_topic": "Media"
+  },
+  {
+    "text": "As fear grows among individuals, so too does animosity, distrust, intolerance and, ultimately, conflict.",
+    "type": "mixed",
+    "word_count": 14,
+    "source_essay": "essay-013",
+    "source_para": 2,
+    "source_topic": "Media"
+  },
+  {
+    "text": "Take terrorism reports as an example.",
+    "type": "simple",
+    "word_count": 6,
+    "source_essay": "essay-013",
+    "source_para": 2,
+    "source_topic": "Media"
+  },
+  {
+    "text": "When incidents such as 9/11 or the 2015 Paris attacks occur, the media runs footage constantly, and the coverage continues for days, sometimes months.",
+    "type": "mixed",
+    "word_count": 24,
+    "source_essay": "essay-013",
+    "source_para": 2,
+    "source_topic": "Media"
+  },
+  {
+    "text": "In the aftermath of these events, public panic grows, and minority groups, unrelated to the incident, often suffer attacks and marginalisation.",
+    "type": "compound",
+    "word_count": 21,
+    "source_essay": "essay-013",
+    "source_para": 2,
+    "source_topic": "Media"
+  },
+  {
+    "text": "From an economic perspective, this fear-mongering can also lead to financial loss as people, crippled by anxiety, go out less and travel less frequently.",
+    "type": "simple",
+    "word_count": 24,
+    "source_essay": "essay-013",
+    "source_para": 2,
+    "source_topic": "Media"
+  },
+  {
+    "text": "The belief that it is not fair that is understandable.",
+    "type": "simple",
+    "word_count": 10,
+    "source_essay": "essay-014",
+    "source_para": 1,
+    "source_topic": "Money"
+  },
+  {
+    "text": "Why should the skills someone is born with give them such an advantage?",
+    "type": "simple",
+    "word_count": 13,
+    "source_essay": "essay-014",
+    "source_para": 1,
+    "source_topic": "Money"
+  },
+  {
+    "text": "The world of sport these days is heavily sponsored by companies looking for ways to promote their products and these lucky few who excel at their chosen sport receive extra income on top of their salaries.",
+    "type": "complex",
+    "word_count": 36,
+    "source_essay": "essay-014",
+    "source_para": 1,
+    "source_topic": "Money"
+  },
+  {
+    "text": "It does indeed seem unjust that sports professionals, who are already well paid, can earn this extra income which makes them far richer than their peers.",
+    "type": "complex",
+    "word_count": 26,
+    "source_essay": "essay-014",
+    "source_para": 1,
+    "source_topic": "Money"
+  },
+  {
+    "text": "These may have spent years studying for a qualification as, for instance, a solicitor or doctor, and then further time on an average salary gaining experience before they are well paid at the age of 30 or more.",
+    "type": "mixed",
+    "word_count": 38,
+    "source_essay": "essay-014",
+    "source_para": 1,
+    "source_topic": "Money"
+  },
+  {
+    "text": "Meanwhile, young sports professionals are earning huge sums of money at the age of 25.",
+    "type": "simple",
+    "word_count": 15,
+    "source_essay": "essay-014",
+    "source_para": 1,
+    "source_topic": "Money"
+  },
+  {
+    "text": "Although many people consider this to be unfair, I believe it is not.",
+    "type": "complex",
+    "word_count": 13,
+    "source_essay": "essay-014",
+    "source_para": 2,
+    "source_topic": "Money"
+  },
+  {
+    "text": "This is mainly because it is not just the skills successful sports professionals possess which make them wealthier than others who have important jobs.",
+    "type": "complex",
+    "word_count": 24,
+    "source_essay": "essay-014",
+    "source_para": 2,
+    "source_topic": "Money"
+  },
+  {
+    "text": "This view is based on the understanding that these skills have to be developed and nurtured before the person who possesses them can rise to the top of their sport.",
+    "type": "complex",
+    "word_count": 30,
+    "source_essay": "essay-014",
+    "source_para": 2,
+    "source_topic": "Money"
+  },
+  {
+    "text": "There are many examples of extremely talented sportsmen and women who have failed to become elite athletes in their sport.",
+    "type": "complex",
+    "word_count": 20,
+    "source_essay": "essay-014",
+    "source_para": 2,
+    "source_topic": "Money"
+  },
+  {
+    "text": "Either through lack of application, injury, poor management or simply bad luck, they merely do well.",
+    "type": "simple",
+    "word_count": 16,
+    "source_essay": "essay-014",
+    "source_para": 2,
+    "source_topic": "Money"
+  },
+  {
+    "text": "Those who join the tiny group of super sports professionals have not just relied on their skills, important as these are, but have worked extremely hard to make the most of them.",
+    "type": "mixed",
+    "word_count": 32,
+    "source_essay": "essay-014",
+    "source_para": 2,
+    "source_topic": "Money"
+  },
+  {
+    "text": "It is surely fair that they should be rewarded for their hard work, even if they earn many times what other important professionals do.",
+    "type": "complex",
+    "word_count": 24,
+    "source_essay": "essay-014",
+    "source_para": 2,
+    "source_topic": "Money"
+  },
+  {
+    "text": "Certainly, when games are age-appropriate and children are supervised, there can be many benefits for youngsters.",
+    "type": "complex",
+    "word_count": 16,
+    "source_essay": "essay-015",
+    "source_para": 1,
+    "source_topic": "Science/Technology"
+  },
+  {
+    "text": "One key positive outcome is the enhancement to problem-solving skills and creativity.",
+    "type": "simple",
+    "word_count": 12,
+    "source_essay": "essay-015",
+    "source_para": 1,
+    "source_topic": "Science/Technology"
+  },
+  {
+    "text": "Indeed, many games are designed to challenge young minds by, for instance, simulating a current problem in the world.",
+    "type": "simple",
+    "word_count": 19,
+    "source_essay": "essay-015",
+    "source_para": 1,
+    "source_topic": "Science/Technology"
+  },
+  {
+    "text": "Greenpeace has recently designed such a game for children called Our World which presents a range of different situations to which players respond and then see the effects of their actions.",
+    "type": "complex",
+    "word_count": 31,
+    "source_essay": "essay-015",
+    "source_para": 1,
+    "source_topic": "Science/Technology"
+  },
+  {
+    "text": "Another point to mention is that gaming can have significant social and psychological impacts.",
+    "type": "simple",
+    "word_count": 14,
+    "source_essay": "essay-015",
+    "source_para": 1,
+    "source_topic": "Science/Technology"
+  },
+  {
+    "text": "Multiplayer online games like World of Warcraft enable players to interact, cooperate or compete.",
+    "type": "simple",
+    "word_count": 14,
+    "source_essay": "essay-015",
+    "source_para": 1,
+    "source_topic": "Science/Technology"
+  },
+  {
+    "text": "Participation in these communities has been shown to boost confidence and reduce feelings of isolation that many young people may feel.",
+    "type": "simple",
+    "word_count": 21,
+    "source_essay": "essay-015",
+    "source_para": 1,
+    "source_topic": "Science/Technology"
+  },
+  {
+    "text": "There are, however, legitimate concerns when it comes to certain games.",
+    "type": "mixed",
+    "word_count": 11,
+    "source_essay": "essay-015",
+    "source_para": 2,
+    "source_topic": "Science/Technology"
+  },
+  {
+    "text": "Those that seemingly promote violence and law-breaking, such as Grand Theft Auto, can have negative impacts on those who play them.",
+    "type": "complex",
+    "word_count": 21,
+    "source_essay": "essay-015",
+    "source_para": 2,
+    "source_topic": "Science/Technology"
+  },
+  {
+    "text": "This is especially true of young children who are yet to learn the distinction between real life and virtual worlds, and may end up committing violent acts themselves.",
+    "type": "mixed",
+    "word_count": 28,
+    "source_essay": "essay-015",
+    "source_para": 2,
+    "source_topic": "Science/Technology"
+  },
+  {
+    "text": "Another downside of some computer games is their addictive nature.",
+    "type": "simple",
+    "word_count": 10,
+    "source_essay": "essay-015",
+    "source_para": 2,
+    "source_topic": "Science/Technology"
+  },
+  {
+    "text": "There are many stories of young people who become so completely involved in playing that they lose all sense of time and forget to eat or sleep.",
+    "type": "complex",
+    "word_count": 27,
+    "source_essay": "essay-015",
+    "source_para": 2,
+    "source_topic": "Science/Technology"
+  },
+  {
+    "text": "The impact on their health and on their studies can become severe, even leading to them dropping out of school or being hospitalised.",
+    "type": "simple",
+    "word_count": 23,
+    "source_essay": "essay-015",
+    "source_para": 2,
+    "source_topic": "Science/Technology"
+  },
+  {
+    "text": "Those who advocate this state-funded research argue that the future of humankind may depend on such a discovery.",
+    "type": "complex",
+    "word_count": 18,
+    "source_essay": "essay-016",
+    "source_para": 1,
+    "source_topic": "Space"
+  },
+  {
+    "text": "If we found an earth-like planet nearby, for instance, they claim that our species could mine its resources or even colonise and potentially migrate there, once our own planet becomes uninhabitable.",
+    "type": "complex",
+    "word_count": 31,
+    "source_essay": "essay-016",
+    "source_para": 1,
+    "source_topic": "Space"
+  },
+  {
+    "text": "Indeed, projects are already underway investigating the feasibility of life on Mars, among other places.",
+    "type": "simple",
+    "word_count": 15,
+    "source_essay": "essay-016",
+    "source_para": 1,
+    "source_topic": "Space"
+  },
+  {
+    "text": "Thus, to these supporters, the government’s money is well-spent on exploring outer space as it could ultimately save us.",
+    "type": "simple",
+    "word_count": 19,
+    "source_essay": "essay-016",
+    "source_para": 1,
+    "source_topic": "Space"
+  },
+  {
+    "text": "Others, however, myself included, do not support this ongoing exploration.",
+    "type": "compound",
+    "word_count": 10,
+    "source_essay": "essay-016",
+    "source_para": 2,
+    "source_topic": "Space"
+  },
+  {
+    "text": "Indeed, in the last few decades, countries like the USA have spent over $100 billion sending astronauts, rovers and rockets out into the galaxy and the results have been negligible.",
+    "type": "simple",
+    "word_count": 30,
+    "source_essay": "essay-016",
+    "source_para": 2,
+    "source_topic": "Space"
+  },
+  {
+    "text": "If this money had been spent instead on improving literacy or sanitation in the third world, or on researching vaccines and treatments for deadly diseases, our lives would be much better than they currently are.",
+    "type": "mixed",
+    "word_count": 35,
+    "source_essay": "essay-016",
+    "source_para": 2,
+    "source_topic": "Space"
+  },
+  {
+    "text": "Given that private businesses such as Tesla and Virgin are now pouring money into space research, governments no longer need to waste their money on this fruitless pursuit.",
+    "type": "complex",
+    "word_count": 28,
+    "source_essay": "essay-016",
+    "source_para": 2,
+    "source_topic": "Space"
+  },
+  {
+    "text": "The main reason why people enjoy taking part in dangerous sports is the emotional high they can bring about.",
+    "type": "simple",
+    "word_count": 19,
+    "source_essay": "essay-017",
+    "source_para": 1,
+    "source_topic": "Sport"
+  },
+  {
+    "text": "When a person flies through the air on their skis or summits a mountain without ropes, they experience a surge of dopamine, the feel-good chemical which, in many cases, can become addictive.",
+    "type": "complex",
+    "word_count": 32,
+    "source_essay": "essay-017",
+    "source_para": 1,
+    "source_topic": "Sport"
+  },
+  {
+    "text": "For some extreme sports enthusiasts, their appetite for this feeling increases over time as they conquer more and more goals.",
+    "type": "simple",
+    "word_count": 20,
+    "source_essay": "essay-017",
+    "source_para": 1,
+    "source_topic": "Sport"
+  },
+  {
+    "text": "In other words, they are motivated to keep climbing, boxing or rafting in order to chase the high.",
+    "type": "complex",
+    "word_count": 18,
+    "source_essay": "essay-017",
+    "source_para": 1,
+    "source_topic": "Sport"
+  },
+  {
+    "text": "Another motivating factor for some is the sense of accomplishment they feel.",
+    "type": "simple",
+    "word_count": 12,
+    "source_essay": "essay-017",
+    "source_para": 2,
+    "source_topic": "Sport"
+  },
+  {
+    "text": "This sensation is common to all sports but is heightened when the sport itself is high-risk.",
+    "type": "complex",
+    "word_count": 16,
+    "source_essay": "essay-017",
+    "source_para": 2,
+    "source_topic": "Sport"
+  },
+  {
+    "text": "Surfers, for instance, may dream of riding a huge pipeline, and when they do it, it means they have not just survived an extremely dangerous situation but also that they have attained a level of skill that few other people in the world have.",
+    "type": "mixed",
+    "word_count": 44,
+    "source_essay": "essay-017",
+    "source_para": 2,
+    "source_topic": "Sport"
+  },
+  {
+    "text": "It is important, however, that steps are taken to minimise the risks involved in these sports.",
+    "type": "mixed",
+    "word_count": 16,
+    "source_essay": "essay-017",
+    "source_para": 3,
+    "source_topic": "Sport"
+  },
+  {
+    "text": "First and foremost, participants need to educate themselves, be it on how to monitor waves and wind for surfers, or how to fall from a horse in the most careful way.",
+    "type": "compound",
+    "word_count": 31,
+    "source_essay": "essay-017",
+    "source_para": 3,
+    "source_topic": "Sport"
+  },
+  {
+    "text": "In some cases, this extends to using suitable equipment and safety gear.",
+    "type": "simple",
+    "word_count": 12,
+    "source_essay": "essay-017",
+    "source_para": 3,
+    "source_topic": "Sport"
+  },
+  {
+    "text": "In addition to the individual’s responsibility, there are also guidelines that should be put in place by authorities.",
+    "type": "simple",
+    "word_count": 18,
+    "source_essay": "essay-017",
+    "source_para": 3,
+    "source_topic": "Sport"
+  },
+  {
+    "text": "When it comes to Olympic sports, for example, there are strict rules in sports like wrestling and boxing that reduce the risk of head and spinal injuries.",
+    "type": "complex",
+    "word_count": 27,
+    "source_essay": "essay-017",
+    "source_para": 3,
+    "source_topic": "Sport"
+  },
+  {
+    "text": "Advanced technology undoubtedly makes driving safer but, in many cases, accidents occur through driver error.",
+    "type": "simple",
+    "word_count": 15,
+    "source_essay": "essay-018",
+    "source_para": 1,
+    "source_topic": "Transport"
+  },
+  {
+    "text": "This may be for several reasons, one of which is inattention at a critical moment caused perhaps by a call on the phone or a conversation with a passenger.",
+    "type": "complex",
+    "word_count": 29,
+    "source_essay": "essay-018",
+    "source_para": 1,
+    "source_topic": "Transport"
+  },
+  {
+    "text": "Indeed, in the USA, distracted driving is the number one cause of road accidents.",
+    "type": "simple",
+    "word_count": 14,
+    "source_essay": "essay-018",
+    "source_para": 1,
+    "source_topic": "Transport"
+  },
+  {
+    "text": "In Australia, the problem has become so serious that it is now illegal to use a mobile phone when in charge of a vehicle, even if it is stationary.",
+    "type": "complex",
+    "word_count": 29,
+    "source_essay": "essay-018",
+    "source_para": 1,
+    "source_topic": "Transport"
+  },
+  {
+    "text": "Another cause of injuries and fatalities on the road is inexperience.",
+    "type": "simple",
+    "word_count": 11,
+    "source_essay": "essay-018",
+    "source_para": 1,
+    "source_topic": "Transport"
+  },
+  {
+    "text": "In the UK, the number collisions involving 18 to 25-year-olds is more than double those where the driver was over 30.",
+    "type": "complex",
+    "word_count": 21,
+    "source_essay": "essay-018",
+    "source_para": 1,
+    "source_topic": "Transport"
+  },
+  {
+    "text": "Whether it is because of lack of attention or a small number of years driving on the road, there are ways these and other problems can be mitigated.",
+    "type": "complex",
+    "word_count": 28,
+    "source_essay": "essay-018",
+    "source_para": 2,
+    "source_topic": "Transport"
+  },
+  {
+    "text": "The first measure that can be taken is to require all newly qualified drivers to attend a driving skills course.",
+    "type": "simple",
+    "word_count": 20,
+    "source_essay": "essay-018",
+    "source_para": 2,
+    "source_topic": "Transport"
+  },
+  {
+    "text": "Designed to raise drivers’ awareness of dangers in various road situations and teach them how to deal with emergency scenarios, courses like these have been shown to dramatically reduce the accident rate among young drivers.",
+    "type": "simple",
+    "word_count": 35,
+    "source_essay": "essay-018",
+    "source_para": 2,
+    "source_topic": "Transport"
+  },
+  {
+    "text": "Placing restrictions on new drivers for two to three years has also been successful in many countries in bringing down the frequency of accidents.",
+    "type": "simple",
+    "word_count": 24,
+    "source_essay": "essay-018",
+    "source_para": 2,
+    "source_topic": "Transport"
+  },
+  {
+    "text": "In Australia, a new driver is restricted in several ways; their speed is limited, they can only take one passenger at a time, and they cannot drink any alcohol nor drive after 10pm.",
+    "type": "mixed",
+    "word_count": 33,
+    "source_essay": "essay-018",
+    "source_para": 2,
+    "source_topic": "Transport"
+  },
+  {
+    "text": "Such initiatives have had considerable success in cutting road accidents.",
+    "type": "simple",
+    "word_count": 10,
+    "source_essay": "essay-018",
+    "source_para": 2,
+    "source_topic": "Transport"
+  },
+  {
+    "text": "I support the practice of requiring visitors to help those who are responsible for maintaining tourist attractions with a monetary payment.",
+    "type": "complex",
+    "word_count": 21,
+    "source_essay": "essay-019",
+    "source_para": 1,
+    "source_topic": "Travel"
+  },
+  {
+    "text": "When a town, city or place of beauty receives thousands of visitors every year the cost of, for instance, cleaning, disposal of rubbish, an increased number of staff and provision of services can be high, which places a strain on budgets.",
+    "type": "complex",
+    "word_count": 41,
+    "source_essay": "essay-019",
+    "source_para": 1,
+    "source_topic": "Travel"
+  },
+  {
+    "text": "This is largely because the income that is at the disposal of, say, a town’s management is limited to what is made available from the taxes citizens pay.",
+    "type": "complex",
+    "word_count": 28,
+    "source_essay": "essay-019",
+    "source_para": 1,
+    "source_topic": "Travel"
+  },
+  {
+    "text": "Venice charges all tourists an entrance fee to the city, which mitigates to some extent the impact of its millions of visitors annually, but has so far failed to fully protect this city from those who come to enjoy it.",
+    "type": "mixed",
+    "word_count": 40,
+    "source_essay": "essay-019",
+    "source_para": 1,
+    "source_topic": "Travel"
+  },
+  {
+    "text": "This is a good example of why other strategies need to be adopted.",
+    "type": "simple",
+    "word_count": 13,
+    "source_essay": "essay-019",
+    "source_para": 1,
+    "source_topic": "Travel"
+  },
+  {
+    "text": "More can be done than just collecting fees from visitors.",
+    "type": "simple",
+    "word_count": 10,
+    "source_essay": "essay-019",
+    "source_para": 2,
+    "source_topic": "Travel"
+  },
+  {
+    "text": "For any tourist destination to continue to be viable, not only for visitors, but also for those who live there or nearby, there must be a clear policy set and funded by central government in consultation with town or city councils as to how this rapidly increasing influx of visitors is going to be managed.",
+    "type": "mixed",
+    "word_count": 55,
+    "source_essay": "essay-019",
+    "source_para": 2,
+    "source_topic": "Travel"
+  },
+  {
+    "text": "In Germany, for instance, Berlin had the backing of the national government to control the letting of apartments through Airbnb so that owners of property in the city were only permitted to let out single apartments within their homes rather than their whole house.",
+    "type": "complex",
+    "word_count": 44,
+    "source_essay": "essay-019",
+    "source_para": 2,
+    "source_topic": "Travel"
+  },
+  {
+    "text": "This had two positive effects: the price of accommodation for Berliners was kept at an affordable level and visitors to the city had the experience of living with a local.",
+    "type": "simple",
+    "word_count": 30,
+    "source_essay": "essay-019",
+    "source_para": 2,
+    "source_topic": "Travel"
+  },
+  {
+    "text": "There are many reasons for this increased stress at work.",
+    "type": "simple",
+    "word_count": 10,
+    "source_essay": "essay-020",
+    "source_para": 1,
+    "source_topic": "Work"
+  },
+  {
+    "text": "One is the competitive nature of many workplaces.",
+    "type": "simple",
+    "word_count": 8,
+    "source_essay": "essay-020",
+    "source_para": 1,
+    "source_topic": "Work"
+  },
+  {
+    "text": "With an emphasis on productivity and shareholders’ returns, employers often require more of their staff than is reasonable or even humanly possible.",
+    "type": "simple",
+    "word_count": 22,
+    "source_essay": "essay-020",
+    "source_para": 1,
+    "source_topic": "Work"
+  },
+  {
+    "text": "McDonalds is one example of this where staff are forced to work long hours just to make a living wage in order to satisfy the demands of customers and the bosses they work for.",
+    "type": "complex",
+    "word_count": 34,
+    "source_essay": "essay-020",
+    "source_para": 1,
+    "source_topic": "Work"
+  },
+  {
+    "text": "Another stress employees experience is driven by the company policy of hiring inexperienced staff who are cheaper, and letting go of those who have been in the company for longer.",
+    "type": "complex",
+    "word_count": 30,
+    "source_essay": "essay-020",
+    "source_para": 1,
+    "source_topic": "Work"
+  },
+  {
+    "text": "Schools have been known to follow this practice because experienced teachers are much more expensive to employ than newly trained ones.",
+    "type": "complex",
+    "word_count": 21,
+    "source_essay": "essay-020",
+    "source_para": 1,
+    "source_topic": "Work"
+  },
+  {
+    "text": "The anxiety this may create for employees can be severe.",
+    "type": "simple",
+    "word_count": 10,
+    "source_essay": "essay-020",
+    "source_para": 1,
+    "source_topic": "Work"
+  },
+  {
+    "text": "While changing the practices noted above may not be wholly within the power of an employer, there is much they can do to make working conditions less stressful.",
+    "type": "complex",
+    "word_count": 28,
+    "source_essay": "essay-020",
+    "source_para": 2,
+    "source_topic": "Work"
+  },
+  {
+    "text": "One way is for employers to always be willing to listen with an open mind to issues that staff may be having.",
+    "type": "simple",
+    "word_count": 22,
+    "source_essay": "essay-020",
+    "source_para": 2,
+    "source_topic": "Work"
+  },
+  {
+    "text": "In a school, for instance, the employer would ensure that the person directly responsible for managing teachers conducted regular meetings in which anything could be raised and that any issues not resolved in such meetings were followed up speedily and with care.",
+    "type": "complex",
+    "word_count": 42,
+    "source_essay": "essay-020",
+    "source_para": 2,
+    "source_topic": "Work"
+  },
+  {
+    "text": "For a working environment to be as welcoming and productive as it can be, employers should also be equally the representatives of those they employ as they are representatives of those who have the ultimate say in the business, such as investors and shareholders.",
+    "type": "complex",
+    "word_count": 44,
+    "source_essay": "essay-020",
+    "source_para": 2,
+    "source_topic": "Work"
+  },
+  {
+    "text": "An employer who is willing to push back against their demands that, for example, staff need to work longer hours by suggesting that a four day week would in fact raise production levels, would, indeed, help those who work for him.",
+    "type": "complex",
+    "word_count": 41,
+    "source_essay": "essay-020",
+    "source_para": 2,
+    "source_topic": "Work"
+  },
+  {
+    "text": "Two key factors contribute to the hefty salaries of famous people.",
+    "type": "simple",
+    "word_count": 11,
+    "source_essay": "essay-021",
+    "source_para": 1,
+    "source_topic": "Money"
+  },
+  {
+    "text": "The first is that their talents tend to be unique.",
+    "type": "simple",
+    "word_count": 10,
+    "source_essay": "essay-021",
+    "source_para": 1,
+    "source_topic": "Money"
+  },
+  {
+    "text": "Stars like Oprah Winfrey or Lady Gaga are exceptionally talented, driven and industrious, which is why they have achieved such fame, and the pay check that accompanies it.",
+    "type": "mixed",
+    "word_count": 28,
+    "source_essay": "essay-021",
+    "source_para": 1,
+    "source_topic": "Money"
+  },
+  {
+    "text": "A politician simply could not fill an arena the way they can.",
+    "type": "simple",
+    "word_count": 12,
+    "source_essay": "essay-021",
+    "source_para": 1,
+    "source_topic": "Money"
+  },
+  {
+    "text": "The second reason for the wealth of celebrities is the income they generate for others.",
+    "type": "simple",
+    "word_count": 15,
+    "source_essay": "essay-021",
+    "source_para": 1,
+    "source_topic": "Money"
+  },
+  {
+    "text": "When Michael Jordan became the face of Nike, for instance, he was paid so well because his association brought more sales for the company.",
+    "type": "complex",
+    "word_count": 24,
+    "source_essay": "essay-021",
+    "source_para": 1,
+    "source_topic": "Money"
+  },
+  {
+    "text": "The greater the value a celebrity brings, the more they can earn.",
+    "type": "simple",
+    "word_count": 12,
+    "source_essay": "essay-021",
+    "source_para": 1,
+    "source_topic": "Money"
+  },
+  {
+    "text": "Although many envy the lifestyles of the rich and famous, I feel that the fact that celebrities earn more than politicians is a positive development.",
+    "type": "complex",
+    "word_count": 25,
+    "source_essay": "essay-021",
+    "source_para": 2,
+    "source_topic": "Money"
+  },
+  {
+    "text": "The main reason is aspiration.",
+    "type": "simple",
+    "word_count": 5,
+    "source_essay": "essay-021",
+    "source_para": 2,
+    "source_topic": "Money"
+  },
+  {
+    "text": "When young people look to sports stars, actors, singers or even reality stars like the Kardashians who have made millions from their business ventures, they can understand that anything is possible with hard work and dedication.",
+    "type": "complex",
+    "word_count": 36,
+    "source_essay": "essay-021",
+    "source_para": 2,
+    "source_topic": "Money"
+  },
+  {
+    "text": "When those stars also make a contribution to charities and social welfare, as most do, this too sends powerful message to the general public, and young people especially.",
+    "type": "mixed",
+    "word_count": 28,
+    "source_essay": "essay-021",
+    "source_para": 2,
+    "source_topic": "Money"
+  },
+  {
+    "text": "While politicians can also inspire us, I feel that successful, socially conscious celebs have more to offer.",
+    "type": "complex",
+    "word_count": 17,
+    "source_essay": "essay-021",
+    "source_para": 2,
+    "source_topic": "Money"
+  },
+  {
+    "text": "Many people claim that animals exist solely for our use and therefore, have few, if any, rights.",
+    "type": "complex",
+    "word_count": 17,
+    "source_essay": "essay-022",
+    "source_para": 1,
+    "source_topic": "Animals"
+  },
+  {
+    "text": "The food industry, for instance, relies on the mass production of animals, most of which are kept in cramped and sometimes appalling conditions, which sometimes amount to torture.",
+    "type": "complex",
+    "word_count": 28,
+    "source_essay": "essay-022",
+    "source_para": 1,
+    "source_topic": "Animals"
+  },
+  {
+    "text": "Since these animals are destined for slaughter anyway, some argue that their quality of life is irrelevant.",
+    "type": "complex",
+    "word_count": 17,
+    "source_essay": "essay-022",
+    "source_para": 1,
+    "source_topic": "Animals"
+  },
+  {
+    "text": "The medical, scientific and cosmetics industries also use animals as objects, conducting painful and often fatal experiments on them, with little regard for their rights.",
+    "type": "simple",
+    "word_count": 25,
+    "source_essay": "essay-022",
+    "source_para": 1,
+    "source_topic": "Animals"
+  },
+  {
+    "text": "Many people feel that the results of such tests are crucial to humankind and thus justify this inhumane treatment.",
+    "type": "simple",
+    "word_count": 19,
+    "source_essay": "essay-022",
+    "source_para": 1,
+    "source_topic": "Animals"
+  },
+  {
+    "text": "Despite this, however, the exploitation of animals must be reconsidered.",
+    "type": "mixed",
+    "word_count": 10,
+    "source_essay": "essay-022",
+    "source_para": 2,
+    "source_topic": "Animals"
+  },
+  {
+    "text": "As they are sentient beings, capable of feelings and relationships, they deserve more respect.",
+    "type": "complex",
+    "word_count": 14,
+    "source_essay": "essay-022",
+    "source_para": 2,
+    "source_topic": "Animals"
+  },
+  {
+    "text": "To achieve this, although veganism may not suit everyone, it is certainly possible for people to cut down on meat consumption or at least make more ethical choices.",
+    "type": "complex",
+    "word_count": 28,
+    "source_essay": "essay-022",
+    "source_para": 2,
+    "source_topic": "Animals"
+  },
+  {
+    "text": "Similarly, in medical research, the aim should be to reduce animal use, refine techniques, and to replace them with other means.",
+    "type": "compound",
+    "word_count": 21,
+    "source_essay": "essay-022",
+    "source_para": 2,
+    "source_topic": "Animals"
+  },
+  {
+    "text": "Given the range of alternatives available, the mistreatment of animals can no longer be justified.",
+    "type": "simple",
+    "word_count": 15,
+    "source_essay": "essay-022",
+    "source_para": 2,
+    "source_topic": "Animals"
+  },
+  {
+    "text": "Certainly, space exploration can bring about many positive impacts.",
+    "type": "simple",
+    "word_count": 9,
+    "source_essay": "essay-023",
+    "source_para": 1,
+    "source_topic": "Money"
+  },
+  {
+    "text": "Perhaps the most significant ones, ironically, are the by-products of the technological developments.",
+    "type": "simple",
+    "word_count": 13,
+    "source_essay": "essay-023",
+    "source_para": 1,
+    "source_topic": "Money"
+  },
+  {
+    "text": "Everyday items such as sunglasses, non-stick cookware, and important medical devices like pacemakers all came about thanks to research and development in the space field.",
+    "type": "compound",
+    "word_count": 25,
+    "source_essay": "essay-023",
+    "source_para": 1,
+    "source_topic": "Money"
+  },
+  {
+    "text": "Another plus is the benefit to humanity of finding another habitable planet.",
+    "type": "simple",
+    "word_count": 12,
+    "source_essay": "essay-023",
+    "source_para": 1,
+    "source_topic": "Money"
+  },
+  {
+    "text": "Indeed, if we continue to deplete our natural resources and pollute our own environment, the money spent on discovering a new planet, or on creating liveable spaces on Mars, for instance, will be well worth it.",
+    "type": "mixed",
+    "word_count": 36,
+    "source_essay": "essay-023",
+    "source_para": 1,
+    "source_topic": "Money"
+  },
+  {
+    "text": "Despite these benefits, there are also serious negative outcomes that can result from state spending on space research.",
+    "type": "complex",
+    "word_count": 18,
+    "source_essay": "essay-023",
+    "source_para": 2,
+    "source_topic": "Money"
+  },
+  {
+    "text": "The primary one is the diversion of funds from vital public services like healthcare and education.",
+    "type": "simple",
+    "word_count": 16,
+    "source_essay": "essay-023",
+    "source_para": 2,
+    "source_topic": "Money"
+  },
+  {
+    "text": "In the USA, for example, despite rocketing numbers of homeless people, and prohibitively expensive hospital care, the government continues to pour money into space programs.",
+    "type": "mixed",
+    "word_count": 25,
+    "source_essay": "essay-023",
+    "source_para": 2,
+    "source_topic": "Money"
+  },
+  {
+    "text": "There is also the problem of space junk.",
+    "type": "simple",
+    "word_count": 8,
+    "source_essay": "essay-023",
+    "source_para": 2,
+    "source_topic": "Money"
+  },
+  {
+    "text": "When rockets and satellites launch and fall into disuse, they become part of the litter that is already cluttering up space.",
+    "type": "complex",
+    "word_count": 21,
+    "source_essay": "essay-023",
+    "source_para": 2,
+    "source_topic": "Money"
+  },
+  {
+    "text": "This debris poses potential risks to future missions as well as simply contributing to the global pollution problem.",
+    "type": "complex",
+    "word_count": 18,
+    "source_essay": "essay-023",
+    "source_para": 2,
+    "source_topic": "Money"
+  },
+  {
+    "text": "The benefits of having only one or two children are obvious.",
+    "type": "simple",
+    "word_count": 11,
+    "source_essay": "essay-024",
+    "source_para": 1,
+    "source_topic": "Family"
+  },
+  {
+    "text": "On a very basic level, a smaller family means more money and more time together.",
+    "type": "simple",
+    "word_count": 15,
+    "source_essay": "essay-024",
+    "source_para": 1,
+    "source_topic": "Family"
+  },
+  {
+    "text": "Whereas parents with many children tend to spend their days juggling school drop-offs, and extracurricular activities, not to mention work and running a home, those with only one or two have far fewer demands on their time and wallets.",
+    "type": "mixed",
+    "word_count": 39,
+    "source_essay": "essay-024",
+    "source_para": 1,
+    "source_topic": "Family"
+  },
+  {
+    "text": "From the child's point of view, if they are an only child or have just one sibling, they will receive far more attention and emotional support than if they were competing with four or five siblings for that attention.",
+    "type": "complex",
+    "word_count": 39,
+    "source_essay": "essay-024",
+    "source_para": 1,
+    "source_topic": "Family"
+  },
+  {
+    "text": "This can have long-term benefits not just for their self-esteem, but in their academic and professional lives too.",
+    "type": "compound",
+    "word_count": 18,
+    "source_essay": "essay-024",
+    "source_para": 1,
+    "source_topic": "Family"
+  },
+  {
+    "text": "Despite these positives, many people still consider a small family problematic.",
+    "type": "complex",
+    "word_count": 11,
+    "source_essay": "essay-024",
+    "source_para": 2,
+    "source_topic": "Family"
+  },
+  {
+    "text": "From the parents' viewpoint, there may be concern for their own welfare in old age.",
+    "type": "simple",
+    "word_count": 15,
+    "source_essay": "essay-024",
+    "source_para": 2,
+    "source_topic": "Family"
+  },
+  {
+    "text": "When they get older and start requiring physical assistance, there is a risk when a couple has no children or only one to care for them.",
+    "type": "complex",
+    "word_count": 26,
+    "source_essay": "essay-024",
+    "source_para": 2,
+    "source_topic": "Family"
+  },
+  {
+    "text": "In my country, such people often end up in state-owned aged care facilities, which can be impersonal and even isolating.",
+    "type": "complex",
+    "word_count": 20,
+    "source_essay": "essay-024",
+    "source_para": 2,
+    "source_topic": "Family"
+  },
+  {
+    "text": "Another concern some have with one child families is that parents are creating selfish ego-maniacs.",
+    "type": "simple",
+    "word_count": 15,
+    "source_essay": "essay-024",
+    "source_para": 2,
+    "source_topic": "Family"
+  },
+  {
+    "text": "Rather than benefiting from parents' attention as mentioned above, these youngsters can be over-parented and potentially grow up spoiled and entitled.",
+    "type": "simple",
+    "word_count": 21,
+    "source_essay": "essay-024",
+    "source_para": 2,
+    "source_topic": "Family"
+  },
+  {
+    "text": "There are several key benefits stemming from the use of electronic devices in an educational context.",
+    "type": "simple",
+    "word_count": 16,
+    "source_essay": "essay-025",
+    "source_para": 1,
+    "source_topic": "Education"
+  },
+  {
+    "text": "The main one is the greater access it allows.",
+    "type": "simple",
+    "word_count": 9,
+    "source_essay": "essay-025",
+    "source_para": 1,
+    "source_topic": "Education"
+  },
+  {
+    "text": "Whereas in the past students had to physically attend lectures and tutorials, these days everything can be done remotely and even asynchronously.",
+    "type": "complex",
+    "word_count": 22,
+    "source_essay": "essay-025",
+    "source_para": 1,
+    "source_topic": "Education"
+  },
+  {
+    "text": "This means that education is more available and flexible than ever.",
+    "type": "simple",
+    "word_count": 11,
+    "source_essay": "essay-025",
+    "source_para": 1,
+    "source_topic": "Education"
+  },
+  {
+    "text": "Another key advantage is that computers allow teachers to better meet learners' needs.",
+    "type": "simple",
+    "word_count": 13,
+    "source_essay": "essay-025",
+    "source_para": 1,
+    "source_topic": "Education"
+  },
+  {
+    "text": "As content can be delivered using video, audio and even virtual reality nowadays, not to mention students' access to remedial and extension activities online, engagement and success rates are demonstrably higher.",
+    "type": "complex",
+    "word_count": 31,
+    "source_essay": "essay-025",
+    "source_para": 1,
+    "source_topic": "Education"
+  },
+  {
+    "text": "There are, however, some drawbacks associated with the increasing reliance on computers.",
+    "type": "compound",
+    "word_count": 12,
+    "source_essay": "essay-025",
+    "source_para": 2,
+    "source_topic": "Education"
+  },
+  {
+    "text": "A decrease in face-to-face interaction is one of them.",
+    "type": "simple",
+    "word_count": 9,
+    "source_essay": "essay-025",
+    "source_para": 2,
+    "source_topic": "Education"
+  },
+  {
+    "text": "With more and more people studying remotely, there are fewer opportunities for interaction between students and their peers or teachers, which can be problematic for young people in particular.",
+    "type": "complex",
+    "word_count": 29,
+    "source_essay": "essay-025",
+    "source_para": 2,
+    "source_topic": "Education"
+  },
+  {
+    "text": "In addition to this social concern, there is the issue of cheating and plagiarism.",
+    "type": "simple",
+    "word_count": 14,
+    "source_essay": "essay-025",
+    "source_para": 2,
+    "source_topic": "Education"
+  },
+  {
+    "text": "Since most university work, including assessment, is now done without supervision, it is not difficult for students pay others to write in their place, and it can be difficult to detect.",
+    "type": "mixed",
+    "word_count": 31,
+    "source_essay": "essay-025",
+    "source_para": 2,
+    "source_topic": "Education"
+  },
+  {
+    "text": "Such actions can undermine the integrity of the qualification and the institution.",
+    "type": "simple",
+    "word_count": 12,
+    "source_essay": "essay-025",
+    "source_para": 2,
+    "source_topic": "Education"
+  },
+  {
+    "text": "Those who oppose gaming have strong points to make.",
+    "type": "complex",
+    "word_count": 9,
+    "source_essay": "essay-026",
+    "source_para": 1,
+    "source_topic": "Family"
+  },
+  {
+    "text": "The first, which is unrelated to the content of the games, is simply the impact on health of spending hours on a console or online.",
+    "type": "complex",
+    "word_count": 25,
+    "source_essay": "essay-026",
+    "source_para": 1,
+    "source_topic": "Family"
+  },
+  {
+    "text": "As young people have difficulty with moderation, unless a parent is supervising, they could end up spending over five hours per day doing this.",
+    "type": "complex",
+    "word_count": 24,
+    "source_essay": "essay-026",
+    "source_para": 1,
+    "source_topic": "Family"
+  },
+  {
+    "text": "Obviously, obesity, diabetes and posture problems can stem from such sedentary behaviour.",
+    "type": "simple",
+    "word_count": 12,
+    "source_essay": "essay-026",
+    "source_para": 1,
+    "source_topic": "Family"
+  },
+  {
+    "text": "The other issue is the social aspect.",
+    "type": "simple",
+    "word_count": 7,
+    "source_essay": "essay-026",
+    "source_para": 1,
+    "source_topic": "Family"
+  },
+  {
+    "text": "Since many games are played solo, opponents argue, there is little chance for interaction with peers.",
+    "type": "complex",
+    "word_count": 16,
+    "source_essay": "essay-026",
+    "source_para": 1,
+    "source_topic": "Family"
+  },
+  {
+    "text": "This lack of engagement during formative years can have long-term impacts on young people's ability to communicate, cooperate and collaborate.",
+    "type": "simple",
+    "word_count": 20,
+    "source_essay": "essay-026",
+    "source_para": 1,
+    "source_topic": "Family"
+  },
+  {
+    "text": "Nevertheless, others claim that computer games can be beneficial.",
+    "type": "simple",
+    "word_count": 9,
+    "source_essay": "essay-026",
+    "source_para": 2,
+    "source_topic": "Family"
+  },
+  {
+    "text": "They suggest that creativity, problem-solving and even teamwork are by-products of many modern games.",
+    "type": "simple",
+    "word_count": 14,
+    "source_essay": "essay-026",
+    "source_para": 2,
+    "source_topic": "Family"
+  },
+  {
+    "text": "Minecraft, for instance, requires players to create an entire world on their own, to 'survive' attacks, and also, when played online, to work with others to achieve goals.",
+    "type": "mixed",
+    "word_count": 28,
+    "source_essay": "essay-026",
+    "source_para": 2,
+    "source_topic": "Family"
+  },
+  {
+    "text": "These skills are valuable beyond gaming, and even beyond schooling, into the workforce.",
+    "type": "compound",
+    "word_count": 13,
+    "source_essay": "essay-026",
+    "source_para": 2,
+    "source_topic": "Family"
+  },
+  {
+    "text": "As long as parents are careful to monitor what games their child is playing, there can be positive outcomes.",
+    "type": "complex",
+    "word_count": 19,
+    "source_essay": "essay-026",
+    "source_para": 2,
+    "source_topic": "Family"
+  },
+  {
+    "text": "For many, the solution to crime seems to be simple; lock criminals up for longer.",
+    "type": "simple",
+    "word_count": 15,
+    "source_essay": "essay-027",
+    "source_para": 1,
+    "source_topic": "Crime"
+  },
+  {
+    "text": "They claim that by removing dangerous people from society, citizens are safer.",
+    "type": "simple",
+    "word_count": 12,
+    "source_essay": "essay-027",
+    "source_para": 1,
+    "source_topic": "Crime"
+  },
+  {
+    "text": "Indeed, when it comes to murderers or violent offenders who show no remorse for their crimes, such as Martin Bryant, a convicted Australian mass murderer, it does seem logical to just throw away the key.",
+    "type": "complex",
+    "word_count": 35,
+    "source_essay": "essay-027",
+    "source_para": 1,
+    "source_topic": "Crime"
+  },
+  {
+    "text": "Supporters of this method argue that doing so teaches criminals a lesson, protects society, and serves to deter others as well.",
+    "type": "compound",
+    "word_count": 21,
+    "source_essay": "essay-027",
+    "source_para": 1,
+    "source_topic": "Crime"
+  },
+  {
+    "text": "Another group, however, feel that extending imprisonment is not the answer, and that other methods would be more effective.",
+    "type": "compound",
+    "word_count": 19,
+    "source_essay": "essay-027",
+    "source_para": 2,
+    "source_topic": "Crime"
+  },
+  {
+    "text": "For them, it is more important to treat the underlying causes of the offences.",
+    "type": "simple",
+    "word_count": 14,
+    "source_essay": "essay-027",
+    "source_para": 2,
+    "source_topic": "Crime"
+  },
+  {
+    "text": "If a criminal is addicted to drugs, for instance, simply putting them in prison will not prevent reoffending upon release.",
+    "type": "complex",
+    "word_count": 20,
+    "source_essay": "essay-027",
+    "source_para": 2,
+    "source_topic": "Crime"
+  },
+  {
+    "text": "Instead, the prison program should include substance abuse counselling and rehabilitation.",
+    "type": "simple",
+    "word_count": 11,
+    "source_essay": "essay-027",
+    "source_para": 2,
+    "source_topic": "Crime"
+  },
+  {
+    "text": "When a prisoner is helped to overcome addiction, manage mental illness or control anger issues, they are much less likely to reoffend upon release.",
+    "type": "complex",
+    "word_count": 24,
+    "source_essay": "essay-027",
+    "source_para": 2,
+    "source_topic": "Crime"
+  },
+  {
+    "text": "In my view, I agree that alternative measures would be more effective in most situations.",
+    "type": "simple",
+    "word_count": 15,
+    "source_essay": "essay-027",
+    "source_para": 3,
+    "source_topic": "Crime"
+  },
+  {
+    "text": "Given the high recidivism rates of ex-prisoners, over 80% in some areas, it is clear that what happens inside prison is important.",
+    "type": "simple",
+    "word_count": 22,
+    "source_essay": "essay-027",
+    "source_para": 3,
+    "source_topic": "Crime"
+  },
+  {
+    "text": "For the majority of offenders, rehabilitation and education while incarcerated could change the course of their lives.",
+    "type": "complex",
+    "word_count": 17,
+    "source_essay": "essay-027",
+    "source_para": 3,
+    "source_topic": "Crime"
+  },
+  {
+    "text": "Indeed, these have proven extremely effective in countries like Norway, where crime and reoffending rates have plummeted as a result.",
+    "type": "complex",
+    "word_count": 20,
+    "source_essay": "essay-027",
+    "source_para": 3,
+    "source_topic": "Crime"
+  },
+  {
+    "text": "While such programs may be expensive, and perhaps unpopular with taxpayers, ultimately, reforming criminals can benefit society as a whole.",
+    "type": "mixed",
+    "word_count": 20,
+    "source_essay": "essay-027",
+    "source_para": 3,
+    "source_topic": "Crime"
+  },
+  {
+    "text": "Certainly, the proliferation of internet shopping has had some negative effects.",
+    "type": "simple",
+    "word_count": 11,
+    "source_essay": "essay-028",
+    "source_para": 1,
+    "source_topic": "Science/Technology"
+  },
+  {
+    "text": "The first is on retail employment.",
+    "type": "simple",
+    "word_count": 6,
+    "source_essay": "essay-028",
+    "source_para": 1,
+    "source_topic": "Science/Technology"
+  },
+  {
+    "text": "Indeed, as people opt to buy their goods online, a large number of physical stores have closed down, and in turn, the number of people employed there has plummeted.",
+    "type": "compound",
+    "word_count": 29,
+    "source_essay": "essay-028",
+    "source_para": 1,
+    "source_topic": "Science/Technology"
+  },
+  {
+    "text": "In addition to the impact on retail staff, customers too may feel limited by the online experience.",
+    "type": "simple",
+    "word_count": 17,
+    "source_essay": "essay-028",
+    "source_para": 1,
+    "source_topic": "Science/Technology"
+  },
+  {
+    "text": "Unable to try items on and sometimes faced with difficult returns policies, some buyers are unhappy with the online experience.",
+    "type": "simple",
+    "word_count": 20,
+    "source_essay": "essay-028",
+    "source_para": 1,
+    "source_topic": "Science/Technology"
+  },
+  {
+    "text": "Despite these issues, the advantages to individuals and businesses are far more significant.",
+    "type": "complex",
+    "word_count": 13,
+    "source_essay": "essay-028",
+    "source_para": 2,
+    "source_topic": "Science/Technology"
+  },
+  {
+    "text": "While some customers may feel inconvenienced, there is no doubt that the vast majority find the online experience far superior.",
+    "type": "complex",
+    "word_count": 20,
+    "source_essay": "essay-028",
+    "source_para": 2,
+    "source_topic": "Science/Technology"
+  },
+  {
+    "text": "There is an infinite variety, the prices are generally cheaper, and most stores now offer convenient options to return or exchange.",
+    "type": "compound",
+    "word_count": 21,
+    "source_essay": "essay-028",
+    "source_para": 2,
+    "source_topic": "Science/Technology"
+  },
+  {
+    "text": "For the customer, this new retail world is unparalleled.",
+    "type": "simple",
+    "word_count": 9,
+    "source_essay": "essay-028",
+    "source_para": 2,
+    "source_topic": "Science/Technology"
+  },
+  {
+    "text": "For businesses too, there are massive savings to be had by closing physical stores and moving online.",
+    "type": "simple",
+    "word_count": 17,
+    "source_essay": "essay-028",
+    "source_para": 2,
+    "source_topic": "Science/Technology"
+  },
+  {
+    "text": "Less money is required for rent and staffing, and their market is no longer limited to the local area.",
+    "type": "compound",
+    "word_count": 19,
+    "source_essay": "essay-028",
+    "source_para": 2,
+    "source_topic": "Science/Technology"
+  },
+  {
+    "text": "Indeed, online shopping represents a global opportunity.",
+    "type": "simple",
+    "word_count": 7,
+    "source_essay": "essay-028",
+    "source_para": 2,
+    "source_topic": "Science/Technology"
+  },
+  {
+    "text": "There are various reasons why some might believe that homeschooling is best for a child.",
+    "type": "simple",
+    "word_count": 15,
+    "source_essay": "essay-029",
+    "source_para": 1,
+    "source_topic": "Culture and Society"
+  },
+  {
+    "text": "The primary ones may be the convenience and comfort of learning in the home environment.",
+    "type": "simple",
+    "word_count": 15,
+    "source_essay": "essay-029",
+    "source_para": 1,
+    "source_topic": "Culture and Society"
+  },
+  {
+    "text": "Indeed, parents may feel that their child can learn more effectively when they feel safe and are less distracted by others.",
+    "type": "complex",
+    "word_count": 21,
+    "source_essay": "essay-029",
+    "source_para": 1,
+    "source_topic": "Culture and Society"
+  },
+  {
+    "text": "A further reason is that parents may believe that they are more aware of what their child needs, as well as his or her strengths and weaknesses.",
+    "type": "complex",
+    "word_count": 27,
+    "source_essay": "essay-029",
+    "source_para": 1,
+    "source_topic": "Culture and Society"
+  },
+  {
+    "text": "If, for instance, the child needs remedial reading help, the parent can concentrate on this whereas in a large class, such a matter may go unnoticed.",
+    "type": "complex",
+    "word_count": 26,
+    "source_essay": "essay-029",
+    "source_para": 1,
+    "source_topic": "Culture and Society"
+  },
+  {
+    "text": "Clearly, there are some attractions to homeschooling.",
+    "type": "simple",
+    "word_count": 7,
+    "source_essay": "essay-029",
+    "source_para": 1,
+    "source_topic": "Culture and Society"
+  },
+  {
+    "text": "In my view, however, traditional education is more beneficial.",
+    "type": "compound",
+    "word_count": 9,
+    "source_essay": "essay-029",
+    "source_para": 2,
+    "source_topic": "Culture and Society"
+  },
+  {
+    "text": "This is primarily because attending school involves more than just learning different subjects.",
+    "type": "complex",
+    "word_count": 13,
+    "source_essay": "essay-029",
+    "source_para": 2,
+    "source_topic": "Culture and Society"
+  },
+  {
+    "text": "As humans are social beings, there is no better place to learn to interact with others.",
+    "type": "complex",
+    "word_count": 16,
+    "source_essay": "essay-029",
+    "source_para": 2,
+    "source_topic": "Culture and Society"
+  },
+  {
+    "text": "Schools are places where friendships are formed and where young people learn to socialise and collaborate with their peers by, for example, joining a club or team and participating in extracurricular activities.",
+    "type": "complex",
+    "word_count": 32,
+    "source_essay": "essay-029",
+    "source_para": 2,
+    "source_topic": "Culture and Society"
+  },
+  {
+    "text": "Even though homeschooled children may have their family close by, this is no substitute for the diverse and strong network that can be built at school.",
+    "type": "complex",
+    "word_count": 26,
+    "source_essay": "essay-029",
+    "source_para": 2,
+    "source_topic": "Culture and Society"
+  },
+  {
+    "text": "The main reason people turn to social media for their news is the convenience.",
+    "type": "simple",
+    "word_count": 14,
+    "source_essay": "essay-030",
+    "source_para": 1,
+    "source_topic": "Communication"
+  },
+  {
+    "text": "Whereas in the past, it was necessary to wait for the TV news at 6pm or for the newspaper to be delivered, now this information is in our hands instantly via the apps on our phones.",
+    "type": "complex",
+    "word_count": 36,
+    "source_essay": "essay-030",
+    "source_para": 1,
+    "source_topic": "Communication"
+  },
+  {
+    "text": "As soon as we click on Facebook or Twitter, we see the latest headlines and developments without even having to search for them.",
+    "type": "complex",
+    "word_count": 23,
+    "source_essay": "essay-030",
+    "source_para": 1,
+    "source_topic": "Communication"
+  },
+  {
+    "text": "This allows us to be not only better informed about local current affairs, but about global events too.",
+    "type": "compound",
+    "word_count": 18,
+    "source_essay": "essay-030",
+    "source_para": 1,
+    "source_topic": "Communication"
+  },
+  {
+    "text": "The more convenient it is to access this news on social media, the more people will rely on it.",
+    "type": "simple",
+    "word_count": 19,
+    "source_essay": "essay-030",
+    "source_para": 1,
+    "source_topic": "Communication"
+  },
+  {
+    "text": "Despite the convenience, however, this trend has a worrying impact.",
+    "type": "mixed",
+    "word_count": 10,
+    "source_essay": "essay-030",
+    "source_para": 2,
+    "source_topic": "Communication"
+  },
+  {
+    "text": "This is because the information we receive is heavily biased.",
+    "type": "complex",
+    "word_count": 10,
+    "source_essay": "essay-030",
+    "source_para": 2,
+    "source_topic": "Communication"
+  },
+  {
+    "text": "As our social media feeds are increasingly personalised by an algorithm, we tend to be served only the news and stories that appeal to us.",
+    "type": "complex",
+    "word_count": 25,
+    "source_essay": "essay-030",
+    "source_para": 2,
+    "source_topic": "Communication"
+  },
+  {
+    "text": "This causes our feeds to be very limited.",
+    "type": "simple",
+    "word_count": 8,
+    "source_essay": "essay-030",
+    "source_para": 2,
+    "source_topic": "Communication"
+  },
+  {
+    "text": "If you are politically left-wing, you will probably only encounter stories that align with those biases.",
+    "type": "complex",
+    "word_count": 16,
+    "source_essay": "essay-030",
+    "source_para": 2,
+    "source_topic": "Communication"
+  },
+  {
+    "text": "As a result, we are blocked from engaging with views contrary to our own, which can give rise to greater prejudice and ignorance.",
+    "type": "complex",
+    "word_count": 23,
+    "source_essay": "essay-030",
+    "source_para": 2,
+    "source_topic": "Communication"
+  },
+  {
+    "text": "This development can offer a number of advantages, both to children and to their parents.",
+    "type": "simple",
+    "word_count": 15,
+    "source_essay": "essay-031",
+    "source_para": 1,
+    "source_topic": "Family"
+  },
+  {
+    "text": "The main one is financial.",
+    "type": "simple",
+    "word_count": 5,
+    "source_essay": "essay-031",
+    "source_para": 1,
+    "source_topic": "Family"
+  },
+  {
+    "text": "Buying a property, or even renting one, is becoming prohibitively expensive.",
+    "type": "compound",
+    "word_count": 11,
+    "source_essay": "essay-031",
+    "source_para": 1,
+    "source_topic": "Family"
+  },
+  {
+    "text": "As a result, a new homeowner is often faced with unmanageable mortgage payments.",
+    "type": "complex",
+    "word_count": 13,
+    "source_essay": "essay-031",
+    "source_para": 1,
+    "source_topic": "Family"
+  },
+  {
+    "text": "By living at home longer, young people avoid paying rent and thus save money, allowing them to build towards a place of their own without the crippling debt.",
+    "type": "simple",
+    "word_count": 28,
+    "source_essay": "essay-031",
+    "source_para": 1,
+    "source_topic": "Family"
+  },
+  {
+    "text": "From the parents' perspective, there are also benefits.",
+    "type": "simple",
+    "word_count": 8,
+    "source_essay": "essay-031",
+    "source_para": 1,
+    "source_topic": "Family"
+  },
+  {
+    "text": "They may enjoy having their child around for company or extra help with household chores.",
+    "type": "simple",
+    "word_count": 15,
+    "source_essay": "essay-031",
+    "source_para": 1,
+    "source_topic": "Family"
+  },
+  {
+    "text": "For some families, this extra time together can strengthen the bonds between generations.",
+    "type": "simple",
+    "word_count": 13,
+    "source_essay": "essay-031",
+    "source_para": 1,
+    "source_topic": "Family"
+  },
+  {
+    "text": "The downsides, however, outweigh the benefits.",
+    "type": "compound",
+    "word_count": 6,
+    "source_essay": "essay-031",
+    "source_para": 2,
+    "source_topic": "Family"
+  },
+  {
+    "text": "It can have negative financial implications for parents, particularly those who have retired or are planning to retire.",
+    "type": "complex",
+    "word_count": 18,
+    "source_essay": "essay-031",
+    "source_para": 2,
+    "source_topic": "Family"
+  },
+  {
+    "text": "Rather than providing for just one or two people, parents with adult children at home often have to support them as well, resulting in increased costs for utilities such as water and electricity.",
+    "type": "complex",
+    "word_count": 33,
+    "source_essay": "essay-031",
+    "source_para": 2,
+    "source_topic": "Family"
+  },
+  {
+    "text": "Even if the child contributes towards the upkeep of the house, this is unlikely to compensate fully for the expenses.",
+    "type": "complex",
+    "word_count": 20,
+    "source_essay": "essay-031",
+    "source_para": 2,
+    "source_topic": "Family"
+  },
+  {
+    "text": "Another issue is that in societies like Australia that value independence highly, parents may also feel a sense of failure.",
+    "type": "simple",
+    "word_count": 20,
+    "source_essay": "essay-031",
+    "source_para": 2,
+    "source_topic": "Family"
+  },
+  {
+    "text": "The longer children must stay with their parents, the slower they will grow up.",
+    "type": "simple",
+    "word_count": 14,
+    "source_essay": "essay-031",
+    "source_para": 2,
+    "source_topic": "Family"
+  },
+  {
+    "text": "There are a number of significant benefits to charging an entrance fee.",
+    "type": "simple",
+    "word_count": 12,
+    "source_essay": "essay-032",
+    "source_para": 1,
+    "source_topic": "Art"
+  },
+  {
+    "text": "As the main aim of a museum is to promote the enjoyment and sharing of cultural heritage, artefacts must be maintained carefully so they are unaffected by conditions which may impact their value, such as light, dust and accidental damage.",
+    "type": "complex",
+    "word_count": 40,
+    "source_essay": "essay-032",
+    "source_para": 1,
+    "source_topic": "Art"
+  },
+  {
+    "text": "Equipment and the hiring of professionals to care for and protect these valuable items would not always be possible without money from the public.",
+    "type": "simple",
+    "word_count": 24,
+    "source_essay": "essay-032",
+    "source_para": 1,
+    "source_topic": "Art"
+  },
+  {
+    "text": "Another point is that many museums do not have stable financial support.",
+    "type": "simple",
+    "word_count": 12,
+    "source_essay": "essay-032",
+    "source_para": 1,
+    "source_topic": "Art"
+  },
+  {
+    "text": "Those in the UK, for instance, had their funding slashed recently as a result of government policy changes.",
+    "type": "simple",
+    "word_count": 18,
+    "source_essay": "essay-032",
+    "source_para": 1,
+    "source_topic": "Art"
+  },
+  {
+    "text": "Clearly, without admission fees, many institutions would not be able to survive.",
+    "type": "simple",
+    "word_count": 12,
+    "source_essay": "essay-032",
+    "source_para": 1,
+    "source_topic": "Art"
+  },
+  {
+    "text": "Admittedly, however, charging an admission fee may have some negative effects.",
+    "type": "compound",
+    "word_count": 11,
+    "source_essay": "essay-032",
+    "source_para": 2,
+    "source_topic": "Art"
+  },
+  {
+    "text": "From the visitors' perspective, this charge may deter them from visiting in the first place.",
+    "type": "simple",
+    "word_count": 15,
+    "source_essay": "essay-032",
+    "source_para": 2,
+    "source_topic": "Art"
+  },
+  {
+    "text": "If the fee were $20, families, low-income earners and students may not be able to afford it.",
+    "type": "complex",
+    "word_count": 17,
+    "source_essay": "essay-032",
+    "source_para": 2,
+    "source_topic": "Art"
+  },
+  {
+    "text": "In terms of the museum itself, this drop in visitor numbers could affect their ability to employ staff, host exhibitions and in some cases may even result in closure.",
+    "type": "simple",
+    "word_count": 29,
+    "source_essay": "essay-032",
+    "source_para": 2,
+    "source_topic": "Art"
+  },
+  {
+    "text": "While such concerns are valid, most museums do keep their prices low or offer discounts to prevent these scenarios.",
+    "type": "complex",
+    "word_count": 19,
+    "source_essay": "essay-032",
+    "source_para": 2,
+    "source_topic": "Art"
+  },
+  {
+    "text": "Advocates of zoos claim that they are an indispensable tool in raising awareness of environmental issues and fighting species extinction.",
+    "type": "simple",
+    "word_count": 20,
+    "source_essay": "essay-033",
+    "source_para": 1,
+    "source_topic": "Animals"
+  },
+  {
+    "text": "Indeed, many zoos are engaged in captive breeding programs of endangered animals in order to provide a safety net for dwindling wild populations.",
+    "type": "complex",
+    "word_count": 23,
+    "source_essay": "essay-033",
+    "source_para": 1,
+    "source_topic": "Animals"
+  },
+  {
+    "text": "In Australia, where the Tasmanian Devil population has been decimated by a contagious disease in recent years, Victorian zoos are breeding healthy Devils to bolster the numbers.",
+    "type": "complex",
+    "word_count": 27,
+    "source_essay": "essay-033",
+    "source_para": 1,
+    "source_topic": "Animals"
+  },
+  {
+    "text": "Such programs, supporters claim, also help to educate the public and lead them towards more sustainable lives.",
+    "type": "simple",
+    "word_count": 17,
+    "source_essay": "essay-033",
+    "source_para": 1,
+    "source_topic": "Animals"
+  },
+  {
+    "text": "In other words, contact encourages activism, in their view.",
+    "type": "simple",
+    "word_count": 9,
+    "source_essay": "essay-033",
+    "source_para": 1,
+    "source_topic": "Animals"
+  },
+  {
+    "text": "Despite these arguments, others, myself included, feel that keeping animals in captivity is unacceptable.",
+    "type": "complex",
+    "word_count": 14,
+    "source_essay": "essay-033",
+    "source_para": 2,
+    "source_topic": "Animals"
+  },
+  {
+    "text": "Even though the Tasmanian Devils may thrive in captivity, most animals, particularly large wide-roaming species like lions and elephants, struggle to reproduce.",
+    "type": "complex",
+    "word_count": 22,
+    "source_essay": "essay-033",
+    "source_para": 2,
+    "source_topic": "Animals"
+  },
+  {
+    "text": "For those that do, their life is spent in small enclosures with limited stimulation and little to no chance of ever returning to the wild.",
+    "type": "simple",
+    "word_count": 25,
+    "source_essay": "essay-033",
+    "source_para": 2,
+    "source_topic": "Animals"
+  },
+  {
+    "text": "In terms of education, there is no evidence that seeing a captive animal leads to any meaningful shift in behaviour or attitudes.",
+    "type": "simple",
+    "word_count": 22,
+    "source_essay": "essay-033",
+    "source_para": 2,
+    "source_topic": "Animals"
+  },
+  {
+    "text": "Clearly, zoo supporters' claims are unfounded.",
+    "type": "simple",
+    "word_count": 6,
+    "source_essay": "essay-033",
+    "source_para": 2,
+    "source_topic": "Animals"
+  },
+  {
+    "text": "From the businesses' perspective, there are two key benefits stemming from these flexible working arrangements.",
+    "type": "simple",
+    "word_count": 15,
+    "source_essay": "essay-034",
+    "source_para": 1,
+    "source_topic": "Science/Technology"
+  },
+  {
+    "text": "The first is a more productive workforce.",
+    "type": "simple",
+    "word_count": 7,
+    "source_essay": "essay-034",
+    "source_para": 1,
+    "source_topic": "Science/Technology"
+  },
+  {
+    "text": "Indeed, the recent isolation regulations of COVID-19 have proven beyond doubt that people can work even more efficiently and effectively from home.",
+    "type": "simple",
+    "word_count": 22,
+    "source_essay": "essay-034",
+    "source_para": 1,
+    "source_topic": "Science/Technology"
+  },
+  {
+    "text": "The office, it seems, is actually a distractor to many.",
+    "type": "simple",
+    "word_count": 10,
+    "source_essay": "essay-034",
+    "source_para": 1,
+    "source_topic": "Science/Technology"
+  },
+  {
+    "text": "The other advantage for a company is that working from home means employees can be recruited globally, not just within commuting distance from work.",
+    "type": "simple",
+    "word_count": 24,
+    "source_essay": "essay-034",
+    "source_para": 1,
+    "source_topic": "Science/Technology"
+  },
+  {
+    "text": "In other words, if a stellar marketing manager lives on the other side of the world, and is the best fit for the role, there is no reason not to hire them.",
+    "type": "mixed",
+    "word_count": 32,
+    "source_essay": "essay-034",
+    "source_para": 1,
+    "source_topic": "Science/Technology"
+  },
+  {
+    "text": "For the workers themselves the benefits abound.",
+    "type": "simple",
+    "word_count": 7,
+    "source_essay": "essay-034",
+    "source_para": 2,
+    "source_topic": "Science/Technology"
+  },
+  {
+    "text": "Chief among these is the ability to balance home and work life.",
+    "type": "simple",
+    "word_count": 12,
+    "source_essay": "essay-034",
+    "source_para": 2,
+    "source_topic": "Science/Technology"
+  },
+  {
+    "text": "Whereas, in the past, a typical working parent had to wake up early, prepare lunches, drive children to school, continue on to work, put in the 8-10 hours in the office before returning home to cook dinner, working from home reduces this load.",
+    "type": "complex",
+    "word_count": 43,
+    "source_essay": "essay-034",
+    "source_para": 2,
+    "source_topic": "Science/Technology"
+  },
+  {
+    "text": "A further plus is the flexibility the situation affords.",
+    "type": "simple",
+    "word_count": 9,
+    "source_essay": "essay-034",
+    "source_para": 2,
+    "source_topic": "Science/Technology"
+  },
+  {
+    "text": "Without the need to be present in office hours, workers can complete their tasks at a time that suits them, whether it is midnight or midday.",
+    "type": "complex",
+    "word_count": 26,
+    "source_essay": "essay-034",
+    "source_para": 2,
+    "source_topic": "Science/Technology"
+  },
+  {
+    "text": "This freedom not only improves the quality of their work, but of their life as well.",
+    "type": "compound",
+    "word_count": 16,
+    "source_essay": "essay-034",
+    "source_para": 2,
+    "source_topic": "Science/Technology"
+  },
+  {
+    "text": "Certain features of modern society tend to induce stress.",
+    "type": "simple",
+    "word_count": 9,
+    "source_essay": "essay-035",
+    "source_para": 1,
+    "source_topic": "Culture and Society"
+  },
+  {
+    "text": "One is the stream of information about local and world events bombarding us daily.",
+    "type": "simple",
+    "word_count": 14,
+    "source_essay": "essay-035",
+    "source_para": 1,
+    "source_topic": "Culture and Society"
+  },
+  {
+    "text": "The internet and, more recently, smartphones have made such events inescapable.",
+    "type": "simple",
+    "word_count": 11,
+    "source_essay": "essay-035",
+    "source_para": 1,
+    "source_topic": "Culture and Society"
+  },
+  {
+    "text": "These constant notifications about a friend's personal crisis or a natural disaster somewhere in the world can elicit feelings of helplessness and, in turn, anxiety.",
+    "type": "simple",
+    "word_count": 25,
+    "source_essay": "essay-035",
+    "source_para": 1,
+    "source_topic": "Culture and Society"
+  },
+  {
+    "text": "The modern workplace also exacerbates stress for much the same reason.",
+    "type": "simple",
+    "word_count": 11,
+    "source_essay": "essay-035",
+    "source_para": 1,
+    "source_topic": "Culture and Society"
+  },
+  {
+    "text": "Whereas the working day used to end at 5:30pm in most cultures, now, employees, regardless of their role, are contactable and often work well beyond normal work hours.",
+    "type": "complex",
+    "word_count": 28,
+    "source_essay": "essay-035",
+    "source_para": 1,
+    "source_topic": "Culture and Society"
+  },
+  {
+    "text": "The more technology develops, the greater the stress becomes.",
+    "type": "simple",
+    "word_count": 9,
+    "source_essay": "essay-035",
+    "source_para": 1,
+    "source_topic": "Culture and Society"
+  },
+  {
+    "text": "Reducing this everyday stress, however, is possible.",
+    "type": "compound",
+    "word_count": 7,
+    "source_essay": "essay-035",
+    "source_para": 2,
+    "source_topic": "Culture and Society"
+  },
+  {
+    "text": "The first step is to disconnect.",
+    "type": "simple",
+    "word_count": 6,
+    "source_essay": "essay-035",
+    "source_para": 2,
+    "source_topic": "Culture and Society"
+  },
+  {
+    "text": "We should curb our use of devices after work, turning off notifications, and switching off not only from work, but also from the news cycle and social media.",
+    "type": "mixed",
+    "word_count": 28,
+    "source_essay": "essay-035",
+    "source_para": 2,
+    "source_topic": "Culture and Society"
+  },
+  {
+    "text": "If we do not set boundaries, the invasion of the outside world into our personal and mental space will only grow, inevitably leading to stress and other related illnesses.",
+    "type": "complex",
+    "word_count": 29,
+    "source_essay": "essay-035",
+    "source_para": 2,
+    "source_topic": "Culture and Society"
+  },
+  {
+    "text": "Another way to address this problem is physical exercise.",
+    "type": "simple",
+    "word_count": 9,
+    "source_essay": "essay-035",
+    "source_para": 2,
+    "source_topic": "Culture and Society"
+  },
+  {
+    "text": "Both rigorous activity like running or boxing, and even low-impact exercise like yoga and pilates can be beneficial and should be encouraged.",
+    "type": "compound",
+    "word_count": 22,
+    "source_essay": "essay-035",
+    "source_para": 2,
+    "source_topic": "Culture and Society"
+  },
+  {
+    "text": "They are the fastest way out of stress.",
+    "type": "simple",
+    "word_count": 8,
+    "source_essay": "essay-035",
+    "source_para": 2,
+    "source_topic": "Culture and Society"
+  },
+  {
+    "text": "The more we take care of our bodies, the healthier our minds will be.",
+    "type": "simple",
+    "word_count": 14,
+    "source_essay": "essay-035",
+    "source_para": 2,
+    "source_topic": "Culture and Society"
+  },
+  {
+    "text": "Certainly, space exploration can bring about many positive impacts.",
+    "type": "simple",
+    "word_count": 9,
+    "source_essay": "essay-036",
+    "source_para": 1,
+    "source_topic": "Money"
+  },
+  {
+    "text": "Perhaps the most significant ones, ironically, are the by-products of the technological developments.",
+    "type": "simple",
+    "word_count": 13,
+    "source_essay": "essay-036",
+    "source_para": 1,
+    "source_topic": "Money"
+  },
+  {
+    "text": "Everyday items such as sunglasses, non-stick cookware, and important medical devices like pacemakers all came about thanks to research and development in the space field.",
+    "type": "compound",
+    "word_count": 25,
+    "source_essay": "essay-036",
+    "source_para": 1,
+    "source_topic": "Money"
+  },
+  {
+    "text": "Another plus is the benefit to humanity of finding another habitable planet.",
+    "type": "simple",
+    "word_count": 12,
+    "source_essay": "essay-036",
+    "source_para": 1,
+    "source_topic": "Money"
+  },
+  {
+    "text": "Indeed, if we continue to deplete our natural resources and pollute our own environment, the money spent on discovering a new planet, or on creating liveable spaces on Mars, for instance, will be well worth it.",
+    "type": "mixed",
+    "word_count": 36,
+    "source_essay": "essay-036",
+    "source_para": 1,
+    "source_topic": "Money"
+  },
+  {
+    "text": "Despite these benefits, there are also serious negative outcomes that can result from state spending on space research.",
+    "type": "complex",
+    "word_count": 18,
+    "source_essay": "essay-036",
+    "source_para": 2,
+    "source_topic": "Money"
+  },
+  {
+    "text": "The primary one is the diversion of funds from vital public services like healthcare and education.",
+    "type": "simple",
+    "word_count": 16,
+    "source_essay": "essay-036",
+    "source_para": 2,
+    "source_topic": "Money"
+  },
+  {
+    "text": "In the USA, for example, despite rocketing numbers of homeless people, and prohibitively expensive hospital care, the government continues to pour money into space programs.",
+    "type": "mixed",
+    "word_count": 25,
+    "source_essay": "essay-036",
+    "source_para": 2,
+    "source_topic": "Money"
+  },
+  {
+    "text": "There is also the problem of space junk.",
+    "type": "simple",
+    "word_count": 8,
+    "source_essay": "essay-036",
+    "source_para": 2,
+    "source_topic": "Money"
+  },
+  {
+    "text": "When rockets and satellites launch and fall into disuse, they become part of the litter that is already cluttering up space.",
+    "type": "complex",
+    "word_count": 21,
+    "source_essay": "essay-036",
+    "source_para": 2,
+    "source_topic": "Money"
+  },
+  {
+    "text": "This debris poses potential risks to future missions as well as simply contributing to the global pollution problem.",
+    "type": "complex",
+    "word_count": 18,
+    "source_essay": "essay-036",
+    "source_para": 2,
+    "source_topic": "Money"
+  },
+  {
+    "text": "On one hand, it is argued that the modern world offers many influences that can shape a child’s growth.",
+    "type": "simple",
+    "word_count": 19,
+    "source_essay": "essay-037",
+    "source_para": 1,
+    "source_topic": "Family"
+  },
+  {
+    "text": "Television, for instance, is a pervasive presence in most homes, and children are exposed to a wide range of content from a very young age.",
+    "type": "compound",
+    "word_count": 25,
+    "source_essay": "essay-037",
+    "source_para": 1,
+    "source_topic": "Family"
+  },
+  {
+    "text": "This can influence their language, their values, and even their aspirations.",
+    "type": "compound",
+    "word_count": 11,
+    "source_essay": "essay-037",
+    "source_para": 1,
+    "source_topic": "Family"
+  },
+  {
+    "text": "Similarly, as children grow older, their peer group becomes increasingly important.",
+    "type": "simple",
+    "word_count": 11,
+    "source_essay": "essay-037",
+    "source_para": 1,
+    "source_topic": "Family"
+  },
+  {
+    "text": "They may adopt the styles, interests, and even the behaviors of their friends in order to fit in.",
+    "type": "mixed",
+    "word_count": 18,
+    "source_essay": "essay-037",
+    "source_para": 1,
+    "source_topic": "Family"
+  },
+  {
+    "text": "Music, too, can play a role, as it often forms a key part of a young person’s identity and can influence their outlook on the world.",
+    "type": "simple",
+    "word_count": 26,
+    "source_essay": "essay-037",
+    "source_para": 1,
+    "source_topic": "Family"
+  },
+  {
+    "text": "On the other hand, many people, myself included, believe that the family is the most fundamental influence.",
+    "type": "simple",
+    "word_count": 17,
+    "source_essay": "essay-037",
+    "source_para": 2,
+    "source_topic": "Family"
+  },
+  {
+    "text": "This is because the family is the first and most constant presence in a child’s life.",
+    "type": "complex",
+    "word_count": 16,
+    "source_essay": "essay-037",
+    "source_para": 2,
+    "source_topic": "Family"
+  },
+  {
+    "text": "It is within the family that a child learns their basic values, their sense of right and wrong, and their primary social skills.",
+    "type": "compound",
+    "word_count": 23,
+    "source_essay": "essay-037",
+    "source_para": 2,
+    "source_topic": "Family"
+  },
+  {
+    "text": "The influence of parents and siblings is often subconscious and deeply rooted, forming the foundation upon which all other influences are built.",
+    "type": "complex",
+    "word_count": 22,
+    "source_essay": "essay-037",
+    "source_para": 2,
+    "source_topic": "Family"
+  },
+  {
+    "text": "Even when children are exposed to media and peers, they often filter these experiences through the values and beliefs they have learned at home.",
+    "type": "complex",
+    "word_count": 24,
+    "source_essay": "essay-037",
+    "source_para": 2,
+    "source_topic": "Family"
+  }
+]

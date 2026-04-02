@@ -1,0 +1,7881 @@
+{
+  "level": 6,
+  "title": "Essay Types & Structures",
+  "description": "Identify the 5 IELTS essay types and learn introduction patterns.",
+  "vocab_range": {
+    "tier": 1,
+    "min_rank": 601,
+    "max_rank": 1000
+  },
+  "vocabulary": [
+    {
+      "id": "t1-0601",
+      "word": "stories",
+      "tier": 1,
+      "rank": 601,
+      "score": 75.4,
+      "freq": 23,
+      "bookSpread": 8,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "stories"
+      ],
+      "topics": [
+        "media",
+        "technology"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0602",
+      "word": "either",
+      "tier": 1,
+      "rank": 602,
+      "score": 75.3,
+      "freq": 31,
+      "bookSpread": 10,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "either"
+      ],
+      "topics": [
+        "culture",
+        "society",
+        "work"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0603",
+      "word": "everyone",
+      "tier": 1,
+      "rank": 603,
+      "score": 75.3,
+      "freq": 26,
+      "bookSpread": 10,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "everyone"
+      ],
+      "topics": [
+        "environment"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0604",
+      "word": "build",
+      "tier": 1,
+      "rank": 604,
+      "score": 75.3,
+      "freq": 26,
+      "bookSpread": 9,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "build"
+      ],
+      "topics": [
+        "family"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0605",
+      "word": "someone",
+      "tier": 1,
+      "rank": 605,
+      "score": 75.3,
+      "freq": 21,
+      "bookSpread": 9,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "someone"
+      ],
+      "topics": [
+        "media",
+        "work"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0606",
+      "word": "pacific",
+      "tier": 1,
+      "rank": 606,
+      "score": 75.3,
+      "freq": 26,
+      "bookSpread": 7,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "pacific"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0607",
+      "word": "expansion",
+      "tier": 1,
+      "rank": 607,
+      "score": 75.3,
+      "freq": 11,
+      "bookSpread": 6,
+      "awl": true,
+      "bridge": true,
+      "surfaceForms": [
+        "expansion"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0608",
+      "word": "million",
+      "tier": 1,
+      "rank": 608,
+      "score": 75.2,
+      "freq": 29,
+      "bookSpread": 10,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "million"
+      ],
+      "topics": [
+        "culture"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0609",
+      "word": "native",
+      "tier": 1,
+      "rank": 609,
+      "score": 75.2,
+      "freq": 29,
+      "bookSpread": 10,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "native"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0610",
+      "word": "temperatures",
+      "tier": 1,
+      "rank": 610,
+      "score": 75.2,
+      "freq": 24,
+      "bookSpread": 8,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "temperatures"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0611",
+      "word": "colleagues",
+      "tier": 1,
+      "rank": 611,
+      "score": 75.2,
+      "freq": 24,
+      "bookSpread": 8,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "colleagues"
+      ],
+      "topics": [
+        "family"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0612",
+      "word": "allow",
+      "tier": 1,
+      "rank": 612,
+      "score": 75.1,
+      "freq": 27,
+      "bookSpread": 11,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "allow"
+      ],
+      "topics": [
+        "education",
+        "environment"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0613",
+      "word": "believed",
+      "tier": 1,
+      "rank": 613,
+      "score": 75.1,
+      "freq": 22,
+      "bookSpread": 10,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "believed"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0614",
+      "word": "wrong",
+      "tier": 1,
+      "rank": 614,
+      "score": 75.1,
+      "freq": 22,
+      "bookSpread": 10,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "wrong"
+      ],
+      "topics": [
+        "family",
+        "health"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0615",
+      "word": "highly",
+      "tier": 1,
+      "rank": 615,
+      "score": 75.1,
+      "freq": 32,
+      "bookSpread": 9,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "highly"
+      ],
+      "topics": [
+        "family"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0616",
+      "word": "soon",
+      "tier": 1,
+      "rank": 616,
+      "score": 75.1,
+      "freq": 27,
+      "bookSpread": 9,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "soon"
+      ],
+      "topics": [
+        "media"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0617",
+      "word": "emotional",
+      "tier": 1,
+      "rank": 617,
+      "score": 75.1,
+      "freq": 22,
+      "bookSpread": 8,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "emotional"
+      ],
+      "topics": [
+        "family",
+        "health"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0618",
+      "word": "advantage",
+      "tier": 1,
+      "rank": 618,
+      "score": 75.1,
+      "freq": 22,
+      "bookSpread": 8,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "advantage"
+      ],
+      "topics": [
+        "education",
+        "technology",
+        "work"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0619",
+      "word": "a-i",
+      "tier": 1,
+      "rank": 619,
+      "score": 75.1,
+      "freq": 17,
+      "bookSpread": 7,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "a-i"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0620",
+      "word": "read",
+      "tier": 1,
+      "rank": 620,
+      "score": 75.1,
+      "freq": 32,
+      "bookSpread": 6,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "read"
+      ],
+      "topics": [
+        "education"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0621",
+      "word": "initial",
+      "tier": 1,
+      "rank": 621,
+      "score": 75.1,
+      "freq": 7,
+      "bookSpread": 6,
+      "awl": true,
+      "bridge": true,
+      "surfaceForms": [
+        "initial"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0622",
+      "word": "yes",
+      "tier": 1,
+      "rank": 622,
+      "score": 75,
+      "freq": 86,
+      "bookSpread": 11,
+      "awl": false,
+      "bridge": false,
+      "surfaceForms": [
+        "yes"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0623",
+      "word": "remain",
+      "tier": 1,
+      "rank": 623,
+      "score": 75,
+      "freq": 25,
+      "bookSpread": 11,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "remain"
+      ],
+      "topics": [
+        "family"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0624",
+      "word": "include",
+      "tier": 1,
+      "rank": 624,
+      "score": 75,
+      "freq": 30,
+      "bookSpread": 10,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "include"
+      ],
+      "topics": [
+        "crime"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0625",
+      "word": "late",
+      "tier": 1,
+      "rank": 625,
+      "score": 75,
+      "freq": 25,
+      "bookSpread": 9,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "late"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0626",
+      "word": "background",
+      "tier": 1,
+      "rank": 626,
+      "score": 75,
+      "freq": 20,
+      "bookSpread": 9,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "background"
+      ],
+      "topics": [
+        "crime"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0627",
+      "word": "encourage",
+      "tier": 1,
+      "rank": 627,
+      "score": 75,
+      "freq": 20,
+      "bookSpread": 8,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "encourage"
+      ],
+      "topics": [
+        "education"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0628",
+      "word": "details",
+      "tier": 1,
+      "rank": 628,
+      "score": 75,
+      "freq": 20,
+      "bookSpread": 8,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "details"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0629",
+      "word": "error",
+      "tier": 1,
+      "rank": 629,
+      "score": 75,
+      "freq": 10,
+      "bookSpread": 6,
+      "awl": true,
+      "bridge": true,
+      "surfaceForms": [
+        "error"
+      ],
+      "topics": [
+        "transport"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0630",
+      "word": "run",
+      "tier": 1,
+      "rank": 630,
+      "score": 74.9,
+      "freq": 28,
+      "bookSpread": 11,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "run"
+      ],
+      "topics": [
+        "crime",
+        "education",
+        "society"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0631",
+      "word": "full",
+      "tier": 1,
+      "rank": 631,
+      "score": 74.9,
+      "freq": 28,
+      "bookSpread": 10,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "full"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0632",
+      "word": "spent",
+      "tier": 1,
+      "rank": 632,
+      "score": 74.9,
+      "freq": 23,
+      "bookSpread": 9,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "spent"
+      ],
+      "topics": [
+        "culture",
+        "environment",
+        "science",
+        "work"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0633",
+      "word": "special",
+      "tier": 1,
+      "rank": 633,
+      "score": 74.9,
+      "freq": 23,
+      "bookSpread": 8,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "special"
+      ],
+      "topics": [
+        "food"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0634",
+      "word": "aid",
+      "tier": 1,
+      "rank": 634,
+      "score": 74.9,
+      "freq": 8,
+      "bookSpread": 6,
+      "awl": true,
+      "bridge": true,
+      "surfaceForms": [
+        "aid"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0635",
+      "word": "alter",
+      "tier": 1,
+      "rank": 635,
+      "score": 74.9,
+      "freq": 8,
+      "bookSpread": 6,
+      "awl": true,
+      "bridge": true,
+      "surfaceForms": [
+        "alter"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0636",
+      "word": "follow",
+      "tier": 1,
+      "rank": 636,
+      "score": 74.8,
+      "freq": 21,
+      "bookSpread": 11,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "follow"
+      ],
+      "topics": [
+        "society",
+        "work"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0637",
+      "word": "efforts",
+      "tier": 1,
+      "rank": 637,
+      "score": 74.8,
+      "freq": 21,
+      "bookSpread": 11,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "efforts"
+      ],
+      "topics": [
+        "environment"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0638",
+      "word": "cannot",
+      "tier": 1,
+      "rank": 638,
+      "score": 74.8,
+      "freq": 26,
+      "bookSpread": 10,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "cannot"
+      ],
+      "topics": [
+        "family",
+        "transport"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0639",
+      "word": "stage",
+      "tier": 1,
+      "rank": 639,
+      "score": 74.8,
+      "freq": 21,
+      "bookSpread": 10,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "stage"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0640",
+      "word": "ones",
+      "tier": 1,
+      "rank": 640,
+      "score": 74.8,
+      "freq": 26,
+      "bookSpread": 9,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "ones"
+      ],
+      "topics": [
+        "health",
+        "media",
+        "society",
+        "work"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0641",
+      "word": "values",
+      "tier": 1,
+      "rank": 641,
+      "score": 74.8,
+      "freq": 21,
+      "bookSpread": 8,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "values"
+      ],
+      "topics": [
+        "family"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0642",
+      "word": "appears",
+      "tier": 1,
+      "rank": 642,
+      "score": 74.8,
+      "freq": 21,
+      "bookSpread": 8,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "appears"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0643",
+      "word": "fields",
+      "tier": 1,
+      "rank": 643,
+      "score": 74.8,
+      "freq": 21,
+      "bookSpread": 8,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "fields"
+      ],
+      "topics": [
+        "work"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0644",
+      "word": "loss",
+      "tier": 1,
+      "rank": 644,
+      "score": 74.8,
+      "freq": 21,
+      "bookSpread": 8,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "loss"
+      ],
+      "topics": [
+        "environment",
+        "family",
+        "media"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0645",
+      "word": "california",
+      "tier": 1,
+      "rank": 645,
+      "score": 74.8,
+      "freq": 26,
+      "bookSpread": 7,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "california"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0646",
+      "word": "consumers",
+      "tier": 1,
+      "rank": 646,
+      "score": 74.8,
+      "freq": 21,
+      "bookSpread": 7,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "consumers"
+      ],
+      "topics": [
+        "food"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0647",
+      "word": "mental",
+      "tier": 1,
+      "rank": 647,
+      "score": 74.8,
+      "freq": 11,
+      "bookSpread": 6,
+      "awl": true,
+      "bridge": true,
+      "surfaceForms": [
+        "mental",
+        "mentally"
+      ],
+      "topics": [
+        "crime",
+        "culture",
+        "media",
+        "society"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0648",
+      "word": "famous",
+      "tier": 1,
+      "rank": 648,
+      "score": 74.7,
+      "freq": 24,
+      "bookSpread": 9,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "famous"
+      ],
+      "topics": [
+        "housing",
+        "work"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0649",
+      "word": "body",
+      "tier": 1,
+      "rank": 649,
+      "score": 74.7,
+      "freq": 24,
+      "bookSpread": 9,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "body"
+      ],
+      "topics": [
+        "health"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0650",
+      "word": "family",
+      "tier": 1,
+      "rank": 650,
+      "score": 74.7,
+      "freq": 24,
+      "bookSpread": 7,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "family"
+      ],
+      "topics": [
+        "crime",
+        "culture",
+        "family",
+        "society",
+        "technology"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0651",
+      "word": "demand",
+      "tier": 1,
+      "rank": 651,
+      "score": 74.6,
+      "freq": 22,
+      "bookSpread": 11,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "demand"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0652",
+      "word": "movement",
+      "tier": 1,
+      "rank": 652,
+      "score": 74.6,
+      "freq": 27,
+      "bookSpread": 10,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "movement"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0653",
+      "word": "whose",
+      "tier": 1,
+      "rank": 653,
+      "score": 74.6,
+      "freq": 22,
+      "bookSpread": 9,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "whose"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0654",
+      "word": "turned",
+      "tier": 1,
+      "rank": 654,
+      "score": 74.6,
+      "freq": 22,
+      "bookSpread": 9,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "turned"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0655",
+      "word": "intended",
+      "tier": 1,
+      "rank": 655,
+      "score": 74.6,
+      "freq": 17,
+      "bookSpread": 9,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "intended"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0656",
+      "word": "difficulties",
+      "tier": 1,
+      "rank": 656,
+      "score": 74.6,
+      "freq": 17,
+      "bookSpread": 7,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "difficulties"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0657",
+      "word": "start",
+      "tier": 1,
+      "rank": 657,
+      "score": 74.5,
+      "freq": 25,
+      "bookSpread": 10,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "start"
+      ],
+      "topics": [
+        "family"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0658",
+      "word": "top",
+      "tier": 1,
+      "rank": 658,
+      "score": 74.5,
+      "freq": 25,
+      "bookSpread": 9,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "top"
+      ],
+      "topics": [
+        "work"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0659",
+      "word": "placed",
+      "tier": 1,
+      "rank": 659,
+      "score": 74.5,
+      "freq": 25,
+      "bookSpread": 9,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "placed"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0660",
+      "word": "career",
+      "tier": 1,
+      "rank": 660,
+      "score": 74.5,
+      "freq": 20,
+      "bookSpread": 9,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "career"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0661",
+      "word": "included",
+      "tier": 1,
+      "rank": 661,
+      "score": 74.5,
+      "freq": 20,
+      "bookSpread": 9,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "included"
+      ],
+      "topics": [
+        "culture",
+        "environment",
+        "family",
+        "science"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0662",
+      "word": "comes",
+      "tier": 1,
+      "rank": 662,
+      "score": 74.5,
+      "freq": 25,
+      "bookSpread": 8,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "comes"
+      ],
+      "topics": [
+        "crime",
+        "education",
+        "family",
+        "food",
+        "health",
+        "media",
+        "technology"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0663",
+      "word": "cost",
+      "tier": 1,
+      "rank": 663,
+      "score": 74.5,
+      "freq": 20,
+      "bookSpread": 8,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "cost"
+      ],
+      "topics": [
+        "culture",
+        "family",
+        "tourism",
+        "work"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0664",
+      "word": "fixed",
+      "tier": 1,
+      "rank": 664,
+      "score": 74.5,
+      "freq": 20,
+      "bookSpread": 7,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "fixed"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0665",
+      "word": "sentence",
+      "tier": 1,
+      "rank": 665,
+      "score": 74.5,
+      "freq": 15,
+      "bookSpread": 7,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "sentence"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0666",
+      "word": "enable",
+      "tier": 1,
+      "rank": 666,
+      "score": 74.5,
+      "freq": 10,
+      "bookSpread": 6,
+      "awl": true,
+      "bridge": true,
+      "surfaceForms": [
+        "enable"
+      ],
+      "topics": [
+        "family",
+        "media",
+        "technology"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0667",
+      "word": "done",
+      "tier": 1,
+      "rank": 667,
+      "score": 74.4,
+      "freq": 23,
+      "bookSpread": 10,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "done"
+      ],
+      "topics": [
+        "education",
+        "health",
+        "technology",
+        "tourism"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0668",
+      "word": "terms",
+      "tier": 1,
+      "rank": 668,
+      "score": 74.4,
+      "freq": 28,
+      "bookSpread": 9,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "terms"
+      ],
+      "topics": [
+        "crime",
+        "culture",
+        "environment",
+        "family",
+        "media",
+        "technology"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0669",
+      "word": "near",
+      "tier": 1,
+      "rank": 669,
+      "score": 74.4,
+      "freq": 23,
+      "bookSpread": 9,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "near"
+      ],
+      "topics": [
+        "housing"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0670",
+      "word": "emotions",
+      "tier": 1,
+      "rank": 670,
+      "score": 74.4,
+      "freq": 23,
+      "bookSpread": 9,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "emotions"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0671",
+      "word": "biological",
+      "tier": 1,
+      "rank": 671,
+      "score": 74.4,
+      "freq": 23,
+      "bookSpread": 7,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "biological"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0672",
+      "word": "fuel",
+      "tier": 1,
+      "rank": 672,
+      "score": 74.4,
+      "freq": 18,
+      "bookSpread": 7,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "fuel"
+      ],
+      "topics": [
+        "education",
+        "environment"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0673",
+      "word": "larger",
+      "tier": 1,
+      "rank": 673,
+      "score": 74.3,
+      "freq": 26,
+      "bookSpread": 11,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "larger"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0674",
+      "word": "shown",
+      "tier": 1,
+      "rank": 674,
+      "score": 74.3,
+      "freq": 21,
+      "bookSpread": 10,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "shown"
+      ],
+      "topics": [
+        "family",
+        "technology",
+        "transport"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0675",
+      "word": "action",
+      "tier": 1,
+      "rank": 675,
+      "score": 74.3,
+      "freq": 16,
+      "bookSpread": 10,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "action"
+      ],
+      "topics": [
+        "environment"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0676",
+      "word": "mind",
+      "tier": 1,
+      "rank": 676,
+      "score": 74.3,
+      "freq": 26,
+      "bookSpread": 9,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "mind"
+      ],
+      "topics": [
+        "culture",
+        "work"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0677",
+      "word": "asked",
+      "tier": 1,
+      "rank": 677,
+      "score": 74.3,
+      "freq": 26,
+      "bookSpread": 9,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "asked"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0678",
+      "word": "interesting",
+      "tier": 1,
+      "rank": 678,
+      "score": 74.3,
+      "freq": 21,
+      "bookSpread": 9,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "interesting"
+      ],
+      "topics": [
+        "culture",
+        "media",
+        "work"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0679",
+      "word": "cases",
+      "tier": 1,
+      "rank": 679,
+      "score": 74.3,
+      "freq": 21,
+      "bookSpread": 9,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "cases"
+      ],
+      "topics": [
+        "crime",
+        "culture",
+        "health",
+        "media",
+        "transport"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0680",
+      "word": "summer",
+      "tier": 1,
+      "rank": 680,
+      "score": 74.3,
+      "freq": 26,
+      "bookSpread": 8,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "summer"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0681",
+      "word": "decisions",
+      "tier": 1,
+      "rank": 681,
+      "score": 74.3,
+      "freq": 21,
+      "bookSpread": 8,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "decisions"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0682",
+      "word": "wanted",
+      "tier": 1,
+      "rank": 682,
+      "score": 74.3,
+      "freq": 21,
+      "bookSpread": 7,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "wanted"
+      ],
+      "topics": [
+        "work"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0683",
+      "word": "beginning",
+      "tier": 1,
+      "rank": 683,
+      "score": 74.2,
+      "freq": 24,
+      "bookSpread": 11,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "beginning"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0684",
+      "word": "widely",
+      "tier": 1,
+      "rank": 684,
+      "score": 74.2,
+      "freq": 19,
+      "bookSpread": 9,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "widely"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0685",
+      "word": "furthermore",
+      "tier": 1,
+      "rank": 685,
+      "score": 74.2,
+      "freq": 9,
+      "bookSpread": 6,
+      "awl": true,
+      "bridge": true,
+      "surfaceForms": [
+        "furthermore"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0686",
+      "word": "moved",
+      "tier": 1,
+      "rank": 686,
+      "score": 74.1,
+      "freq": 22,
+      "bookSpread": 9,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "moved"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0687",
+      "word": "books",
+      "tier": 1,
+      "rank": 687,
+      "score": 74.1,
+      "freq": 17,
+      "bookSpread": 7,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "books"
+      ],
+      "topics": [
+        "work"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0688",
+      "word": "detect",
+      "tier": 1,
+      "rank": 688,
+      "score": 74.1,
+      "freq": 7,
+      "bookSpread": 6,
+      "awl": true,
+      "bridge": true,
+      "surfaceForms": [
+        "detect"
+      ],
+      "topics": [
+        "education"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0689",
+      "word": "vast",
+      "tier": 1,
+      "rank": 689,
+      "score": 74,
+      "freq": 25,
+      "bookSpread": 11,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "vast"
+      ],
+      "topics": [
+        "environment",
+        "technology"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0690",
+      "word": "earlier",
+      "tier": 1,
+      "rank": 690,
+      "score": 74,
+      "freq": 20,
+      "bookSpread": 9,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "earlier"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0691",
+      "word": "brought",
+      "tier": 1,
+      "rank": 691,
+      "score": 74,
+      "freq": 20,
+      "bookSpread": 9,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "brought"
+      ],
+      "topics": [
+        "work"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0692",
+      "word": "encouraged",
+      "tier": 1,
+      "rank": 692,
+      "score": 74,
+      "freq": 15,
+      "bookSpread": 9,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "encouraged"
+      ],
+      "topics": [
+        "society"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0693",
+      "word": "leading",
+      "tier": 1,
+      "rank": 693,
+      "score": 73.9,
+      "freq": 23,
+      "bookSpread": 10,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "leading"
+      ],
+      "topics": [
+        "food",
+        "society",
+        "technology"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0694",
+      "word": "sold",
+      "tier": 1,
+      "rank": 694,
+      "score": 73.9,
+      "freq": 18,
+      "bookSpread": 10,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "sold"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0695",
+      "word": "existence",
+      "tier": 1,
+      "rank": 695,
+      "score": 73.9,
+      "freq": 23,
+      "bookSpread": 9,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "existence"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0696",
+      "word": "projects",
+      "tier": 1,
+      "rank": 696,
+      "score": 73.9,
+      "freq": 18,
+      "bookSpread": 9,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "projects"
+      ],
+      "topics": [
+        "science"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0697",
+      "word": "easier",
+      "tier": 1,
+      "rank": 697,
+      "score": 73.9,
+      "freq": 18,
+      "bookSpread": 9,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "easier"
+      ],
+      "topics": [
+        "media"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0698",
+      "word": "beliefs",
+      "tier": 1,
+      "rank": 698,
+      "score": 73.9,
+      "freq": 13,
+      "bookSpread": 9,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "beliefs"
+      ],
+      "topics": [
+        "family"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0699",
+      "word": "distance",
+      "tier": 1,
+      "rank": 699,
+      "score": 73.9,
+      "freq": 18,
+      "bookSpread": 7,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "distance"
+      ],
+      "topics": [
+        "technology"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0700",
+      "word": "teachers",
+      "tier": 1,
+      "rank": 700,
+      "score": 73.9,
+      "freq": 28,
+      "bookSpread": 6,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "teachers"
+      ],
+      "topics": [
+        "culture",
+        "education",
+        "work"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0701",
+      "word": "recently",
+      "tier": 1,
+      "rank": 701,
+      "score": 73.8,
+      "freq": 21,
+      "bookSpread": 9,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "recently"
+      ],
+      "topics": [
+        "culture",
+        "environment",
+        "housing",
+        "society",
+        "technology"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0702",
+      "word": "act",
+      "tier": 1,
+      "rank": 702,
+      "score": 73.8,
+      "freq": 21,
+      "bookSpread": 9,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "act"
+      ],
+      "topics": [
+        "environment"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0703",
+      "word": "artistic",
+      "tier": 1,
+      "rank": 703,
+      "score": 73.8,
+      "freq": 16,
+      "bookSpread": 9,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "artistic"
+      ],
+      "topics": [
+        "culture"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0704",
+      "word": "easily",
+      "tier": 1,
+      "rank": 704,
+      "score": 73.8,
+      "freq": 21,
+      "bookSpread": 8,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "easily"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0705",
+      "word": "added",
+      "tier": 1,
+      "rank": 705,
+      "score": 73.8,
+      "freq": 21,
+      "bookSpread": 8,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "added"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0706",
+      "word": "possibility",
+      "tier": 1,
+      "rank": 706,
+      "score": 73.8,
+      "freq": 16,
+      "bookSpread": 8,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "possibility"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0707",
+      "word": "safety",
+      "tier": 1,
+      "rank": 707,
+      "score": 73.8,
+      "freq": 21,
+      "bookSpread": 7,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "safety"
+      ],
+      "topics": [
+        "environment",
+        "health",
+        "society"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0708",
+      "word": "staff",
+      "tier": 1,
+      "rank": 708,
+      "score": 73.8,
+      "freq": 26,
+      "bookSpread": 6,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "staff"
+      ],
+      "topics": [
+        "culture",
+        "education",
+        "technology",
+        "tourism",
+        "work"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0709",
+      "word": "conventional",
+      "tier": 1,
+      "rank": 709,
+      "score": 73.8,
+      "freq": 6,
+      "bookSpread": 6,
+      "awl": true,
+      "bridge": true,
+      "surfaceForms": [
+        "conventional"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0710",
+      "word": "machine",
+      "tier": 1,
+      "rank": 710,
+      "score": 73.7,
+      "freq": 19,
+      "bookSpread": 8,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "machine"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0711",
+      "word": "date",
+      "tier": 1,
+      "rank": 711,
+      "score": 73.7,
+      "freq": 19,
+      "bookSpread": 8,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "date"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0712",
+      "word": "continue",
+      "tier": 1,
+      "rank": 712,
+      "score": 73.6,
+      "freq": 22,
+      "bookSpread": 10,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "continue"
+      ],
+      "topics": [
+        "family",
+        "housing",
+        "science",
+        "society",
+        "technology",
+        "tourism",
+        "work"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0713",
+      "word": "saw",
+      "tier": 1,
+      "rank": 713,
+      "score": 73.6,
+      "freq": 22,
+      "bookSpread": 10,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "saw"
+      ],
+      "topics": [
+        "media"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0714",
+      "word": "extent",
+      "tier": 1,
+      "rank": 714,
+      "score": 73.6,
+      "freq": 22,
+      "bookSpread": 10,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "extent"
+      ],
+      "topics": [
+        "media",
+        "tourism"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0715",
+      "word": "term",
+      "tier": 1,
+      "rank": 715,
+      "score": 73.6,
+      "freq": 22,
+      "bookSpread": 9,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "term"
+      ],
+      "topics": [
+        "crime",
+        "environment",
+        "family",
+        "health"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0716",
+      "word": "changed",
+      "tier": 1,
+      "rank": 716,
+      "score": 73.6,
+      "freq": 17,
+      "bookSpread": 9,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "changed"
+      ],
+      "topics": [
+        "environment",
+        "food",
+        "media",
+        "technology",
+        "work"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0717",
+      "word": "responsible",
+      "tier": 1,
+      "rank": 717,
+      "score": 73.6,
+      "freq": 17,
+      "bookSpread": 8,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "responsible"
+      ],
+      "topics": [
+        "food",
+        "tourism",
+        "work"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0718",
+      "word": "linked",
+      "tier": 1,
+      "rank": 718,
+      "score": 73.6,
+      "freq": 17,
+      "bookSpread": 8,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "linked"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0719",
+      "word": "historical",
+      "tier": 1,
+      "rank": 719,
+      "score": 73.6,
+      "freq": 22,
+      "bookSpread": 7,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "historical"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0720",
+      "word": "emissions",
+      "tier": 1,
+      "rank": 720,
+      "score": 73.6,
+      "freq": 22,
+      "bookSpread": 7,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "emissions"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0721",
+      "word": "ending",
+      "tier": 1,
+      "rank": 721,
+      "score": 73.6,
+      "freq": 12,
+      "bookSpread": 7,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "ending"
+      ],
+      "topics": [
+        "environment"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0722",
+      "word": "engineering",
+      "tier": 1,
+      "rank": 722,
+      "score": 73.5,
+      "freq": 25,
+      "bookSpread": 8,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "engineering"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0723",
+      "word": "weight",
+      "tier": 1,
+      "rank": 723,
+      "score": 73.5,
+      "freq": 20,
+      "bookSpread": 8,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "weight"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0724",
+      "word": "pressure",
+      "tier": 1,
+      "rank": 724,
+      "score": 73.5,
+      "freq": 20,
+      "bookSpread": 8,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "pressure"
+      ],
+      "topics": [
+        "family",
+        "food",
+        "society"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0725",
+      "word": "workers",
+      "tier": 1,
+      "rank": 725,
+      "score": 73.5,
+      "freq": 20,
+      "bookSpread": 7,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "workers"
+      ],
+      "topics": [
+        "technology",
+        "work"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0726",
+      "word": "move",
+      "tier": 1,
+      "rank": 726,
+      "score": 73.4,
+      "freq": 23,
+      "bookSpread": 11,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "move"
+      ],
+      "topics": [
+        "food",
+        "health"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0727",
+      "word": "deal",
+      "tier": 1,
+      "rank": 727,
+      "score": 73.4,
+      "freq": 18,
+      "bookSpread": 10,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "deal"
+      ],
+      "topics": [
+        "crime",
+        "health",
+        "society",
+        "transport",
+        "work"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0728",
+      "word": "southern",
+      "tier": 1,
+      "rank": 728,
+      "score": 73.4,
+      "freq": 23,
+      "bookSpread": 8,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "southern"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0729",
+      "word": "locations",
+      "tier": 1,
+      "rank": 729,
+      "score": 73.4,
+      "freq": 18,
+      "bookSpread": 8,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "locations"
+      ],
+      "topics": [
+        "tourism"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0730",
+      "word": "rules",
+      "tier": 1,
+      "rank": 730,
+      "score": 73.4,
+      "freq": 18,
+      "bookSpread": 8,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "rules"
+      ],
+      "topics": [
+        "education",
+        "health",
+        "society"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0731",
+      "word": "screen",
+      "tier": 1,
+      "rank": 731,
+      "score": 73.4,
+      "freq": 18,
+      "bookSpread": 8,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "screen"
+      ],
+      "topics": [
+        "education",
+        "family"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0732",
+      "word": "journey",
+      "tier": 1,
+      "rank": 732,
+      "score": 73.4,
+      "freq": 18,
+      "bookSpread": 7,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "journey"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0733",
+      "word": "accept",
+      "tier": 1,
+      "rank": 733,
+      "score": 73.4,
+      "freq": 18,
+      "bookSpread": 7,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "accept"
+      ],
+      "topics": [
+        "education"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0734",
+      "word": "instead",
+      "tier": 1,
+      "rank": 734,
+      "score": 73.3,
+      "freq": 26,
+      "bookSpread": 10,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "instead"
+      ],
+      "topics": [
+        "crime",
+        "culture",
+        "education",
+        "environment",
+        "science",
+        "work"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0735",
+      "word": "plans",
+      "tier": 1,
+      "rank": 735,
+      "score": 73.3,
+      "freq": 16,
+      "bookSpread": 10,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "plans"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0736",
+      "word": "return",
+      "tier": 1,
+      "rank": 736,
+      "score": 73.3,
+      "freq": 21,
+      "bookSpread": 9,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "return"
+      ],
+      "topics": [
+        "crime",
+        "technology"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0737",
+      "word": "focusing",
+      "tier": 1,
+      "rank": 737,
+      "score": 73.3,
+      "freq": 16,
+      "bookSpread": 9,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "focusing"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0738",
+      "word": "death",
+      "tier": 1,
+      "rank": 738,
+      "score": 73.3,
+      "freq": 21,
+      "bookSpread": 8,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "death"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0739",
+      "word": "existing",
+      "tier": 1,
+      "rank": 739,
+      "score": 73.3,
+      "freq": 21,
+      "bookSpread": 8,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "existing"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0740",
+      "word": "outside",
+      "tier": 1,
+      "rank": 740,
+      "score": 73.3,
+      "freq": 16,
+      "bookSpread": 8,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "outside"
+      ],
+      "topics": [
+        "family",
+        "health",
+        "society"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0741",
+      "word": "prospect",
+      "tier": 1,
+      "rank": 741,
+      "score": 73.3,
+      "freq": 6,
+      "bookSpread": 6,
+      "awl": true,
+      "bridge": true,
+      "surfaceForms": [
+        "prospect"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0742",
+      "word": "serious",
+      "tier": 1,
+      "rank": 742,
+      "score": 73.2,
+      "freq": 19,
+      "bookSpread": 11,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "serious"
+      ],
+      "topics": [
+        "education",
+        "food",
+        "health",
+        "media",
+        "society",
+        "transport",
+        "work"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0743",
+      "word": "powerful",
+      "tier": 1,
+      "rank": 743,
+      "score": 73.2,
+      "freq": 24,
+      "bookSpread": 10,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "powerful"
+      ],
+      "topics": [
+        "work"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0744",
+      "word": "creating",
+      "tier": 1,
+      "rank": 744,
+      "score": 73.2,
+      "freq": 19,
+      "bookSpread": 8,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "creating"
+      ],
+      "topics": [
+        "family",
+        "work"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0745",
+      "word": "suitable",
+      "tier": 1,
+      "rank": 745,
+      "score": 73.2,
+      "freq": 14,
+      "bookSpread": 8,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "suitable"
+      ],
+      "topics": [
+        "health",
+        "society"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0746",
+      "word": "unusual",
+      "tier": 1,
+      "rank": 746,
+      "score": 73.2,
+      "freq": 14,
+      "bookSpread": 7,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "unusual"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0747",
+      "word": "wild",
+      "tier": 1,
+      "rank": 747,
+      "score": 73.2,
+      "freq": 44,
+      "bookSpread": 5,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "wild"
+      ],
+      "topics": [
+        "education",
+        "environment"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0748",
+      "word": "typical",
+      "tier": 1,
+      "rank": 748,
+      "score": 73.1,
+      "freq": 22,
+      "bookSpread": 11,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "typical",
+        "typically"
+      ],
+      "topics": [
+        "food",
+        "technology"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0749",
+      "word": "poor",
+      "tier": 1,
+      "rank": 749,
+      "score": 73.1,
+      "freq": 22,
+      "bookSpread": 10,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "poor"
+      ],
+      "topics": [
+        "environment",
+        "health",
+        "work"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0750",
+      "word": "entire",
+      "tier": 1,
+      "rank": 750,
+      "score": 73.1,
+      "freq": 22,
+      "bookSpread": 10,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "entire"
+      ],
+      "topics": [
+        "culture",
+        "family"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0751",
+      "word": "proposed",
+      "tier": 1,
+      "rank": 751,
+      "score": 73.1,
+      "freq": 17,
+      "bookSpread": 7,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "proposed"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0752",
+      "word": "supply",
+      "tier": 1,
+      "rank": 752,
+      "score": 73,
+      "freq": 25,
+      "bookSpread": 8,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "supply"
+      ],
+      "topics": [
+        "environment"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0753",
+      "word": "becoming",
+      "tier": 1,
+      "rank": 753,
+      "score": 73,
+      "freq": 20,
+      "bookSpread": 8,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "becoming"
+      ],
+      "topics": [
+        "family",
+        "health"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0754",
+      "word": "practice",
+      "tier": 1,
+      "rank": 754,
+      "score": 73,
+      "freq": 20,
+      "bookSpread": 8,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "practice"
+      ],
+      "topics": [
+        "family",
+        "tourism",
+        "work"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0755",
+      "word": "policies",
+      "tier": 1,
+      "rank": 755,
+      "score": 73,
+      "freq": 20,
+      "bookSpread": 7,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "policies"
+      ],
+      "topics": [
+        "environment",
+        "technology"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0756",
+      "word": "threat",
+      "tier": 1,
+      "rank": 756,
+      "score": 73,
+      "freq": 15,
+      "bookSpread": 7,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "threat"
+      ],
+      "topics": [
+        "environment"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0757",
+      "word": "onto",
+      "tier": 1,
+      "rank": 757,
+      "score": 72.9,
+      "freq": 18,
+      "bookSpread": 9,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "onto"
+      ],
+      "topics": [
+        "society"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0758",
+      "word": "progress",
+      "tier": 1,
+      "rank": 758,
+      "score": 72.9,
+      "freq": 18,
+      "bookSpread": 8,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "progress"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0759",
+      "word": "danger",
+      "tier": 1,
+      "rank": 759,
+      "score": 72.9,
+      "freq": 13,
+      "bookSpread": 8,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "danger"
+      ],
+      "topics": [
+        "health",
+        "technology"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0760",
+      "word": "ages",
+      "tier": 1,
+      "rank": 760,
+      "score": 72.9,
+      "freq": 18,
+      "bookSpread": 7,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "ages"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0761",
+      "word": "collection",
+      "tier": 1,
+      "rank": 761,
+      "score": 72.9,
+      "freq": 18,
+      "bookSpread": 7,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "collection"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0762",
+      "word": "board",
+      "tier": 1,
+      "rank": 762,
+      "score": 72.9,
+      "freq": 28,
+      "bookSpread": 6,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "board"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0763",
+      "word": "charles",
+      "tier": 1,
+      "rank": 763,
+      "score": 72.9,
+      "freq": 43,
+      "bookSpread": 5,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "charles"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0764",
+      "word": "takes",
+      "tier": 1,
+      "rank": 764,
+      "score": 72.8,
+      "freq": 21,
+      "bookSpread": 9,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "takes"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0765",
+      "word": "opportunity",
+      "tier": 1,
+      "rank": 765,
+      "score": 72.8,
+      "freq": 21,
+      "bookSpread": 9,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "opportunity"
+      ],
+      "topics": [
+        "technology"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0766",
+      "word": "setting",
+      "tier": 1,
+      "rank": 766,
+      "score": 72.8,
+      "freq": 16,
+      "bookSpread": 9,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "setting"
+      ],
+      "topics": [
+        "education"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0767",
+      "word": "widespread",
+      "tier": 1,
+      "rank": 767,
+      "score": 72.8,
+      "freq": 16,
+      "bookSpread": 8,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "widespread"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0768",
+      "word": "remains",
+      "tier": 1,
+      "rank": 768,
+      "score": 72.8,
+      "freq": 16,
+      "bookSpread": 8,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "remains"
+      ],
+      "topics": [
+        "family"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0769",
+      "word": "going",
+      "tier": 1,
+      "rank": 769,
+      "score": 72.7,
+      "freq": 24,
+      "bookSpread": 10,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "going"
+      ],
+      "topics": [
+        "technology",
+        "tourism"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0770",
+      "word": "appear",
+      "tier": 1,
+      "rank": 770,
+      "score": 72.7,
+      "freq": 19,
+      "bookSpread": 10,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "appear"
+      ],
+      "topics": [
+        "health"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0771",
+      "word": "scale",
+      "tier": 1,
+      "rank": 771,
+      "score": 72.7,
+      "freq": 19,
+      "bookSpread": 9,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "scale"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0772",
+      "word": "older",
+      "tier": 1,
+      "rank": 772,
+      "score": 72.7,
+      "freq": 24,
+      "bookSpread": 8,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "older"
+      ],
+      "topics": [
+        "family",
+        "society",
+        "work"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0773",
+      "word": "price",
+      "tier": 1,
+      "rank": 773,
+      "score": 72.7,
+      "freq": 19,
+      "bookSpread": 8,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "price"
+      ],
+      "topics": [
+        "family",
+        "tourism"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0774",
+      "word": "fully",
+      "tier": 1,
+      "rank": 774,
+      "score": 72.7,
+      "freq": 19,
+      "bookSpread": 8,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "fully"
+      ],
+      "topics": [
+        "environment",
+        "family",
+        "tourism"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0775",
+      "word": "born",
+      "tier": 1,
+      "rank": 775,
+      "score": 72.7,
+      "freq": 19,
+      "bookSpread": 8,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "born"
+      ],
+      "topics": [
+        "work"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0776",
+      "word": "failed",
+      "tier": 1,
+      "rank": 776,
+      "score": 72.7,
+      "freq": 14,
+      "bookSpread": 8,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "failed"
+      ],
+      "topics": [
+        "tourism",
+        "work"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0777",
+      "word": "ancestors",
+      "tier": 1,
+      "rank": 777,
+      "score": 72.7,
+      "freq": 19,
+      "bookSpread": 7,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "ancestors"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0778",
+      "word": "wind",
+      "tier": 1,
+      "rank": 778,
+      "score": 72.7,
+      "freq": 19,
+      "bookSpread": 7,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "wind"
+      ],
+      "topics": [
+        "environment",
+        "health"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0779",
+      "word": "english",
+      "tier": 1,
+      "rank": 779,
+      "score": 72.6,
+      "freq": 22,
+      "bookSpread": 10,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "english"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0780",
+      "word": "direction",
+      "tier": 1,
+      "rank": 780,
+      "score": 72.6,
+      "freq": 17,
+      "bookSpread": 10,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "direction"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0781",
+      "word": "purposes",
+      "tier": 1,
+      "rank": 781,
+      "score": 72.6,
+      "freq": 17,
+      "bookSpread": 9,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "purposes"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0782",
+      "word": "plan",
+      "tier": 1,
+      "rank": 782,
+      "score": 72.6,
+      "freq": 22,
+      "bookSpread": 8,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "plan"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0783",
+      "word": "meanwhile",
+      "tier": 1,
+      "rank": 783,
+      "score": 72.6,
+      "freq": 17,
+      "bookSpread": 8,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "meanwhile"
+      ],
+      "topics": [
+        "society",
+        "work"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0784",
+      "word": "covered",
+      "tier": 1,
+      "rank": 784,
+      "score": 72.6,
+      "freq": 17,
+      "bookSpread": 8,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "covered"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0785",
+      "word": "currently",
+      "tier": 1,
+      "rank": 785,
+      "score": 72.6,
+      "freq": 17,
+      "bookSpread": 8,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "currently"
+      ],
+      "topics": [
+        "environment",
+        "science"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0786",
+      "word": "belief",
+      "tier": 1,
+      "rank": 786,
+      "score": 72.6,
+      "freq": 12,
+      "bookSpread": 8,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "belief"
+      ],
+      "topics": [
+        "environment",
+        "work"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0787",
+      "word": "try",
+      "tier": 1,
+      "rank": 787,
+      "score": 72.6,
+      "freq": 17,
+      "bookSpread": 7,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "try"
+      ],
+      "topics": [
+        "media",
+        "technology"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0788",
+      "word": "bad",
+      "tier": 1,
+      "rank": 788,
+      "score": 72.6,
+      "freq": 17,
+      "bookSpread": 7,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "bad"
+      ],
+      "topics": [
+        "education",
+        "media",
+        "work"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0789",
+      "word": "king",
+      "tier": 1,
+      "rank": 789,
+      "score": 72.6,
+      "freq": 32,
+      "bookSpread": 6,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "king"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0790",
+      "word": "extremely",
+      "tier": 1,
+      "rank": 790,
+      "score": 72.5,
+      "freq": 20,
+      "bookSpread": 11,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "extremely"
+      ],
+      "topics": [
+        "crime",
+        "education",
+        "health",
+        "technology",
+        "work"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0791",
+      "word": "nearly",
+      "tier": 1,
+      "rank": 791,
+      "score": 72.5,
+      "freq": 20,
+      "bookSpread": 11,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "nearly"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0792",
+      "word": "introduced",
+      "tier": 1,
+      "rank": 792,
+      "score": 72.5,
+      "freq": 20,
+      "bookSpread": 10,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "introduced"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0793",
+      "word": "understood",
+      "tier": 1,
+      "rank": 793,
+      "score": 72.5,
+      "freq": 15,
+      "bookSpread": 9,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "understood"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0794",
+      "word": "gives",
+      "tier": 1,
+      "rank": 794,
+      "score": 72.5,
+      "freq": 15,
+      "bookSpread": 9,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "gives"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0795",
+      "word": "unlikely",
+      "tier": 1,
+      "rank": 795,
+      "score": 72.5,
+      "freq": 15,
+      "bookSpread": 9,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "unlikely"
+      ],
+      "topics": [
+        "family",
+        "health"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0796",
+      "word": "standards",
+      "tier": 1,
+      "rank": 796,
+      "score": 72.5,
+      "freq": 20,
+      "bookSpread": 8,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "standards"
+      ],
+      "topics": [
+        "education",
+        "society"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0797",
+      "word": "recorded",
+      "tier": 1,
+      "rank": 797,
+      "score": 72.5,
+      "freq": 20,
+      "bookSpread": 7,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "recorded"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0798",
+      "word": "lived",
+      "tier": 1,
+      "rank": 798,
+      "score": 72.5,
+      "freq": 20,
+      "bookSpread": 7,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "lived"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0799",
+      "word": "dna",
+      "tier": 1,
+      "rank": 799,
+      "score": 72.5,
+      "freq": 20,
+      "bookSpread": 7,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "dna"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0800",
+      "word": "overcome",
+      "tier": 1,
+      "rank": 800,
+      "score": 72.4,
+      "freq": 13,
+      "bookSpread": 8,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "overcome"
+      ],
+      "topics": [
+        "crime",
+        "health"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0801",
+      "word": "tests",
+      "tier": 1,
+      "rank": 801,
+      "score": 72.4,
+      "freq": 18,
+      "bookSpread": 7,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "tests"
+      ],
+      "topics": [
+        "environment"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0802",
+      "word": "claim",
+      "tier": 1,
+      "rank": 802,
+      "score": 72.4,
+      "freq": 18,
+      "bookSpread": 7,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "claim"
+      ],
+      "topics": [
+        "crime",
+        "culture",
+        "environment",
+        "family",
+        "media",
+        "science"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0803",
+      "word": "alone",
+      "tier": 1,
+      "rank": 803,
+      "score": 72.3,
+      "freq": 21,
+      "bookSpread": 9,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "alone"
+      ],
+      "topics": [
+        "culture",
+        "education",
+        "environment",
+        "family"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0804",
+      "word": "dr",
+      "tier": 1,
+      "rank": 804,
+      "score": 72.3,
+      "freq": 21,
+      "bookSpread": 8,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "dr"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0805",
+      "word": "fewer",
+      "tier": 1,
+      "rank": 805,
+      "score": 72.3,
+      "freq": 16,
+      "bookSpread": 8,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "fewer"
+      ],
+      "topics": [
+        "education",
+        "family",
+        "food"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0806",
+      "word": "john",
+      "tier": 1,
+      "rank": 806,
+      "score": 72.3,
+      "freq": 21,
+      "bookSpread": 6,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "john"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0807",
+      "word": "goals",
+      "tier": 1,
+      "rank": 807,
+      "score": 72.3,
+      "freq": 21,
+      "bookSpread": 6,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "goals"
+      ],
+      "topics": [
+        "family",
+        "health"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0808",
+      "word": "rise",
+      "tier": 1,
+      "rank": 808,
+      "score": 72.2,
+      "freq": 19,
+      "bookSpread": 9,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "rise"
+      ],
+      "topics": [
+        "environment",
+        "media",
+        "society",
+        "work"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0809",
+      "word": "free",
+      "tier": 1,
+      "rank": 809,
+      "score": 72.2,
+      "freq": 19,
+      "bookSpread": 9,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "free"
+      ],
+      "topics": [
+        "culture",
+        "environment",
+        "family",
+        "media"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0810",
+      "word": "attempt",
+      "tier": 1,
+      "rank": 810,
+      "score": 72.2,
+      "freq": 19,
+      "bookSpread": 9,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "attempt"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0811",
+      "word": "outcomes",
+      "tier": 1,
+      "rank": 811,
+      "score": 72.2,
+      "freq": 14,
+      "bookSpread": 8,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "outcomes"
+      ],
+      "topics": [
+        "family",
+        "technology",
+        "work"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0812",
+      "word": "inside",
+      "tier": 1,
+      "rank": 812,
+      "score": 72.1,
+      "freq": 17,
+      "bookSpread": 11,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "inside"
+      ],
+      "topics": [
+        "crime",
+        "food"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0813",
+      "word": "hundreds",
+      "tier": 1,
+      "rank": 813,
+      "score": 72.1,
+      "freq": 22,
+      "bookSpread": 10,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "hundreds"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0814",
+      "word": "costs",
+      "tier": 1,
+      "rank": 814,
+      "score": 72.1,
+      "freq": 17,
+      "bookSpread": 8,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "costs"
+      ],
+      "topics": [
+        "family",
+        "technology"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0815",
+      "word": "distances",
+      "tier": 1,
+      "rank": 815,
+      "score": 72.1,
+      "freq": 17,
+      "bookSpread": 8,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "distances"
+      ],
+      "topics": [
+        "environment"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0816",
+      "word": "teacher",
+      "tier": 1,
+      "rank": 816,
+      "score": 72.1,
+      "freq": 22,
+      "bookSpread": 7,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "teacher"
+      ],
+      "topics": [
+        "education",
+        "society"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0817",
+      "word": "elements",
+      "tier": 1,
+      "rank": 817,
+      "score": 72.1,
+      "freq": 17,
+      "bookSpread": 7,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "elements"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0818",
+      "word": "stop",
+      "tier": 1,
+      "rank": 818,
+      "score": 72,
+      "freq": 15,
+      "bookSpread": 10,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "stop"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0819",
+      "word": "bringing",
+      "tier": 1,
+      "rank": 819,
+      "score": 72,
+      "freq": 15,
+      "bookSpread": 8,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "bringing"
+      ],
+      "topics": [
+        "transport"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0820",
+      "word": "mean",
+      "tier": 1,
+      "rank": 820,
+      "score": 72,
+      "freq": 20,
+      "bookSpread": 7,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "mean"
+      ],
+      "topics": [
+        "crime",
+        "society"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0821",
+      "word": "rest",
+      "tier": 1,
+      "rank": 821,
+      "score": 72,
+      "freq": 20,
+      "bookSpread": 7,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "rest"
+      ],
+      "topics": [
+        "culture"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0822",
+      "word": "returned",
+      "tier": 1,
+      "rank": 822,
+      "score": 72,
+      "freq": 15,
+      "bookSpread": 7,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "returned"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0823",
+      "word": "majority",
+      "tier": 1,
+      "rank": 823,
+      "score": 71.9,
+      "freq": 18,
+      "bookSpread": 9,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "majority"
+      ],
+      "topics": [
+        "crime",
+        "health",
+        "technology"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0824",
+      "word": "buy",
+      "tier": 1,
+      "rank": 824,
+      "score": 71.9,
+      "freq": 13,
+      "bookSpread": 9,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "buy"
+      ],
+      "topics": [
+        "health",
+        "media",
+        "technology"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0825",
+      "word": "tools",
+      "tier": 1,
+      "rank": 825,
+      "score": 71.9,
+      "freq": 18,
+      "bookSpread": 8,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "tools"
+      ],
+      "topics": [
+        "media",
+        "technology"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0826",
+      "word": "showed",
+      "tier": 1,
+      "rank": 826,
+      "score": 71.9,
+      "freq": 18,
+      "bookSpread": 8,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "showed"
+      ],
+      "topics": [
+        "culture"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0827",
+      "word": "effort",
+      "tier": 1,
+      "rank": 827,
+      "score": 71.9,
+      "freq": 18,
+      "bookSpread": 7,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "effort"
+      ],
+      "topics": [
+        "education",
+        "environment"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0828",
+      "word": "opportunities",
+      "tier": 1,
+      "rank": 828,
+      "score": 71.9,
+      "freq": 18,
+      "bookSpread": 7,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "opportunities"
+      ],
+      "topics": [
+        "education",
+        "family",
+        "work"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0829",
+      "word": "organisms",
+      "tier": 1,
+      "rank": 829,
+      "score": 71.9,
+      "freq": 18,
+      "bookSpread": 7,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "organisms"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0830",
+      "word": "interests",
+      "tier": 1,
+      "rank": 830,
+      "score": 71.9,
+      "freq": 13,
+      "bookSpread": 7,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "interests"
+      ],
+      "topics": [
+        "family"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0831",
+      "word": "expensive",
+      "tier": 1,
+      "rank": 831,
+      "score": 71.8,
+      "freq": 16,
+      "bookSpread": 9,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "expensive"
+      ],
+      "topics": [
+        "crime",
+        "environment",
+        "family",
+        "work"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0832",
+      "word": "helps",
+      "tier": 1,
+      "rank": 832,
+      "score": 71.8,
+      "freq": 16,
+      "bookSpread": 8,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "helps"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0833",
+      "word": "rare",
+      "tier": 1,
+      "rank": 833,
+      "score": 71.8,
+      "freq": 16,
+      "bookSpread": 8,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "rare"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0834",
+      "word": "entirely",
+      "tier": 1,
+      "rank": 834,
+      "score": 71.8,
+      "freq": 16,
+      "bookSpread": 8,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "entirely"
+      ],
+      "topics": [
+        "transport",
+        "work"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0835",
+      "word": "nothing",
+      "tier": 1,
+      "rank": 835,
+      "score": 71.8,
+      "freq": 21,
+      "bookSpread": 7,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "nothing"
+      ],
+      "topics": [
+        "culture"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0836",
+      "word": "situation",
+      "tier": 1,
+      "rank": 836,
+      "score": 71.8,
+      "freq": 16,
+      "bookSpread": 7,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "situation"
+      ],
+      "topics": [
+        "crime",
+        "family",
+        "health",
+        "technology",
+        "work"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0837",
+      "word": "artificial",
+      "tier": 1,
+      "rank": 837,
+      "score": 71.8,
+      "freq": 16,
+      "bookSpread": 7,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "artificial"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0838",
+      "word": "located",
+      "tier": 1,
+      "rank": 838,
+      "score": 71.8,
+      "freq": 16,
+      "bookSpread": 7,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "located"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0839",
+      "word": "illustrate",
+      "tier": 1,
+      "rank": 839,
+      "score": 71.8,
+      "freq": 11,
+      "bookSpread": 5,
+      "awl": true,
+      "bridge": true,
+      "surfaceForms": [
+        "illustrate"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0840",
+      "word": "west",
+      "tier": 1,
+      "rank": 840,
+      "score": 71.7,
+      "freq": 19,
+      "bookSpread": 10,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "west"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0841",
+      "word": "played",
+      "tier": 1,
+      "rank": 841,
+      "score": 71.7,
+      "freq": 19,
+      "bookSpread": 9,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "played"
+      ],
+      "topics": [
+        "family",
+        "technology"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0842",
+      "word": "preserve",
+      "tier": 1,
+      "rank": 842,
+      "score": 71.7,
+      "freq": 14,
+      "bookSpread": 9,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "preserve"
+      ],
+      "topics": [
+        "environment"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0843",
+      "word": "essential",
+      "tier": 1,
+      "rank": 843,
+      "score": 71.7,
+      "freq": 19,
+      "bookSpread": 8,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "essential"
+      ],
+      "topics": [
+        "culture"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0844",
+      "word": "separate",
+      "tier": 1,
+      "rank": 844,
+      "score": 71.7,
+      "freq": 14,
+      "bookSpread": 8,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "separate"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0845",
+      "word": "season",
+      "tier": 1,
+      "rank": 845,
+      "score": 71.7,
+      "freq": 14,
+      "bookSpread": 7,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "season"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0846",
+      "word": "altered",
+      "tier": 1,
+      "rank": 846,
+      "score": 71.7,
+      "freq": 14,
+      "bookSpread": 7,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "altered"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0847",
+      "word": "steam",
+      "tier": 1,
+      "rank": 847,
+      "score": 71.7,
+      "freq": 39,
+      "bookSpread": 5,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "steam"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0848",
+      "word": "proved",
+      "tier": 1,
+      "rank": 848,
+      "score": 71.6,
+      "freq": 17,
+      "bookSpread": 9,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "proved"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0849",
+      "word": "origins",
+      "tier": 1,
+      "rank": 849,
+      "score": 71.6,
+      "freq": 12,
+      "bookSpread": 9,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "origins"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0850",
+      "word": "personality",
+      "tier": 1,
+      "rank": 850,
+      "score": 71.6,
+      "freq": 17,
+      "bookSpread": 8,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "personality"
+      ],
+      "topics": [
+        "family"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0851",
+      "word": "women",
+      "tier": 1,
+      "rank": 851,
+      "score": 71.6,
+      "freq": 17,
+      "bookSpread": 7,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "women"
+      ],
+      "topics": [
+        "work"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0852",
+      "word": "principles",
+      "tier": 1,
+      "rank": 852,
+      "score": 71.6,
+      "freq": 17,
+      "bookSpread": 7,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "principles"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0853",
+      "word": "fear",
+      "tier": 1,
+      "rank": 853,
+      "score": 71.6,
+      "freq": 22,
+      "bookSpread": 6,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "fear"
+      ],
+      "topics": [
+        "media"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0854",
+      "word": "doesn",
+      "tier": 1,
+      "rank": 854,
+      "score": 71.5,
+      "freq": 20,
+      "bookSpread": 10,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "doesn"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0855",
+      "word": "degree",
+      "tier": 1,
+      "rank": 855,
+      "score": 71.5,
+      "freq": 15,
+      "bookSpread": 10,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "degree"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0856",
+      "word": "quite",
+      "tier": 1,
+      "rank": 856,
+      "score": 71.5,
+      "freq": 20,
+      "bookSpread": 9,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "quite"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0857",
+      "word": "meant",
+      "tier": 1,
+      "rank": 857,
+      "score": 71.5,
+      "freq": 15,
+      "bookSpread": 9,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "meant"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0858",
+      "word": "successfully",
+      "tier": 1,
+      "rank": 858,
+      "score": 71.5,
+      "freq": 15,
+      "bookSpread": 9,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "successfully"
+      ],
+      "topics": [
+        "environment"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0859",
+      "word": "north",
+      "tier": 1,
+      "rank": 859,
+      "score": 71.5,
+      "freq": 20,
+      "bookSpread": 8,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "north"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0860",
+      "word": "mainly",
+      "tier": 1,
+      "rank": 860,
+      "score": 71.5,
+      "freq": 15,
+      "bookSpread": 8,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "mainly"
+      ],
+      "topics": [
+        "work"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0861",
+      "word": "war",
+      "tier": 1,
+      "rank": 861,
+      "score": 71.5,
+      "freq": 20,
+      "bookSpread": 7,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "war"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0862",
+      "word": "roads",
+      "tier": 1,
+      "rank": 862,
+      "score": 71.5,
+      "freq": 15,
+      "bookSpread": 7,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "roads"
+      ],
+      "topics": [
+        "transport"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0863",
+      "word": "formed",
+      "tier": 1,
+      "rank": 863,
+      "score": 71.5,
+      "freq": 15,
+      "bookSpread": 7,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "formed"
+      ],
+      "topics": [
+        "family",
+        "society"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0864",
+      "word": "dry",
+      "tier": 1,
+      "rank": 864,
+      "score": 71.5,
+      "freq": 15,
+      "bookSpread": 7,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "dry"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0865",
+      "word": "speech",
+      "tier": 1,
+      "rank": 865,
+      "score": 71.5,
+      "freq": 25,
+      "bookSpread": 6,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "speech"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0866",
+      "word": "governments",
+      "tier": 1,
+      "rank": 866,
+      "score": 71.5,
+      "freq": 20,
+      "bookSpread": 6,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "governments"
+      ],
+      "topics": [
+        "environment",
+        "health",
+        "science"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0867",
+      "word": "extreme",
+      "tier": 1,
+      "rank": 867,
+      "score": 71.4,
+      "freq": 18,
+      "bookSpread": 8,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "extreme"
+      ],
+      "topics": [
+        "culture",
+        "health"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0868",
+      "word": "learned",
+      "tier": 1,
+      "rank": 868,
+      "score": 71.4,
+      "freq": 18,
+      "bookSpread": 8,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "learned"
+      ],
+      "topics": [
+        "family"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0869",
+      "word": "slow",
+      "tier": 1,
+      "rank": 869,
+      "score": 71.4,
+      "freq": 13,
+      "bookSpread": 8,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "slow"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0870",
+      "word": "difficulty",
+      "tier": 1,
+      "rank": 870,
+      "score": 71.4,
+      "freq": 13,
+      "bookSpread": 8,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "difficulty"
+      ],
+      "topics": [
+        "family"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0871",
+      "word": "basis",
+      "tier": 1,
+      "rank": 871,
+      "score": 71.4,
+      "freq": 13,
+      "bookSpread": 7,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "basis"
+      ],
+      "topics": [
+        "media"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0872",
+      "word": "inhabit",
+      "tier": 1,
+      "rank": 872,
+      "score": 71.3,
+      "freq": 16,
+      "bookSpread": 9,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "inhabitants",
+        "inhabited",
+        "inhabit"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0873",
+      "word": "hope",
+      "tier": 1,
+      "rank": 873,
+      "score": 71.3,
+      "freq": 16,
+      "bookSpread": 8,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "hope"
+      ],
+      "topics": [
+        "family"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0874",
+      "word": "homes",
+      "tier": 1,
+      "rank": 874,
+      "score": 71.3,
+      "freq": 16,
+      "bookSpread": 8,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "homes"
+      ],
+      "topics": [
+        "family",
+        "technology",
+        "tourism"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0875",
+      "word": "offered",
+      "tier": 1,
+      "rank": 875,
+      "score": 71.3,
+      "freq": 16,
+      "bookSpread": 8,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "offered"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0876",
+      "word": "remained",
+      "tier": 1,
+      "rank": 876,
+      "score": 71.3,
+      "freq": 16,
+      "bookSpread": 8,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "remained"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0877",
+      "word": "situations",
+      "tier": 1,
+      "rank": 877,
+      "score": 71.3,
+      "freq": 16,
+      "bookSpread": 7,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "situations"
+      ],
+      "topics": [
+        "crime",
+        "technology",
+        "transport",
+        "work"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0878",
+      "word": "heat",
+      "tier": 1,
+      "rank": 878,
+      "score": 71.3,
+      "freq": 16,
+      "bookSpread": 7,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "heat"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0879",
+      "word": "established",
+      "tier": 1,
+      "rank": 879,
+      "score": 71.3,
+      "freq": 11,
+      "bookSpread": 7,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "established"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0880",
+      "word": "professional",
+      "tier": 1,
+      "rank": 880,
+      "score": 71.3,
+      "freq": 11,
+      "bookSpread": 5,
+      "awl": true,
+      "bridge": true,
+      "surfaceForms": [
+        "professional"
+      ],
+      "topics": [
+        "family"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0881",
+      "word": "anything",
+      "tier": 1,
+      "rank": 881,
+      "score": 71.2,
+      "freq": 19,
+      "bookSpread": 11,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "anything"
+      ],
+      "topics": [
+        "environment",
+        "work"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0882",
+      "word": "favour",
+      "tier": 1,
+      "rank": 882,
+      "score": 71.2,
+      "freq": 14,
+      "bookSpread": 9,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "favour"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0883",
+      "word": "chance",
+      "tier": 1,
+      "rank": 883,
+      "score": 71.2,
+      "freq": 19,
+      "bookSpread": 8,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "chance"
+      ],
+      "topics": [
+        "environment",
+        "family",
+        "health"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0884",
+      "word": "carefully",
+      "tier": 1,
+      "rank": 884,
+      "score": 71.2,
+      "freq": 14,
+      "bookSpread": 8,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "carefully"
+      ],
+      "topics": [
+        "culture",
+        "education",
+        "family"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0885",
+      "word": "getting",
+      "tier": 1,
+      "rank": 885,
+      "score": 71.2,
+      "freq": 14,
+      "bookSpread": 8,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "getting"
+      ],
+      "topics": [
+        "family",
+        "health"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0886",
+      "word": "perform",
+      "tier": 1,
+      "rank": 886,
+      "score": 71.2,
+      "freq": 14,
+      "bookSpread": 8,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "perform"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0887",
+      "word": "mark",
+      "tier": 1,
+      "rank": 887,
+      "score": 71.2,
+      "freq": 14,
+      "bookSpread": 8,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "mark"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0888",
+      "word": "appearance",
+      "tier": 1,
+      "rank": 888,
+      "score": 71.2,
+      "freq": 9,
+      "bookSpread": 8,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "appearance"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0889",
+      "word": "length",
+      "tier": 1,
+      "rank": 889,
+      "score": 71.2,
+      "freq": 14,
+      "bookSpread": 7,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "length"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0890",
+      "word": "mountains",
+      "tier": 1,
+      "rank": 890,
+      "score": 71.2,
+      "freq": 24,
+      "bookSpread": 6,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "mountains"
+      ],
+      "topics": [
+        "environment"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0891",
+      "word": "phenomenon",
+      "tier": 1,
+      "rank": 891,
+      "score": 71.1,
+      "freq": 17,
+      "bookSpread": 9,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "phenomenon"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0892",
+      "word": "service",
+      "tier": 1,
+      "rank": 892,
+      "score": 71.1,
+      "freq": 17,
+      "bookSpread": 8,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "service"
+      ],
+      "topics": [
+        "crime",
+        "work"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0893",
+      "word": "happen",
+      "tier": 1,
+      "rank": 893,
+      "score": 71.1,
+      "freq": 17,
+      "bookSpread": 7,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "happen"
+      ],
+      "topics": [
+        "media"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0894",
+      "word": "regarded",
+      "tier": 1,
+      "rank": 894,
+      "score": 71.1,
+      "freq": 12,
+      "bookSpread": 7,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "regarded"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0895",
+      "word": "rich",
+      "tier": 1,
+      "rank": 895,
+      "score": 71.1,
+      "freq": 12,
+      "bookSpread": 7,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "rich"
+      ],
+      "topics": [
+        "work"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0896",
+      "word": "stone",
+      "tier": 1,
+      "rank": 896,
+      "score": 71.1,
+      "freq": 27,
+      "bookSpread": 6,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "stone"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0897",
+      "word": "happened",
+      "tier": 1,
+      "rank": 897,
+      "score": 71,
+      "freq": 15,
+      "bookSpread": 9,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "happened"
+      ],
+      "topics": [
+        "family"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0898",
+      "word": "turning",
+      "tier": 1,
+      "rank": 898,
+      "score": 71,
+      "freq": 15,
+      "bookSpread": 7,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "turning"
+      ],
+      "topics": [
+        "society"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0899",
+      "word": "east",
+      "tier": 1,
+      "rank": 899,
+      "score": 71,
+      "freq": 15,
+      "bookSpread": 7,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "east"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0900",
+      "word": "matter",
+      "tier": 1,
+      "rank": 900,
+      "score": 71,
+      "freq": 15,
+      "bookSpread": 7,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "matter"
+      ],
+      "topics": [
+        "education",
+        "health",
+        "society"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0901",
+      "word": "houses",
+      "tier": 1,
+      "rank": 901,
+      "score": 71,
+      "freq": 15,
+      "bookSpread": 7,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "houses"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0902",
+      "word": "eyes",
+      "tier": 1,
+      "rank": 902,
+      "score": 70.9,
+      "freq": 18,
+      "bookSpread": 10,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "eyes"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0903",
+      "word": "expected",
+      "tier": 1,
+      "rank": 903,
+      "score": 70.9,
+      "freq": 18,
+      "bookSpread": 10,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "expected"
+      ],
+      "topics": [
+        "culture"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0904",
+      "word": "rapidly",
+      "tier": 1,
+      "rank": 904,
+      "score": 70.9,
+      "freq": 18,
+      "bookSpread": 9,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "rapidly"
+      ],
+      "topics": [
+        "culture",
+        "family",
+        "tourism"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0905",
+      "word": "realise",
+      "tier": 1,
+      "rank": 905,
+      "score": 70.9,
+      "freq": 13,
+      "bookSpread": 9,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "realise"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0906",
+      "word": "paper",
+      "tier": 1,
+      "rank": 906,
+      "score": 70.9,
+      "freq": 18,
+      "bookSpread": 8,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "paper"
+      ],
+      "topics": [
+        "education"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0907",
+      "word": "leads",
+      "tier": 1,
+      "rank": 907,
+      "score": 70.9,
+      "freq": 13,
+      "bookSpread": 8,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "leads"
+      ],
+      "topics": [
+        "environment"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0908",
+      "word": "causes",
+      "tier": 1,
+      "rank": 908,
+      "score": 70.9,
+      "freq": 13,
+      "bookSpread": 8,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "causes"
+      ],
+      "topics": [
+        "crime",
+        "family",
+        "health",
+        "media",
+        "society",
+        "work"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0909",
+      "word": "meet",
+      "tier": 1,
+      "rank": 909,
+      "score": 70.9,
+      "freq": 13,
+      "bookSpread": 8,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "meet"
+      ],
+      "topics": [
+        "education"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0910",
+      "word": "pay",
+      "tier": 1,
+      "rank": 910,
+      "score": 70.9,
+      "freq": 13,
+      "bookSpread": 8,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "pay"
+      ],
+      "topics": [
+        "education",
+        "tourism",
+        "work"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0911",
+      "word": "chosen",
+      "tier": 1,
+      "rank": 911,
+      "score": 70.9,
+      "freq": 13,
+      "bookSpread": 8,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "chosen"
+      ],
+      "topics": [
+        "work"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0912",
+      "word": "intelligent",
+      "tier": 1,
+      "rank": 912,
+      "score": 70.9,
+      "freq": 13,
+      "bookSpread": 7,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "intelligent"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0913",
+      "word": "giving",
+      "tier": 1,
+      "rank": 913,
+      "score": 70.9,
+      "freq": 13,
+      "bookSpread": 7,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "giving"
+      ],
+      "topics": [
+        "education"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0914",
+      "word": "fourth",
+      "tier": 1,
+      "rank": 914,
+      "score": 70.9,
+      "freq": 8,
+      "bookSpread": 7,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "fourth"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0915",
+      "word": "colour",
+      "tier": 1,
+      "rank": 915,
+      "score": 70.9,
+      "freq": 23,
+      "bookSpread": 6,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "colour"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0916",
+      "word": "numerous",
+      "tier": 1,
+      "rank": 916,
+      "score": 70.8,
+      "freq": 16,
+      "bookSpread": 9,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "numerous"
+      ],
+      "topics": [
+        "environment"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0917",
+      "word": "allowing",
+      "tier": 1,
+      "rank": 917,
+      "score": 70.8,
+      "freq": 16,
+      "bookSpread": 8,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "allowing"
+      ],
+      "topics": [
+        "education",
+        "family",
+        "technology"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0918",
+      "word": "safe",
+      "tier": 1,
+      "rank": 918,
+      "score": 70.8,
+      "freq": 16,
+      "bookSpread": 8,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "safe"
+      ],
+      "topics": [
+        "crime",
+        "environment",
+        "society"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0919",
+      "word": "reflect",
+      "tier": 1,
+      "rank": 919,
+      "score": 70.8,
+      "freq": 11,
+      "bookSpread": 8,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "reflect"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0920",
+      "word": "moving",
+      "tier": 1,
+      "rank": 920,
+      "score": 70.8,
+      "freq": 16,
+      "bookSpread": 7,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "moving"
+      ],
+      "topics": [
+        "technology"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0921",
+      "word": "crop",
+      "tier": 1,
+      "rank": 921,
+      "score": 70.8,
+      "freq": 16,
+      "bookSpread": 7,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "crop"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0922",
+      "word": "unlike",
+      "tier": 1,
+      "rank": 922,
+      "score": 70.8,
+      "freq": 16,
+      "bookSpread": 7,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "unlike"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0923",
+      "word": "france",
+      "tier": 1,
+      "rank": 923,
+      "score": 70.8,
+      "freq": 16,
+      "bookSpread": 7,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "france"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0924",
+      "word": "knew",
+      "tier": 1,
+      "rank": 924,
+      "score": 70.8,
+      "freq": 11,
+      "bookSpread": 7,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "knew"
+      ],
+      "topics": [
+        "technology"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0925",
+      "word": "student",
+      "tier": 1,
+      "rank": 925,
+      "score": 70.8,
+      "freq": 21,
+      "bookSpread": 6,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "student"
+      ],
+      "topics": [
+        "education"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0926",
+      "word": "birth",
+      "tier": 1,
+      "rank": 926,
+      "score": 70.7,
+      "freq": 14,
+      "bookSpread": 10,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "birth"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0927",
+      "word": "demands",
+      "tier": 1,
+      "rank": 927,
+      "score": 70.7,
+      "freq": 14,
+      "bookSpread": 8,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "demands"
+      ],
+      "topics": [
+        "family",
+        "work"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0928",
+      "word": "originally",
+      "tier": 1,
+      "rank": 928,
+      "score": 70.7,
+      "freq": 14,
+      "bookSpread": 8,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "originally"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0929",
+      "word": "condition",
+      "tier": 1,
+      "rank": 929,
+      "score": 70.7,
+      "freq": 14,
+      "bookSpread": 8,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "condition"
+      ],
+      "topics": [
+        "culture"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0930",
+      "word": "intellectual",
+      "tier": 1,
+      "rank": 930,
+      "score": 70.7,
+      "freq": 14,
+      "bookSpread": 7,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "intellectual"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0931",
+      "word": "leaving",
+      "tier": 1,
+      "rank": 931,
+      "score": 70.7,
+      "freq": 14,
+      "bookSpread": 7,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "leaving"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0932",
+      "word": "completely",
+      "tier": 1,
+      "rank": 932,
+      "score": 70.7,
+      "freq": 14,
+      "bookSpread": 7,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "completely"
+      ],
+      "topics": [
+        "environment",
+        "technology"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0933",
+      "word": "escape",
+      "tier": 1,
+      "rank": 933,
+      "score": 70.7,
+      "freq": 14,
+      "bookSpread": 7,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "escape"
+      ],
+      "topics": [
+        "crime"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0934",
+      "word": "organised",
+      "tier": 1,
+      "rank": 934,
+      "score": 70.7,
+      "freq": 9,
+      "bookSpread": 7,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "organised"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0935",
+      "word": "search",
+      "tier": 1,
+      "rank": 935,
+      "score": 70.7,
+      "freq": 24,
+      "bookSpread": 6,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "search"
+      ],
+      "topics": [
+        "media"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0936",
+      "word": "hold",
+      "tier": 1,
+      "rank": 936,
+      "score": 70.6,
+      "freq": 17,
+      "bookSpread": 10,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "hold"
+      ],
+      "topics": [
+        "food"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0937",
+      "word": "vital",
+      "tier": 1,
+      "rank": 937,
+      "score": 70.6,
+      "freq": 17,
+      "bookSpread": 9,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "vital"
+      ],
+      "topics": [
+        "culture",
+        "environment",
+        "work"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0938",
+      "word": "services",
+      "tier": 1,
+      "rank": 938,
+      "score": 70.6,
+      "freq": 17,
+      "bookSpread": 7,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "services"
+      ],
+      "topics": [
+        "culture",
+        "society",
+        "tourism",
+        "work"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0939",
+      "word": "enjoy",
+      "tier": 1,
+      "rank": 939,
+      "score": 70.5,
+      "freq": 15,
+      "bookSpread": 9,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "enjoy"
+      ],
+      "topics": [
+        "family",
+        "health",
+        "society",
+        "tourism"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0940",
+      "word": "cutting",
+      "tier": 1,
+      "rank": 940,
+      "score": 70.5,
+      "freq": 15,
+      "bookSpread": 9,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "cutting"
+      ],
+      "topics": [
+        "transport"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0941",
+      "word": "pass",
+      "tier": 1,
+      "rank": 941,
+      "score": 70.5,
+      "freq": 15,
+      "bookSpread": 8,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "pass"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0942",
+      "word": "nearby",
+      "tier": 1,
+      "rank": 942,
+      "score": 70.5,
+      "freq": 15,
+      "bookSpread": 8,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "nearby"
+      ],
+      "topics": [
+        "science",
+        "tourism"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0943",
+      "word": "extended",
+      "tier": 1,
+      "rank": 943,
+      "score": 70.5,
+      "freq": 10,
+      "bookSpread": 8,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "extended"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0944",
+      "word": "record",
+      "tier": 1,
+      "rank": 944,
+      "score": 70.5,
+      "freq": 15,
+      "bookSpread": 7,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "record"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0945",
+      "word": "educational",
+      "tier": 1,
+      "rank": 945,
+      "score": 70.5,
+      "freq": 15,
+      "bookSpread": 7,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "educational"
+      ],
+      "topics": [
+        "education",
+        "family",
+        "health",
+        "technology"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0946",
+      "word": "private",
+      "tier": 1,
+      "rank": 946,
+      "score": 70.5,
+      "freq": 15,
+      "bookSpread": 7,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "private"
+      ],
+      "topics": [
+        "culture",
+        "science",
+        "society"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0947",
+      "word": "decade",
+      "tier": 1,
+      "rank": 947,
+      "score": 70.5,
+      "freq": 15,
+      "bookSpread": 5,
+      "awl": true,
+      "bridge": true,
+      "surfaceForms": [
+        "decade"
+      ],
+      "topics": [
+        "society"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0948",
+      "word": "directly",
+      "tier": 1,
+      "rank": 948,
+      "score": 70.4,
+      "freq": 13,
+      "bookSpread": 8,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "directly"
+      ],
+      "topics": [
+        "work"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0949",
+      "word": "standard",
+      "tier": 1,
+      "rank": 949,
+      "score": 70.4,
+      "freq": 13,
+      "bookSpread": 8,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "standard"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0950",
+      "word": "abandoned",
+      "tier": 1,
+      "rank": 950,
+      "score": 70.4,
+      "freq": 13,
+      "bookSpread": 7,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "abandoned"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0951",
+      "word": "responsibility",
+      "tier": 1,
+      "rank": 951,
+      "score": 70.4,
+      "freq": 13,
+      "bookSpread": 7,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "responsibility"
+      ],
+      "topics": [
+        "health",
+        "science"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0952",
+      "word": "india",
+      "tier": 1,
+      "rank": 952,
+      "score": 70.4,
+      "freq": 28,
+      "bookSpread": 6,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "india"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0953",
+      "word": "circumstances",
+      "tier": 1,
+      "rank": 953,
+      "score": 70.3,
+      "freq": 11,
+      "bookSpread": 9,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "circumstances"
+      ],
+      "topics": [
+        "society"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0954",
+      "word": "becomes",
+      "tier": 1,
+      "rank": 954,
+      "score": 70.3,
+      "freq": 16,
+      "bookSpread": 8,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "becomes"
+      ],
+      "topics": [
+        "family",
+        "science",
+        "society"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0955",
+      "word": "largest",
+      "tier": 1,
+      "rank": 955,
+      "score": 70.3,
+      "freq": 16,
+      "bookSpread": 8,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "largest"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0956",
+      "word": "followed",
+      "tier": 1,
+      "rank": 956,
+      "score": 70.3,
+      "freq": 16,
+      "bookSpread": 8,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "followed"
+      ],
+      "topics": [
+        "work"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0957",
+      "word": "begin",
+      "tier": 1,
+      "rank": 957,
+      "score": 70.3,
+      "freq": 16,
+      "bookSpread": 8,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "begin"
+      ],
+      "topics": [
+        "family",
+        "media"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0958",
+      "word": "men",
+      "tier": 1,
+      "rank": 958,
+      "score": 70.3,
+      "freq": 16,
+      "bookSpread": 8,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "men"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0959",
+      "word": "spring",
+      "tier": 1,
+      "rank": 959,
+      "score": 70.3,
+      "freq": 16,
+      "bookSpread": 8,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "spring"
+      ],
+      "topics": [
+        "food"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0960",
+      "word": "critical",
+      "tier": 1,
+      "rank": 960,
+      "score": 70.3,
+      "freq": 16,
+      "bookSpread": 8,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "critical"
+      ],
+      "topics": [
+        "transport"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0961",
+      "word": "prepared",
+      "tier": 1,
+      "rank": 961,
+      "score": 70.3,
+      "freq": 11,
+      "bookSpread": 8,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "prepared"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0962",
+      "word": "total",
+      "tier": 1,
+      "rank": 962,
+      "score": 70.3,
+      "freq": 11,
+      "bookSpread": 8,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "total"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0963",
+      "word": "architecture",
+      "tier": 1,
+      "rank": 963,
+      "score": 70.3,
+      "freq": 16,
+      "bookSpread": 7,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "architecture"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0964",
+      "word": "advances",
+      "tier": 1,
+      "rank": 964,
+      "score": 70.3,
+      "freq": 11,
+      "bookSpread": 7,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "advances"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0965",
+      "word": "temperature",
+      "tier": 1,
+      "rank": 965,
+      "score": 70.3,
+      "freq": 26,
+      "bookSpread": 6,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "temperature"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0966",
+      "word": "steps",
+      "tier": 1,
+      "rank": 966,
+      "score": 70.3,
+      "freq": 21,
+      "bookSpread": 6,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "steps"
+      ],
+      "topics": [
+        "education",
+        "environment",
+        "health",
+        "society"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0967",
+      "word": "contact",
+      "tier": 1,
+      "rank": 967,
+      "score": 70.3,
+      "freq": 11,
+      "bookSpread": 5,
+      "awl": true,
+      "bridge": true,
+      "surfaceForms": [
+        "contact"
+      ],
+      "topics": [
+        "environment",
+        "media"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0968",
+      "word": "leave",
+      "tier": 1,
+      "rank": 968,
+      "score": 70.2,
+      "freq": 14,
+      "bookSpread": 8,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "leave"
+      ],
+      "topics": [
+        "environment"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0969",
+      "word": "birds",
+      "tier": 1,
+      "rank": 969,
+      "score": 70.2,
+      "freq": 14,
+      "bookSpread": 8,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "birds"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0970",
+      "word": "helping",
+      "tier": 1,
+      "rank": 970,
+      "score": 70.2,
+      "freq": 14,
+      "bookSpread": 8,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "helping"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0971",
+      "word": "affects",
+      "tier": 1,
+      "rank": 971,
+      "score": 70.2,
+      "freq": 14,
+      "bookSpread": 7,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "affects"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0972",
+      "word": "wasn",
+      "tier": 1,
+      "rank": 972,
+      "score": 70.2,
+      "freq": 14,
+      "bookSpread": 7,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "wasn"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0973",
+      "word": "fed",
+      "tier": 1,
+      "rank": 973,
+      "score": 70.2,
+      "freq": 9,
+      "bookSpread": 7,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "fed"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0974",
+      "word": "whatever",
+      "tier": 1,
+      "rank": 974,
+      "score": 70.1,
+      "freq": 12,
+      "bookSpread": 9,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "whatever"
+      ],
+      "topics": [
+        "family",
+        "health"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0975",
+      "word": "planning",
+      "tier": 1,
+      "rank": 975,
+      "score": 70.1,
+      "freq": 12,
+      "bookSpread": 7,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "planning"
+      ],
+      "topics": [
+        "family"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0976",
+      "word": "images",
+      "tier": 1,
+      "rank": 976,
+      "score": 70.1,
+      "freq": 12,
+      "bookSpread": 7,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "images"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0977",
+      "word": "functions",
+      "tier": 1,
+      "rank": 977,
+      "score": 70.1,
+      "freq": 12,
+      "bookSpread": 7,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "functions"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0978",
+      "word": "improving",
+      "tier": 1,
+      "rank": 978,
+      "score": 70.1,
+      "freq": 12,
+      "bookSpread": 7,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "improving"
+      ],
+      "topics": [
+        "culture",
+        "environment",
+        "science"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0979",
+      "word": "reached",
+      "tier": 1,
+      "rank": 979,
+      "score": 70,
+      "freq": 15,
+      "bookSpread": 9,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "reached"
+      ],
+      "topics": [
+        "media"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0980",
+      "word": "impressive",
+      "tier": 1,
+      "rank": 980,
+      "score": 70,
+      "freq": 15,
+      "bookSpread": 8,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "impressive"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0981",
+      "word": "reputation",
+      "tier": 1,
+      "rank": 981,
+      "score": 70,
+      "freq": 10,
+      "bookSpread": 8,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "reputation"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0982",
+      "word": "western",
+      "tier": 1,
+      "rank": 982,
+      "score": 70,
+      "freq": 15,
+      "bookSpread": 7,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "western"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0983",
+      "word": "lose",
+      "tier": 1,
+      "rank": 983,
+      "score": 70,
+      "freq": 10,
+      "bookSpread": 7,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "lose"
+      ],
+      "topics": [
+        "technology"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0984",
+      "word": "introduction",
+      "tier": 1,
+      "rank": 984,
+      "score": 70,
+      "freq": 10,
+      "bookSpread": 7,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "introduction"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0985",
+      "word": "ordinary",
+      "tier": 1,
+      "rank": 985,
+      "score": 70,
+      "freq": 10,
+      "bookSpread": 7,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "ordinary"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0986",
+      "word": "advanced",
+      "tier": 1,
+      "rank": 986,
+      "score": 69.9,
+      "freq": 13,
+      "bookSpread": 9,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "advanced"
+      ],
+      "topics": [
+        "transport"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0987",
+      "word": "closely",
+      "tier": 1,
+      "rank": 987,
+      "score": 69.9,
+      "freq": 13,
+      "bookSpread": 8,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "closely"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0988",
+      "word": "travelled",
+      "tier": 1,
+      "rank": 988,
+      "score": 69.9,
+      "freq": 13,
+      "bookSpread": 8,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "travelled"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0989",
+      "word": "laboratory",
+      "tier": 1,
+      "rank": 989,
+      "score": 69.9,
+      "freq": 13,
+      "bookSpread": 7,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "laboratory"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0990",
+      "word": "won",
+      "tier": 1,
+      "rank": 990,
+      "score": 69.9,
+      "freq": 13,
+      "bookSpread": 7,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "won"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0991",
+      "word": "class",
+      "tier": 1,
+      "rank": 991,
+      "score": 69.9,
+      "freq": 38,
+      "bookSpread": 5,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "class"
+      ],
+      "topics": [
+        "society"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0992",
+      "word": "biggest",
+      "tier": 1,
+      "rank": 992,
+      "score": 69.8,
+      "freq": 11,
+      "bookSpread": 8,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "biggest"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0993",
+      "word": "fresh",
+      "tier": 1,
+      "rank": 993,
+      "score": 69.8,
+      "freq": 11,
+      "bookSpread": 8,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "fresh"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0994",
+      "word": "dangerous",
+      "tier": 1,
+      "rank": 994,
+      "score": 69.8,
+      "freq": 11,
+      "bookSpread": 8,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "dangerous"
+      ],
+      "topics": [
+        "crime",
+        "health"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0995",
+      "word": "organisations",
+      "tier": 1,
+      "rank": 995,
+      "score": 69.8,
+      "freq": 11,
+      "bookSpread": 8,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "organisations"
+      ],
+      "topics": [
+        "culture",
+        "environment"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0996",
+      "word": "direct",
+      "tier": 1,
+      "rank": 996,
+      "score": 69.8,
+      "freq": 11,
+      "bookSpread": 8,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "direct"
+      ],
+      "topics": [
+        "media"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0997",
+      "word": "worth",
+      "tier": 1,
+      "rank": 997,
+      "score": 69.8,
+      "freq": 11,
+      "bookSpread": 8,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "worth"
+      ],
+      "topics": [
+        "work"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0998",
+      "word": "surprising",
+      "tier": 1,
+      "rank": 998,
+      "score": 69.8,
+      "freq": 11,
+      "bookSpread": 8,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "surprising"
+      ],
+      "topics": [
+        "environment"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0999",
+      "word": "long-term",
+      "tier": 1,
+      "rank": 999,
+      "score": 69.8,
+      "freq": 11,
+      "bookSpread": 8,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "long-term"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-1000",
+      "word": "tried",
+      "tier": 1,
+      "rank": 1000,
+      "score": 69.8,
+      "freq": 11,
+      "bookSpread": 7,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "tried"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    }
+  ],
+  "essay_questions": [
+    {
+      "id": "essay-001",
+      "question": "Zoos are inhumane and pointless. To what extent do you agree or disagree?",
+      "type": "opinion"
+    },
+    {
+      "id": "essay-002",
+      "question": "Many governments spend a lot of money on art. Some people think this investment in art is necessary, but others say the money is better spent on improving health and education. Discuss both these views and give your own opinion.",
+      "type": "discussion"
+    },
+    {
+      "id": "essay-003",
+      "question": "Some people think that because of email, social media and telephones, communication among people is less personal now than it used to be. To what extent do you agree or disagree?",
+      "type": "opinion"
+    },
+    {
+      "id": "essay-004",
+      "question": "Many criminals re-offend after they have been punished. Why do some people continue to commit crimes after they have been punished, and what measures can be taken to tackle this problem?",
+      "type": "causes_solutions"
+    },
+    {
+      "id": "essay-005",
+      "question": "In the developed world, average life expectancy is increasing. What problems will this cause for individuals and society? Suggest some measures that could be taken to reduce the impact of ageing populations.",
+      "type": "causes_solutions"
+    },
+    {
+      "id": "essay-006",
+      "question": "In many countries, schools have severe problems with student behaviour. What do you think are the causes of this? What solutions can you suggest?",
+      "type": "causes_solutions"
+    },
+    {
+      "id": "essay-007",
+      "question": "Some people think that it is important to use leisure time for activities that improve the mind, such as reading and doing word puzzles. Other people feel that it is important to rest the mind during leisure time. Discuss both views and give your opinion.",
+      "type": "discussion"
+    },
+    {
+      "id": "essay-008",
+      "question": "Many people think it is very important to protect the environment but they make no effort to do it themselves. Why do you think this is the case? What actions should individuals take to protect the environment?",
+      "type": "discussion"
+    },
+    {
+      "id": "essay-009",
+      "question": "Young people spend less of their free time with their family nowadays. What are the reasons for this? Are there more negative or positive sides to it?",
+      "type": "causes_solutions"
+    },
+    {
+      "id": "essay-010",
+      "question": "Junk food advertising has a harmful effect on society and should be banned. To what extent do you agree or disagree?",
+      "type": "opinion"
+    },
+    {
+      "id": "essay-011",
+      "question": "The exploration and development of safe alternatives to fossil fuels should be the most important global priority today. To what extent do you agree or disagree?",
+      "type": "opinion"
+    },
+    {
+      "id": "essay-012",
+      "question": "Childhood obesity is a serious problem in many countries. What are the causes of this and how can the problem be managed?",
+      "type": "causes_solutions"
+    },
+    {
+      "id": "essay-013",
+      "question": "The tendency of news media to focus on problems and emergencies rather than good news has a negative effect on individuals and society. To what extent do you agree or disagree?",
+      "type": "opinion"
+    },
+    {
+      "id": "essay-014",
+      "question": "Successful sports professionals can earn a great deal more money than people in other important professions. Some people think this is fully justified while others think it is unfair. Discuss both these views and give your own opinion.",
+      "type": "discussion"
+    },
+    {
+      "id": "essay-015",
+      "question": "Some people think that computer games are bad for children, while others believe that they are useful. Discuss the advantages and disadvantages of computer games.",
+      "type": "advantages_disadvantages"
+    },
+    {
+      "id": "essay-016",
+      "question": "Some governments spend a lot of money on exploring space. Some feel that this investment is justified while others think that money should be spent on public services like healthcare and education. Discuss both views and give your own opinion.",
+      "type": "discussion"
+    },
+    {
+      "id": "essay-017",
+      "question": "Some sports are considered extremely dangerous, but many people still like them. Why do people take part in dangerous sports? Give some suggestions on how to deal with these dangers.",
+      "type": "causes_solutions"
+    },
+    {
+      "id": "essay-018",
+      "question": "Despite improvements in vehicle technology, there are still large numbers of road accidents. Explain some of the causes of these accidents and suggest some measures that could be taken to address the problem.",
+      "type": "causes_solutions"
+    },
+    {
+      "id": "essay-019",
+      "question": "In many countries, tourism is a major part of the economy, but it also causes environmental damage and ruins the places it exploits. It is argued that tourists should pay an additional tax to compensate for this damage. Do you agree?",
+      "type": "discussion"
+    },
+    {
+      "id": "essay-020",
+      "question": "Nowadays many jobs are more stressful and the working day is longer. What are the reasons for this? What can employers do to help employees?",
+      "type": "causes_solutions"
+    },
+    {
+      "id": "essay-021",
+      "question": "Nowadays celebrities earn more money than politicians. What are the reasons for this? Is it a positive or negative development?",
+      "type": "causes_solutions"
+    },
+    {
+      "id": "essay-022",
+      "question": "A growing number of people feel that animals should not be exploited by people while others argue that humans must employ animals to satisfy their various needs, including for food and research. Discuss both views and give your opinion.",
+      "type": "discussion"
+    },
+    {
+      "id": "essay-023",
+      "question": "Many governments invest a great deal of money in space research. What are the advantages and potential disadvantages of spending money on space exploration?",
+      "type": "advantages_disadvantages"
+    },
+    {
+      "id": "essay-024",
+      "question": "There is an increasing trend around the world to have a small family rather than a large family. What are some of the advantages and disadvantages of having a small family rather than a large family?",
+      "type": "advantages_disadvantages"
+    },
+    {
+      "id": "essay-025",
+      "question": "Computers are being used more in education nowadays than in the past. Discuss the advantages and disadvantages of this trend.",
+      "type": "advantages_disadvantages"
+    },
+    {
+      "id": "essay-026",
+      "question": "Some people feel that playing computer games has a negative impact on children's health and social skills. Others say that it can have a positive impact. Discuss both these views.",
+      "type": "discussion"
+    },
+    {
+      "id": "essay-027",
+      "question": "Some people think that the best way to reduce crime is to give longer prison sentences. Others, however, believe there are better alternative ways of reducing crime. Discuss both views and give your opinion.",
+      "type": "discussion"
+    },
+    {
+      "id": "essay-028",
+      "question": "Nowadays online shopping is rapidly replacing physical shopping in stores. Do the benefits outweigh the drawbacks, in your view?",
+      "type": "advantages_disadvantages"
+    },
+    {
+      "id": "essay-029",
+      "question": "Homeschooling is becoming increasingly popular as more and more parents are choosing to educate their children in this way. Why do you think parents might choose homeschooling rather than traditional schools? Do you think homeschooling is more beneficial?",
+      "type": "discussion"
+    },
+    {
+      "id": "essay-030",
+      "question": "Nowadays people use social media to keep up with the news. Why do they do this? Is it a positive or negative trend?",
+      "type": "advantages_disadvantages"
+    },
+    {
+      "id": "essay-031",
+      "question": "Because of the rising cost of housing, many young people are increasingly being forced to live with their parents into their 30s. Do the advantages of this trend outweigh the disadvantages?",
+      "type": "advantages_disadvantages"
+    },
+    {
+      "id": "essay-032",
+      "question": "Many museums charge admission fees while others are free. Do the advantages of charging people to visit a museum outweigh the disadvantages?",
+      "type": "advantages_disadvantages"
+    },
+    {
+      "id": "essay-033",
+      "question": "Some people believe that it is wrong to keep animals in zoos, while others think that zoos are important for education and conservation. Discuss both views and give your opinion.",
+      "type": "discussion"
+    },
+    {
+      "id": "essay-034",
+      "question": "Thanks to the development of technology, many employers are now offering employees the option to work from home. Is this a positive or negative development?",
+      "type": "advantages_disadvantages"
+    },
+    {
+      "id": "essay-035",
+      "question": "Stress is now a major problem in many countries around the world. What are some of the factors in modern society that cause this stress, and how can we reduce it?",
+      "type": "causes_solutions"
+    },
+    {
+      "id": "essay-036",
+      "question": "Many governments invest a great deal of money in space research. What are the advantages and potential disadvantages of spending money on space exploration?",
+      "type": "advantages_disadvantages"
+    },
+    {
+      "id": "essay-037",
+      "question": "Many people believe that family has the greatest influence on a child’s development, while others argue that other factors such as television, friends and music are more significant. Discuss both views and give your opinion.",
+      "type": "discussion"
+    }
+  ],
+  "exercises": {
+    "essay_type_sort": [
+      {
+        "id": "sort-0",
+        "phrase": "In this essay, I will [verb] ... and [verb] ...",
+        "correct": [
+          "opinion",
+          "discussion",
+          "problem",
+          "advdis",
+          "twopart"
+        ],
+        "gps": "Intro Thesis (template)",
+        "tip": "The TEMPLATE 'In this essay, I will...' is universal — but what comes AFTER changes by essay type. Opinion: '...explain why I agree.' Discussion: '...consider both views.' P-S: '...outline causes and suggest solutions.' A-D: '...outline advantages and drawbacks.'"
+      },
+      {
+        "id": "sort-1",
+        "phrase": "In this essay, I will consider both views and explain why I agree that...",
+        "correct": [
+          "discussion"
+        ],
+        "gps": "Discussion Thesis (specific)",
+        "tip": "'Both views' = Discussion essay ONLY. This phrase does two jobs: previews the two-sided structure AND hints at your opinion. In an Opinion essay, you don't present 'both views' — you argue YOUR side. In P-S, you discuss problems and solutions, not views."
+      },
+      {
+        "id": "sort-2",
+        "phrase": "Those who support [X] usually argue that...",
+        "correct": [
+          "discussion"
+        ],
+        "gps": "Discussion BP1 Point",
+        "tip": "Reporter language is ONLY for Discussion essays. You are reporting OTHER people's arguments neutrally. In Opinion essays, you state YOUR view directly. In P-S and A-D, you describe problems/advantages objectively — no 'arguing' involved."
+      },
+      {
+        "id": "sort-3",
+        "phrase": "There are two main [reasons/causes/benefits] for...",
+        "correct": [
+          "opinion",
+          "discussion",
+          "problem",
+          "advdis",
+          "twopart"
+        ],
+        "gps": "UPEPE Umbrella",
+        "tip": "The Umbrella phrase works everywhere — any time you need to introduce two ideas in one paragraph. Just change the noun: 'reasons' (Opinion/Discussion), 'causes' (P-S), 'benefits/drawbacks' (A-D), 'factors' (Two-Part)."
+      },
+      {
+        "id": "sort-4",
+        "phrase": "Others, however, myself included, feel that...",
+        "correct": [
+          "discussion"
+        ],
+        "gps": "Discussion BP2 opening",
+        "tip": "The 'myself included' switch is unique to Discussion essays — it marks the shift from Reporter mode (BP1) to Judge mode (BP2). No other essay type uses this Reporter→Judge transition."
+      },
+      {
+        "id": "sort-5",
+        "phrase": "Challenging though this problem is, there is much that can be done.",
+        "correct": [
+          "problem",
+          "twopart"
+        ],
+        "gps": "Problem-Solution BP2 Umbrella",
+        "tip": "This concessive solution opener is specific to Problem-Solution structures. It acknowledges the problem ('Challenging though...') then pivots to solutions ('...can be done'). Two-Part works if one part asks for solutions. You would NOT use this in Opinion, Discussion, or A-D."
+      },
+      {
+        "id": "sort-6",
+        "phrase": "Indeed, ...",
+        "correct": [
+          "opinion",
+          "discussion",
+          "problem",
+          "advdis",
+          "twopart"
+        ],
+        "gps": "PEEEL Example / UPEPE Extend",
+        "tip": "'Indeed' is the most universal evidence introducer. It means 'in fact / truly' (NOT 'for example'). It works in every essay type, every paragraph position where you present evidence. [F:10+] — the most frequent examiner phrase in the entire corpus."
+      },
+      {
+        "id": "sort-7",
+        "phrase": "Clearly, ...",
+        "correct": [
+          "opinion",
+          "discussion",
+          "problem",
+          "advdis",
+          "twopart"
+        ],
+        "gps": "PEEEL Link",
+        "tip": "'Clearly' is universal — it closes ANY paragraph by confirming what the paragraph proved. It's the examiner's favourite Link word. [F:8+] across all essay types."
+      },
+      {
+        "id": "sort-8",
+        "phrase": "There are, however, some drawbacks associated with...",
+        "correct": [
+          "advdis"
+        ],
+        "gps": "Adv-Disadv BP2 opening",
+        "tip": "This transition specifically shifts from advantages to disadvantages. The word 'drawbacks' signals an A-D structure. Not used in Opinion (you argue one side), Discussion (you present views, not advantages), or P-S (you present problems, not drawbacks). Two-Part ONLY if the question specifically asks for advantages and disadvantages."
+      },
+      {
+        "id": "sort-9",
+        "phrase": "Despite these benefits, there are also serious negative outcomes...",
+        "correct": [
+          "advdis"
+        ],
+        "gps": "Adv-Disadv BP2 opening",
+        "tip": "Another advantages→disadvantages transition. The pattern 'Despite these [positives], [negatives]' is the signature move of an A-D essay. It would sound odd in any other essay type because it frames the discussion as 'benefits vs. negatives.'"
+      },
+      {
+        "id": "sort-10",
+        "phrase": "In my view, ...",
+        "correct": [
+          "opinion",
+          "discussion"
+        ],
+        "gps": "Intro Thesis / Conclusion",
+        "tip": "Opinion essays need YOUR position throughout. Discussion essays need your opinion in BP2/BP3 or the conclusion. Problem-Solution and pure Adv-Disadv stay OBJECTIVE — no personal opinion needed. ⚠️ Exception: A-D 'Outweigh' questions DO need 'In my view' because they ask for evaluation. Two-Part: only if one question asks for your opinion."
+      },
+      {
+        "id": "sort-11",
+        "phrase": "While some believe ..., others feel that ...",
+        "correct": [
+          "opinion",
+          "discussion"
+        ],
+        "gps": "Intro Background",
+        "tip": "This 'two sides' Background pattern is for Opinion and Discussion essays — both present a debate between views. Problem-Solution and A-D essays use a DIFFERENT Background: 'This has led to growing concerns about...' or 'One of the results of this has been...' They introduce a problem/situation, NOT two opposing views."
+      },
+      {
+        "id": "sort-12",
+        "phrase": "Efforts should instead be made to...",
+        "correct": [
+          "opinion",
+          "problem"
+        ],
+        "gps": "Conclusion — Recommendation",
+        "tip": "Recommendations suit Opinion (asserting what should change) and Problem-Solution (proposing action — this is the natural conclusion for P-S). Discussion essays end with a balanced judgement, not a strong recommendation. A-D conclusions weigh the two sides. Two-Part: only if one question asks for solutions."
+      },
+      {
+        "id": "sort-13",
+        "phrase": "In addition to this, ...",
+        "correct": [
+          "opinion",
+          "discussion",
+          "problem",
+          "advdis",
+          "twopart"
+        ],
+        "gps": "UPEPE P2 / within-paragraph",
+        "tip": "The most universal additive connector. Works as glue in any paragraph, any essay type. It replaces the B1 habit 'Also, ...' with proper academic cohesion. [F:7+]"
+      },
+      {
+        "id": "sort-14",
+        "phrase": "In this essay, I will outline [the causes] and suggest [solutions].",
+        "correct": [
+          "problem",
+          "twopart"
+        ],
+        "gps": "P-S Thesis (specific)",
+        "tip": "This thesis pattern previews BOTH halves of a Problem-Solution essay: causes/problems in BP1, solutions in BP2. It is NOT used in Opinion or Discussion (which don't discuss 'causes and solutions'). Two-Part works if the question has a causes+solutions structure."
+      },
+      {
+        "id": "sort-15",
+        "phrase": "This essay will discuss the main advantages and potential drawbacks of...",
+        "correct": [
+          "advdis"
+        ],
+        "gps": "A-D Thesis (specific)",
+        "tip": "This thesis previews the two halves of an Advantages-Disadvantages essay. Notice: no 'I believe' — pure A-D essays stay objective. The phrase 'advantages and drawbacks' signals A-D structure specifically. It would NOT fit in any other essay type."
+      }
+    ],
+    "essay_type_id": []
+  }
+}

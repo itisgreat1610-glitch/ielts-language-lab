@@ -1,0 +1,1746 @@
+{
+  "language_bank": {
+    "gps_placement": [
+      {
+        "id": "gps-intro",
+        "title": "Introduction — 3 Sentences",
+        "zones": [
+          {
+            "label": "Hook (Intro Sentence 1)",
+            "key": "hook"
+          },
+          {
+            "label": "Background (Intro Sentence 2)",
+            "key": "background"
+          },
+          {
+            "label": "Thesis / Preview (Intro Sentence 3)",
+            "key": "thesis"
+          }
+        ],
+        "items": [
+          {
+            "text": "In recent years, ...",
+            "correct": "hook"
+          },
+          {
+            "text": "While some believe ..., others feel that ...",
+            "correct": "background"
+          },
+          {
+            "text": "In this essay, I will examine both views and explain why ...",
+            "correct": "thesis"
+          },
+          {
+            "text": "It is generally accepted that ...",
+            "correct": "hook"
+          },
+          {
+            "text": "Although some support ..., others feel that ...",
+            "correct": "background"
+          },
+          {
+            "text": "Personally, I strongly agree that ...",
+            "correct": "thesis"
+          }
+        ],
+        "feedback": "Hook = general opening about the topic area. Background = narrows to the debate or problem (often shows two sides). Thesis = states YOUR plan or position for the essay."
+      },
+      {
+        "id": "gps-peeel-all",
+        "title": "PEEEL Body Paragraph — All 5 Components",
+        "zones": [
+          {
+            "label": "P — Point (your claim)",
+            "key": "point"
+          },
+          {
+            "label": "E — Explanation (why/how)",
+            "key": "explain"
+          },
+          {
+            "label": "E — Example (specific proof)",
+            "key": "example"
+          },
+          {
+            "label": "E — Effect (consequence — so what?)",
+            "key": "effect"
+          },
+          {
+            "label": "L — Link (back to thesis)",
+            "key": "link"
+          }
+        ],
+        "items": [
+          {
+            "text": "The main reason for this is ...",
+            "correct": "point"
+          },
+          {
+            "text": "This is simply because ...",
+            "correct": "explain"
+          },
+          {
+            "text": "In Australia, for instance, ...",
+            "correct": "example"
+          },
+          {
+            "text": "Without this, ... would inevitably ...",
+            "correct": "effect"
+          },
+          {
+            "text": "Clearly, this demonstrates that ...",
+            "correct": "link"
+          }
+        ],
+        "feedback": "P = the claim you're making. E (Explain) = the mechanism (WHY/HOW). E (Example) = specific evidence with names, places, data. E (Effect) = what happens as a result (so what?). L = confirms your thesis."
+      },
+      {
+        "id": "gps-p-vs-e",
+        "title": "The Tricky Pair: Point vs. Explanation",
+        "zones": [
+          {
+            "label": "P — Point (NAMES the issue)",
+            "key": "point"
+          },
+          {
+            "label": "E — Explanation (shows the MECHANISM)",
+            "key": "explain"
+          }
+        ],
+        "items": [
+          {
+            "text": "One major factor is ...",
+            "correct": "point"
+          },
+          {
+            "text": "This occurs because ...",
+            "correct": "explain"
+          },
+          {
+            "text": "Perhaps the most significant concern is ...",
+            "correct": "point"
+          },
+          {
+            "text": "Given that ..., ...",
+            "correct": "explain"
+          },
+          {
+            "text": "The other contributing factor is ...",
+            "correct": "point"
+          },
+          {
+            "text": "This means that ...",
+            "correct": "explain"
+          }
+        ],
+        "feedback": "Ask yourself: Am I NAMING an issue, or explaining HOW it works? Point = 'The problem is X.' Explanation = 'This happens because Y.' If you just replaced the Point in different words, it's NOT an Explanation — it must add NEW information about the mechanism."
+      },
+      {
+        "id": "gps-ex-vs-ef",
+        "title": "The Other Tricky Pair: Example vs. Effect",
+        "zones": [
+          {
+            "label": "E — Example (PROOF — looks backward)",
+            "key": "example"
+          },
+          {
+            "label": "E — Effect (CONSEQUENCE — looks forward)",
+            "key": "effect"
+          }
+        ],
+        "items": [
+          {
+            "text": "Indeed, in the USA, distracted driving is the number one cause of...",
+            "correct": "example"
+          },
+          {
+            "text": "If these issues are left untreated, it is inevitable that ...",
+            "correct": "effect"
+          },
+          {
+            "text": "Research conducted by ... found that ...",
+            "correct": "example"
+          },
+          {
+            "text": "Such initiatives have had considerable success in ...",
+            "correct": "effect"
+          },
+          {
+            "text": "Take ... as an example.",
+            "correct": "example"
+          },
+          {
+            "text": "This would inevitably lead to ...",
+            "correct": "effect"
+          }
+        ],
+        "feedback": "Example = SPECIFIC evidence — it contains names, places, numbers, data. It PROVES what you already said. Effect = what HAPPENS next — the consequence, the chain reaction, or the 'if not' scenario. Example looks backward (proof). Effect looks forward (what next?)."
+      },
+      {
+        "id": "gps-upepe-all",
+        "title": "UPEPE Body Paragraph — All 5 Components",
+        "zones": [
+          {
+            "label": "U — Umbrella (covers BOTH ideas)",
+            "key": "umbrella"
+          },
+          {
+            "label": "P1 — Point 1 (first specific idea)",
+            "key": "p1"
+          },
+          {
+            "label": "E1 — Extend 1 (explain + example for Point 1)",
+            "key": "e1"
+          },
+          {
+            "label": "P2 — Point 2 (second specific idea)",
+            "key": "p2"
+          },
+          {
+            "label": "E2 — Extend 2 (explain + example for Point 2)",
+            "key": "e2"
+          }
+        ],
+        "items": [
+          {
+            "text": "There are two main causes of weight problems among children.",
+            "correct": "umbrella"
+          },
+          {
+            "text": "The first one is poor diet.",
+            "correct": "p1"
+          },
+          {
+            "text": "Indeed, youngsters today consume vast quantities of fat, sugar and salt in fast food, which inevitably leads to weight gain.",
+            "correct": "e1"
+          },
+          {
+            "text": "The other major factor is sedentary lifestyles.",
+            "correct": "p2"
+          },
+          {
+            "text": "Modern children tend to spend their day sitting in front of screens, meaning they cannot burn the calories they consume.",
+            "correct": "e2"
+          }
+        ],
+        "feedback": "Umbrella says 'there are two reasons' (general). P1 names the FIRST. E1 does double duty — it explains WHY and gives evidence in one go. P2 transitions to the second. E2 does the same double duty for Point 2. ⚠️ Each Extend slot packs both explanation AND example/evidence together."
+      },
+      {
+        "id": "gps-u-vs-p1",
+        "title": "UPEPE: Umbrella vs. Point 1",
+        "zones": [
+          {
+            "label": "U — Umbrella (general — introduces BOTH ideas)",
+            "key": "umbrella"
+          },
+          {
+            "label": "P1 — Point 1 (specific — names the FIRST idea)",
+            "key": "p1"
+          }
+        ],
+        "items": [
+          {
+            "text": "There are several key benefits stemming from ...",
+            "correct": "umbrella"
+          },
+          {
+            "text": "The main one is the greater access it allows.",
+            "correct": "p1"
+          },
+          {
+            "text": "Criminals commit offences after punishment for several reasons.",
+            "correct": "umbrella"
+          },
+          {
+            "text": "One major factor is their background.",
+            "correct": "p1"
+          },
+          {
+            "text": "Challenging though this problem is, there is much that can be done.",
+            "correct": "umbrella"
+          },
+          {
+            "text": "The first step in curbing the damage is ...",
+            "correct": "p1"
+          }
+        ],
+        "feedback": "If the sentence says 'there are two/several [reasons/benefits]' without naming them → Umbrella. If the sentence says 'the first is [specific thing]' → Point 1. The Umbrella opens the roof; Point 1 puts the first item under it."
+      },
+      {
+        "id": "gps-transitions",
+        "title": "Between-Paragraph Transitions",
+        "zones": [
+          {
+            "label": "→ To opposing view (Discussion BP2)",
+            "key": "oppose"
+          },
+          {
+            "label": "→ To solutions (Problem-Solution BP2)",
+            "key": "solution"
+          },
+          {
+            "label": "→ To disadvantages (Adv-Disadv BP2)",
+            "key": "disadv"
+          }
+        ],
+        "items": [
+          {
+            "text": "There are others, however, myself included, who feel that ...",
+            "correct": "oppose"
+          },
+          {
+            "text": "Challenging though this problem is, there is much that can be done to ...",
+            "correct": "solution"
+          },
+          {
+            "text": "There are, however, some drawbacks associated with ...",
+            "correct": "disadv"
+          },
+          {
+            "text": "Despite these arguments, however, ...",
+            "correct": "oppose"
+          },
+          {
+            "text": "To combat this, governments need to ...",
+            "correct": "solution"
+          },
+          {
+            "text": "Despite these benefits, there are also serious negative outcomes ...",
+            "correct": "disadv"
+          }
+        ],
+        "feedback": "Each essay type has its own Body Paragraph 2 transition. Discussion = shift to the other side's view. Problem-Solution = shift from problems to solutions. Adv-Disadv = shift from positives to negatives (or vice versa)."
+      },
+      {
+        "id": "gps-conclusion",
+        "title": "Conclusion — 3 Components",
+        "zones": [
+          {
+            "label": "Signal + Restatement",
+            "key": "signal"
+          },
+          {
+            "label": "Concession + Final position",
+            "key": "concession"
+          },
+          {
+            "label": "Recommendation / Call to action",
+            "key": "recommend"
+          }
+        ],
+        "items": [
+          {
+            "text": "In conclusion, ...",
+            "correct": "signal"
+          },
+          {
+            "text": "Although ... may seem ..., ...",
+            "correct": "concession"
+          },
+          {
+            "text": "Greater investment from governments is urgently needed.",
+            "correct": "recommend"
+          },
+          {
+            "text": "To conclude, ...",
+            "correct": "signal"
+          },
+          {
+            "text": "While ... has been a long tradition, ...",
+            "correct": "concession"
+          },
+          {
+            "text": "Efforts should instead be made to ...",
+            "correct": "recommend"
+          }
+        ],
+        "feedback": "Signal = 'In conclusion' (always start here). Concession = acknowledge the other side briefly ('Although X...'). Recommendation = your final call to action or strongest restatement. The concession shows balance; the recommendation shows authority."
+      }
+    ],
+    "b1_b2_upgrade": [
+      {
+        "b1": "Firstly, ... Secondly, ...",
+        "b2": "The main reason is... / The other factor is...",
+        "gps": "PEEEL Point / UPEPE P1 & P2",
+        "tip": "Examiners see 'Firstly, Secondly, Thirdly' as a memorised template. Vary your Point starters."
+      },
+      {
+        "b1": "Also, ...",
+        "b2": "In addition to this, ...",
+        "gps": "UPEPE Point 2",
+        "tip": "'Also' is too informal for academic writing. 'In addition to this' shows sophisticated additive cohesion."
+      },
+      {
+        "b1": "But ... (sentence start)",
+        "b2": "However, ... / Despite this, ...",
+        "gps": "Between paragraphs / Effect",
+        "tip": "'But' at sentence start is too casual. Use 'However' (new sentence) or 'Although' (same sentence)."
+      },
+      {
+        "b1": "So, ...",
+        "b2": "As a result, ... / Consequently, ...",
+        "gps": "PEEEL Effect",
+        "tip": "'So' is conversational. 'As a result' signals academic cause-effect reasoning."
+      },
+      {
+        "b1": "For example, ... (every time)",
+        "b2": "[X], for instance, ... / Indeed, ...",
+        "gps": "PEEEL Example",
+        "tip": "Rotating between 'for instance,' 'Indeed,' and 'Take X as an example' shows Lexical Resource variety."
+      },
+      {
+        "b1": "Because ... (sentence start)",
+        "b2": "This is because ... / This occurs because ...",
+        "gps": "PEEEL Explanation",
+        "tip": "Starting with 'Because' often creates fragments. 'This is because' is complete and academic."
+      },
+      {
+        "b1": "I think ...",
+        "b2": "In my view, ... / Personally, I feel that ...",
+        "gps": "Intro Thesis / Conclusion",
+        "tip": "'I think' is Band 5. 'In my view' is Band 7+. Small change, big impact."
+      },
+      {
+        "b1": "There are many reasons for this.",
+        "b2": "[Topic noun] ... for several reasons.",
+        "gps": "UPEPE Umbrella",
+        "tip": "Generic umbrellas score low. Always include the TOPIC in your umbrella sentence."
+      },
+      {
+        "b1": "The second reason is ...",
+        "b2": "The other contributing factor is...",
+        "gps": "UPEPE P2 / PEEEL Point (BP2)",
+        "tip": "'The other contributing factor' avoids mechanical numbering and sounds natural."
+      },
+      {
+        "b1": "This shows that ...",
+        "b2": "Clearly, [thesis echo].",
+        "gps": "PEEEL Link",
+        "tip": "'Clearly' is the examiners' favourite Link opener. It closes a paragraph with authority."
+      },
+      {
+        "b1": "In summary, ... / To sum up, ...",
+        "b2": "In conclusion, ...",
+        "gps": "Conclusion Sentence 1",
+        "tip": "'In conclusion' is the standard in every examiner essay. Don't try to be creative here."
+      },
+      {
+        "b1": "Some people think X. Other people think Y.",
+        "b2": "While some believe ..., others feel that ...",
+        "gps": "Intro Background",
+        "tip": "Combining both views into ONE complex sentence shows grammatical range — a key Band 7+ skill."
+      }
+    ],
+    "paragraph_assembly": [
+      {
+        "id": "asm-peeel-zoos",
+        "title": "PEEEL — Opinion Essay (Zoos)",
+        "type": "PEEEL",
+        "sentences": [
+          {
+            "text": "Although many zoos have made great improvements, there can be no doubt that captive animals suffer.",
+            "comp": "P",
+            "label": "Point"
+          },
+          {
+            "text": "Not only are the enclosures usually far too small, but the climate and conditions are often completely unsuitable.",
+            "comp": "E1",
+            "label": "Explanation"
+          },
+          {
+            "text": "Polar bears, for instance, travel across vast distances daily and yet, in some tropical regions, they are kept in small pens.",
+            "comp": "E2",
+            "label": "Example"
+          },
+          {
+            "text": "In addition to this discomfort, zoo animals can suffer stress as a result of unfamiliar cage-mates, not to mention noisy visitors.",
+            "comp": "E3",
+            "label": "Effect"
+          },
+          {
+            "text": "Clearly, the welfare of these animals is severely compromised.",
+            "comp": "L",
+            "label": "Link"
+          }
+        ],
+        "failTip": "Remember: Point (claim) → Explanation (why/how) → Example (specific proof) → Effect (consequence) → Link (back to thesis)."
+      },
+      {
+        "id": "asm-peeel-crime",
+        "title": "PEEEL — Problem-Solution (Crime)",
+        "type": "PEEEL",
+        "sentences": [
+          {
+            "text": "Despite the seriousness of the reoffending problem, there are a number of possible ways to remedy the situation.",
+            "comp": "P",
+            "label": "Point"
+          },
+          {
+            "text": "The key factor is the treatment of the underlying issues.",
+            "comp": "E1",
+            "label": "Explanation"
+          },
+          {
+            "text": "In many cases, this may mean addiction rehabilitation in prison or in the community.",
+            "comp": "E2",
+            "label": "Example"
+          },
+          {
+            "text": "Providing education programs or training can enhance employability, which would dramatically reduce their risk of reoffending.",
+            "comp": "E3",
+            "label": "Effect"
+          },
+          {
+            "text": "Clearly, addressing root causes is more effective than punishment alone.",
+            "comp": "L",
+            "label": "Link"
+          }
+        ],
+        "failTip": "The Explanation tells us WHAT the key factor is. The Example gives a specific case. The Effect shows the RESULT of that action."
+      },
+      {
+        "id": "asm-upepe-obesity",
+        "title": "UPEPE — Causes (Childhood Obesity)",
+        "type": "UPEPE",
+        "sentences": [
+          {
+            "text": "There are two main causes of weight problems among children.",
+            "comp": "U",
+            "label": "Umbrella"
+          },
+          {
+            "text": "The first one is poor diet.",
+            "comp": "P1",
+            "label": "Point 1"
+          },
+          {
+            "text": "Indeed, youngsters today consume vast quantities of fat, sugar and salt in fast food, which inevitably leads to weight gain.",
+            "comp": "E1",
+            "label": "Extend 1 (explain + evidence)"
+          },
+          {
+            "text": "The other major factor is sedentary lifestyles.",
+            "comp": "P2",
+            "label": "Point 2"
+          },
+          {
+            "text": "Modern children tend to spend their day sitting in front of screens, meaning they cannot burn the calories they consume.",
+            "comp": "E2",
+            "label": "Extend 2 (explain + effect)"
+          }
+        ],
+        "failTip": "UPEPE order: Umbrella (covers both) → Point 1 → Extend 1 (explain + prove it) → Point 2 → Extend 2 (explain + prove it). Each Extend does DOUBLE DUTY — it explains WHY and gives evidence."
+      },
+      {
+        "id": "asm-upepe-behav",
+        "title": "UPEPE — Solutions (School Behaviour)",
+        "type": "UPEPE",
+        "sentences": [
+          {
+            "text": "Clearly, in order to manage the problem, it must be tackled both at school and at home.",
+            "comp": "U",
+            "label": "Umbrella"
+          },
+          {
+            "text": "On an institutional level, school authorities need to get tough on bad behaviour.",
+            "comp": "P1",
+            "label": "Point 1"
+          },
+          {
+            "text": "That means they need to set rules regarding uniforms, homework, and classroom conduct, with consequences like detention if broken.",
+            "comp": "E1",
+            "label": "Extend 1 (explain + example)"
+          },
+          {
+            "text": "On the home front, parents too need to step up.",
+            "comp": "P2",
+            "label": "Point 2"
+          },
+          {
+            "text": "Without expectations and limitations around behaviour, they are setting their child up for a life of trouble.",
+            "comp": "E2",
+            "label": "Extend 2 (explain + effect)"
+          }
+        ],
+        "failTip": "Notice how 'On an institutional level' and 'On the home front' signal the TWO solutions. Each Extend gives concrete detail about HOW that solution works."
+      },
+      {
+        "id": "asm-intro-art",
+        "title": "Introduction — Discussion Essay (Art Funding)",
+        "type": "INTRO",
+        "sentences": [
+          {
+            "text": "It is generally accepted that art enriches a society and plays a valuable role in its culture and history.",
+            "comp": "S1",
+            "label": "Hook"
+          },
+          {
+            "text": "Although some support government investment in galleries and artistic organisations, others feel that this money should be spent on public services.",
+            "comp": "S2",
+            "label": "Background"
+          },
+          {
+            "text": "In this essay, I will consider both views and explain why I agree that state funding of the arts should be redirected.",
+            "comp": "S3",
+            "label": "Thesis"
+          }
+        ],
+        "failTip": "Introduction order is always: Hook (general topic) → Background (the debate/narrowing) → Thesis (your plan/position). The Hook is the widest; the Thesis is the most specific."
+      },
+      {
+        "id": "asm-conc-space",
+        "title": "Conclusion — Opinion Essay (Space)",
+        "type": "CONCLUSION",
+        "sentences": [
+          {
+            "text": "In conclusion, humanity's thirst for knowledge is unquenchable.",
+            "comp": "C1",
+            "label": "Signal + Restatement"
+          },
+          {
+            "text": "It is time, however, for private corporations to invest.",
+            "comp": "C2",
+            "label": "Concession + Shift"
+          },
+          {
+            "text": "Governments must take responsibility for their real duty here on earth.",
+            "comp": "C3",
+            "label": "Final Position"
+          }
+        ],
+        "failTip": "Conclusion order: Signal ('In conclusion') → Concession (acknowledge other side) → Final Position (your strongest statement). Always end on YOUR position, not the concession."
+      }
+    ],
+    "essay_type_sort": [
+      {
+        "id": "sort-0",
+        "phrase": "In this essay, I will [verb] ... and [verb] ...",
+        "correct": [
+          "opinion",
+          "discussion",
+          "problem",
+          "advdis",
+          "twopart"
+        ],
+        "gps": "Intro Thesis (template)",
+        "tip": "The TEMPLATE 'In this essay, I will...' is universal — but what comes AFTER changes by essay type. Opinion: '...explain why I agree.' Discussion: '...consider both views.' P-S: '...outline causes and suggest solutions.' A-D: '...outline advantages and drawbacks.'"
+      },
+      {
+        "id": "sort-1",
+        "phrase": "In this essay, I will consider both views and explain why I agree that...",
+        "correct": [
+          "discussion"
+        ],
+        "gps": "Discussion Thesis (specific)",
+        "tip": "'Both views' = Discussion essay ONLY. This phrase does two jobs: previews the two-sided structure AND hints at your opinion. In an Opinion essay, you don't present 'both views' — you argue YOUR side. In P-S, you discuss problems and solutions, not views."
+      },
+      {
+        "id": "sort-2",
+        "phrase": "Those who support [X] usually argue that...",
+        "correct": [
+          "discussion"
+        ],
+        "gps": "Discussion BP1 Point",
+        "tip": "Reporter language is ONLY for Discussion essays. You are reporting OTHER people's arguments neutrally. In Opinion essays, you state YOUR view directly. In P-S and A-D, you describe problems/advantages objectively — no 'arguing' involved."
+      },
+      {
+        "id": "sort-3",
+        "phrase": "There are two main [reasons/causes/benefits] for...",
+        "correct": [
+          "opinion",
+          "discussion",
+          "problem",
+          "advdis",
+          "twopart"
+        ],
+        "gps": "UPEPE Umbrella",
+        "tip": "The Umbrella phrase works everywhere — any time you need to introduce two ideas in one paragraph. Just change the noun: 'reasons' (Opinion/Discussion), 'causes' (P-S), 'benefits/drawbacks' (A-D), 'factors' (Two-Part)."
+      },
+      {
+        "id": "sort-4",
+        "phrase": "Others, however, myself included, feel that...",
+        "correct": [
+          "discussion"
+        ],
+        "gps": "Discussion BP2 opening",
+        "tip": "The 'myself included' switch is unique to Discussion essays — it marks the shift from Reporter mode (BP1) to Judge mode (BP2). No other essay type uses this Reporter→Judge transition."
+      },
+      {
+        "id": "sort-5",
+        "phrase": "Challenging though this problem is, there is much that can be done.",
+        "correct": [
+          "problem",
+          "twopart"
+        ],
+        "gps": "Problem-Solution BP2 Umbrella",
+        "tip": "This concessive solution opener is specific to Problem-Solution structures. It acknowledges the problem ('Challenging though...') then pivots to solutions ('...can be done'). Two-Part works if one part asks for solutions. You would NOT use this in Opinion, Discussion, or A-D."
+      },
+      {
+        "id": "sort-6",
+        "phrase": "Indeed, ...",
+        "correct": [
+          "opinion",
+          "discussion",
+          "problem",
+          "advdis",
+          "twopart"
+        ],
+        "gps": "PEEEL Example / UPEPE Extend",
+        "tip": "'Indeed' is the most universal evidence introducer. It means 'in fact / truly' (NOT 'for example'). It works in every essay type, every paragraph position where you present evidence. [F:10+] — the most frequent examiner phrase in the entire corpus."
+      },
+      {
+        "id": "sort-7",
+        "phrase": "Clearly, ...",
+        "correct": [
+          "opinion",
+          "discussion",
+          "problem",
+          "advdis",
+          "twopart"
+        ],
+        "gps": "PEEEL Link",
+        "tip": "'Clearly' is universal — it closes ANY paragraph by confirming what the paragraph proved. It's the examiner's favourite Link word. [F:8+] across all essay types."
+      },
+      {
+        "id": "sort-8",
+        "phrase": "There are, however, some drawbacks associated with...",
+        "correct": [
+          "advdis"
+        ],
+        "gps": "Adv-Disadv BP2 opening",
+        "tip": "This transition specifically shifts from advantages to disadvantages. The word 'drawbacks' signals an A-D structure. Not used in Opinion (you argue one side), Discussion (you present views, not advantages), or P-S (you present problems, not drawbacks). Two-Part ONLY if the question specifically asks for advantages and disadvantages."
+      },
+      {
+        "id": "sort-9",
+        "phrase": "Despite these benefits, there are also serious negative outcomes...",
+        "correct": [
+          "advdis"
+        ],
+        "gps": "Adv-Disadv BP2 opening",
+        "tip": "Another advantages→disadvantages transition. The pattern 'Despite these [positives], [negatives]' is the signature move of an A-D essay. It would sound odd in any other essay type because it frames the discussion as 'benefits vs. negatives.'"
+      },
+      {
+        "id": "sort-10",
+        "phrase": "In my view, ...",
+        "correct": [
+          "opinion",
+          "discussion"
+        ],
+        "gps": "Intro Thesis / Conclusion",
+        "tip": "Opinion essays need YOUR position throughout. Discussion essays need your opinion in BP2/BP3 or the conclusion. Problem-Solution and pure Adv-Disadv stay OBJECTIVE — no personal opinion needed. ⚠️ Exception: A-D 'Outweigh' questions DO need 'In my view' because they ask for evaluation. Two-Part: only if one question asks for your opinion."
+      },
+      {
+        "id": "sort-11",
+        "phrase": "While some believe ..., others feel that ...",
+        "correct": [
+          "opinion",
+          "discussion"
+        ],
+        "gps": "Intro Background",
+        "tip": "This 'two sides' Background pattern is for Opinion and Discussion essays — both present a debate between views. Problem-Solution and A-D essays use a DIFFERENT Background: 'This has led to growing concerns about...' or 'One of the results of this has been...' They introduce a problem/situation, NOT two opposing views."
+      },
+      {
+        "id": "sort-12",
+        "phrase": "Efforts should instead be made to...",
+        "correct": [
+          "opinion",
+          "problem"
+        ],
+        "gps": "Conclusion — Recommendation",
+        "tip": "Recommendations suit Opinion (asserting what should change) and Problem-Solution (proposing action — this is the natural conclusion for P-S). Discussion essays end with a balanced judgement, not a strong recommendation. A-D conclusions weigh the two sides. Two-Part: only if one question asks for solutions."
+      },
+      {
+        "id": "sort-13",
+        "phrase": "In addition to this, ...",
+        "correct": [
+          "opinion",
+          "discussion",
+          "problem",
+          "advdis",
+          "twopart"
+        ],
+        "gps": "UPEPE P2 / within-paragraph",
+        "tip": "The most universal additive connector. Works as glue in any paragraph, any essay type. It replaces the B1 habit 'Also, ...' with proper academic cohesion. [F:7+]"
+      },
+      {
+        "id": "sort-14",
+        "phrase": "In this essay, I will outline [the causes] and suggest [solutions].",
+        "correct": [
+          "problem",
+          "twopart"
+        ],
+        "gps": "P-S Thesis (specific)",
+        "tip": "This thesis pattern previews BOTH halves of a Problem-Solution essay: causes/problems in BP1, solutions in BP2. It is NOT used in Opinion or Discussion (which don't discuss 'causes and solutions'). Two-Part works if the question has a causes+solutions structure."
+      },
+      {
+        "id": "sort-15",
+        "phrase": "This essay will discuss the main advantages and potential drawbacks of...",
+        "correct": [
+          "advdis"
+        ],
+        "gps": "A-D Thesis (specific)",
+        "tip": "This thesis previews the two halves of an Advantages-Disadvantages essay. Notice: no 'I believe' — pure A-D essays stay objective. The phrase 'advantages and drawbacks' signals A-D structure specifically. It would NOT fit in any other essay type."
+      }
+    ]
+  },
+  "vocab_bank": {
+    "collocation_matching": [
+      {
+        "title": "Causation Verbs",
+        "pairs": [
+          {
+            "b1": "X causes Y",
+            "b2": "X leads to Y",
+            "gps": "Explanation / Effect",
+            "demo": "A junk food diet inevitably leads to weight gain."
+          },
+          {
+            "b1": "Y happens because of X",
+            "b2": "Y stems from X",
+            "gps": "Explanation",
+            "demo": "The majority of crime in Australia stems from drug and alcohol addiction."
+          },
+          {
+            "b1": "X makes Y happen",
+            "b2": "X gives rise to Y",
+            "gps": "Effect",
+            "demo": "This can give rise to greater prejudice."
+          },
+          {
+            "b1": "X causes Y (result)",
+            "b2": "X results in Y",
+            "gps": "Effect",
+            "demo": "Parents supporting adult children, resulting in increased costs."
+          }
+        ]
+      },
+      {
+        "title": "Impact Nouns",
+        "pairs": [
+          {
+            "b1": "a big effect",
+            "b2": "a far-reaching effect",
+            "gps": "Effect sentence",
+            "demo": "Our changing lifestyles have had a far-reaching effect on our health."
+          },
+          {
+            "b1": "a bad effect",
+            "b2": "a detrimental effect",
+            "gps": "Effect sentence",
+            "demo": "This has a detrimental effect not only on individuals but on society."
+          },
+          {
+            "b1": "a good effect",
+            "b2": "a significant positive impact",
+            "gps": "Effect sentence",
+            "demo": "This could have a significant positive impact on health."
+          },
+          {
+            "b1": "long-lasting effects",
+            "b2": "long-term benefits / impacts",
+            "gps": "Effect sentence",
+            "demo": "This can have long-term benefits for their self-esteem."
+          }
+        ]
+      },
+      {
+        "title": "Severity Adjectives",
+        "pairs": [
+          {
+            "b1": "important",
+            "b2": "crucial / vital",
+            "gps": "Point / Conclusion",
+            "demo": "Investment is crucial to bridge this gap."
+          },
+          {
+            "b1": "big (scale)",
+            "b2": "dramatic / significant",
+            "gps": "Point / Example",
+            "demo": "There has been a dramatic increase in the amount earned."
+          },
+          {
+            "b1": "serious / bad",
+            "b2": "severe / dire",
+            "gps": "Effect",
+            "demo": "The anxiety can be severe."
+          },
+          {
+            "b1": "not useful",
+            "b2": "futile / fruitless",
+            "gps": "Effect / Point",
+            "demo": "This effort is ultimately futile."
+          }
+        ]
+      },
+      {
+        "title": "Change Verbs",
+        "pairs": [
+          {
+            "b1": "make better",
+            "b2": "enhance / boost",
+            "gps": "Explain (Solutions)",
+            "demo": "Education programs can enhance employability."
+          },
+          {
+            "b1": "make worse",
+            "b2": "exacerbate / compound",
+            "gps": "Explain (Problems)",
+            "demo": "Poor parenting exacerbates problems at school."
+          },
+          {
+            "b1": "get rid of",
+            "b2": "phase out / eliminate",
+            "gps": "Point (Solutions)",
+            "demo": "Steps need to be taken to eliminate these energy sources."
+          },
+          {
+            "b1": "stop / reduce",
+            "b2": "curb / mitigate",
+            "gps": "Point (Solutions)",
+            "demo": "Suggest ways to curb bad behaviour."
+          }
+        ]
+      },
+      {
+        "title": "Existence & Possession Verbs",
+        "pairs": [
+          {
+            "b1": "there is a problem",
+            "b2": "X faces challenges",
+            "gps": "Point / Umbrella",
+            "demo": "Many schools are facing a variety of challenges."
+          },
+          {
+            "b1": "something bad happens to X",
+            "b2": "X suffers [from/harm]",
+            "gps": "Explain / Effect",
+            "demo": "There can be no doubt that captive animals suffer."
+          },
+          {
+            "b1": "X is dangerous for",
+            "b2": "X poses risks / threats",
+            "gps": "Point / Effect",
+            "demo": "This debris poses potential risks to future missions."
+          },
+          {
+            "b1": "X gets benefits",
+            "b2": "X reaps benefits / rewards",
+            "gps": "Effect / Link",
+            "demo": "Children who play can reap benefits which serve them well."
+          }
+        ]
+      }
+    ],
+    "upgrade_ladder": [
+      {
+        "id": "up0",
+        "b1": "cause",
+        "ctx": "Sugar _____ obesity.",
+        "co": "leads to",
+        "opts": [
+          "leads to",
+          "stems from",
+          "brings about",
+          "contributes to"
+        ],
+        "gps": "Explanation / Effect",
+        "demo": "A junk food diet inevitably leads to weight gain.",
+        "tip": "\"Leads to\" = #1 causation verb. Direction: X → Y."
+      },
+      {
+        "id": "up1",
+        "b1": "because of",
+        "ctx": "The problem _____ poverty.",
+        "co": "stems from",
+        "opts": [
+          "leads to",
+          "stems from",
+          "results in",
+          "gives rise to"
+        ],
+        "gps": "Explanation",
+        "demo": "The majority of crime stems from drug and alcohol addiction.",
+        "tip": "\"Stems from\" traces back to the ROOT cause. Direction: Y ← X."
+      },
+      {
+        "id": "up2",
+        "b1": "a big effect",
+        "ctx": "This has had a _____ on education.",
+        "co": "far-reaching effect",
+        "opts": [
+          "far-reaching effect",
+          "detrimental effect",
+          "knock-on effect",
+          "significant positive impact"
+        ],
+        "gps": "Effect",
+        "demo": "Our changing lifestyles have had a far-reaching effect on our health.",
+        "tip": "\"Far-reaching\" = affects many areas. For WIDE impact."
+      },
+      {
+        "id": "up3",
+        "b1": "a bad effect",
+        "ctx": "Social media has a _____ on mental health.",
+        "co": "detrimental effect",
+        "opts": [
+          "far-reaching effect",
+          "detrimental effect",
+          "life-changing impact",
+          "long-term benefit"
+        ],
+        "gps": "Effect",
+        "demo": "This has a detrimental effect not only on individuals but on society.",
+        "tip": "\"Detrimental\" = causing harm. Replaces \"bad effect\" everywhere."
+      },
+      {
+        "id": "up4",
+        "b1": "important",
+        "ctx": "Investment is _____ to bridge this gap.",
+        "co": "crucial",
+        "opts": [
+          "crucial",
+          "severe",
+          "dramatic",
+          "beneficial"
+        ],
+        "gps": "Point / Conclusion",
+        "demo": "Investment is crucial to bridge this gap.",
+        "tip": "One word swap: \"important → crucial.\" Instant Lexical Resource upgrade."
+      },
+      {
+        "id": "up5",
+        "b1": "serious / bad",
+        "ctx": "The consequences can be _____.",
+        "co": "severe",
+        "opts": [
+          "crucial",
+          "severe",
+          "futile",
+          "dramatic"
+        ],
+        "gps": "Effect",
+        "demo": "The anxiety this may create can be severe.",
+        "tip": "\"Severe\" partners with: consequences, impacts, damage."
+      },
+      {
+        "id": "up6",
+        "b1": "very much",
+        "ctx": "This would _____ reduce crime.",
+        "co": "dramatically",
+        "opts": [
+          "dramatically",
+          "inevitably",
+          "increasingly",
+          "entirely"
+        ],
+        "gps": "Effect",
+        "demo": "This would dramatically reduce their risk of reoffending.",
+        "tip": "Before verbs: \"dramatically reduce/increase/improve.\""
+      },
+      {
+        "id": "up7",
+        "b1": "definitely",
+        "ctx": "This would _____ lead to problems.",
+        "co": "inevitably",
+        "opts": [
+          "dramatically",
+          "inevitably",
+          "increasingly",
+          "largely"
+        ],
+        "gps": "Effect",
+        "demo": "This would inevitably lead to a reduction in revenue.",
+        "tip": "\"Inevitably\" = cannot be avoided. Perfect for Effect sentences."
+      },
+      {
+        "id": "up8",
+        "b1": "all / every",
+        "ctx": "The _____ of teenagers use social media.",
+        "co": "vast majority",
+        "opts": [
+          "vast majority",
+          "growing number",
+          "significant number",
+          "increasing proportion"
+        ],
+        "gps": "Example",
+        "demo": "The vast majority of food outlets are fast food restaurants.",
+        "tip": "Hedges your claim so examiners see nuance, not over-generalisation."
+      },
+      {
+        "id": "up9",
+        "b1": "people",
+        "ctx": "_____ face growing economic pressure.",
+        "co": "Individuals",
+        "opts": [
+          "Individuals",
+          "The bulk",
+          "A proportion",
+          "The youth"
+        ],
+        "gps": "Point / Effect",
+        "demo": "Individuals may feel compelled to keep up with others.",
+        "tip": "Naked \"people\" is Band 5. \"Individuals/citizens\" = academic instantly."
+      },
+      {
+        "id": "up10",
+        "b1": "make better",
+        "ctx": "Education programs can _____ employability.",
+        "co": "enhance",
+        "opts": [
+          "enhance",
+          "exacerbate",
+          "curb",
+          "phase out"
+        ],
+        "gps": "Explain (Solutions)",
+        "demo": "Providing education can enhance employability.",
+        "tip": "\"Enhance\" = improve quality. The academic \"make better.\""
+      },
+      {
+        "id": "up11",
+        "b1": "make worse",
+        "ctx": "Poor parenting _____ problems at school.",
+        "co": "exacerbates",
+        "opts": [
+          "enhances",
+          "exacerbates",
+          "curbs",
+          "mitigates"
+        ],
+        "gps": "Explain (Problems)",
+        "demo": "Many parents foster a disregard for authority, which exacerbates problems.",
+        "tip": "\"Exacerbates\" = makes WORSE. Opposite of \"mitigate.\""
+      },
+      {
+        "id": "up12",
+        "b1": "get rid of",
+        "ctx": "Steps must be taken to _____ these energy sources.",
+        "co": "phase out",
+        "opts": [
+          "phase out",
+          "enhance",
+          "subsidise",
+          "monitor"
+        ],
+        "gps": "Point (Solutions)",
+        "demo": "The first step must be to phase out extraction and use.",
+        "tip": "\"Phase out\" = gradually remove. Softer than \"ban.\""
+      },
+      {
+        "id": "up13",
+        "b1": "a big problem",
+        "ctx": "Crime is a _____ in most countries.",
+        "co": "pervasive problem",
+        "opts": [
+          "pervasive problem",
+          "contributing factor",
+          "vicious cycle",
+          "root cause"
+        ],
+        "gps": "Point / Umbrella",
+        "demo": "Crime is a pervasive problem in most countries around the world.",
+        "tip": "\"Pervasive\" = widespread, everywhere. Much stronger than \"big.\""
+      }
+    ],
+    "vocab_gps_mapping": [
+      {
+        "id": "vg0",
+        "ph": "a pervasive problem",
+        "ty": "Noun phrase",
+        "co": "Point",
+        "opts": [
+          "Point",
+          "Explanation",
+          "Example",
+          "Effect",
+          "Link"
+        ],
+        "tip": "You are NAMING an issue. Noun phrases go in Point sentences."
+      },
+      {
+        "id": "vg1",
+        "ph": "leads to / stems from / gives rise to",
+        "ty": "Verb collocation (causation)",
+        "co": "Explanation",
+        "opts": [
+          "Point",
+          "Explanation",
+          "Example",
+          "Effect",
+          "Link"
+        ],
+        "tip": "Causation verbs show the MECHANISM — HOW things work. Explanation's job."
+      },
+      {
+        "id": "vg2",
+        "ph": "research conducted by [X] found that...",
+        "ty": "Noun phrase + evidence",
+        "co": "Example",
+        "opts": [
+          "Point",
+          "Explanation",
+          "Example",
+          "Effect",
+          "Link"
+        ],
+        "tip": "Evidence with names, data, research = Example. You're PROVING your claim."
+      },
+      {
+        "id": "vg3",
+        "ph": "a far-reaching effect / severe consequences",
+        "ty": "Impact noun phrase",
+        "co": "Effect",
+        "opts": [
+          "Point",
+          "Explanation",
+          "Example",
+          "Effect",
+          "Link"
+        ],
+        "tip": "Impact nouns show the CONSEQUENCE. \"What happens as a result?\""
+      },
+      {
+        "id": "vg4",
+        "ph": "crucial / essential / abundantly clear",
+        "ty": "Evaluative adjective",
+        "co": "Link",
+        "opts": [
+          "Point",
+          "Explanation",
+          "Example",
+          "Effect",
+          "Link"
+        ],
+        "tip": "Evaluative adjectives JUDGE significance. \"Clearly, this is crucial.\""
+      },
+      {
+        "id": "vg5",
+        "ph": "exacerbates / enhances / compounds",
+        "ty": "Change verb",
+        "co": "Explanation",
+        "opts": [
+          "Point",
+          "Explanation",
+          "Example",
+          "Effect",
+          "Link"
+        ],
+        "tip": "Change verbs show HOW a process intensifies. Explanation territory."
+      },
+      {
+        "id": "vg6",
+        "ph": "dramatically / inevitably / significantly",
+        "ty": "Intensity adverb",
+        "co": "Effect",
+        "opts": [
+          "Point",
+          "Explanation",
+          "Example",
+          "Effect",
+          "Link"
+        ],
+        "tip": "Intensity adverbs amplify consequences. \"This would INEVITABLY lead to...\""
+      },
+      {
+        "id": "vg7",
+        "ph": "the vast majority / a significant number",
+        "ty": "Quantifier phrase",
+        "co": "Example",
+        "opts": [
+          "Point",
+          "Explanation",
+          "Example",
+          "Effect",
+          "Link"
+        ],
+        "tip": "Quantifiers present SCALE in evidence. Example territory."
+      },
+      {
+        "id": "vg8",
+        "ph": "the underlying causes / root causes",
+        "ty": "Diagnosis noun phrase",
+        "co": "Point",
+        "opts": [
+          "Point",
+          "Explanation",
+          "Example",
+          "Effect",
+          "Link"
+        ],
+        "tip": "You are NAMING what matters. Point sentence territory."
+      },
+      {
+        "id": "vg9",
+        "ph": "this would inevitably lead to / if left unaddressed",
+        "ty": "Conditional verb phrase",
+        "co": "Effect",
+        "opts": [
+          "Point",
+          "Explanation",
+          "Example",
+          "Effect",
+          "Link"
+        ],
+        "tip": "Hypothetical consequence language = pure Effect."
+      },
+      {
+        "id": "vgA",
+        "ph": "X faces challenges / X poses risks",
+        "ty": "Existence verb",
+        "co": "Point",
+        "opts": [
+          "Point",
+          "Explanation",
+          "Example",
+          "Effect",
+          "Link",
+          "Umbrella"
+        ],
+        "tip": "Existence verbs NAME a situation — \"Schools face challenges\" is a Point that names the problem."
+      },
+      {
+        "id": "vgB",
+        "ph": "There are two key drivers of...",
+        "ty": "Quantifier + category noun",
+        "co": "Umbrella",
+        "opts": [
+          "Point",
+          "Explanation",
+          "Example",
+          "Effect",
+          "Link",
+          "Umbrella"
+        ],
+        "tip": "UPEPE Umbrella sentences need QUANTIFIER nouns (two, several) + CATEGORY nouns (drivers, causes, benefits). They FRAME both ideas."
+      },
+      {
+        "id": "vgC",
+        "ph": "Indeed, [evidence], which leads to [consequence]...",
+        "ty": "Compressed verb + noun combo",
+        "co": "Extend (UPEPE)",
+        "opts": [
+          "Point",
+          "Explanation",
+          "Effect",
+          "Link",
+          "Umbrella",
+          "Extend (UPEPE)"
+        ],
+        "tip": "UPEPE Extend slots pack explain + evidence in ONE sentence. They need BOTH verb collocations AND noun phrases working together."
+      }
+    ],
+    "shared_vs_specialist": [
+      {
+        "id": "sv0",
+        "ph": "leads to / stems from / contributes to",
+        "co": "shared",
+        "tip": "Causation verbs work in ALL 5 essay types. Highest-ROI items in the bank."
+      },
+      {
+        "id": "sv1",
+        "ph": "a far-reaching effect / long-term benefits",
+        "co": "shared",
+        "tip": "Impact nouns are universal — every essay type needs Effect sentences."
+      },
+      {
+        "id": "sv2",
+        "ph": "crucial / vital / essential",
+        "co": "shared",
+        "tip": "Evaluative adjectives work everywhere: Points, Links, Conclusions."
+      },
+      {
+        "id": "sv3",
+        "ph": "dramatically / inevitably / increasingly",
+        "co": "shared",
+        "tip": "Intensity adverbs amplify any claim in any essay type."
+      },
+      {
+        "id": "sv4",
+        "ph": "a pervasive problem / a growing concern",
+        "co": "shared",
+        "tip": "Problem nouns are universal. Every essay type can name problems."
+      },
+      {
+        "id": "sv5",
+        "ph": "enhance / exacerbate / curb / mitigate",
+        "co": "shared",
+        "tip": "Change verbs work everywhere. They show HOW things get better or worse."
+      },
+      {
+        "id": "sv6",
+        "ph": "the vast majority / a growing number / individuals",
+        "co": "shared",
+        "tip": "Quantifiers and academic people-words are universal. Every essay type needs hedging and formal register."
+      },
+      {
+        "id": "sv7",
+        "ph": "X faces challenges / X poses risks / X suffers from",
+        "co": "shared",
+        "tip": "Existence verbs are universal. \"Poses risks\" appears in ALL 5 types in the Shareability Matrix."
+      },
+      {
+        "id": "sv8",
+        "ph": "it is claimed / supporters argue / it is felt",
+        "co": "discussion",
+        "tip": "Reporter verbs are ONLY for Discussion essays — reporting others' views neutrally. In Opinion, you state YOUR view. In P-S, you describe objectively."
+      },
+      {
+        "id": "sv9",
+        "ph": "supporters / advocates / opponents / critics",
+        "co": "discussion",
+        "tip": "Reporter people-nouns name WHO holds each view. Only Discussion essays present named groups of supporters vs. opponents."
+      },
+      {
+        "id": "svA",
+        "ph": "phase out / impose laws",
+        "co": "opinion-ps",
+        "tip": "The Shareability Matrix shows these in Opinion ✅, P-S ✅, and Two-Part ✅. NOT in Discussion or A-D. They prescribe actions — Opinion essays assert change, P-S essays propose solutions."
+      },
+      {
+        "id": "svB",
+        "ph": "subsidise / fund / invest in",
+        "co": "problem",
+        "tip": "Funding verbs are P-S specialists (+Two-Part). They name specific financial actions. You wouldn't \"subsidise\" in a Discussion or Opinion essay."
+      },
+      {
+        "id": "svC",
+        "ph": "far outweigh",
+        "co": "opinion-ad",
+        "tip": "The matrix shows \"far outweigh\" in Opinion ✅ and A-D ✅. It compares two sides on a scale — used in Opinion conclusions and A-D \"outweigh\" questions."
+      },
+      {
+        "id": "svD",
+        "ph": "a further plus / the downside / a serious drawback",
+        "co": "advdis",
+        "tip": "These nouns FRAME the discussion as advantages vs. disadvantages. \"The downside\" only makes sense when you've discussed the upside."
+      },
+      {
+        "id": "svE",
+        "ph": "ought to be [phased out / reconsidered]",
+        "co": "opinion",
+        "tip": "Strong assertive language expressing YOUR position. Discussion uses reporter verbs; P-S stays more objective with \"should\" not \"ought to be.\""
+      },
+      {
+        "id": "svF",
+        "ph": "legitimate concerns / the diversion of funds",
+        "co": "opinion-disc-ad",
+        "tip": "The matrix shows these in Opinion ✅, Discussion ✅, and A-D ✅. They evaluate negatives — useful whenever you judge a downside, regardless of essay structure."
+      }
+    ],
+    "gps_builder": [
+      {
+        "id": "bu0",
+        "title": "PEEEL — Opinion Essay",
+        "topic": "\"Social media harms children's mental health.\"",
+        "slots": [
+          {
+            "label": "P — Point",
+            "gps": "gps-point",
+            "opts": [
+              "a significant concern",
+              "a pervasive problem",
+              "a growing number",
+              "a detrimental effect"
+            ],
+            "co": "a significant concern",
+            "tpl": "Perhaps the most _____ regarding children's social media use is the impact on their mental health."
+          },
+          {
+            "label": "E — Explanation",
+            "gps": "gps-explain",
+            "opts": [
+              "stems from",
+              "leads to",
+              "has plummeted",
+              "enhances"
+            ],
+            "co": "stems from",
+            "tpl": "This _____ the constant comparison with peers' curated lives online, which triggers anxiety."
+          },
+          {
+            "label": "E — Example",
+            "gps": "gps-example",
+            "opts": [
+              "a significant number of",
+              "the vast majority of",
+              "individuals",
+              "the underlying causes"
+            ],
+            "co": "a significant number of",
+            "tpl": "Indeed, research found that _____ teenagers on social media reported symptoms of depression."
+          },
+          {
+            "label": "E — Effect",
+            "gps": "gps-effect",
+            "opts": [
+              "can have severe impacts on",
+              "is crucial",
+              "stems from",
+              "a pervasive problem"
+            ],
+            "co": "can have severe impacts on",
+            "tpl": "If left unaddressed, this _____ young people's self-esteem and academic performance."
+          },
+          {
+            "label": "L — Link",
+            "gps": "gps-link",
+            "opts": [
+              "crucial",
+              "dramatic",
+              "pervasive",
+              "detrimental"
+            ],
+            "co": "crucial",
+            "tpl": "Clearly, protecting children from these harmful effects is _____."
+          }
+        ]
+      },
+      {
+        "id": "bu1",
+        "title": "UPEPE — Causes (Problem-Solution)",
+        "topic": "\"What are the causes of childhood obesity?\"",
+        "slots": [
+          {
+            "label": "U — Umbrella",
+            "gps": "gps-umbrella",
+            "opts": [
+              "key drivers",
+              "underlying causes",
+              "significant concerns",
+              "far-reaching effects"
+            ],
+            "co": "key drivers",
+            "tpl": "There are two _____ of weight problems among children."
+          },
+          {
+            "label": "P1 — Point 1",
+            "gps": "gps-point",
+            "opts": [
+              "a sedentary lifestyle",
+              "the root causes",
+              "a poor diet",
+              "a growing number"
+            ],
+            "co": "a poor diet",
+            "tpl": "The first one is _____."
+          },
+          {
+            "label": "E1 — Extend 1",
+            "gps": "gps-explain",
+            "opts": [
+              "leads to",
+              "stems from",
+              "enhances",
+              "curbs"
+            ],
+            "co": "leads to",
+            "tpl": "Youngsters consume vast quantities of fat and sugar, which inevitably _____ weight gain."
+          },
+          {
+            "label": "P2 — Point 2",
+            "gps": "gps-point",
+            "opts": [
+              "a sedentary lifestyle",
+              "the root causes",
+              "a vicious cycle",
+              "severe consequences"
+            ],
+            "co": "a sedentary lifestyle",
+            "tpl": "The other major factor is _____."
+          },
+          {
+            "label": "E2 — Extend 2",
+            "gps": "gps-explain",
+            "opts": [
+              "results in",
+              "stems from",
+              "enhances",
+              "ought to be phased out"
+            ],
+            "co": "results in",
+            "tpl": "Modern children spend their day in front of screens, _____ them being unable to burn calories."
+          }
+        ]
+      },
+      {
+        "id": "bu2",
+        "title": "PEEEL — Discussion Essay (Reporter Mode)",
+        "topic": "\"Some feel zoos should be closed. Discuss both views.\"",
+        "slots": [
+          {
+            "label": "P — Point (Reporter)",
+            "gps": "gps-point",
+            "opts": [
+              "advocates of zoos claim",
+              "the underlying causes show",
+              "a pervasive problem exists",
+              "it is crucial to note"
+            ],
+            "co": "advocates of zoos claim",
+            "tpl": "_____ that they serve an indispensable role in conservation."
+          },
+          {
+            "label": "E — Explanation",
+            "gps": "gps-explain",
+            "opts": [
+              "contributes to",
+              "stems from",
+              "it is claimed",
+              "exacerbates"
+            ],
+            "co": "contributes to",
+            "tpl": "Breeding rare species in captivity _____ the survival of endangered populations."
+          },
+          {
+            "label": "E — Example",
+            "gps": "gps-example",
+            "opts": [
+              "such institutions",
+              "a growing number",
+              "the vast majority",
+              "the underlying causes"
+            ],
+            "co": "such institutions",
+            "tpl": "Indeed, _____ have successfully reintroduced pandas and condors into the wild."
+          },
+          {
+            "label": "E — Effect",
+            "gps": "gps-effect",
+            "opts": [
+              "poses potential risks",
+              "reaps benefits",
+              "faces challenges",
+              "suffers from"
+            ],
+            "co": "reaps benefits",
+            "tpl": "Without these programs, many species would face extinction rather than _____ from conservation."
+          },
+          {
+            "label": "L — Link",
+            "gps": "gps-link",
+            "opts": [
+              "essential",
+              "futile",
+              "pervasive",
+              "detrimental"
+            ],
+            "co": "essential",
+            "tpl": "Clearly, the role of zoos in species preservation is _____."
+          }
+        ]
+      },
+      {
+        "id": "bu3",
+        "title": "UPEPE — Solutions (Problem-Solution)",
+        "topic": "\"How can youth unemployment be reduced?\"",
+        "slots": [
+          {
+            "label": "U — Umbrella",
+            "gps": "gps-umbrella",
+            "opts": [
+              "practical measures",
+              "underlying causes",
+              "significant concerns",
+              "detrimental effects"
+            ],
+            "co": "practical measures",
+            "tpl": "There are several _____ that can be taken to address this issue."
+          },
+          {
+            "label": "P1 — Point 1",
+            "gps": "gps-point",
+            "opts": [
+              "enhance",
+              "phase out",
+              "subsidise",
+              "monitor"
+            ],
+            "co": "subsidise",
+            "tpl": "Firstly, governments could _____ apprenticeship programmes in key industries."
+          },
+          {
+            "label": "E1 — Extend 1",
+            "gps": "gps-explain",
+            "opts": [
+              "enhance",
+              "exacerbate",
+              "curb",
+              "mitigate"
+            ],
+            "co": "enhance",
+            "tpl": "This would _____ young graduates' practical skills and make them more attractive to employers."
+          },
+          {
+            "label": "P2 — Point 2",
+            "gps": "gps-point",
+            "opts": [
+              "impose stricter regulations on",
+              "stems from",
+              "leads to",
+              "a pervasive problem"
+            ],
+            "co": "impose stricter regulations on",
+            "tpl": "In addition, authorities could _____ companies that discriminate based on age."
+          },
+          {
+            "label": "E2 — Extend 2",
+            "gps": "gps-explain",
+            "opts": [
+              "mitigate",
+              "exacerbate",
+              "enhance",
+              "phase out"
+            ],
+            "co": "mitigate",
+            "tpl": "Such legislation would _____ the disadvantages young people face when competing with experienced candidates."
+          }
+        ]
+      },
+      {
+        "id": "bu4",
+        "title": "Effect + Link Combo — Any Essay",
+        "topic": "\"Universities should offer more practical courses.\"",
+        "slots": [
+          {
+            "label": "E — Effect (adverb)",
+            "gps": "gps-effect",
+            "opts": [
+              "inevitably",
+              "dramatically",
+              "increasingly",
+              "largely"
+            ],
+            "co": "inevitably",
+            "tpl": "Without practical training, graduates would _____ struggle to compete."
+          },
+          {
+            "label": "E — Effect (noun)",
+            "gps": "gps-effect",
+            "opts": [
+              "long-term impacts",
+              "far-reaching effect",
+              "detrimental effect",
+              "knock-on effect"
+            ],
+            "co": "long-term impacts",
+            "tpl": "This could have _____ on both their careers and the economy."
+          },
+          {
+            "label": "L — Link (adjective)",
+            "gps": "gps-link",
+            "opts": [
+              "essential",
+              "futile",
+              "pervasive",
+              "dramatic"
+            ],
+            "co": "essential",
+            "tpl": "Clearly, curriculum reform is _____."
+          }
+        ]
+      }
+    ]
+  }
+}

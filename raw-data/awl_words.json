@@ -1,0 +1,6720 @@
+[
+  {
+    "rank": 1,
+    "word": "research",
+    "score": 100,
+    "freq": 297,
+    "bookSpread": 11,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "research",
+      "researchers",
+      "researcher",
+      "researched"
+    ]
+  },
+  {
+    "rank": 2,
+    "word": "environment",
+    "score": 100,
+    "freq": 144,
+    "bookSpread": 11,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "environment",
+      "environmental",
+      "environments",
+      "environmentally"
+    ]
+  },
+  {
+    "rank": 3,
+    "word": "process",
+    "score": 100,
+    "freq": 127,
+    "bookSpread": 11,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "process",
+      "processes",
+      "processing",
+      "processed"
+    ]
+  },
+  {
+    "rank": 4,
+    "word": "vary",
+    "score": 100,
+    "freq": 127,
+    "bookSpread": 11,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "various",
+      "variety",
+      "vary",
+      "varied",
+      "variation"
+    ]
+  },
+  {
+    "rank": 5,
+    "word": "theory",
+    "score": 100,
+    "freq": 114,
+    "bookSpread": 11,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "theory",
+      "theories",
+      "theoretical"
+    ]
+  },
+  {
+    "rank": 6,
+    "word": "design",
+    "score": 100,
+    "freq": 109,
+    "bookSpread": 11,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "design",
+      "designed",
+      "designs",
+      "designing",
+      "designer"
+    ]
+  },
+  {
+    "rank": 7,
+    "word": "involve",
+    "score": 100,
+    "freq": 101,
+    "bookSpread": 11,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "involved",
+      "involve",
+      "involves",
+      "involving",
+      "involvement"
+    ]
+  },
+  {
+    "rank": 8,
+    "word": "technology",
+    "score": 100,
+    "freq": 96,
+    "bookSpread": 11,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "technology",
+      "technologies",
+      "technological"
+    ]
+  },
+  {
+    "rank": 9,
+    "word": "achieve",
+    "score": 100,
+    "freq": 84,
+    "bookSpread": 11,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "achieve",
+      "achieved",
+      "achievement",
+      "achievements",
+      "achieving"
+    ]
+  },
+  {
+    "rank": 10,
+    "word": "approach",
+    "score": 100,
+    "freq": 79,
+    "bookSpread": 11,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "approach",
+      "approaches",
+      "approached",
+      "approaching"
+    ]
+  },
+  {
+    "rank": 11,
+    "word": "evidence",
+    "score": 100,
+    "freq": 78,
+    "bookSpread": 11,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "evidence",
+      "evident",
+      "evidently"
+    ]
+  },
+  {
+    "rank": 12,
+    "word": "significant",
+    "score": 100,
+    "freq": 77,
+    "bookSpread": 11,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "significant",
+      "significantly",
+      "significance"
+    ]
+  },
+  {
+    "rank": 13,
+    "word": "benefit",
+    "score": 100,
+    "freq": 74,
+    "bookSpread": 11,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "benefit",
+      "benefits",
+      "beneficial"
+    ]
+  },
+  {
+    "rank": 14,
+    "word": "require",
+    "score": 100,
+    "freq": 72,
+    "bookSpread": 11,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "required",
+      "require",
+      "requirements",
+      "requiring",
+      "requires"
+    ]
+  },
+  {
+    "rank": 15,
+    "word": "section",
+    "score": 100,
+    "freq": 71,
+    "bookSpread": 11,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "section"
+    ]
+  },
+  {
+    "rank": 16,
+    "word": "major",
+    "score": 100,
+    "freq": 70,
+    "bookSpread": 11,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "major"
+    ]
+  },
+  {
+    "rank": 17,
+    "word": "consider",
+    "score": 100,
+    "freq": 70,
+    "bookSpread": 11,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "considered",
+      "consider",
+      "considerable",
+      "consideration",
+      "considers"
+    ]
+  },
+  {
+    "rank": 18,
+    "word": "construct",
+    "score": 100,
+    "freq": 82,
+    "bookSpread": 10,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "construction",
+      "constructed",
+      "construct",
+      "constructing"
+    ]
+  },
+  {
+    "rank": 19,
+    "word": "evolve",
+    "score": 100,
+    "freq": 67,
+    "bookSpread": 10,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "evolution",
+      "evolved",
+      "evolutionary",
+      "evolves",
+      "evolve"
+    ]
+  },
+  {
+    "rank": 20,
+    "word": "transport",
+    "score": 100,
+    "freq": 93,
+    "bookSpread": 9,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "transport",
+      "transportation",
+      "transported",
+      "transporting"
+    ]
+  },
+  {
+    "rank": 21,
+    "word": "economy",
+    "score": 100,
+    "freq": 78,
+    "bookSpread": 8,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "economic",
+      "economy",
+      "economics",
+      "economically",
+      "economies"
+    ]
+  },
+  {
+    "rank": 22,
+    "word": "area",
+    "score": 99.8,
+    "freq": 66,
+    "bookSpread": 11,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "area"
+    ]
+  },
+  {
+    "rank": 23,
+    "word": "respond",
+    "score": 98.6,
+    "freq": 62,
+    "bookSpread": 11,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "response",
+      "responded",
+      "responses",
+      "responding",
+      "respond"
+    ]
+  },
+  {
+    "rank": 24,
+    "word": "impact",
+    "score": 98.3,
+    "freq": 61,
+    "bookSpread": 11,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "impact"
+    ]
+  },
+  {
+    "rank": 25,
+    "word": "technique",
+    "score": 97.4,
+    "freq": 58,
+    "bookSpread": 11,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "technical",
+      "techniques",
+      "technique",
+      "technically"
+    ]
+  },
+  {
+    "rank": 26,
+    "word": "team",
+    "score": 97.4,
+    "freq": 58,
+    "bookSpread": 10,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "team"
+    ]
+  },
+  {
+    "rank": 27,
+    "word": "source",
+    "score": 97.1,
+    "freq": 57,
+    "bookSpread": 10,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "source",
+      "sources"
+    ]
+  },
+  {
+    "rank": 28,
+    "word": "range",
+    "score": 96.8,
+    "freq": 56,
+    "bookSpread": 11,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "range"
+    ]
+  },
+  {
+    "rank": 29,
+    "word": "energy",
+    "score": 96.8,
+    "freq": 56,
+    "bookSpread": 9,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "energy",
+      "energies"
+    ]
+  },
+  {
+    "rank": 30,
+    "word": "similar",
+    "score": 96.2,
+    "freq": 54,
+    "bookSpread": 11,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "similar"
+    ]
+  },
+  {
+    "rank": 31,
+    "word": "data",
+    "score": 95.3,
+    "freq": 51,
+    "bookSpread": 11,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "data"
+    ]
+  },
+  {
+    "rank": 32,
+    "word": "region",
+    "score": 95,
+    "freq": 55,
+    "bookSpread": 11,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "region",
+      "regions",
+      "regional"
+    ]
+  },
+  {
+    "rank": 33,
+    "word": "potential",
+    "score": 95,
+    "freq": 50,
+    "bookSpread": 11,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "potential"
+    ]
+  },
+  {
+    "rank": 34,
+    "word": "survive",
+    "score": 95,
+    "freq": 50,
+    "bookSpread": 11,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "survive",
+      "survival",
+      "survived",
+      "surviving",
+      "survives"
+    ]
+  },
+  {
+    "rank": 35,
+    "word": "role",
+    "score": 95,
+    "freq": 50,
+    "bookSpread": 11,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "role"
+    ]
+  },
+  {
+    "rank": 36,
+    "word": "contribute",
+    "score": 94.7,
+    "freq": 49,
+    "bookSpread": 11,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "contribute",
+      "contributions",
+      "contributed",
+      "contribution",
+      "contributing"
+    ]
+  },
+  {
+    "rank": 37,
+    "word": "analyse",
+    "score": 94.7,
+    "freq": 49,
+    "bookSpread": 10,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "analysis",
+      "analytical",
+      "analysed",
+      "analyse",
+      "analyze"
+    ]
+  },
+  {
+    "rank": 38,
+    "word": "period",
+    "score": 94.4,
+    "freq": 48,
+    "bookSpread": 11,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "period"
+    ]
+  },
+  {
+    "rank": 39,
+    "word": "identify",
+    "score": 94.4,
+    "freq": 48,
+    "bookSpread": 11,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "identify",
+      "identified",
+      "identifying",
+      "identifies",
+      "identification"
+    ]
+  },
+  {
+    "rank": 40,
+    "word": "physical",
+    "score": 94.4,
+    "freq": 48,
+    "bookSpread": 10,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "physical",
+      "physically"
+    ]
+  },
+  {
+    "rank": 41,
+    "word": "feature",
+    "score": 94.4,
+    "freq": 48,
+    "bookSpread": 9,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "features",
+      "feature",
+      "featured"
+    ]
+  },
+  {
+    "rank": 42,
+    "word": "indicate",
+    "score": 94.1,
+    "freq": 47,
+    "bookSpread": 11,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "indicate",
+      "indicates",
+      "indicating",
+      "indicated",
+      "indication"
+    ]
+  },
+  {
+    "rank": 43,
+    "word": "strategy",
+    "score": 94.1,
+    "freq": 47,
+    "bookSpread": 9,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "strategy",
+      "strategies",
+      "strategically",
+      "strategic"
+    ]
+  },
+  {
+    "rank": 44,
+    "word": "create",
+    "score": 93.8,
+    "freq": 46,
+    "bookSpread": 11,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "create"
+    ]
+  },
+  {
+    "rank": 45,
+    "word": "method",
+    "score": 93.8,
+    "freq": 46,
+    "bookSpread": 10,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "method"
+    ]
+  },
+  {
+    "rank": 46,
+    "word": "aware",
+    "score": 93.2,
+    "freq": 44,
+    "bookSpread": 11,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "aware",
+      "awareness",
+      "unaware"
+    ]
+  },
+  {
+    "rank": 47,
+    "word": "reveal",
+    "score": 93,
+    "freq": 45,
+    "bookSpread": 11,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "revealed",
+      "reveal",
+      "reveals",
+      "revealing"
+    ]
+  },
+  {
+    "rank": 48,
+    "word": "rely",
+    "score": 92.6,
+    "freq": 42,
+    "bookSpread": 10,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "reliable",
+      "rely",
+      "reliance",
+      "relied",
+      "relies"
+    ]
+  },
+  {
+    "rank": 49,
+    "word": "intelligence",
+    "score": 92.5,
+    "freq": 55,
+    "bookSpread": 6,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "intelligence"
+    ]
+  },
+  {
+    "rank": 50,
+    "word": "predict",
+    "score": 92.3,
+    "freq": 41,
+    "bookSpread": 11,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "predict",
+      "predictions",
+      "predictable",
+      "predicted",
+      "predicts"
+    ]
+  },
+  {
+    "rank": 51,
+    "word": "individual",
+    "score": 92.3,
+    "freq": 41,
+    "bookSpread": 11,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "individual"
+    ]
+  },
+  {
+    "rank": 52,
+    "word": "occur",
+    "score": 92.3,
+    "freq": 41,
+    "bookSpread": 10,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "occurred",
+      "occur",
+      "occurs",
+      "occurring",
+      "occurrence"
+    ]
+  },
+  {
+    "rank": 53,
+    "word": "tradition",
+    "score": 91.7,
+    "freq": 39,
+    "bookSpread": 11,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "traditional",
+      "traditionally",
+      "tradition",
+      "traditions"
+    ]
+  },
+  {
+    "rank": 54,
+    "word": "project",
+    "score": 91.4,
+    "freq": 38,
+    "bookSpread": 10,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "project"
+    ]
+  },
+  {
+    "rank": 55,
+    "word": "site",
+    "score": 91.4,
+    "freq": 38,
+    "bookSpread": 10,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "site"
+    ]
+  },
+  {
+    "rank": 56,
+    "word": "challenge",
+    "score": 91.1,
+    "freq": 37,
+    "bookSpread": 10,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "challenge",
+      "challenging",
+      "challenges",
+      "challenged"
+    ]
+  },
+  {
+    "rank": 57,
+    "word": "structure",
+    "score": 90.7,
+    "freq": 44,
+    "bookSpread": 10,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "structure",
+      "structures",
+      "structured",
+      "structural"
+    ]
+  },
+  {
+    "rank": 58,
+    "word": "complex",
+    "score": 90.5,
+    "freq": 35,
+    "bookSpread": 9,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "complex",
+      "complexity"
+    ]
+  },
+  {
+    "rank": 59,
+    "word": "innovation",
+    "score": 90.5,
+    "freq": 35,
+    "bookSpread": 7,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "innovation"
+    ]
+  },
+  {
+    "rank": 60,
+    "word": "factors",
+    "score": 90.2,
+    "freq": 39,
+    "bookSpread": 9,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "factors"
+    ]
+  },
+  {
+    "rank": 61,
+    "word": "adapt",
+    "score": 90.1,
+    "freq": 37,
+    "bookSpread": 10,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "adapted",
+      "adapt",
+      "adaptation",
+      "adapting",
+      "adaptive"
+    ]
+  },
+  {
+    "rank": 62,
+    "word": "focus",
+    "score": 89.9,
+    "freq": 33,
+    "bookSpread": 11,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "focus"
+    ]
+  },
+  {
+    "rank": 63,
+    "word": "maintain",
+    "score": 89.6,
+    "freq": 37,
+    "bookSpread": 11,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "maintain",
+      "maintaining",
+      "maintained",
+      "maintenance",
+      "maintains"
+    ]
+  },
+  {
+    "rank": 64,
+    "word": "global",
+    "score": 89.5,
+    "freq": 35,
+    "bookSpread": 11,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "global"
+    ]
+  },
+  {
+    "rank": 65,
+    "word": "positive",
+    "score": 89.3,
+    "freq": 31,
+    "bookSpread": 7,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "positive"
+    ]
+  },
+  {
+    "rank": 66,
+    "word": "available",
+    "score": 88.7,
+    "freq": 29,
+    "bookSpread": 9,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "available"
+    ]
+  },
+  {
+    "rank": 67,
+    "word": "communicate",
+    "score": 88.6,
+    "freq": 37,
+    "bookSpread": 8,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "communication",
+      "communicate",
+      "communicating",
+      "communicates"
+    ]
+  },
+  {
+    "rank": 68,
+    "word": "appropriate",
+    "score": 88.1,
+    "freq": 27,
+    "bookSpread": 9,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "appropriate"
+    ]
+  },
+  {
+    "rank": 69,
+    "word": "task",
+    "score": 88.1,
+    "freq": 27,
+    "bookSpread": 9,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "task"
+    ]
+  },
+  {
+    "rank": 70,
+    "word": "perceive",
+    "score": 88,
+    "freq": 40,
+    "bookSpread": 9,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "perception",
+      "perceived",
+      "perceive",
+      "perceptions",
+      "perceives"
+    ]
+  },
+  {
+    "rank": 71,
+    "word": "ensure",
+    "score": 87.8,
+    "freq": 26,
+    "bookSpread": 9,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "ensure"
+    ]
+  },
+  {
+    "rank": 72,
+    "word": "assume",
+    "score": 87.7,
+    "freq": 29,
+    "bookSpread": 9,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "assumptions",
+      "assumption",
+      "assume",
+      "assumed",
+      "assumes"
+    ]
+  },
+  {
+    "rank": 73,
+    "word": "negative",
+    "score": 87.5,
+    "freq": 25,
+    "bookSpread": 9,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "negative"
+    ]
+  },
+  {
+    "rank": 74,
+    "word": "regulate",
+    "score": 86.7,
+    "freq": 29,
+    "bookSpread": 8,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "regulations",
+      "regulate",
+      "regulation",
+      "regulated",
+      "regulating"
+    ]
+  },
+  {
+    "rank": 75,
+    "word": "specific",
+    "score": 86.5,
+    "freq": 25,
+    "bookSpread": 10,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "specific"
+    ]
+  },
+  {
+    "rank": 76,
+    "word": "chemical",
+    "score": 86.5,
+    "freq": 30,
+    "bookSpread": 8,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "chemical",
+      "chemicals"
+    ]
+  },
+  {
+    "rank": 77,
+    "word": "decline",
+    "score": 86.4,
+    "freq": 23,
+    "bookSpread": 9,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "decline",
+      "declines",
+      "declined",
+      "declining"
+    ]
+  },
+  {
+    "rank": 78,
+    "word": "sustainable",
+    "score": 86.4,
+    "freq": 28,
+    "bookSpread": 8,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "sustainable"
+    ]
+  },
+  {
+    "rank": 79,
+    "word": "function",
+    "score": 86,
+    "freq": 30,
+    "bookSpread": 10,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "function"
+    ]
+  },
+  {
+    "rank": 80,
+    "word": "finally",
+    "score": 85.8,
+    "freq": 31,
+    "bookSpread": 11,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "finally"
+    ]
+  },
+  {
+    "rank": 81,
+    "word": "culture",
+    "score": 85.8,
+    "freq": 26,
+    "bookSpread": 10,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "culture"
+    ]
+  },
+  {
+    "rank": 82,
+    "word": "despite",
+    "score": 85.7,
+    "freq": 24,
+    "bookSpread": 10,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "despite"
+    ]
+  },
+  {
+    "rank": 83,
+    "word": "job",
+    "score": 85.6,
+    "freq": 27,
+    "bookSpread": 7,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "job"
+    ]
+  },
+  {
+    "rank": 84,
+    "word": "previous",
+    "score": 84.9,
+    "freq": 23,
+    "bookSpread": 9,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "previous"
+    ]
+  },
+  {
+    "rank": 85,
+    "word": "institute",
+    "score": 84.5,
+    "freq": 25,
+    "bookSpread": 10,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "institute"
+    ]
+  },
+  {
+    "rank": 86,
+    "word": "estimate",
+    "score": 84.4,
+    "freq": 28,
+    "bookSpread": 11,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "estimated",
+      "estimates",
+      "estimate",
+      "estimating",
+      "estimation"
+    ]
+  },
+  {
+    "rank": 87,
+    "word": "text",
+    "score": 84.3,
+    "freq": 16,
+    "bookSpread": 8,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "text"
+    ]
+  },
+  {
+    "rank": 88,
+    "word": "affect",
+    "score": 84.1,
+    "freq": 22,
+    "bookSpread": 11,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "affect"
+    ]
+  },
+  {
+    "rank": 89,
+    "word": "fundamental",
+    "score": 84.1,
+    "freq": 22,
+    "bookSpread": 9,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "fundamental"
+    ]
+  },
+  {
+    "rank": 90,
+    "word": "financial",
+    "score": 84.1,
+    "freq": 27,
+    "bookSpread": 6,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "financial"
+    ]
+  },
+  {
+    "rank": 91,
+    "word": "goal",
+    "score": 84,
+    "freq": 20,
+    "bookSpread": 7,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "goal"
+    ]
+  },
+  {
+    "rank": 92,
+    "word": "location",
+    "score": 83.8,
+    "freq": 16,
+    "bookSpread": 9,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "location"
+    ]
+  },
+  {
+    "rank": 93,
+    "word": "unique",
+    "score": 83.7,
+    "freq": 24,
+    "bookSpread": 9,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "unique"
+    ]
+  },
+  {
+    "rank": 94,
+    "word": "medical",
+    "score": 83.7,
+    "freq": 19,
+    "bookSpread": 9,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "medical"
+    ]
+  },
+  {
+    "rank": 95,
+    "word": "psychological",
+    "score": 83.7,
+    "freq": 19,
+    "bookSpread": 7,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "psychological"
+    ]
+  },
+  {
+    "rank": 96,
+    "word": "eventually",
+    "score": 83.5,
+    "freq": 25,
+    "bookSpread": 9,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "eventually"
+    ]
+  },
+  {
+    "rank": 97,
+    "word": "obvious",
+    "score": 83.3,
+    "freq": 21,
+    "bookSpread": 8,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "obvious"
+    ]
+  },
+  {
+    "rank": 98,
+    "word": "aspect",
+    "score": 83.2,
+    "freq": 19,
+    "bookSpread": 10,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "aspect"
+    ]
+  },
+  {
+    "rank": 99,
+    "word": "instance",
+    "score": 83,
+    "freq": 25,
+    "bookSpread": 9,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "instance"
+    ]
+  },
+  {
+    "rank": 100,
+    "word": "debate",
+    "score": 83,
+    "freq": 20,
+    "bookSpread": 8,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "debate"
+    ]
+  },
+  {
+    "rank": 101,
+    "word": "definition",
+    "score": 82.8,
+    "freq": 16,
+    "bookSpread": 8,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "definition"
+    ]
+  },
+  {
+    "rank": 102,
+    "word": "initially",
+    "score": 82.6,
+    "freq": 12,
+    "bookSpread": 9,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "initially"
+    ]
+  },
+  {
+    "rank": 103,
+    "word": "factor",
+    "score": 82.4,
+    "freq": 18,
+    "bookSpread": 10,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "factor"
+    ]
+  },
+  {
+    "rank": 104,
+    "word": "resources",
+    "score": 82.3,
+    "freq": 21,
+    "bookSpread": 8,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "resources"
+    ]
+  },
+  {
+    "rank": 105,
+    "word": "published",
+    "score": 82.3,
+    "freq": 21,
+    "bookSpread": 8,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "published"
+    ]
+  },
+  {
+    "rank": 106,
+    "word": "link",
+    "score": 82.2,
+    "freq": 14,
+    "bookSpread": 8,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "link"
+    ]
+  },
+  {
+    "rank": 107,
+    "word": "emerge",
+    "score": 82.1,
+    "freq": 22,
+    "bookSpread": 10,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "emerged",
+      "emerging",
+      "emergence",
+      "emerge",
+      "emerges"
+    ]
+  },
+  {
+    "rank": 108,
+    "word": "equipment",
+    "score": 82.1,
+    "freq": 17,
+    "bookSpread": 8,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "equipment"
+    ]
+  },
+  {
+    "rank": 109,
+    "word": "income",
+    "score": 82.1,
+    "freq": 12,
+    "bookSpread": 7,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "income"
+    ]
+  },
+  {
+    "rank": 110,
+    "word": "precise",
+    "score": 82,
+    "freq": 15,
+    "bookSpread": 8,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "precise"
+    ]
+  },
+  {
+    "rank": 111,
+    "word": "objective",
+    "score": 82,
+    "freq": 15,
+    "bookSpread": 8,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "objective"
+    ]
+  },
+  {
+    "rank": 112,
+    "word": "layer",
+    "score": 81.8,
+    "freq": 16,
+    "bookSpread": 7,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "layer"
+    ]
+  },
+  {
+    "rank": 113,
+    "word": "route",
+    "score": 81.5,
+    "freq": 20,
+    "bookSpread": 6,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "route"
+    ]
+  },
+  {
+    "rank": 114,
+    "word": "series",
+    "score": 81.4,
+    "freq": 18,
+    "bookSpread": 10,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "series"
+    ]
+  },
+  {
+    "rank": 115,
+    "word": "capacity",
+    "score": 81.3,
+    "freq": 16,
+    "bookSpread": 10,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "capacity"
+    ]
+  },
+  {
+    "rank": 116,
+    "word": "previously",
+    "score": 81,
+    "freq": 15,
+    "bookSpread": 10,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "previously"
+    ]
+  },
+  {
+    "rank": 117,
+    "word": "transform",
+    "score": 81,
+    "freq": 15,
+    "bookSpread": 9,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "transform",
+      "transformed",
+      "transformation",
+      "transforming"
+    ]
+  },
+  {
+    "rank": 118,
+    "word": "access",
+    "score": 81,
+    "freq": 15,
+    "bookSpread": 7,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "access"
+    ]
+  },
+  {
+    "rank": 119,
+    "word": "adult",
+    "score": 81,
+    "freq": 15,
+    "bookSpread": 7,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "adult"
+    ]
+  },
+  {
+    "rank": 120,
+    "word": "display",
+    "score": 80.9,
+    "freq": 13,
+    "bookSpread": 8,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "display"
+    ]
+  },
+  {
+    "rank": 121,
+    "word": "accurate",
+    "score": 80.9,
+    "freq": 13,
+    "bookSpread": 7,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "accurate"
+    ]
+  },
+  {
+    "rank": 122,
+    "word": "context",
+    "score": 80.8,
+    "freq": 16,
+    "bookSpread": 9,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "context"
+    ]
+  },
+  {
+    "rank": 123,
+    "word": "final",
+    "score": 80.8,
+    "freq": 16,
+    "bookSpread": 8,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "final"
+    ]
+  },
+  {
+    "rank": 124,
+    "word": "cultural",
+    "score": 80.7,
+    "freq": 14,
+    "bookSpread": 8,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "cultural"
+    ]
+  },
+  {
+    "rank": 125,
+    "word": "psychology",
+    "score": 80.7,
+    "freq": 19,
+    "bookSpread": 6,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "psychology"
+    ]
+  },
+  {
+    "rank": 126,
+    "word": "promote",
+    "score": 80.6,
+    "freq": 12,
+    "bookSpread": 8,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "promote"
+    ]
+  },
+  {
+    "rank": 127,
+    "word": "remove",
+    "score": 80.6,
+    "freq": 12,
+    "bookSpread": 7,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "remove"
+    ]
+  },
+  {
+    "rank": 128,
+    "word": "migration",
+    "score": 80.6,
+    "freq": 22,
+    "bookSpread": 6,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "migration"
+    ]
+  },
+  {
+    "rank": 129,
+    "word": "conclude",
+    "score": 80.5,
+    "freq": 15,
+    "bookSpread": 8,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "conclusion",
+      "conclude",
+      "concluded",
+      "conclusions"
+    ]
+  },
+  {
+    "rank": 130,
+    "word": "constant",
+    "score": 80.3,
+    "freq": 16,
+    "bookSpread": 8,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "constant"
+    ]
+  },
+  {
+    "rank": 131,
+    "word": "consumption",
+    "score": 80.3,
+    "freq": 11,
+    "bookSpread": 8,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "consumption"
+    ]
+  },
+  {
+    "rank": 132,
+    "word": "hypothesis",
+    "score": 80.3,
+    "freq": 11,
+    "bookSpread": 7,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "hypothesis"
+    ]
+  },
+  {
+    "rank": 133,
+    "word": "revolution",
+    "score": 80.1,
+    "freq": 27,
+    "bookSpread": 6,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "revolution"
+    ]
+  },
+  {
+    "rank": 134,
+    "word": "crucial",
+    "score": 80,
+    "freq": 15,
+    "bookSpread": 7,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "crucial"
+    ]
+  },
+  {
+    "rank": 135,
+    "word": "capable",
+    "score": 79.9,
+    "freq": 13,
+    "bookSpread": 7,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "capable"
+    ]
+  },
+  {
+    "rank": 136,
+    "word": "contrast",
+    "score": 79.8,
+    "freq": 11,
+    "bookSpread": 8,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "contrast"
+    ]
+  },
+  {
+    "rank": 137,
+    "word": "sector",
+    "score": 79.8,
+    "freq": 11,
+    "bookSpread": 7,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "sector"
+    ]
+  },
+  {
+    "rank": 138,
+    "word": "relevant",
+    "score": 79.6,
+    "freq": 12,
+    "bookSpread": 9,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "relevant"
+    ]
+  },
+  {
+    "rank": 139,
+    "word": "dramatic",
+    "score": 79.6,
+    "freq": 12,
+    "bookSpread": 7,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "dramatic"
+    ]
+  },
+  {
+    "rank": 140,
+    "word": "ignore",
+    "score": 79.5,
+    "freq": 10,
+    "bookSpread": 8,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "ignore"
+    ]
+  },
+  {
+    "rank": 141,
+    "word": "target",
+    "score": 79.5,
+    "freq": 10,
+    "bookSpread": 7,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "target"
+    ]
+  },
+  {
+    "rank": 142,
+    "word": "policy",
+    "score": 79.4,
+    "freq": 13,
+    "bookSpread": 8,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "policy"
+    ]
+  },
+  {
+    "rank": 143,
+    "word": "proportion",
+    "score": 79.4,
+    "freq": 8,
+    "bookSpread": 7,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "proportion"
+    ]
+  },
+  {
+    "rank": 144,
+    "word": "concentrate",
+    "score": 79.2,
+    "freq": 9,
+    "bookSpread": 7,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "concentrate"
+    ]
+  },
+  {
+    "rank": 145,
+    "word": "distinct",
+    "score": 79.1,
+    "freq": 12,
+    "bookSpread": 9,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "distinct"
+    ]
+  },
+  {
+    "rank": 146,
+    "word": "seek",
+    "score": 79.1,
+    "freq": 12,
+    "bookSpread": 7,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "seek"
+    ]
+  },
+  {
+    "rank": 147,
+    "word": "sufficient",
+    "score": 79.1,
+    "freq": 12,
+    "bookSpread": 7,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "sufficient"
+    ]
+  },
+  {
+    "rank": 148,
+    "word": "concept",
+    "score": 79.1,
+    "freq": 17,
+    "bookSpread": 6,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "concept"
+    ]
+  },
+  {
+    "rank": 149,
+    "word": "approximately",
+    "score": 79,
+    "freq": 10,
+    "bookSpread": 8,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "approximately"
+    ]
+  },
+  {
+    "rank": 150,
+    "word": "generation",
+    "score": 79,
+    "freq": 10,
+    "bookSpread": 7,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "generation"
+    ]
+  },
+  {
+    "rank": 151,
+    "word": "primary",
+    "score": 78.8,
+    "freq": 11,
+    "bookSpread": 7,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "primary"
+    ]
+  },
+  {
+    "rank": 152,
+    "word": "enormous",
+    "score": 78.5,
+    "freq": 10,
+    "bookSpread": 8,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "enormous"
+    ]
+  },
+  {
+    "rank": 153,
+    "word": "diversity",
+    "score": 78.5,
+    "freq": 10,
+    "bookSpread": 7,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "diversity"
+    ]
+  },
+  {
+    "rank": 154,
+    "word": "style",
+    "score": 78.5,
+    "freq": 10,
+    "bookSpread": 7,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "style"
+    ]
+  },
+  {
+    "rank": 155,
+    "word": "trend",
+    "score": 78.2,
+    "freq": 19,
+    "bookSpread": 6,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "trend"
+    ]
+  },
+  {
+    "rank": 156,
+    "word": "academic",
+    "score": 78,
+    "freq": 15,
+    "bookSpread": 6,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "academic"
+    ]
+  },
+  {
+    "rank": 157,
+    "word": "issues",
+    "score": 77.2,
+    "freq": 24,
+    "bookSpread": 5,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "issues"
+    ]
+  },
+  {
+    "rank": 158,
+    "word": "alternative",
+    "score": 77,
+    "freq": 15,
+    "bookSpread": 6,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "alternative"
+    ]
+  },
+  {
+    "rank": 159,
+    "word": "issue",
+    "score": 76.7,
+    "freq": 14,
+    "bookSpread": 6,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "issue"
+    ]
+  },
+  {
+    "rank": 160,
+    "word": "principle",
+    "score": 76.7,
+    "freq": 14,
+    "bookSpread": 6,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "principle"
+    ]
+  },
+  {
+    "rank": 161,
+    "word": "generate",
+    "score": 76.5,
+    "freq": 10,
+    "bookSpread": 6,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "generate"
+    ]
+  },
+  {
+    "rank": 162,
+    "word": "random",
+    "score": 76.4,
+    "freq": 13,
+    "bookSpread": 6,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "random"
+    ]
+  },
+  {
+    "rank": 163,
+    "word": "attitude",
+    "score": 76.3,
+    "freq": 11,
+    "bookSpread": 6,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "attitude"
+    ]
+  },
+  {
+    "rank": 164,
+    "word": "internal",
+    "score": 76.1,
+    "freq": 12,
+    "bookSpread": 6,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "internal"
+    ]
+  },
+  {
+    "rank": 165,
+    "word": "overall",
+    "score": 76.1,
+    "freq": 12,
+    "bookSpread": 6,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "overall"
+    ]
+  },
+  {
+    "rank": 166,
+    "word": "criteria",
+    "score": 76,
+    "freq": 10,
+    "bookSpread": 6,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "criteria"
+    ]
+  },
+  {
+    "rank": 167,
+    "word": "normal",
+    "score": 75.5,
+    "freq": 10,
+    "bookSpread": 6,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "normal"
+    ]
+  },
+  {
+    "rank": 168,
+    "word": "visible",
+    "score": 75.5,
+    "freq": 10,
+    "bookSpread": 6,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "visible"
+    ]
+  },
+  {
+    "rank": 169,
+    "word": "expansion",
+    "score": 75.3,
+    "freq": 11,
+    "bookSpread": 6,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "expansion"
+    ]
+  },
+  {
+    "rank": 170,
+    "word": "initial",
+    "score": 75.1,
+    "freq": 7,
+    "bookSpread": 6,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "initial"
+    ]
+  },
+  {
+    "rank": 171,
+    "word": "error",
+    "score": 75,
+    "freq": 10,
+    "bookSpread": 6,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "error"
+    ]
+  },
+  {
+    "rank": 172,
+    "word": "aid",
+    "score": 74.9,
+    "freq": 8,
+    "bookSpread": 6,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "aid"
+    ]
+  },
+  {
+    "rank": 173,
+    "word": "alter",
+    "score": 74.9,
+    "freq": 8,
+    "bookSpread": 6,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "alter"
+    ]
+  },
+  {
+    "rank": 174,
+    "word": "mental",
+    "score": 74.8,
+    "freq": 11,
+    "bookSpread": 6,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "mental",
+      "mentally"
+    ]
+  },
+  {
+    "rank": 175,
+    "word": "enable",
+    "score": 74.5,
+    "freq": 10,
+    "bookSpread": 6,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "enable"
+    ]
+  },
+  {
+    "rank": 176,
+    "word": "furthermore",
+    "score": 74.2,
+    "freq": 9,
+    "bookSpread": 6,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "furthermore"
+    ]
+  },
+  {
+    "rank": 177,
+    "word": "detect",
+    "score": 74.1,
+    "freq": 7,
+    "bookSpread": 6,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "detect"
+    ]
+  },
+  {
+    "rank": 178,
+    "word": "conventional",
+    "score": 73.8,
+    "freq": 6,
+    "bookSpread": 6,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "conventional"
+    ]
+  },
+  {
+    "rank": 179,
+    "word": "prospect",
+    "score": 73.3,
+    "freq": 6,
+    "bookSpread": 6,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "prospect"
+    ]
+  },
+  {
+    "rank": 180,
+    "word": "illustrate",
+    "score": 71.8,
+    "freq": 11,
+    "bookSpread": 5,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "illustrate"
+    ]
+  },
+  {
+    "rank": 181,
+    "word": "scheme",
+    "score": 71.8,
+    "freq": 26,
+    "bookSpread": 4,
+    "bridge": true,
+    "tier": "TIER 2: Should-Know",
+    "surfaceForms": [
+      "scheme"
+    ]
+  },
+  {
+    "rank": 182,
+    "word": "professional",
+    "score": 71.3,
+    "freq": 11,
+    "bookSpread": 5,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "professional"
+    ]
+  },
+  {
+    "rank": 183,
+    "word": "decade",
+    "score": 70.5,
+    "freq": 15,
+    "bookSpread": 5,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "decade"
+    ]
+  },
+  {
+    "rank": 184,
+    "word": "contact",
+    "score": 70.3,
+    "freq": 11,
+    "bookSpread": 5,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "contact"
+    ]
+  },
+  {
+    "rank": 185,
+    "word": "community",
+    "score": 69.6,
+    "freq": 12,
+    "bookSpread": 5,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "community"
+    ]
+  },
+  {
+    "rank": 186,
+    "word": "media",
+    "score": 69.5,
+    "freq": 10,
+    "bookSpread": 5,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "media"
+    ]
+  },
+  {
+    "rank": 187,
+    "word": "percent",
+    "score": 69.4,
+    "freq": 13,
+    "bookSpread": 5,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "percent"
+    ]
+  },
+  {
+    "rank": 188,
+    "word": "topic",
+    "score": 69.4,
+    "freq": 8,
+    "bookSpread": 5,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "topic"
+    ]
+  },
+  {
+    "rank": 189,
+    "word": "perspective",
+    "score": 69.3,
+    "freq": 11,
+    "bookSpread": 5,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "perspective"
+    ]
+  },
+  {
+    "rank": 190,
+    "word": "stress",
+    "score": 69.1,
+    "freq": 12,
+    "bookSpread": 5,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "stress"
+    ]
+  },
+  {
+    "rank": 191,
+    "word": "element",
+    "score": 69.1,
+    "freq": 7,
+    "bookSpread": 5,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "element"
+    ]
+  },
+  {
+    "rank": 192,
+    "word": "outcome",
+    "score": 69.1,
+    "freq": 7,
+    "bookSpread": 5,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "outcome"
+    ]
+  },
+  {
+    "rank": 193,
+    "word": "notion",
+    "score": 68.9,
+    "freq": 8,
+    "bookSpread": 5,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "notion"
+    ]
+  },
+  {
+    "rank": 194,
+    "word": "infrastructure",
+    "score": 68.9,
+    "freq": 8,
+    "bookSpread": 5,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "infrastructure"
+    ]
+  },
+  {
+    "rank": 195,
+    "word": "investigate",
+    "score": 68.6,
+    "freq": 7,
+    "bookSpread": 5,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "investigate"
+    ]
+  },
+  {
+    "rank": 196,
+    "word": "reaction",
+    "score": 68.5,
+    "freq": 5,
+    "bookSpread": 5,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "reaction"
+    ]
+  },
+  {
+    "rank": 197,
+    "word": "abstract",
+    "score": 68.4,
+    "freq": 18,
+    "bookSpread": 4,
+    "bridge": true,
+    "tier": "TIER 2: Should-Know",
+    "surfaceForms": [
+      "abstract"
+    ]
+  },
+  {
+    "rank": 198,
+    "word": "consistent",
+    "score": 68.3,
+    "freq": 6,
+    "bookSpread": 5,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "consistent"
+    ]
+  },
+  {
+    "rank": 199,
+    "word": "civil",
+    "score": 68.2,
+    "freq": 9,
+    "bookSpread": 5,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "civil"
+    ]
+  },
+  {
+    "rank": 200,
+    "word": "reverse",
+    "score": 68.2,
+    "freq": 9,
+    "bookSpread": 5,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "reverse"
+    ]
+  },
+  {
+    "rank": 201,
+    "word": "straightforward",
+    "score": 68.2,
+    "freq": 9,
+    "bookSpread": 5,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "straightforward"
+    ]
+  },
+  {
+    "rank": 202,
+    "word": "security",
+    "score": 68.1,
+    "freq": 7,
+    "bookSpread": 5,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "security"
+    ]
+  },
+  {
+    "rank": 203,
+    "word": "acquire",
+    "score": 68.1,
+    "freq": 7,
+    "bookSpread": 5,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "acquire"
+    ]
+  },
+  {
+    "rank": 204,
+    "word": "minimise",
+    "score": 68.1,
+    "freq": 7,
+    "bookSpread": 5,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "minimise"
+    ]
+  },
+  {
+    "rank": 205,
+    "word": "domestic",
+    "score": 68.1,
+    "freq": 7,
+    "bookSpread": 5,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "domestic"
+    ]
+  },
+  {
+    "rank": 206,
+    "word": "assess",
+    "score": 68.1,
+    "freq": 7,
+    "bookSpread": 5,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "assess"
+    ]
+  },
+  {
+    "rank": 207,
+    "word": "intense",
+    "score": 67.9,
+    "freq": 8,
+    "bookSpread": 5,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "intense"
+    ]
+  },
+  {
+    "rank": 208,
+    "word": "resource",
+    "score": 67.9,
+    "freq": 8,
+    "bookSpread": 5,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "resource"
+    ]
+  },
+  {
+    "rank": 209,
+    "word": "apparent",
+    "score": 67.9,
+    "freq": 8,
+    "bookSpread": 5,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "apparent"
+    ]
+  },
+  {
+    "rank": 210,
+    "word": "annual",
+    "score": 67.9,
+    "freq": 8,
+    "bookSpread": 5,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "annual"
+    ]
+  },
+  {
+    "rank": 211,
+    "word": "minimal",
+    "score": 67.8,
+    "freq": 6,
+    "bookSpread": 5,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "minimal"
+    ]
+  },
+  {
+    "rank": 212,
+    "word": "restore",
+    "score": 67.8,
+    "freq": 6,
+    "bookSpread": 5,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "restore"
+    ]
+  },
+  {
+    "rank": 213,
+    "word": "recover",
+    "score": 67.8,
+    "freq": 6,
+    "bookSpread": 5,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "recover"
+    ]
+  },
+  {
+    "rank": 214,
+    "word": "shift",
+    "score": 67.6,
+    "freq": 7,
+    "bookSpread": 5,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "shift"
+    ]
+  },
+  {
+    "rank": 215,
+    "word": "underlying",
+    "score": 67.5,
+    "freq": 5,
+    "bookSpread": 5,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "underlying"
+    ]
+  },
+  {
+    "rank": 216,
+    "word": "military",
+    "score": 67.3,
+    "freq": 6,
+    "bookSpread": 5,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "military"
+    ]
+  },
+  {
+    "rank": 217,
+    "word": "minimum",
+    "score": 67.3,
+    "freq": 6,
+    "bookSpread": 5,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "minimum"
+    ]
+  },
+  {
+    "rank": 218,
+    "word": "authority",
+    "score": 67.3,
+    "freq": 6,
+    "bookSpread": 5,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "authority"
+    ]
+  },
+  {
+    "rank": 219,
+    "word": "colleague",
+    "score": 67,
+    "freq": 5,
+    "bookSpread": 5,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "colleague"
+    ]
+  },
+  {
+    "rank": 220,
+    "word": "valid",
+    "score": 67,
+    "freq": 5,
+    "bookSpread": 5,
+    "bridge": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "valid"
+    ]
+  },
+  {
+    "rank": 221,
+    "word": "consumer",
+    "score": 65,
+    "freq": 10,
+    "bookSpread": 4,
+    "bridge": true,
+    "tier": "TIER 2: Should-Know",
+    "surfaceForms": [
+      "consumer"
+    ]
+  },
+  {
+    "rank": 222,
+    "word": "dominant",
+    "score": 64.5,
+    "freq": 15,
+    "bookSpread": 4,
+    "bridge": true,
+    "tier": "TIER 2: Should-Know",
+    "surfaceForms": [
+      "dominant"
+    ]
+  },
+  {
+    "rank": 223,
+    "word": "appreciate",
+    "score": 64.5,
+    "freq": 10,
+    "bookSpread": 4,
+    "bridge": true,
+    "tier": "TIER 2: Should-Know",
+    "surfaceForms": [
+      "appreciate"
+    ]
+  },
+  {
+    "rank": 224,
+    "word": "chapter",
+    "score": 63.5,
+    "freq": 25,
+    "bookSpread": 3,
+    "bridge": true,
+    "tier": "TIER 2: Should-Know",
+    "surfaceForms": [
+      "chapter"
+    ]
+  },
+  {
+    "rank": 225,
+    "word": "identical",
+    "score": 63.3,
+    "freq": 11,
+    "bookSpread": 4,
+    "bridge": true,
+    "tier": "TIER 2: Should-Know",
+    "surfaceForms": [
+      "identical"
+    ]
+  },
+  {
+    "rank": 226,
+    "word": "input",
+    "score": 63.2,
+    "freq": 9,
+    "bookSpread": 4,
+    "bridge": true,
+    "tier": "TIER 2: Should-Know",
+    "surfaceForms": [
+      "input"
+    ]
+  },
+  {
+    "rank": 227,
+    "word": "explicit",
+    "score": 63.1,
+    "freq": 12,
+    "bookSpread": 4,
+    "bridge": true,
+    "tier": "TIER 2: Should-Know",
+    "surfaceForms": [
+      "explicit"
+    ]
+  },
+  {
+    "rank": 228,
+    "word": "mechanism",
+    "score": 62.9,
+    "freq": 8,
+    "bookSpread": 4,
+    "bridge": true,
+    "tier": "TIER 2: Should-Know",
+    "surfaceForms": [
+      "mechanism"
+    ]
+  },
+  {
+    "rank": 229,
+    "word": "code",
+    "score": 62.7,
+    "freq": 9,
+    "bookSpread": 4,
+    "bridge": true,
+    "tier": "TIER 2: Should-Know",
+    "surfaceForms": [
+      "code"
+    ]
+  },
+  {
+    "rank": 230,
+    "word": "release",
+    "score": 62.6,
+    "freq": 7,
+    "bookSpread": 4,
+    "bridge": true,
+    "tier": "TIER 2: Should-Know",
+    "surfaceForms": [
+      "release"
+    ]
+  },
+  {
+    "rank": 231,
+    "word": "external",
+    "score": 62.3,
+    "freq": 6,
+    "bookSpread": 4,
+    "bridge": true,
+    "tier": "TIER 2: Should-Know",
+    "surfaceForms": [
+      "external"
+    ]
+  },
+  {
+    "rank": 232,
+    "word": "labour",
+    "score": 62.2,
+    "freq": 9,
+    "bookSpread": 4,
+    "bridge": true,
+    "tier": "TIER 2: Should-Know",
+    "surfaceForms": [
+      "labour"
+    ]
+  },
+  {
+    "rank": 233,
+    "word": "select",
+    "score": 62,
+    "freq": 5,
+    "bookSpread": 4,
+    "bridge": true,
+    "tier": "TIER 2: Should-Know",
+    "surfaceForms": [
+      "select"
+    ]
+  },
+  {
+    "rank": 234,
+    "word": "demonstrate",
+    "score": 62,
+    "freq": 5,
+    "bookSpread": 4,
+    "bridge": true,
+    "tier": "TIER 2: Should-Know",
+    "surfaceForms": [
+      "demonstrate"
+    ]
+  },
+  {
+    "rank": 235,
+    "word": "conflict",
+    "score": 61.8,
+    "freq": 6,
+    "bookSpread": 4,
+    "bridge": true,
+    "tier": "TIER 2: Should-Know",
+    "surfaceForms": [
+      "conflict"
+    ]
+  },
+  {
+    "rank": 236,
+    "word": "emphasis",
+    "score": 61.8,
+    "freq": 6,
+    "bookSpread": 4,
+    "bridge": true,
+    "tier": "TIER 2: Should-Know",
+    "surfaceForms": [
+      "emphasis"
+    ]
+  },
+  {
+    "rank": 237,
+    "word": "establish",
+    "score": 61.6,
+    "freq": 7,
+    "bookSpread": 4,
+    "bridge": true,
+    "tier": "TIER 2: Should-Know",
+    "surfaceForms": [
+      "establish"
+    ]
+  },
+  {
+    "rank": 238,
+    "word": "medium",
+    "score": 61.6,
+    "freq": 7,
+    "bookSpread": 4,
+    "bridge": true,
+    "tier": "TIER 2: Should-Know",
+    "surfaceForms": [
+      "medium"
+    ]
+  },
+  {
+    "rank": 239,
+    "word": "option",
+    "score": 61.6,
+    "freq": 7,
+    "bookSpread": 4,
+    "bridge": true,
+    "tier": "TIER 2: Should-Know",
+    "surfaceForms": [
+      "option"
+    ]
+  },
+  {
+    "rank": 240,
+    "word": "ethical",
+    "score": 61.6,
+    "freq": 7,
+    "bookSpread": 4,
+    "bridge": true,
+    "tier": "TIER 2: Should-Know",
+    "surfaceForms": [
+      "ethical"
+    ]
+  },
+  {
+    "rank": 241,
+    "word": "ultimately",
+    "score": 61.5,
+    "freq": 5,
+    "bookSpread": 4,
+    "bridge": true,
+    "tier": "TIER 2: Should-Know",
+    "surfaceForms": [
+      "ultimately"
+    ]
+  },
+  {
+    "rank": 242,
+    "word": "extract",
+    "score": 61.5,
+    "freq": 5,
+    "bookSpread": 4,
+    "bridge": true,
+    "tier": "TIER 2: Should-Know",
+    "surfaceForms": [
+      "extract"
+    ]
+  },
+  {
+    "rank": 243,
+    "word": "apparently",
+    "score": 61.3,
+    "freq": 6,
+    "bookSpread": 4,
+    "bridge": true,
+    "tier": "TIER 2: Should-Know",
+    "surfaceForms": [
+      "apparently"
+    ]
+  },
+  {
+    "rank": 244,
+    "word": "investigation",
+    "score": 61.3,
+    "freq": 6,
+    "bookSpread": 4,
+    "bridge": true,
+    "tier": "TIER 2: Should-Know",
+    "surfaceForms": [
+      "investigation"
+    ]
+  },
+  {
+    "rank": 245,
+    "word": "version",
+    "score": 61.3,
+    "freq": 6,
+    "bookSpread": 4,
+    "bridge": true,
+    "tier": "TIER 2: Should-Know",
+    "surfaceForms": [
+      "version"
+    ]
+  },
+  {
+    "rank": 246,
+    "word": "intervention",
+    "score": 61.3,
+    "freq": 6,
+    "bookSpread": 4,
+    "bridge": true,
+    "tier": "TIER 2: Should-Know",
+    "surfaceForms": [
+      "intervention"
+    ]
+  },
+  {
+    "rank": 247,
+    "word": "compensate",
+    "score": 61.2,
+    "freq": 4,
+    "bookSpread": 4,
+    "bridge": true,
+    "tier": "TIER 2: Should-Know",
+    "surfaceForms": [
+      "compensate"
+    ]
+  },
+  {
+    "rank": 248,
+    "word": "transition",
+    "score": 61.2,
+    "freq": 4,
+    "bookSpread": 4,
+    "bridge": true,
+    "tier": "TIER 2: Should-Know",
+    "surfaceForms": [
+      "transition"
+    ]
+  },
+  {
+    "rank": 249,
+    "word": "transfer",
+    "score": 61,
+    "freq": 5,
+    "bookSpread": 4,
+    "bridge": true,
+    "tier": "TIER 2: Should-Know",
+    "surfaceForms": [
+      "transfer"
+    ]
+  },
+  {
+    "rank": 250,
+    "word": "obviously",
+    "score": 61,
+    "freq": 5,
+    "bookSpread": 4,
+    "bridge": true,
+    "tier": "TIER 2: Should-Know",
+    "surfaceForms": [
+      "obviously"
+    ]
+  },
+  {
+    "rank": 251,
+    "word": "author",
+    "score": 61,
+    "freq": 5,
+    "bookSpread": 4,
+    "bridge": true,
+    "tier": "TIER 2: Should-Know",
+    "surfaceForms": [
+      "author"
+    ]
+  },
+  {
+    "rank": 252,
+    "word": "prior",
+    "score": 61,
+    "freq": 5,
+    "bookSpread": 4,
+    "bridge": true,
+    "tier": "TIER 2: Should-Know",
+    "surfaceForms": [
+      "prior"
+    ]
+  },
+  {
+    "rank": 253,
+    "word": "institution",
+    "score": 61,
+    "freq": 5,
+    "bookSpread": 4,
+    "bridge": true,
+    "tier": "TIER 2: Should-Know",
+    "surfaceForms": [
+      "institution"
+    ]
+  },
+  {
+    "rank": 254,
+    "word": "controversy",
+    "score": 60.7,
+    "freq": 4,
+    "bookSpread": 4,
+    "bridge": true,
+    "tier": "TIER 2: Should-Know",
+    "surfaceForms": [
+      "controversy"
+    ]
+  },
+  {
+    "rank": 255,
+    "word": "framework",
+    "score": 60.7,
+    "freq": 4,
+    "bookSpread": 4,
+    "bridge": true,
+    "tier": "TIER 2: Should-Know",
+    "surfaceForms": [
+      "framework"
+    ]
+  },
+  {
+    "rank": 256,
+    "word": "finance",
+    "score": 60.7,
+    "freq": 4,
+    "bookSpread": 4,
+    "bridge": true,
+    "tier": "TIER 2: Should-Know",
+    "surfaceForms": [
+      "finance"
+    ]
+  },
+  {
+    "rank": 257,
+    "word": "locate",
+    "score": 60.7,
+    "freq": 4,
+    "bookSpread": 4,
+    "bridge": true,
+    "tier": "TIER 2: Should-Know",
+    "surfaceForms": [
+      "locate"
+    ]
+  },
+  {
+    "rank": 258,
+    "word": "implementation",
+    "score": 60.7,
+    "freq": 4,
+    "bookSpread": 4,
+    "bridge": true,
+    "tier": "TIER 2: Should-Know",
+    "surfaceForms": [
+      "implementation"
+    ]
+  },
+  {
+    "rank": 259,
+    "word": "temporary",
+    "score": 60.7,
+    "freq": 4,
+    "bookSpread": 4,
+    "bridge": true,
+    "tier": "TIER 2: Should-Know",
+    "surfaceForms": [
+      "temporary"
+    ]
+  },
+  {
+    "rank": 260,
+    "word": "device",
+    "score": 60.2,
+    "freq": 14,
+    "bookSpread": 3,
+    "bridge": true,
+    "tier": "TIER 2: Should-Know",
+    "surfaceForms": [
+      "device"
+    ]
+  },
+  {
+    "rank": 261,
+    "word": "selection",
+    "score": 58.8,
+    "freq": 11,
+    "bookSpread": 3,
+    "bridge": true,
+    "tier": "TIER 2: Should-Know",
+    "surfaceForms": [
+      "selection"
+    ]
+  },
+  {
+    "rank": 262,
+    "word": "category",
+    "score": 58.2,
+    "freq": 14,
+    "bookSpread": 3,
+    "bridge": true,
+    "tier": "TIER 2: Should-Know",
+    "surfaceForms": [
+      "category"
+    ]
+  },
+  {
+    "rank": 263,
+    "word": "modify",
+    "score": 57.3,
+    "freq": 6,
+    "bookSpread": 3,
+    "bridge": true,
+    "tier": "TIER 2: Should-Know",
+    "surfaceForms": [
+      "modify"
+    ]
+  },
+  {
+    "rank": 264,
+    "word": "core",
+    "score": 57,
+    "freq": 10,
+    "bookSpread": 3,
+    "bridge": true,
+    "tier": "TIER 2: Should-Know",
+    "surfaceForms": [
+      "core"
+    ]
+  },
+  {
+    "rank": 265,
+    "word": "phase",
+    "score": 55.8,
+    "freq": 6,
+    "bookSpread": 3,
+    "bridge": true,
+    "tier": "TIER 2: Should-Know",
+    "surfaceForms": [
+      "phase"
+    ]
+  },
+  {
+    "rank": 266,
+    "word": "computer",
+    "score": 55.8,
+    "freq": 16,
+    "bookSpread": 2,
+    "bridge": true,
+    "tier": "TIER 3: Good-to-Know",
+    "surfaceForms": [
+      "computer"
+    ]
+  },
+  {
+    "rank": 267,
+    "word": "cooperation",
+    "score": 55.7,
+    "freq": 4,
+    "bookSpread": 3,
+    "bridge": true,
+    "tier": "TIER 2: Should-Know",
+    "surfaceForms": [
+      "cooperation"
+    ]
+  },
+  {
+    "rank": 268,
+    "word": "bias",
+    "score": 55.6,
+    "freq": 7,
+    "bookSpread": 3,
+    "bridge": true,
+    "tier": "TIER 2: Should-Know",
+    "surfaceForms": [
+      "bias"
+    ]
+  },
+  {
+    "rank": 269,
+    "word": "funding",
+    "score": 55.5,
+    "freq": 5,
+    "bookSpread": 3,
+    "bridge": true,
+    "tier": "TIER 2: Should-Know",
+    "surfaceForms": [
+      "funding"
+    ]
+  },
+  {
+    "rank": 270,
+    "word": "ultimate",
+    "score": 55.3,
+    "freq": 6,
+    "bookSpread": 3,
+    "bridge": true,
+    "tier": "TIER 2: Should-Know",
+    "surfaceForms": [
+      "ultimate"
+    ]
+  },
+  {
+    "rank": 271,
+    "word": "corporate",
+    "score": 55.3,
+    "freq": 6,
+    "bookSpread": 3,
+    "bridge": true,
+    "tier": "TIER 2: Should-Know",
+    "surfaceForms": [
+      "corporate"
+    ]
+  },
+  {
+    "rank": 272,
+    "word": "contract",
+    "score": 55.2,
+    "freq": 4,
+    "bookSpread": 3,
+    "bridge": true,
+    "tier": "TIER 2: Should-Know",
+    "surfaceForms": [
+      "contract"
+    ]
+  },
+  {
+    "rank": 273,
+    "word": "evaluation",
+    "score": 55.2,
+    "freq": 4,
+    "bookSpread": 3,
+    "bridge": true,
+    "tier": "TIER 2: Should-Know",
+    "surfaceForms": [
+      "evaluation"
+    ]
+  },
+  {
+    "rank": 274,
+    "word": "define",
+    "score": 55.2,
+    "freq": 4,
+    "bookSpread": 3,
+    "bridge": true,
+    "tier": "TIER 2: Should-Know",
+    "surfaceForms": [
+      "define"
+    ]
+  },
+  {
+    "rank": 275,
+    "word": "exposure",
+    "score": 55,
+    "freq": 5,
+    "bookSpread": 3,
+    "bridge": true,
+    "tier": "TIER 2: Should-Know",
+    "surfaceForms": [
+      "exposure"
+    ]
+  },
+  {
+    "rank": 276,
+    "word": "publication",
+    "score": 54.9,
+    "freq": 3,
+    "bookSpread": 3,
+    "bridge": true,
+    "tier": "TIER 2: Should-Know",
+    "surfaceForms": [
+      "publication"
+    ]
+  },
+  {
+    "rank": 277,
+    "word": "legislation",
+    "score": 54.9,
+    "freq": 3,
+    "bookSpread": 3,
+    "bridge": true,
+    "tier": "TIER 2: Should-Know",
+    "surfaceForms": [
+      "legislation"
+    ]
+  },
+  {
+    "rank": 278,
+    "word": "manipulate",
+    "score": 54.7,
+    "freq": 4,
+    "bookSpread": 3,
+    "bridge": true,
+    "tier": "TIER 2: Should-Know",
+    "surfaceForms": [
+      "manipulate"
+    ]
+  },
+  {
+    "rank": 279,
+    "word": "trigger",
+    "score": 54.7,
+    "freq": 4,
+    "bookSpread": 3,
+    "bridge": true,
+    "tier": "TIER 2: Should-Know",
+    "surfaceForms": [
+      "trigger"
+    ]
+  },
+  {
+    "rank": 280,
+    "word": "sole",
+    "score": 54.7,
+    "freq": 4,
+    "bookSpread": 3,
+    "bridge": true,
+    "tier": "TIER 2: Should-Know",
+    "surfaceForms": [
+      "sole"
+    ]
+  },
+  {
+    "rank": 281,
+    "word": "assist",
+    "score": 54.7,
+    "freq": 4,
+    "bookSpread": 3,
+    "bridge": true,
+    "tier": "TIER 2: Should-Know",
+    "surfaceForms": [
+      "assist"
+    ]
+  },
+  {
+    "rank": 282,
+    "word": "intrinsic",
+    "score": 54.7,
+    "freq": 4,
+    "bookSpread": 3,
+    "bridge": true,
+    "tier": "TIER 2: Should-Know",
+    "surfaceForms": [
+      "intrinsic"
+    ]
+  },
+  {
+    "rank": 283,
+    "word": "reluctant",
+    "score": 54.7,
+    "freq": 4,
+    "bookSpread": 3,
+    "bridge": true,
+    "tier": "TIER 2: Should-Know",
+    "surfaceForms": [
+      "reluctant"
+    ]
+  },
+  {
+    "rank": 284,
+    "word": "adjust",
+    "score": 54.4,
+    "freq": 3,
+    "bookSpread": 3,
+    "bridge": true,
+    "tier": "TIER 2: Should-Know",
+    "surfaceForms": [
+      "adjust"
+    ]
+  },
+  {
+    "rank": 285,
+    "word": "philosophy",
+    "score": 54.4,
+    "freq": 3,
+    "bookSpread": 3,
+    "bridge": true,
+    "tier": "TIER 2: Should-Know",
+    "surfaceForms": [
+      "philosophy"
+    ]
+  },
+  {
+    "rank": 286,
+    "word": "pursue",
+    "score": 54.4,
+    "freq": 3,
+    "bookSpread": 3,
+    "bridge": true,
+    "tier": "TIER 2: Should-Know",
+    "surfaceForms": [
+      "pursue"
+    ]
+  },
+  {
+    "rank": 287,
+    "word": "secure",
+    "score": 54.4,
+    "freq": 3,
+    "bookSpread": 3,
+    "bridge": true,
+    "tier": "TIER 2: Should-Know",
+    "surfaceForms": [
+      "secure"
+    ]
+  },
+  {
+    "rank": 288,
+    "word": "reject",
+    "score": 54.4,
+    "freq": 3,
+    "bookSpread": 3,
+    "bridge": true,
+    "tier": "TIER 2: Should-Know",
+    "surfaceForms": [
+      "reject"
+    ]
+  },
+  {
+    "rank": 289,
+    "word": "stable",
+    "score": 54.4,
+    "freq": 3,
+    "bookSpread": 3,
+    "bridge": true,
+    "tier": "TIER 2: Should-Know",
+    "surfaceForms": [
+      "stable"
+    ]
+  },
+  {
+    "rank": 290,
+    "word": "output",
+    "score": 54.4,
+    "freq": 3,
+    "bookSpread": 3,
+    "bridge": true,
+    "tier": "TIER 2: Should-Know",
+    "surfaceForms": [
+      "output"
+    ]
+  },
+  {
+    "rank": 291,
+    "word": "fund",
+    "score": 54.4,
+    "freq": 3,
+    "bookSpread": 3,
+    "bridge": true,
+    "tier": "TIER 2: Should-Know",
+    "surfaceForms": [
+      "fund"
+    ]
+  },
+  {
+    "rank": 292,
+    "word": "implicit",
+    "score": 54.1,
+    "freq": 22,
+    "bookSpread": 2,
+    "bridge": true,
+    "tier": "TIER 3: Good-to-Know",
+    "surfaceForms": [
+      "implicit"
+    ]
+  },
+  {
+    "rank": 293,
+    "word": "investment",
+    "score": 53.3,
+    "freq": 11,
+    "bookSpread": 7,
+    "bridge": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "investment"
+    ]
+  },
+  {
+    "rank": 294,
+    "word": "radical",
+    "score": 53.3,
+    "freq": 11,
+    "bookSpread": 7,
+    "bridge": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "radical"
+    ]
+  },
+  {
+    "rank": 295,
+    "word": "solely",
+    "score": 52.7,
+    "freq": 9,
+    "bookSpread": 7,
+    "bridge": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "solely"
+    ]
+  },
+  {
+    "rank": 296,
+    "word": "diverse",
+    "score": 52.7,
+    "freq": 9,
+    "bookSpread": 7,
+    "bridge": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "diverse"
+    ]
+  },
+  {
+    "rank": 297,
+    "word": "network",
+    "score": 49.9,
+    "freq": 13,
+    "bookSpread": 6,
+    "bridge": false,
+    "tier": "TIER 2: Should-Know",
+    "surfaceForms": [
+      "network"
+    ]
+  },
+  {
+    "rank": 298,
+    "word": "channel",
+    "score": 49.6,
+    "freq": 7,
+    "bookSpread": 2,
+    "bridge": true,
+    "tier": "TIER 3: Good-to-Know",
+    "surfaceForms": [
+      "channel"
+    ]
+  },
+  {
+    "rank": 299,
+    "word": "status",
+    "score": 49.3,
+    "freq": 11,
+    "bookSpread": 6,
+    "bridge": false,
+    "tier": "TIER 2: Should-Know",
+    "surfaceForms": [
+      "status"
+    ]
+  },
+  {
+    "rank": 300,
+    "word": "nevertheless",
+    "score": 49.3,
+    "freq": 11,
+    "bookSpread": 6,
+    "bridge": false,
+    "tier": "TIER 2: Should-Know",
+    "surfaceForms": [
+      "nevertheless"
+    ]
+  },
+  {
+    "rank": 301,
+    "word": "pose",
+    "score": 48.9,
+    "freq": 3,
+    "bookSpread": 2,
+    "bridge": true,
+    "tier": "TIER 3: Good-to-Know",
+    "surfaceForms": [
+      "pose"
+    ]
+  },
+  {
+    "rank": 302,
+    "word": "partner",
+    "score": 48.7,
+    "freq": 4,
+    "bookSpread": 2,
+    "bridge": true,
+    "tier": "TIER 3: Good-to-Know",
+    "surfaceForms": [
+      "partner"
+    ]
+  },
+  {
+    "rank": 303,
+    "word": "integrate",
+    "score": 48.7,
+    "freq": 4,
+    "bookSpread": 2,
+    "bridge": true,
+    "tier": "TIER 3: Good-to-Know",
+    "surfaceForms": [
+      "integrate"
+    ]
+  },
+  {
+    "rank": 304,
+    "word": "duration",
+    "score": 48.7,
+    "freq": 4,
+    "bookSpread": 2,
+    "bridge": true,
+    "tier": "TIER 3: Good-to-Know",
+    "surfaceForms": [
+      "duration"
+    ]
+  },
+  {
+    "rank": 305,
+    "word": "intensity",
+    "score": 48.7,
+    "freq": 4,
+    "bookSpread": 2,
+    "bridge": true,
+    "tier": "TIER 3: Good-to-Know",
+    "surfaceForms": [
+      "intensity"
+    ]
+  },
+  {
+    "rank": 306,
+    "word": "estate",
+    "score": 48.4,
+    "freq": 3,
+    "bookSpread": 2,
+    "bridge": true,
+    "tier": "TIER 3: Good-to-Know",
+    "surfaceForms": [
+      "estate"
+    ]
+  },
+  {
+    "rank": 307,
+    "word": "attain",
+    "score": 48.4,
+    "freq": 3,
+    "bookSpread": 2,
+    "bridge": true,
+    "tier": "TIER 3: Good-to-Know",
+    "surfaceForms": [
+      "attain"
+    ]
+  },
+  {
+    "rank": 308,
+    "word": "distinction",
+    "score": 48.4,
+    "freq": 3,
+    "bookSpread": 2,
+    "bridge": true,
+    "tier": "TIER 3: Good-to-Know",
+    "surfaceForms": [
+      "distinction"
+    ]
+  },
+  {
+    "rank": 309,
+    "word": "percentage",
+    "score": 48.4,
+    "freq": 3,
+    "bookSpread": 2,
+    "bridge": true,
+    "tier": "TIER 3: Good-to-Know",
+    "surfaceForms": [
+      "percentage"
+    ]
+  },
+  {
+    "rank": 310,
+    "word": "principal",
+    "score": 48.4,
+    "freq": 3,
+    "bookSpread": 2,
+    "bridge": true,
+    "tier": "TIER 3: Good-to-Know",
+    "surfaceForms": [
+      "principal"
+    ]
+  },
+  {
+    "rank": 311,
+    "word": "predominantly",
+    "score": 48.4,
+    "freq": 3,
+    "bookSpread": 2,
+    "bridge": true,
+    "tier": "TIER 3: Good-to-Know",
+    "surfaceForms": [
+      "predominantly"
+    ]
+  },
+  {
+    "rank": 312,
+    "word": "panel",
+    "score": 48.4,
+    "freq": 3,
+    "bookSpread": 2,
+    "bridge": true,
+    "tier": "TIER 3: Good-to-Know",
+    "surfaceForms": [
+      "panel"
+    ]
+  },
+  {
+    "rank": 313,
+    "word": "transit",
+    "score": 48.2,
+    "freq": 14,
+    "bookSpread": 1,
+    "bridge": true,
+    "tier": "TIER 4: Low Priority",
+    "surfaceForms": [
+      "transit"
+    ]
+  },
+  {
+    "rank": 314,
+    "word": "confirm",
+    "score": 48.1,
+    "freq": 2,
+    "bookSpread": 2,
+    "bridge": true,
+    "tier": "TIER 3: Good-to-Know",
+    "surfaceForms": [
+      "confirm"
+    ]
+  },
+  {
+    "rank": 315,
+    "word": "rational",
+    "score": 48.1,
+    "freq": 2,
+    "bookSpread": 2,
+    "bridge": true,
+    "tier": "TIER 3: Good-to-Know",
+    "surfaceForms": [
+      "rational"
+    ]
+  },
+  {
+    "rank": 316,
+    "word": "definite",
+    "score": 48.1,
+    "freq": 2,
+    "bookSpread": 2,
+    "bridge": true,
+    "tier": "TIER 3: Good-to-Know",
+    "surfaceForms": [
+      "definite"
+    ]
+  },
+  {
+    "rank": 317,
+    "word": "priority",
+    "score": 48.1,
+    "freq": 2,
+    "bookSpread": 2,
+    "bridge": true,
+    "tier": "TIER 3: Good-to-Know",
+    "surfaceForms": [
+      "priority"
+    ]
+  },
+  {
+    "rank": 318,
+    "word": "assessment",
+    "score": 48.1,
+    "freq": 2,
+    "bookSpread": 2,
+    "bridge": true,
+    "tier": "TIER 3: Good-to-Know",
+    "surfaceForms": [
+      "assessment"
+    ]
+  },
+  {
+    "rank": 319,
+    "word": "instruct",
+    "score": 48.1,
+    "freq": 2,
+    "bookSpread": 2,
+    "bridge": true,
+    "tier": "TIER 3: Good-to-Know",
+    "surfaceForms": [
+      "instruct"
+    ]
+  },
+  {
+    "rank": 320,
+    "word": "overseas",
+    "score": 48.1,
+    "freq": 2,
+    "bookSpread": 2,
+    "bridge": true,
+    "tier": "TIER 3: Good-to-Know",
+    "surfaceForms": [
+      "overseas"
+    ]
+  },
+  {
+    "rank": 321,
+    "word": "integral",
+    "score": 48.1,
+    "freq": 2,
+    "bookSpread": 2,
+    "bridge": true,
+    "tier": "TIER 3: Good-to-Know",
+    "surfaceForms": [
+      "integral"
+    ]
+  },
+  {
+    "rank": 322,
+    "word": "anticipate",
+    "score": 48.1,
+    "freq": 2,
+    "bookSpread": 2,
+    "bridge": true,
+    "tier": "TIER 3: Good-to-Know",
+    "surfaceForms": [
+      "anticipate"
+    ]
+  },
+  {
+    "rank": 323,
+    "word": "dimension",
+    "score": 48.1,
+    "freq": 2,
+    "bookSpread": 2,
+    "bridge": true,
+    "tier": "TIER 3: Good-to-Know",
+    "surfaceForms": [
+      "dimension"
+    ]
+  },
+  {
+    "rank": 324,
+    "word": "approximate",
+    "score": 48.1,
+    "freq": 2,
+    "bookSpread": 2,
+    "bridge": true,
+    "tier": "TIER 3: Good-to-Know",
+    "surfaceForms": [
+      "approximate"
+    ]
+  },
+  {
+    "rank": 325,
+    "word": "conversely",
+    "score": 48.1,
+    "freq": 2,
+    "bookSpread": 2,
+    "bridge": true,
+    "tier": "TIER 3: Good-to-Know",
+    "surfaceForms": [
+      "conversely"
+    ]
+  },
+  {
+    "rank": 326,
+    "word": "forthcoming",
+    "score": 48.1,
+    "freq": 2,
+    "bookSpread": 2,
+    "bridge": true,
+    "tier": "TIER 3: Good-to-Know",
+    "surfaceForms": [
+      "forthcoming"
+    ]
+  },
+  {
+    "rank": 327,
+    "word": "licence",
+    "score": 48.1,
+    "freq": 2,
+    "bookSpread": 2,
+    "bridge": true,
+    "tier": "TIER 3: Good-to-Know",
+    "surfaceForms": [
+      "licence"
+    ]
+  },
+  {
+    "rank": 328,
+    "word": "format",
+    "score": 48.1,
+    "freq": 2,
+    "bookSpread": 2,
+    "bridge": true,
+    "tier": "TIER 3: Good-to-Know",
+    "surfaceForms": [
+      "format"
+    ]
+  },
+  {
+    "rank": 329,
+    "word": "brief",
+    "score": 48.1,
+    "freq": 2,
+    "bookSpread": 2,
+    "bridge": true,
+    "tier": "TIER 3: Good-to-Know",
+    "surfaceForms": [
+      "brief"
+    ]
+  },
+  {
+    "rank": 330,
+    "word": "contrary",
+    "score": 48.1,
+    "freq": 2,
+    "bookSpread": 2,
+    "bridge": true,
+    "tier": "TIER 3: Good-to-Know",
+    "surfaceForms": [
+      "contrary"
+    ]
+  },
+  {
+    "rank": 331,
+    "word": "revolutionary",
+    "score": 47.8,
+    "freq": 6,
+    "bookSpread": 6,
+    "bridge": false,
+    "tier": "TIER 2: Should-Know",
+    "surfaceForms": [
+      "revolutionary"
+    ]
+  },
+  {
+    "rank": 332,
+    "word": "commodity",
+    "score": 47.8,
+    "freq": 6,
+    "bookSpread": 6,
+    "bridge": false,
+    "tier": "TIER 2: Should-Know",
+    "surfaceForms": [
+      "commodity"
+    ]
+  },
+  {
+    "rank": 333,
+    "word": "precisely",
+    "score": 47.8,
+    "freq": 6,
+    "bookSpread": 6,
+    "bridge": false,
+    "tier": "TIER 2: Should-Know",
+    "surfaceForms": [
+      "precisely"
+    ]
+  },
+  {
+    "rank": 334,
+    "word": "emphasise",
+    "score": 47.2,
+    "freq": 4,
+    "bookSpread": 4,
+    "bridge": false,
+    "tier": "TIER 2: Should-Know",
+    "surfaceForms": [
+      "emphasise"
+    ]
+  },
+  {
+    "rank": 335,
+    "word": "classic",
+    "score": 43,
+    "freq": 10,
+    "bookSpread": 5,
+    "bridge": false,
+    "tier": "TIER 2: Should-Know",
+    "surfaceForms": [
+      "classic"
+    ]
+  },
+  {
+    "rank": 336,
+    "word": "transmit",
+    "score": 42.7,
+    "freq": 4,
+    "bookSpread": 1,
+    "bridge": true,
+    "tier": "TIER 4: Low Priority",
+    "surfaceForms": [
+      "transmit"
+    ]
+  },
+  {
+    "rank": 337,
+    "word": "export",
+    "score": 42.1,
+    "freq": 7,
+    "bookSpread": 5,
+    "bridge": false,
+    "tier": "TIER 2: Should-Know",
+    "surfaceForms": [
+      "export"
+    ]
+  },
+  {
+    "rank": 338,
+    "word": "convince",
+    "score": 42.1,
+    "freq": 7,
+    "bookSpread": 5,
+    "bridge": false,
+    "tier": "TIER 2: Should-Know",
+    "surfaceForms": [
+      "convince"
+    ]
+  },
+  {
+    "rank": 339,
+    "word": "currency",
+    "score": 42.1,
+    "freq": 2,
+    "bookSpread": 1,
+    "bridge": true,
+    "tier": "TIER 4: Low Priority",
+    "surfaceForms": [
+      "currency"
+    ]
+  },
+  {
+    "rank": 340,
+    "word": "item",
+    "score": 42.1,
+    "freq": 2,
+    "bookSpread": 1,
+    "bridge": true,
+    "tier": "TIER 4: Low Priority",
+    "surfaceForms": [
+      "item"
+    ]
+  },
+  {
+    "rank": 341,
+    "word": "foundation",
+    "score": 41.8,
+    "freq": 6,
+    "bookSpread": 5,
+    "bridge": false,
+    "tier": "TIER 2: Should-Know",
+    "surfaceForms": [
+      "foundation"
+    ]
+  },
+  {
+    "rank": 342,
+    "word": "so-called",
+    "score": 41.8,
+    "freq": 6,
+    "bookSpread": 5,
+    "bridge": false,
+    "tier": "TIER 2: Should-Know",
+    "surfaceForms": [
+      "so-called"
+    ]
+  },
+  {
+    "rank": 343,
+    "word": "somewhat",
+    "score": 41.8,
+    "freq": 6,
+    "bookSpread": 5,
+    "bridge": false,
+    "tier": "TIER 2: Should-Know",
+    "surfaceForms": [
+      "somewhat"
+    ]
+  },
+  {
+    "rank": 344,
+    "word": "vision",
+    "score": 37,
+    "freq": 10,
+    "bookSpread": 4,
+    "bridge": false,
+    "tier": "TIER 2: Should-Know",
+    "surfaceForms": [
+      "vision"
+    ]
+  },
+  {
+    "rank": 345,
+    "word": "survey",
+    "score": 36.4,
+    "freq": 8,
+    "bookSpread": 4,
+    "bridge": false,
+    "tier": "TIER 2: Should-Know",
+    "surfaceForms": [
+      "survey"
+    ]
+  },
+  {
+    "rank": 346,
+    "word": "obtain",
+    "score": 36.1,
+    "freq": 7,
+    "bookSpread": 4,
+    "bridge": false,
+    "tier": "TIER 2: Should-Know",
+    "surfaceForms": [
+      "obtain"
+    ]
+  },
+  {
+    "rank": 347,
+    "word": "cycle",
+    "score": 35.8,
+    "freq": 6,
+    "bookSpread": 4,
+    "bridge": false,
+    "tier": "TIER 2: Should-Know",
+    "surfaceForms": [
+      "cycle"
+    ]
+  },
+  {
+    "rank": 348,
+    "word": "statistical",
+    "score": 35.8,
+    "freq": 6,
+    "bookSpread": 4,
+    "bridge": false,
+    "tier": "TIER 2: Should-Know",
+    "surfaceForms": [
+      "statistical"
+    ]
+  },
+  {
+    "rank": 349,
+    "word": "empirical",
+    "score": 35.8,
+    "freq": 6,
+    "bookSpread": 4,
+    "bridge": false,
+    "tier": "TIER 2: Should-Know",
+    "surfaceForms": [
+      "empirical"
+    ]
+  },
+  {
+    "rank": 350,
+    "word": "volume",
+    "score": 35.8,
+    "freq": 6,
+    "bookSpread": 4,
+    "bridge": false,
+    "tier": "TIER 2: Should-Know",
+    "surfaceForms": [
+      "volume"
+    ]
+  },
+  {
+    "rank": 351,
+    "word": "equivalent",
+    "score": 35.5,
+    "freq": 5,
+    "bookSpread": 4,
+    "bridge": false,
+    "tier": "TIER 2: Should-Know",
+    "surfaceForms": [
+      "equivalent"
+    ]
+  },
+  {
+    "rank": 352,
+    "word": "guarantee",
+    "score": 35.5,
+    "freq": 5,
+    "bookSpread": 4,
+    "bridge": false,
+    "tier": "TIER 2: Should-Know",
+    "surfaceForms": [
+      "guarantee"
+    ]
+  },
+  {
+    "rank": 353,
+    "word": "specifically",
+    "score": 35.5,
+    "freq": 5,
+    "bookSpread": 4,
+    "bridge": false,
+    "tier": "TIER 2: Should-Know",
+    "surfaceForms": [
+      "specifically"
+    ]
+  },
+  {
+    "rank": 354,
+    "word": "sum",
+    "score": 35.5,
+    "freq": 5,
+    "bookSpread": 4,
+    "bridge": false,
+    "tier": "TIER 2: Should-Know",
+    "surfaceForms": [
+      "sum"
+    ]
+  },
+  {
+    "rank": 355,
+    "word": "journal",
+    "score": 35.5,
+    "freq": 5,
+    "bookSpread": 4,
+    "bridge": false,
+    "tier": "TIER 2: Should-Know",
+    "surfaceForms": [
+      "journal"
+    ]
+  },
+  {
+    "rank": 356,
+    "word": "commission",
+    "score": 35.5,
+    "freq": 5,
+    "bookSpread": 4,
+    "bridge": false,
+    "tier": "TIER 2: Should-Know",
+    "surfaceForms": [
+      "commission"
+    ]
+  },
+  {
+    "rank": 357,
+    "word": "adequate",
+    "score": 35.5,
+    "freq": 5,
+    "bookSpread": 4,
+    "bridge": false,
+    "tier": "TIER 2: Should-Know",
+    "surfaceForms": [
+      "adequate"
+    ]
+  },
+  {
+    "rank": 358,
+    "word": "globe",
+    "score": 35.2,
+    "freq": 4,
+    "bookSpread": 4,
+    "bridge": false,
+    "tier": "TIER 2: Should-Know",
+    "surfaceForms": [
+      "globe"
+    ]
+  },
+  {
+    "rank": 359,
+    "word": "injury",
+    "score": 35.2,
+    "freq": 4,
+    "bookSpread": 4,
+    "bridge": false,
+    "tier": "TIER 2: Should-Know",
+    "surfaceForms": [
+      "injury"
+    ]
+  },
+  {
+    "rank": 360,
+    "word": "component",
+    "score": 35.2,
+    "freq": 4,
+    "bookSpread": 4,
+    "bridge": false,
+    "tier": "TIER 2: Should-Know",
+    "surfaceForms": [
+      "component"
+    ]
+  },
+  {
+    "rank": 361,
+    "word": "founded",
+    "score": 35.2,
+    "freq": 4,
+    "bookSpread": 4,
+    "bridge": false,
+    "tier": "TIER 2: Should-Know",
+    "surfaceForms": [
+      "founded"
+    ]
+  },
+  {
+    "rank": 362,
+    "word": "administration",
+    "score": 35.2,
+    "freq": 4,
+    "bookSpread": 4,
+    "bridge": false,
+    "tier": "TIER 2: Should-Know",
+    "surfaceForms": [
+      "administration"
+    ]
+  },
+  {
+    "rank": 363,
+    "word": "distribution",
+    "score": 35.2,
+    "freq": 4,
+    "bookSpread": 4,
+    "bridge": false,
+    "tier": "TIER 2: Should-Know",
+    "surfaceForms": [
+      "distribution"
+    ]
+  },
+  {
+    "rank": 364,
+    "word": "enhance",
+    "score": 35.2,
+    "freq": 4,
+    "bookSpread": 4,
+    "bridge": false,
+    "tier": "TIER 2: Should-Know",
+    "surfaceForms": [
+      "enhance"
+    ]
+  },
+  {
+    "rank": 365,
+    "word": "flexible",
+    "score": 30.1,
+    "freq": 7,
+    "bookSpread": 3,
+    "bridge": false,
+    "tier": "TIER 2: Should-Know",
+    "surfaceForms": [
+      "flexible"
+    ]
+  },
+  {
+    "rank": 366,
+    "word": "insight",
+    "score": 29.8,
+    "freq": 6,
+    "bookSpread": 3,
+    "bridge": false,
+    "tier": "TIER 3: Good-to-Know",
+    "surfaceForms": [
+      "insight"
+    ]
+  },
+  {
+    "rank": 367,
+    "word": "dynamic",
+    "score": 29.5,
+    "freq": 5,
+    "bookSpread": 3,
+    "bridge": false,
+    "tier": "TIER 3: Good-to-Know",
+    "surfaceForms": [
+      "dynamic"
+    ]
+  },
+  {
+    "rank": 368,
+    "word": "facilitate",
+    "score": 29.5,
+    "freq": 5,
+    "bookSpread": 3,
+    "bridge": false,
+    "tier": "TIER 3: Good-to-Know",
+    "surfaceForms": [
+      "facilitate"
+    ]
+  },
+  {
+    "rank": 369,
+    "word": "interaction",
+    "score": 29.5,
+    "freq": 5,
+    "bookSpread": 3,
+    "bridge": false,
+    "tier": "TIER 3: Good-to-Know",
+    "surfaceForms": [
+      "interaction"
+    ]
+  },
+  {
+    "rank": 370,
+    "word": "contemporary",
+    "score": 29.2,
+    "freq": 4,
+    "bookSpread": 3,
+    "bridge": false,
+    "tier": "TIER 3: Good-to-Know",
+    "surfaceForms": [
+      "contemporary"
+    ]
+  },
+  {
+    "rank": 371,
+    "word": "expert",
+    "score": 29.2,
+    "freq": 4,
+    "bookSpread": 3,
+    "bridge": false,
+    "tier": "TIER 3: Good-to-Know",
+    "surfaceForms": [
+      "expert"
+    ]
+  },
+  {
+    "rank": 372,
+    "word": "symbol",
+    "score": 29.2,
+    "freq": 4,
+    "bookSpread": 3,
+    "bridge": false,
+    "tier": "TIER 3: Good-to-Know",
+    "surfaceForms": [
+      "symbol"
+    ]
+  },
+  {
+    "rank": 373,
+    "word": "credit",
+    "score": 29.2,
+    "freq": 4,
+    "bookSpread": 3,
+    "bridge": false,
+    "tier": "TIER 3: Good-to-Know",
+    "surfaceForms": [
+      "credit"
+    ]
+  },
+  {
+    "rank": 374,
+    "word": "react",
+    "score": 29.2,
+    "freq": 4,
+    "bookSpread": 3,
+    "bridge": false,
+    "tier": "TIER 3: Good-to-Know",
+    "surfaceForms": [
+      "react"
+    ]
+  },
+  {
+    "rank": 375,
+    "word": "purchase",
+    "score": 29.2,
+    "freq": 4,
+    "bookSpread": 3,
+    "bridge": false,
+    "tier": "TIER 3: Good-to-Know",
+    "surfaceForms": [
+      "purchase"
+    ]
+  },
+  {
+    "rank": 376,
+    "word": "logical",
+    "score": 29.2,
+    "freq": 4,
+    "bookSpread": 3,
+    "bridge": false,
+    "tier": "TIER 3: Good-to-Know",
+    "surfaceForms": [
+      "logical"
+    ]
+  },
+  {
+    "rank": 377,
+    "word": "minor",
+    "score": 28.9,
+    "freq": 3,
+    "bookSpread": 3,
+    "bridge": false,
+    "tier": "TIER 3: Good-to-Know",
+    "surfaceForms": [
+      "minor"
+    ]
+  },
+  {
+    "rank": 378,
+    "word": "incidence",
+    "score": 28.9,
+    "freq": 3,
+    "bookSpread": 3,
+    "bridge": false,
+    "tier": "TIER 3: Good-to-Know",
+    "surfaceForms": [
+      "incidence"
+    ]
+  },
+  {
+    "rank": 379,
+    "word": "legal",
+    "score": 28.9,
+    "freq": 3,
+    "bookSpread": 3,
+    "bridge": false,
+    "tier": "TIER 3: Good-to-Know",
+    "surfaceForms": [
+      "legal"
+    ]
+  },
+  {
+    "rank": 380,
+    "word": "accommodate",
+    "score": 28.9,
+    "freq": 3,
+    "bookSpread": 3,
+    "bridge": false,
+    "tier": "TIER 3: Good-to-Know",
+    "surfaceForms": [
+      "accommodate"
+    ]
+  },
+  {
+    "rank": 381,
+    "word": "undertake",
+    "score": 28.9,
+    "freq": 3,
+    "bookSpread": 3,
+    "bridge": false,
+    "tier": "TIER 3: Good-to-Know",
+    "surfaceForms": [
+      "undertake"
+    ]
+  },
+  {
+    "rank": 382,
+    "word": "conceive",
+    "score": 28.9,
+    "freq": 3,
+    "bookSpread": 3,
+    "bridge": false,
+    "tier": "TIER 3: Good-to-Know",
+    "surfaceForms": [
+      "conceive"
+    ]
+  },
+  {
+    "rank": 383,
+    "word": "accumulate",
+    "score": 28.9,
+    "freq": 3,
+    "bookSpread": 3,
+    "bridge": false,
+    "tier": "TIER 3: Good-to-Know",
+    "surfaceForms": [
+      "accumulate"
+    ]
+  },
+  {
+    "rank": 384,
+    "word": "encounter",
+    "score": 28.9,
+    "freq": 3,
+    "bookSpread": 3,
+    "bridge": false,
+    "tier": "TIER 3: Good-to-Know",
+    "surfaceForms": [
+      "encounter"
+    ]
+  },
+  {
+    "rank": 385,
+    "word": "inevitable",
+    "score": 28.9,
+    "freq": 3,
+    "bookSpread": 3,
+    "bridge": false,
+    "tier": "TIER 3: Good-to-Know",
+    "surfaceForms": [
+      "inevitable"
+    ]
+  },
+  {
+    "rank": 386,
+    "word": "couple",
+    "score": 28.9,
+    "freq": 3,
+    "bookSpread": 3,
+    "bridge": false,
+    "tier": "TIER 3: Good-to-Know",
+    "surfaceForms": [
+      "couple"
+    ]
+  },
+  {
+    "rank": 387,
+    "word": "subsequent",
+    "score": 28.9,
+    "freq": 3,
+    "bookSpread": 3,
+    "bridge": false,
+    "tier": "TIER 3: Good-to-Know",
+    "surfaceForms": [
+      "subsequent"
+    ]
+  },
+  {
+    "rank": 388,
+    "word": "diminish",
+    "score": 28.9,
+    "freq": 3,
+    "bookSpread": 3,
+    "bridge": false,
+    "tier": "TIER 3: Good-to-Know",
+    "surfaceForms": [
+      "diminish"
+    ]
+  },
+  {
+    "rank": 389,
+    "word": "incorporate",
+    "score": 28.9,
+    "freq": 3,
+    "bookSpread": 3,
+    "bridge": false,
+    "tier": "TIER 3: Good-to-Know",
+    "surfaceForms": [
+      "incorporate"
+    ]
+  },
+  {
+    "rank": 390,
+    "word": "substitute",
+    "score": 28.9,
+    "freq": 3,
+    "bookSpread": 3,
+    "bridge": false,
+    "tier": "TIER 3: Good-to-Know",
+    "surfaceForms": [
+      "substitute"
+    ]
+  },
+  {
+    "rank": 391,
+    "word": "motive",
+    "score": 28.9,
+    "freq": 3,
+    "bookSpread": 3,
+    "bridge": false,
+    "tier": "TIER 3: Good-to-Know",
+    "surfaceForms": [
+      "motive"
+    ]
+  },
+  {
+    "rank": 392,
+    "word": "scope",
+    "score": 28.9,
+    "freq": 3,
+    "bookSpread": 3,
+    "bridge": false,
+    "tier": "TIER 3: Good-to-Know",
+    "surfaceForms": [
+      "scope"
+    ]
+  },
+  {
+    "rank": 393,
+    "word": "evaluate",
+    "score": 28.9,
+    "freq": 3,
+    "bookSpread": 3,
+    "bridge": false,
+    "tier": "TIER 3: Good-to-Know",
+    "surfaceForms": [
+      "evaluate"
+    ]
+  },
+  {
+    "rank": 394,
+    "word": "domain",
+    "score": 28.9,
+    "freq": 3,
+    "bookSpread": 3,
+    "bridge": false,
+    "tier": "TIER 3: Good-to-Know",
+    "surfaceForms": [
+      "domain"
+    ]
+  },
+  {
+    "rank": 395,
+    "word": "interpret",
+    "score": 28.9,
+    "freq": 3,
+    "bookSpread": 3,
+    "bridge": false,
+    "tier": "TIER 3: Good-to-Know",
+    "surfaceForms": [
+      "interpret"
+    ]
+  },
+  {
+    "rank": 396,
+    "word": "attribute",
+    "score": 28.9,
+    "freq": 3,
+    "bookSpread": 3,
+    "bridge": false,
+    "tier": "TIER 3: Good-to-Know",
+    "surfaceForms": [
+      "attribute"
+    ]
+  },
+  {
+    "rank": 397,
+    "word": "instruction",
+    "score": 28.9,
+    "freq": 3,
+    "bookSpread": 3,
+    "bridge": false,
+    "tier": "TIER 3: Good-to-Know",
+    "surfaceForms": [
+      "instruction"
+    ]
+  },
+  {
+    "rank": 398,
+    "word": "invest",
+    "score": 28.9,
+    "freq": 3,
+    "bookSpread": 3,
+    "bridge": false,
+    "tier": "TIER 3: Good-to-Know",
+    "surfaceForms": [
+      "invest"
+    ]
+  },
+  {
+    "rank": 399,
+    "word": "collapse",
+    "score": 28.9,
+    "freq": 3,
+    "bookSpread": 3,
+    "bridge": false,
+    "tier": "TIER 3: Good-to-Know",
+    "surfaceForms": [
+      "collapse"
+    ]
+  },
+  {
+    "rank": 400,
+    "word": "comprehensive",
+    "score": 28.9,
+    "freq": 3,
+    "bookSpread": 3,
+    "bridge": false,
+    "tier": "TIER 3: Good-to-Know",
+    "surfaceForms": [
+      "comprehensive"
+    ]
+  },
+  {
+    "rank": 401,
+    "word": "sequence",
+    "score": 28.9,
+    "freq": 3,
+    "bookSpread": 3,
+    "bridge": false,
+    "tier": "TIER 3: Good-to-Know",
+    "surfaceForms": [
+      "sequence"
+    ]
+  },
+  {
+    "rank": 402,
+    "word": "migrate",
+    "score": 27.6,
+    "freq": 2,
+    "bookSpread": 1,
+    "bridge": false,
+    "tier": "TIER 4: Low Priority",
+    "surfaceForms": [
+      "migrate"
+    ]
+  },
+  {
+    "rank": 403,
+    "word": "incentive",
+    "score": 26.8,
+    "freq": 1,
+    "bookSpread": 1,
+    "bridge": false,
+    "tier": "TIER 4: Low Priority",
+    "surfaceForms": [
+      "incentive"
+    ]
+  },
+  {
+    "rank": 404,
+    "word": "contradict",
+    "score": 26.8,
+    "freq": 1,
+    "bookSpread": 1,
+    "bridge": false,
+    "tier": "TIER 4: Low Priority",
+    "surfaceForms": [
+      "contradict"
+    ]
+  },
+  {
+    "rank": 405,
+    "word": "criterion",
+    "score": 26.8,
+    "freq": 1,
+    "bookSpread": 1,
+    "bridge": false,
+    "tier": "TIER 4: Low Priority",
+    "surfaceForms": [
+      "criterion"
+    ]
+  },
+  {
+    "rank": 406,
+    "word": "unify",
+    "score": 26.8,
+    "freq": 1,
+    "bookSpread": 1,
+    "bridge": false,
+    "tier": "TIER 4: Low Priority",
+    "surfaceForms": [
+      "unify"
+    ]
+  },
+  {
+    "rank": 407,
+    "word": "ignorant",
+    "score": 26.8,
+    "freq": 1,
+    "bookSpread": 1,
+    "bridge": false,
+    "tier": "TIER 4: Low Priority",
+    "surfaceForms": [
+      "ignorant"
+    ]
+  },
+  {
+    "rank": 408,
+    "word": "justification",
+    "score": 26.8,
+    "freq": 1,
+    "bookSpread": 1,
+    "bridge": false,
+    "tier": "TIER 4: Low Priority",
+    "surfaceForms": [
+      "justification"
+    ]
+  },
+  {
+    "rank": 409,
+    "word": "highlight",
+    "score": 26.8,
+    "freq": 1,
+    "bookSpread": 1,
+    "bridge": false,
+    "tier": "TIER 4: Low Priority",
+    "surfaceForms": [
+      "highlight"
+    ]
+  },
+  {
+    "rank": 410,
+    "word": "implement",
+    "score": 26.8,
+    "freq": 1,
+    "bookSpread": 1,
+    "bridge": false,
+    "tier": "TIER 4: Low Priority",
+    "surfaceForms": [
+      "implement"
+    ]
+  },
+  {
+    "rank": 411,
+    "word": "demonstration",
+    "score": 26.8,
+    "freq": 1,
+    "bookSpread": 1,
+    "bridge": false,
+    "tier": "TIER 4: Low Priority",
+    "surfaceForms": [
+      "demonstration"
+    ]
+  },
+  {
+    "rank": 412,
+    "word": "deduce",
+    "score": 26.8,
+    "freq": 1,
+    "bookSpread": 1,
+    "bridge": false,
+    "tier": "TIER 4: Low Priority",
+    "surfaceForms": [
+      "deduce"
+    ]
+  },
+  {
+    "rank": 413,
+    "word": "imply",
+    "score": 26.8,
+    "freq": 1,
+    "bookSpread": 1,
+    "bridge": false,
+    "tier": "TIER 4: Low Priority",
+    "surfaceForms": [
+      "imply"
+    ]
+  },
+  {
+    "rank": 414,
+    "word": "minority",
+    "score": 26.8,
+    "freq": 1,
+    "bookSpread": 1,
+    "bridge": false,
+    "tier": "TIER 4: Low Priority",
+    "surfaceForms": [
+      "minority"
+    ]
+  },
+  {
+    "rank": 415,
+    "word": "advocate",
+    "score": 26.8,
+    "freq": 1,
+    "bookSpread": 1,
+    "bridge": false,
+    "tier": "TIER 4: Low Priority",
+    "surfaceForms": [
+      "advocate"
+    ]
+  },
+  {
+    "rank": 416,
+    "word": "norm",
+    "score": 23.2,
+    "freq": 4,
+    "bookSpread": 2,
+    "bridge": false,
+    "tier": "TIER 3: Good-to-Know",
+    "surfaceForms": [
+      "norm"
+    ]
+  },
+  {
+    "rank": 417,
+    "word": "abandon",
+    "score": 23.2,
+    "freq": 4,
+    "bookSpread": 2,
+    "bridge": false,
+    "tier": "TIER 3: Good-to-Know",
+    "surfaceForms": [
+      "abandon"
+    ]
+  },
+  {
+    "rank": 418,
+    "word": "retain",
+    "score": 23.2,
+    "freq": 4,
+    "bookSpread": 2,
+    "bridge": false,
+    "tier": "TIER 3: Good-to-Know",
+    "surfaceForms": [
+      "retain"
+    ]
+  },
+  {
+    "rank": 419,
+    "word": "compound",
+    "score": 23.2,
+    "freq": 4,
+    "bookSpread": 2,
+    "bridge": false,
+    "tier": "TIER 3: Good-to-Know",
+    "surfaceForms": [
+      "compound"
+    ]
+  },
+  {
+    "rank": 420,
+    "word": "inhibit",
+    "score": 23.2,
+    "freq": 4,
+    "bookSpread": 2,
+    "bridge": false,
+    "tier": "TIER 3: Good-to-Know",
+    "surfaceForms": [
+      "inhibit"
+    ]
+  },
+  {
+    "rank": 421,
+    "word": "plus",
+    "score": 22.9,
+    "freq": 3,
+    "bookSpread": 2,
+    "bridge": false,
+    "tier": "TIER 3: Good-to-Know",
+    "surfaceForms": [
+      "plus"
+    ]
+  },
+  {
+    "rank": 422,
+    "word": "maximise",
+    "score": 22.9,
+    "freq": 3,
+    "bookSpread": 2,
+    "bridge": false,
+    "tier": "TIER 3: Good-to-Know",
+    "surfaceForms": [
+      "maximise"
+    ]
+  },
+  {
+    "rank": 423,
+    "word": "maximize",
+    "score": 22.9,
+    "freq": 3,
+    "bookSpread": 2,
+    "bridge": false,
+    "tier": "TIER 3: Good-to-Know",
+    "surfaceForms": [
+      "maximize"
+    ]
+  },
+  {
+    "rank": 424,
+    "word": "whereby",
+    "score": 22.9,
+    "freq": 3,
+    "bookSpread": 2,
+    "bridge": false,
+    "tier": "TIER 3: Good-to-Know",
+    "surfaceForms": [
+      "whereby"
+    ]
+  },
+  {
+    "rank": 425,
+    "word": "hence",
+    "score": 22.9,
+    "freq": 3,
+    "bookSpread": 2,
+    "bridge": false,
+    "tier": "TIER 3: Good-to-Know",
+    "surfaceForms": [
+      "hence"
+    ]
+  },
+  {
+    "rank": 426,
+    "word": "participate",
+    "score": 22.9,
+    "freq": 3,
+    "bookSpread": 2,
+    "bridge": false,
+    "tier": "TIER 3: Good-to-Know",
+    "surfaceForms": [
+      "participate"
+    ]
+  },
+  {
+    "rank": 427,
+    "word": "odd",
+    "score": 22.6,
+    "freq": 2,
+    "bookSpread": 2,
+    "bridge": false,
+    "tier": "TIER 3: Good-to-Know",
+    "surfaceForms": [
+      "odd"
+    ]
+  },
+  {
+    "rank": 428,
+    "word": "consequence",
+    "score": 22.6,
+    "freq": 2,
+    "bookSpread": 2,
+    "bridge": false,
+    "tier": "TIER 3: Good-to-Know",
+    "surfaceForms": [
+      "consequence"
+    ]
+  },
+  {
+    "rank": 429,
+    "word": "ongoing",
+    "score": 22.6,
+    "freq": 2,
+    "bookSpread": 2,
+    "bridge": false,
+    "tier": "TIER 3: Good-to-Know",
+    "surfaceForms": [
+      "ongoing"
+    ]
+  },
+  {
+    "rank": 430,
+    "word": "comprise",
+    "score": 22.6,
+    "freq": 2,
+    "bookSpread": 2,
+    "bridge": false,
+    "tier": "TIER 3: Good-to-Know",
+    "surfaceForms": [
+      "comprise"
+    ]
+  },
+  {
+    "rank": 431,
+    "word": "compatible",
+    "score": 22.6,
+    "freq": 2,
+    "bookSpread": 2,
+    "bridge": false,
+    "tier": "TIER 3: Good-to-Know",
+    "surfaceForms": [
+      "compatible"
+    ]
+  },
+  {
+    "rank": 432,
+    "word": "consume",
+    "score": 22.6,
+    "freq": 2,
+    "bookSpread": 2,
+    "bridge": false,
+    "tier": "TIER 3: Good-to-Know",
+    "surfaceForms": [
+      "consume"
+    ]
+  },
+  {
+    "rank": 433,
+    "word": "document",
+    "score": 22.6,
+    "freq": 2,
+    "bookSpread": 2,
+    "bridge": false,
+    "tier": "TIER 3: Good-to-Know",
+    "surfaceForms": [
+      "document"
+    ]
+  },
+  {
+    "rank": 434,
+    "word": "distort",
+    "score": 22.6,
+    "freq": 2,
+    "bookSpread": 2,
+    "bridge": false,
+    "tier": "TIER 3: Good-to-Know",
+    "surfaceForms": [
+      "distort"
+    ]
+  },
+  {
+    "rank": 435,
+    "word": "resolve",
+    "score": 22.6,
+    "freq": 2,
+    "bookSpread": 2,
+    "bridge": false,
+    "tier": "TIER 3: Good-to-Know",
+    "surfaceForms": [
+      "resolve"
+    ]
+  },
+  {
+    "rank": 436,
+    "word": "statistics",
+    "score": 22.6,
+    "freq": 2,
+    "bookSpread": 2,
+    "bridge": false,
+    "tier": "TIER 3: Good-to-Know",
+    "surfaceForms": [
+      "statistics"
+    ]
+  },
+  {
+    "rank": 437,
+    "word": "ambiguous",
+    "score": 22.6,
+    "freq": 2,
+    "bookSpread": 2,
+    "bridge": false,
+    "tier": "TIER 3: Good-to-Know",
+    "surfaceForms": [
+      "ambiguous"
+    ]
+  },
+  {
+    "rank": 438,
+    "word": "supplement",
+    "score": 22.6,
+    "freq": 2,
+    "bookSpread": 2,
+    "bridge": false,
+    "tier": "TIER 3: Good-to-Know",
+    "surfaceForms": [
+      "supplement"
+    ]
+  },
+  {
+    "rank": 439,
+    "word": "expand",
+    "score": 22.6,
+    "freq": 2,
+    "bookSpread": 2,
+    "bridge": false,
+    "tier": "TIER 3: Good-to-Know",
+    "surfaceForms": [
+      "expand"
+    ]
+  },
+  {
+    "rank": 440,
+    "word": "index",
+    "score": 22.6,
+    "freq": 2,
+    "bookSpread": 2,
+    "bridge": false,
+    "tier": "TIER 3: Good-to-Know",
+    "surfaceForms": [
+      "index"
+    ]
+  },
+  {
+    "rank": 441,
+    "word": "undergo",
+    "score": 22.6,
+    "freq": 2,
+    "bookSpread": 2,
+    "bridge": false,
+    "tier": "TIER 3: Good-to-Know",
+    "surfaceForms": [
+      "undergo"
+    ]
+  },
+  {
+    "rank": 442,
+    "word": "acquisition",
+    "score": 22.6,
+    "freq": 2,
+    "bookSpread": 2,
+    "bridge": false,
+    "tier": "TIER 3: Good-to-Know",
+    "surfaceForms": [
+      "acquisition"
+    ]
+  },
+  {
+    "rank": 443,
+    "word": "parallel",
+    "score": 22.6,
+    "freq": 2,
+    "bookSpread": 2,
+    "bridge": false,
+    "tier": "TIER 3: Good-to-Know",
+    "surfaceForms": [
+      "parallel"
+    ]
+  },
+  {
+    "rank": 444,
+    "word": "arbitrary",
+    "score": 22.6,
+    "freq": 2,
+    "bookSpread": 2,
+    "bridge": false,
+    "tier": "TIER 3: Good-to-Know",
+    "surfaceForms": [
+      "arbitrary"
+    ]
+  },
+  {
+    "rank": 445,
+    "word": "participation",
+    "score": 22.6,
+    "freq": 2,
+    "bookSpread": 2,
+    "bridge": false,
+    "tier": "TIER 3: Good-to-Know",
+    "surfaceForms": [
+      "participation"
+    ]
+  },
+  {
+    "rank": 446,
+    "word": "cite",
+    "score": 22.6,
+    "freq": 2,
+    "bookSpread": 2,
+    "bridge": false,
+    "tier": "TIER 3: Good-to-Know",
+    "surfaceForms": [
+      "cite"
+    ]
+  },
+  {
+    "rank": 447,
+    "word": "subsequently",
+    "score": 22.6,
+    "freq": 2,
+    "bookSpread": 2,
+    "bridge": false,
+    "tier": "TIER 3: Good-to-Know",
+    "surfaceForms": [
+      "subsequently"
+    ]
+  },
+  {
+    "rank": 448,
+    "word": "constitute",
+    "score": 22.6,
+    "freq": 2,
+    "bookSpread": 2,
+    "bridge": false,
+    "tier": "TIER 3: Good-to-Know",
+    "surfaceForms": [
+      "constitute"
+    ]
+  },
+  {
+    "rank": 449,
+    "word": "ministry",
+    "score": 22.6,
+    "freq": 2,
+    "bookSpread": 2,
+    "bridge": false,
+    "tier": "TIER 3: Good-to-Know",
+    "surfaceForms": [
+      "ministry"
+    ]
+  },
+  {
+    "rank": 450,
+    "word": "distribute",
+    "score": 22.6,
+    "freq": 2,
+    "bookSpread": 2,
+    "bridge": false,
+    "tier": "TIER 3: Good-to-Know",
+    "surfaceForms": [
+      "distribute"
+    ]
+  },
+  {
+    "rank": 451,
+    "word": "innovate",
+    "score": 22.6,
+    "freq": 2,
+    "bookSpread": 2,
+    "bridge": false,
+    "tier": "TIER 3: Good-to-Know",
+    "surfaceForms": [
+      "innovate"
+    ]
+  },
+  {
+    "rank": 452,
+    "word": "consist",
+    "score": 22.6,
+    "freq": 2,
+    "bookSpread": 2,
+    "bridge": false,
+    "tier": "TIER 3: Good-to-Know",
+    "surfaceForms": [
+      "consist"
+    ]
+  },
+  {
+    "rank": 453,
+    "word": "enforce",
+    "score": 22.6,
+    "freq": 2,
+    "bookSpread": 2,
+    "bridge": false,
+    "tier": "TIER 3: Good-to-Know",
+    "surfaceForms": [
+      "enforce"
+    ]
+  },
+  {
+    "rank": 454,
+    "word": "occupy",
+    "score": 22.6,
+    "freq": 2,
+    "bookSpread": 2,
+    "bridge": false,
+    "tier": "TIER 3: Good-to-Know",
+    "surfaceForms": [
+      "occupy"
+    ]
+  },
+  {
+    "rank": 455,
+    "word": "concentration",
+    "score": 22.6,
+    "freq": 2,
+    "bookSpread": 2,
+    "bridge": false,
+    "tier": "TIER 3: Good-to-Know",
+    "surfaceForms": [
+      "concentration"
+    ]
+  },
+  {
+    "rank": 456,
+    "word": "logic",
+    "score": 22.6,
+    "freq": 2,
+    "bookSpread": 2,
+    "bridge": false,
+    "tier": "TIER 3: Good-to-Know",
+    "surfaceForms": [
+      "logic"
+    ]
+  },
+  {
+    "rank": 457,
+    "word": "regime",
+    "score": 22.6,
+    "freq": 2,
+    "bookSpread": 2,
+    "bridge": false,
+    "tier": "TIER 3: Good-to-Know",
+    "surfaceForms": [
+      "regime"
+    ]
+  },
+  {
+    "rank": 458,
+    "word": "reinforce",
+    "score": 22.6,
+    "freq": 2,
+    "bookSpread": 2,
+    "bridge": false,
+    "tier": "TIER 3: Good-to-Know",
+    "surfaceForms": [
+      "reinforce"
+    ]
+  },
+  {
+    "rank": 459,
+    "word": "assign",
+    "score": 22.6,
+    "freq": 2,
+    "bookSpread": 2,
+    "bridge": false,
+    "tier": "TIER 3: Good-to-Know",
+    "surfaceForms": [
+      "assign"
+    ]
+  },
+  {
+    "rank": 460,
+    "word": "nuclear",
+    "score": 18.1,
+    "freq": 7,
+    "bookSpread": 1,
+    "bridge": false,
+    "tier": "TIER 4: Low Priority",
+    "surfaceForms": [
+      "nuclear"
+    ]
+  },
+  {
+    "rank": 461,
+    "word": "classical",
+    "score": 17.2,
+    "freq": 4,
+    "bookSpread": 1,
+    "bridge": false,
+    "tier": "TIER 4: Low Priority",
+    "surfaceForms": [
+      "classical"
+    ]
+  },
+  {
+    "rank": 462,
+    "word": "prime",
+    "score": 16.9,
+    "freq": 3,
+    "bookSpread": 1,
+    "bridge": false,
+    "tier": "TIER 4: Low Priority",
+    "surfaceForms": [
+      "prime"
+    ]
+  },
+  {
+    "rank": 463,
+    "word": "exploitation",
+    "score": 16.6,
+    "freq": 2,
+    "bookSpread": 1,
+    "bridge": false,
+    "tier": "TIER 4: Low Priority",
+    "surfaceForms": [
+      "exploitation"
+    ]
+  },
+  {
+    "rank": 464,
+    "word": "welfare",
+    "score": 16.6,
+    "freq": 2,
+    "bookSpread": 1,
+    "bridge": false,
+    "tier": "TIER 4: Low Priority",
+    "surfaceForms": [
+      "welfare"
+    ]
+  },
+  {
+    "rank": 465,
+    "word": "license",
+    "score": 16.6,
+    "freq": 2,
+    "bookSpread": 1,
+    "bridge": false,
+    "tier": "TIER 4: Low Priority",
+    "surfaceForms": [
+      "license"
+    ]
+  },
+  {
+    "rank": 466,
+    "word": "interval",
+    "score": 16.6,
+    "freq": 2,
+    "bookSpread": 1,
+    "bridge": false,
+    "tier": "TIER 4: Low Priority",
+    "surfaceForms": [
+      "interval"
+    ]
+  },
+  {
+    "rank": 467,
+    "word": "scenario",
+    "score": 16.6,
+    "freq": 2,
+    "bookSpread": 1,
+    "bridge": false,
+    "tier": "TIER 4: Low Priority",
+    "surfaceForms": [
+      "scenario"
+    ]
+  },
+  {
+    "rank": 468,
+    "word": "mature",
+    "score": 16.6,
+    "freq": 2,
+    "bookSpread": 1,
+    "bridge": false,
+    "tier": "TIER 4: Low Priority",
+    "surfaceForms": [
+      "mature"
+    ]
+  },
+  {
+    "rank": 469,
+    "word": "neutral",
+    "score": 16.6,
+    "freq": 2,
+    "bookSpread": 1,
+    "bridge": false,
+    "tier": "TIER 4: Low Priority",
+    "surfaceForms": [
+      "neutral"
+    ]
+  },
+  {
+    "rank": 470,
+    "word": "restrict",
+    "score": 16.6,
+    "freq": 2,
+    "bookSpread": 1,
+    "bridge": false,
+    "tier": "TIER 4: Low Priority",
+    "surfaceForms": [
+      "restrict"
+    ]
+  },
+  {
+    "rank": 471,
+    "word": "comment",
+    "score": 16.6,
+    "freq": 2,
+    "bookSpread": 1,
+    "bridge": false,
+    "tier": "TIER 4: Low Priority",
+    "surfaceForms": [
+      "comment"
+    ]
+  },
+  {
+    "rank": 472,
+    "word": "lecture",
+    "score": 16.3,
+    "freq": 1,
+    "bookSpread": 1,
+    "bridge": false,
+    "tier": "TIER 4: Low Priority",
+    "surfaceForms": [
+      "lecture"
+    ]
+  },
+  {
+    "rank": 473,
+    "word": "exclude",
+    "score": 16.3,
+    "freq": 1,
+    "bookSpread": 1,
+    "bridge": false,
+    "tier": "TIER 4: Low Priority",
+    "surfaceForms": [
+      "exclude"
+    ]
+  },
+  {
+    "rank": 474,
+    "word": "equip",
+    "score": 16.3,
+    "freq": 1,
+    "bookSpread": 1,
+    "bridge": false,
+    "tier": "TIER 4: Low Priority",
+    "surfaceForms": [
+      "equip"
+    ]
+  },
+  {
+    "rank": 475,
+    "word": "administer",
+    "score": 16.3,
+    "freq": 1,
+    "bookSpread": 1,
+    "bridge": false,
+    "tier": "TIER 4: Low Priority",
+    "surfaceForms": [
+      "administer"
+    ]
+  },
+  {
+    "rank": 476,
+    "word": "register",
+    "score": 16.3,
+    "freq": 1,
+    "bookSpread": 1,
+    "bridge": false,
+    "tier": "TIER 4: Low Priority",
+    "surfaceForms": [
+      "register"
+    ]
+  },
+  {
+    "rank": 477,
+    "word": "inherent",
+    "score": 16.3,
+    "freq": 1,
+    "bookSpread": 1,
+    "bridge": false,
+    "tier": "TIER 4: Low Priority",
+    "surfaceForms": [
+      "inherent"
+    ]
+  },
+  {
+    "rank": 478,
+    "word": "sphere",
+    "score": 16.3,
+    "freq": 1,
+    "bookSpread": 1,
+    "bridge": false,
+    "tier": "TIER 4: Low Priority",
+    "surfaceForms": [
+      "sphere"
+    ]
+  },
+  {
+    "rank": 479,
+    "word": "sustain",
+    "score": 16.3,
+    "freq": 1,
+    "bookSpread": 1,
+    "bridge": false,
+    "tier": "TIER 4: Low Priority",
+    "surfaceForms": [
+      "sustain"
+    ]
+  },
+  {
+    "rank": 480,
+    "word": "passive",
+    "score": 16.3,
+    "freq": 1,
+    "bookSpread": 1,
+    "bridge": false,
+    "tier": "TIER 4: Low Priority",
+    "surfaceForms": [
+      "passive"
+    ]
+  },
+  {
+    "rank": 481,
+    "word": "margin",
+    "score": 16.3,
+    "freq": 1,
+    "bookSpread": 1,
+    "bridge": false,
+    "tier": "TIER 4: Low Priority",
+    "surfaceForms": [
+      "margin"
+    ]
+  },
+  {
+    "rank": 482,
+    "word": "integration",
+    "score": 16.3,
+    "freq": 1,
+    "bookSpread": 1,
+    "bridge": false,
+    "tier": "TIER 4: Low Priority",
+    "surfaceForms": [
+      "integration"
+    ]
+  },
+  {
+    "rank": 483,
+    "word": "assure",
+    "score": 16.3,
+    "freq": 1,
+    "bookSpread": 1,
+    "bridge": false,
+    "tier": "TIER 4: Low Priority",
+    "surfaceForms": [
+      "assure"
+    ]
+  },
+  {
+    "rank": 484,
+    "word": "incline",
+    "score": 16.3,
+    "freq": 1,
+    "bookSpread": 1,
+    "bridge": false,
+    "tier": "TIER 4: Low Priority",
+    "surfaceForms": [
+      "incline"
+    ]
+  },
+  {
+    "rank": 485,
+    "word": "preceding",
+    "score": 16.3,
+    "freq": 1,
+    "bookSpread": 1,
+    "bridge": false,
+    "tier": "TIER 4: Low Priority",
+    "surfaceForms": [
+      "preceding"
+    ]
+  },
+  {
+    "rank": 486,
+    "word": "parameter",
+    "score": 16.3,
+    "freq": 1,
+    "bookSpread": 1,
+    "bridge": false,
+    "tier": "TIER 4: Low Priority",
+    "surfaceForms": [
+      "parameter"
+    ]
+  },
+  {
+    "rank": 487,
+    "word": "likewise",
+    "score": 16.3,
+    "freq": 1,
+    "bookSpread": 1,
+    "bridge": false,
+    "tier": "TIER 4: Low Priority",
+    "surfaceForms": [
+      "likewise"
+    ]
+  },
+  {
+    "rank": 488,
+    "word": "entity",
+    "score": 16.3,
+    "freq": 1,
+    "bookSpread": 1,
+    "bridge": false,
+    "tier": "TIER 4: Low Priority",
+    "surfaceForms": [
+      "entity"
+    ]
+  },
+  {
+    "rank": 489,
+    "word": "portion",
+    "score": 16.3,
+    "freq": 1,
+    "bookSpread": 1,
+    "bridge": false,
+    "tier": "TIER 4: Low Priority",
+    "surfaceForms": [
+      "portion"
+    ]
+  },
+  {
+    "rank": 490,
+    "word": "integrity",
+    "score": 16.3,
+    "freq": 1,
+    "bookSpread": 1,
+    "bridge": false,
+    "tier": "TIER 4: Low Priority",
+    "surfaceForms": [
+      "integrity"
+    ]
+  },
+  {
+    "rank": 491,
+    "word": "expose",
+    "score": 16.3,
+    "freq": 1,
+    "bookSpread": 1,
+    "bridge": false,
+    "tier": "TIER 4: Low Priority",
+    "surfaceForms": [
+      "expose"
+    ]
+  },
+  {
+    "rank": 492,
+    "word": "adjacent",
+    "score": 16.3,
+    "freq": 1,
+    "bookSpread": 1,
+    "bridge": false,
+    "tier": "TIER 4: Low Priority",
+    "surfaceForms": [
+      "adjacent"
+    ]
+  },
+  {
+    "rank": 493,
+    "word": "coincide",
+    "score": 16.3,
+    "freq": 1,
+    "bookSpread": 1,
+    "bridge": false,
+    "tier": "TIER 4: Low Priority",
+    "surfaceForms": [
+      "coincide"
+    ]
+  },
+  {
+    "rank": 494,
+    "word": "reluctance",
+    "score": 16.3,
+    "freq": 1,
+    "bookSpread": 1,
+    "bridge": false,
+    "tier": "TIER 4: Low Priority",
+    "surfaceForms": [
+      "reluctance"
+    ]
+  },
+  {
+    "rank": 495,
+    "word": "eliminate",
+    "score": 16.3,
+    "freq": 1,
+    "bookSpread": 1,
+    "bridge": false,
+    "tier": "TIER 4: Low Priority",
+    "surfaceForms": [
+      "eliminate"
+    ]
+  },
+  {
+    "rank": 496,
+    "word": "trace",
+    "score": 16.3,
+    "freq": 1,
+    "bookSpread": 1,
+    "bridge": false,
+    "tier": "TIER 4: Low Priority",
+    "surfaceForms": [
+      "trace"
+    ]
+  },
+  {
+    "rank": 497,
+    "word": "mutual",
+    "score": 16.3,
+    "freq": 1,
+    "bookSpread": 1,
+    "bridge": false,
+    "tier": "TIER 4: Low Priority",
+    "surfaceForms": [
+      "mutual"
+    ]
+  },
+  {
+    "rank": 498,
+    "word": "correspond",
+    "score": 16.3,
+    "freq": 1,
+    "bookSpread": 1,
+    "bridge": false,
+    "tier": "TIER 4: Low Priority",
+    "surfaceForms": [
+      "correspond"
+    ]
+  },
+  {
+    "rank": 499,
+    "word": "submit",
+    "score": 16.3,
+    "freq": 1,
+    "bookSpread": 1,
+    "bridge": false,
+    "tier": "TIER 4: Low Priority",
+    "surfaceForms": [
+      "submit"
+    ]
+  },
+  {
+    "rank": 500,
+    "word": "coherent",
+    "score": 16.3,
+    "freq": 1,
+    "bookSpread": 1,
+    "bridge": false,
+    "tier": "TIER 4: Low Priority",
+    "surfaceForms": [
+      "coherent"
+    ]
+  },
+  {
+    "rank": 501,
+    "word": "displace",
+    "score": 16.3,
+    "freq": 1,
+    "bookSpread": 1,
+    "bridge": false,
+    "tier": "TIER 4: Low Priority",
+    "surfaceForms": [
+      "displace"
+    ]
+  },
+  {
+    "rank": 502,
+    "word": "revise",
+    "score": 16.3,
+    "freq": 1,
+    "bookSpread": 1,
+    "bridge": false,
+    "tier": "TIER 4: Low Priority",
+    "surfaceForms": [
+      "revise"
+    ]
+  },
+  {
+    "rank": 503,
+    "word": "formula",
+    "score": 16.3,
+    "freq": 1,
+    "bookSpread": 1,
+    "bridge": false,
+    "tier": "TIER 4: Low Priority",
+    "surfaceForms": [
+      "formula"
+    ]
+  },
+  {
+    "rank": 504,
+    "word": "proceed",
+    "score": 16.3,
+    "freq": 1,
+    "bookSpread": 1,
+    "bridge": false,
+    "tier": "TIER 4: Low Priority",
+    "surfaceForms": [
+      "proceed"
+    ]
+  },
+  {
+    "rank": 505,
+    "word": "federal",
+    "score": 16.3,
+    "freq": 1,
+    "bookSpread": 1,
+    "bridge": false,
+    "tier": "TIER 4: Low Priority",
+    "surfaceForms": [
+      "federal"
+    ]
+  },
+  {
+    "rank": 506,
+    "word": "interact",
+    "score": 16.3,
+    "freq": 1,
+    "bookSpread": 1,
+    "bridge": false,
+    "tier": "TIER 4: Low Priority",
+    "surfaceForms": [
+      "interact"
+    ]
+  },
+  {
+    "rank": 507,
+    "word": "devote",
+    "score": 16.3,
+    "freq": 1,
+    "bookSpread": 1,
+    "bridge": false,
+    "tier": "TIER 4: Low Priority",
+    "surfaceForms": [
+      "devote"
+    ]
+  },
+  {
+    "rank": 508,
+    "word": "drama",
+    "score": 16.3,
+    "freq": 1,
+    "bookSpread": 1,
+    "bridge": false,
+    "tier": "TIER 4: Low Priority",
+    "surfaceForms": [
+      "drama"
+    ]
+  },
+  {
+    "rank": 509,
+    "word": "simulate",
+    "score": 16.3,
+    "freq": 1,
+    "bookSpread": 1,
+    "bridge": false,
+    "tier": "TIER 4: Low Priority",
+    "surfaceForms": [
+      "simulate"
+    ]
+  },
+  {
+    "rank": 510,
+    "word": "compile",
+    "score": 16.3,
+    "freq": 1,
+    "bookSpread": 1,
+    "bridge": false,
+    "tier": "TIER 4: Low Priority",
+    "surfaceForms": [
+      "compile"
+    ]
+  },
+  {
+    "rank": 511,
+    "word": "resident",
+    "score": 16.3,
+    "freq": 1,
+    "bookSpread": 1,
+    "bridge": false,
+    "tier": "TIER 4: Low Priority",
+    "surfaceForms": [
+      "resident"
+    ]
+  },
+  {
+    "rank": 512,
+    "word": "accompany",
+    "score": 16.3,
+    "freq": 1,
+    "bookSpread": 1,
+    "bridge": false,
+    "tier": "TIER 4: Low Priority",
+    "surfaceForms": [
+      "accompany"
+    ]
+  },
+  {
+    "rank": 513,
+    "word": "attach",
+    "score": 16.3,
+    "freq": 1,
+    "bookSpread": 1,
+    "bridge": false,
+    "tier": "TIER 4: Low Priority",
+    "surfaceForms": [
+      "attach"
+    ]
+  },
+  {
+    "rank": 514,
+    "word": "voluntary",
+    "score": 16.3,
+    "freq": 1,
+    "bookSpread": 1,
+    "bridge": false,
+    "tier": "TIER 4: Low Priority",
+    "surfaceForms": [
+      "voluntary"
+    ]
+  },
+  {
+    "rank": 515,
+    "word": "stability",
+    "score": 16.3,
+    "freq": 1,
+    "bookSpread": 1,
+    "bridge": false,
+    "tier": "TIER 4: Low Priority",
+    "surfaceForms": [
+      "stability"
+    ]
+  },
+  {
+    "rank": 516,
+    "word": "specify",
+    "score": 16.3,
+    "freq": 1,
+    "bookSpread": 1,
+    "bridge": false,
+    "tier": "TIER 4: Low Priority",
+    "surfaceForms": [
+      "specify"
+    ]
+  },
+  {
+    "rank": 517,
+    "word": "nonetheless",
+    "score": 16.3,
+    "freq": 1,
+    "bookSpread": 1,
+    "bridge": false,
+    "tier": "TIER 4: Low Priority",
+    "surfaceForms": [
+      "nonetheless"
+    ]
+  },
+  {
+    "rank": 518,
+    "word": "ethnic",
+    "score": 16.3,
+    "freq": 1,
+    "bookSpread": 1,
+    "bridge": false,
+    "tier": "TIER 4: Low Priority",
+    "surfaceForms": [
+      "ethnic"
+    ]
+  },
+  {
+    "rank": 519,
+    "word": "discriminate",
+    "score": 16.3,
+    "freq": 1,
+    "bookSpread": 1,
+    "bridge": false,
+    "tier": "TIER 4: Low Priority",
+    "surfaceForms": [
+      "discriminate"
+    ]
+  },
+  {
+    "rank": 520,
+    "word": "adjustment",
+    "score": 16.3,
+    "freq": 1,
+    "bookSpread": 1,
+    "bridge": false,
+    "tier": "TIER 4: Low Priority",
+    "surfaceForms": [
+      "adjustment"
+    ]
+  },
+  {
+    "rank": 521,
+    "word": "notwithstanding",
+    "score": 16.3,
+    "freq": 1,
+    "bookSpread": 1,
+    "bridge": false,
+    "tier": "TIER 4: Low Priority",
+    "surfaceForms": [
+      "notwithstanding"
+    ]
+  },
+  {
+    "rank": 522,
+    "word": "immigration",
+    "score": 16.3,
+    "freq": 1,
+    "bookSpread": 1,
+    "bridge": false,
+    "tier": "TIER 4: Low Priority",
+    "surfaceForms": [
+      "immigration"
+    ]
+  },
+  {
+    "rank": 523,
+    "word": "discrete",
+    "score": 16.3,
+    "freq": 1,
+    "bookSpread": 1,
+    "bridge": false,
+    "tier": "TIER 4: Low Priority",
+    "surfaceForms": [
+      "discrete"
+    ]
+  },
+  {
+    "rank": 524,
+    "word": "ratio",
+    "score": 16.3,
+    "freq": 1,
+    "bookSpread": 1,
+    "bridge": false,
+    "tier": "TIER 4: Low Priority",
+    "surfaceForms": [
+      "ratio"
+    ]
+  },
+  {
+    "rank": 525,
+    "word": "conduct",
+    "score": 16.3,
+    "freq": 1,
+    "bookSpread": 1,
+    "bridge": false,
+    "tier": "TIER 4: Low Priority",
+    "surfaceForms": [
+      "conduct"
+    ]
+  },
+  {
+    "rank": 526,
+    "word": "isolate",
+    "score": 16.3,
+    "freq": 1,
+    "bookSpread": 1,
+    "bridge": false,
+    "tier": "TIER 4: Low Priority",
+    "surfaceForms": [
+      "isolate"
+    ]
+  },
+  {
+    "rank": 527,
+    "word": "hierarchy",
+    "score": 16.3,
+    "freq": 1,
+    "bookSpread": 1,
+    "bridge": false,
+    "tier": "TIER 4: Low Priority",
+    "surfaceForms": [
+      "hierarchy"
+    ]
+  },
+  {
+    "rank": 528,
+    "word": "commit",
+    "score": 16.3,
+    "freq": 1,
+    "bookSpread": 1,
+    "bridge": false,
+    "tier": "TIER 4: Low Priority",
+    "surfaceForms": [
+      "commit"
+    ]
+  },
+  {
+    "rank": 529,
+    "word": "rigid",
+    "score": 16.3,
+    "freq": 1,
+    "bookSpread": 1,
+    "bridge": false,
+    "tier": "TIER 4: Low Priority",
+    "surfaceForms": [
+      "rigid"
+    ]
+  },
+  {
+    "rank": 530,
+    "word": "monitor",
+    "score": 16.3,
+    "freq": 1,
+    "bookSpread": 1,
+    "bridge": false,
+    "tier": "TIER 4: Low Priority",
+    "surfaceForms": [
+      "monitor"
+    ]
+  },
+  {
+    "rank": 531,
+    "word": "insert",
+    "score": 16.3,
+    "freq": 1,
+    "bookSpread": 1,
+    "bridge": false,
+    "tier": "TIER 4: Low Priority",
+    "surfaceForms": [
+      "insert"
+    ]
+  },
+  {
+    "rank": 532,
+    "word": "derive",
+    "score": 16.3,
+    "freq": 1,
+    "bookSpread": 1,
+    "bridge": false,
+    "tier": "TIER 4: Low Priority",
+    "surfaceForms": [
+      "derive"
+    ]
+  },
+  {
+    "rank": 533,
+    "word": "confer",
+    "score": 16.3,
+    "freq": 1,
+    "bookSpread": 1,
+    "bridge": false,
+    "tier": "TIER 4: Low Priority",
+    "surfaceForms": [
+      "confer"
+    ]
+  },
+  {
+    "rank": 534,
+    "word": "chart",
+    "score": 16.3,
+    "freq": 1,
+    "bookSpread": 1,
+    "bridge": false,
+    "tier": "TIER 4: Low Priority",
+    "surfaceForms": [
+      "chart"
+    ]
+  },
+  {
+    "rank": 535,
+    "word": "exhibit",
+    "score": 16.3,
+    "freq": 1,
+    "bookSpread": 1,
+    "bridge": false,
+    "tier": "TIER 4: Low Priority",
+    "surfaceForms": [
+      "exhibit"
+    ]
+  },
+  {
+    "rank": 536,
+    "word": "underlie",
+    "score": 16.3,
+    "freq": 1,
+    "bookSpread": 1,
+    "bridge": false,
+    "tier": "TIER 4: Low Priority",
+    "surfaceForms": [
+      "underlie"
+    ]
+  },
+  {
+    "rank": 537,
+    "word": "allocate",
+    "score": 16.3,
+    "freq": 1,
+    "bookSpread": 1,
+    "bridge": false,
+    "tier": "TIER 4: Low Priority",
+    "surfaceForms": [
+      "allocate"
+    ]
+  },
+  {
+    "rank": 538,
+    "word": "coordinate",
+    "score": 16.3,
+    "freq": 1,
+    "bookSpread": 1,
+    "bridge": false,
+    "tier": "TIER 4: Low Priority",
+    "surfaceForms": [
+      "coordinate"
+    ]
+  },
+  {
+    "rank": 539,
+    "word": "conference",
+    "score": 16.3,
+    "freq": 1,
+    "bookSpread": 1,
+    "bridge": false,
+    "tier": "TIER 4: Low Priority",
+    "surfaceForms": [
+      "conference"
+    ]
+  },
+  {
+    "rank": 540,
+    "word": "thesis",
+    "score": 16.3,
+    "freq": 1,
+    "bookSpread": 1,
+    "bridge": false,
+    "tier": "TIER 4: Low Priority",
+    "surfaceForms": [
+      "thesis"
+    ]
+  },
+  {
+    "rank": 541,
+    "word": "inevitably",
+    "score": 16.3,
+    "freq": 1,
+    "bookSpread": 1,
+    "bridge": false,
+    "tier": "TIER 4: Low Priority",
+    "surfaceForms": [
+      "inevitably"
+    ]
+  },
+  {
+    "rank": 542,
+    "word": "analogy",
+    "score": 16.3,
+    "freq": 1,
+    "bookSpread": 1,
+    "bridge": false,
+    "tier": "TIER 4: Low Priority",
+    "surfaceForms": [
+      "analogy"
+    ]
+  },
+  {
+    "rank": 543,
+    "word": "orientation",
+    "score": 16.3,
+    "freq": 1,
+    "bookSpread": 1,
+    "bridge": false,
+    "tier": "TIER 4: Low Priority",
+    "surfaceForms": [
+      "orientation"
+    ]
+  },
+  {
+    "rank": 544,
+    "word": "overlap",
+    "score": 16.3,
+    "freq": 1,
+    "bookSpread": 1,
+    "bridge": false,
+    "tier": "TIER 4: Low Priority",
+    "surfaceForms": [
+      "overlap"
+    ]
+  },
+  {
+    "rank": 545,
+    "word": "behalf",
+    "score": 16.3,
+    "freq": 1,
+    "bookSpread": 1,
+    "bridge": false,
+    "tier": "TIER 4: Low Priority",
+    "surfaceForms": [
+      "behalf"
+    ]
+  },
+  {
+    "rank": 546,
+    "word": "restriction",
+    "score": 16.3,
+    "freq": 1,
+    "bookSpread": 1,
+    "bridge": false,
+    "tier": "TIER 4: Low Priority",
+    "surfaceForms": [
+      "restriction"
+    ]
+  }
+]

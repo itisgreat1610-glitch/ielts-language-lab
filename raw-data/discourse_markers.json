@@ -1,0 +1,848 @@
+[
+  {
+    "marker": "also",
+    "category": "addition",
+    "frequency": 239,
+    "bookSpread": 11
+  },
+  {
+    "marker": "like",
+    "category": "example",
+    "frequency": 220,
+    "bookSpread": 11
+  },
+  {
+    "marker": "cause",
+    "category": "cause_effect",
+    "frequency": 165,
+    "bookSpread": 11
+  },
+  {
+    "marker": "however",
+    "category": "contrast",
+    "frequency": 141,
+    "bookSpread": 11
+  },
+  {
+    "marker": "though",
+    "category": "contrast",
+    "frequency": 141,
+    "bookSpread": 11
+  },
+  {
+    "marker": "though",
+    "category": "concession",
+    "frequency": 141,
+    "bookSpread": 11
+  },
+  {
+    "marker": "while",
+    "category": "contrast",
+    "frequency": 131,
+    "bookSpread": 11
+  },
+  {
+    "marker": "while",
+    "category": "concession",
+    "frequency": 131,
+    "bookSpread": 11
+  },
+  {
+    "marker": "such as",
+    "category": "example",
+    "frequency": 124,
+    "bookSpread": 11
+  },
+  {
+    "marker": "because",
+    "category": "cause_effect",
+    "frequency": 114,
+    "bookSpread": 11
+  },
+  {
+    "marker": "for example",
+    "category": "example",
+    "frequency": 71,
+    "bookSpread": 11
+  },
+  {
+    "marker": "yet",
+    "category": "contrast",
+    "frequency": 66,
+    "bookSpread": 11
+  },
+  {
+    "marker": "likely",
+    "category": "hedging",
+    "frequency": 54,
+    "bookSpread": 11
+  },
+  {
+    "marker": "rather",
+    "category": "contrast",
+    "frequency": 52,
+    "bookSpread": 11
+  },
+  {
+    "marker": "perhaps",
+    "category": "hedging",
+    "frequency": 48,
+    "bookSpread": 11
+  },
+  {
+    "marker": "including",
+    "category": "example",
+    "frequency": 39,
+    "bookSpread": 11
+  },
+  {
+    "marker": "not only",
+    "category": "addition",
+    "frequency": 32,
+    "bookSpread": 11
+  },
+  {
+    "marker": "finally",
+    "category": "sequence",
+    "frequency": 28,
+    "bookSpread": 11
+  },
+  {
+    "marker": "probably",
+    "category": "hedging",
+    "frequency": 25,
+    "bookSpread": 11
+  },
+  {
+    "marker": "in fact",
+    "category": "emphasis",
+    "frequency": 17,
+    "bookSpread": 11
+  },
+  {
+    "marker": "although",
+    "category": "contrast",
+    "frequency": 51,
+    "bookSpread": 10
+  },
+  {
+    "marker": "although",
+    "category": "concession",
+    "frequency": 51,
+    "bookSpread": 10
+  },
+  {
+    "marker": "thus",
+    "category": "cause_effect",
+    "frequency": 43,
+    "bookSpread": 10
+  },
+  {
+    "marker": "particularly",
+    "category": "emphasis",
+    "frequency": 36,
+    "bookSpread": 10
+  },
+  {
+    "marker": "led to",
+    "category": "cause_effect",
+    "frequency": 35,
+    "bookSpread": 10
+  },
+  {
+    "marker": "as well as",
+    "category": "addition",
+    "frequency": 35,
+    "bookSpread": 10
+  },
+  {
+    "marker": "therefore",
+    "category": "cause_effect",
+    "frequency": 27,
+    "bookSpread": 10
+  },
+  {
+    "marker": "instead",
+    "category": "contrast",
+    "frequency": 25,
+    "bookSpread": 10
+  },
+  {
+    "marker": "in addition",
+    "category": "addition",
+    "frequency": 24,
+    "bookSpread": 10
+  },
+  {
+    "marker": "lead to",
+    "category": "cause_effect",
+    "frequency": 23,
+    "bookSpread": 10
+  },
+  {
+    "marker": "seem to",
+    "category": "hedging",
+    "frequency": 19,
+    "bookSpread": 10
+  },
+  {
+    "marker": "since",
+    "category": "cause_effect",
+    "frequency": 55,
+    "bookSpread": 9
+  },
+  {
+    "marker": "actually",
+    "category": "emphasis",
+    "frequency": 30,
+    "bookSpread": 9
+  },
+  {
+    "marker": "suggest that",
+    "category": "hedging",
+    "frequency": 24,
+    "bookSpread": 9
+  },
+  {
+    "marker": "eventually",
+    "category": "sequence",
+    "frequency": 23,
+    "bookSpread": 9
+  },
+  {
+    "marker": "because of",
+    "category": "cause_effect",
+    "frequency": 22,
+    "bookSpread": 9
+  },
+  {
+    "marker": "especially",
+    "category": "emphasis",
+    "frequency": 22,
+    "bookSpread": 9
+  },
+  {
+    "marker": "so that",
+    "category": "cause_effect",
+    "frequency": 21,
+    "bookSpread": 9
+  },
+  {
+    "marker": "despite",
+    "category": "contrast",
+    "frequency": 17,
+    "bookSpread": 9
+  },
+  {
+    "marker": "despite",
+    "category": "concession",
+    "frequency": 17,
+    "bookSpread": 9
+  },
+  {
+    "marker": "certainly",
+    "category": "concession",
+    "frequency": 14,
+    "bookSpread": 9
+  },
+  {
+    "marker": "due to",
+    "category": "cause_effect",
+    "frequency": 23,
+    "bookSpread": 8
+  },
+  {
+    "marker": "for instance",
+    "category": "example",
+    "frequency": 21,
+    "bookSpread": 8
+  },
+  {
+    "marker": "significantly",
+    "category": "emphasis",
+    "frequency": 18,
+    "bookSpread": 8
+  },
+  {
+    "marker": "as a result",
+    "category": "cause_effect",
+    "frequency": 16,
+    "bookSpread": 8
+  },
+  {
+    "marker": "seems to",
+    "category": "hedging",
+    "frequency": 14,
+    "bookSpread": 8
+  },
+  {
+    "marker": "previously",
+    "category": "sequence",
+    "frequency": 12,
+    "bookSpread": 8
+  },
+  {
+    "marker": "mainly",
+    "category": "emphasis",
+    "frequency": 11,
+    "bookSpread": 8
+  },
+  {
+    "marker": "indeed",
+    "category": "emphasis",
+    "frequency": 14,
+    "bookSpread": 7
+  },
+  {
+    "marker": "similarly",
+    "category": "addition",
+    "frequency": 13,
+    "bookSpread": 7
+  },
+  {
+    "marker": "similarly",
+    "category": "comparison",
+    "frequency": 13,
+    "bookSpread": 7
+  },
+  {
+    "marker": "meanwhile",
+    "category": "sequence",
+    "frequency": 12,
+    "bookSpread": 7
+  },
+  {
+    "marker": "at the same time",
+    "category": "sequence",
+    "frequency": 11,
+    "bookSpread": 7
+  },
+  {
+    "marker": "tend to",
+    "category": "hedging",
+    "frequency": 10,
+    "bookSpread": 7
+  },
+  {
+    "marker": "equally",
+    "category": "addition",
+    "frequency": 9,
+    "bookSpread": 7
+  },
+  {
+    "marker": "importantly",
+    "category": "emphasis",
+    "frequency": 7,
+    "bookSpread": 7
+  },
+  {
+    "marker": "nevertheless",
+    "category": "contrast",
+    "frequency": 11,
+    "bookSpread": 6
+  },
+  {
+    "marker": "in particular",
+    "category": "example",
+    "frequency": 10,
+    "bookSpread": 6
+  },
+  {
+    "marker": "even though",
+    "category": "concession",
+    "frequency": 10,
+    "bookSpread": 6
+  },
+  {
+    "marker": "unlikely",
+    "category": "hedging",
+    "frequency": 9,
+    "bookSpread": 6
+  },
+  {
+    "marker": "furthermore",
+    "category": "addition",
+    "frequency": 8,
+    "bookSpread": 6
+  },
+  {
+    "marker": "moreover",
+    "category": "addition",
+    "frequency": 8,
+    "bookSpread": 6
+  },
+  {
+    "marker": "thanks to",
+    "category": "cause_effect",
+    "frequency": 7,
+    "bookSpread": 6
+  },
+  {
+    "marker": "suggests that",
+    "category": "hedging",
+    "frequency": 13,
+    "bookSpread": 5
+  },
+  {
+    "marker": "just as",
+    "category": "comparison",
+    "frequency": 12,
+    "bookSpread": 5
+  },
+  {
+    "marker": "compared to",
+    "category": "comparison",
+    "frequency": 10,
+    "bookSpread": 5
+  },
+  {
+    "marker": "compared with",
+    "category": "comparison",
+    "frequency": 9,
+    "bookSpread": 5
+  },
+  {
+    "marker": "overall",
+    "category": "conclusion",
+    "frequency": 9,
+    "bookSpread": 5
+  },
+  {
+    "marker": "on the other hand",
+    "category": "contrast",
+    "frequency": 8,
+    "bookSpread": 5
+  },
+  {
+    "marker": "appears to",
+    "category": "hedging",
+    "frequency": 8,
+    "bookSpread": 5
+  },
+  {
+    "marker": "results in",
+    "category": "cause_effect",
+    "frequency": 7,
+    "bookSpread": 5
+  },
+  {
+    "marker": "seemingly",
+    "category": "hedging",
+    "frequency": 7,
+    "bookSpread": 5
+  },
+  {
+    "marker": "as with",
+    "category": "comparison",
+    "frequency": 7,
+    "bookSpread": 5
+  },
+  {
+    "marker": "consequently",
+    "category": "cause_effect",
+    "frequency": 6,
+    "bookSpread": 5
+  },
+  {
+    "marker": "leads to",
+    "category": "cause_effect",
+    "frequency": 6,
+    "bookSpread": 5
+  },
+  {
+    "marker": "appear to",
+    "category": "hedging",
+    "frequency": 6,
+    "bookSpread": 5
+  },
+  {
+    "marker": "regardless",
+    "category": "concession",
+    "frequency": 6,
+    "bookSpread": 5
+  },
+  {
+    "marker": "owing to",
+    "category": "cause_effect",
+    "frequency": 5,
+    "bookSpread": 5
+  },
+  {
+    "marker": "in the same way",
+    "category": "comparison",
+    "frequency": 5,
+    "bookSpread": 5
+  },
+  {
+    "marker": "primarily",
+    "category": "emphasis",
+    "frequency": 8,
+    "bookSpread": 4
+  },
+  {
+    "marker": "whereas",
+    "category": "contrast",
+    "frequency": 7,
+    "bookSpread": 4
+  },
+  {
+    "marker": "e.g.",
+    "category": "example",
+    "frequency": 7,
+    "bookSpread": 4
+  },
+  {
+    "marker": "whereas",
+    "category": "concession",
+    "frequency": 7,
+    "bookSpread": 4
+  },
+  {
+    "marker": "result in",
+    "category": "cause_effect",
+    "frequency": 6,
+    "bookSpread": 4
+  },
+  {
+    "marker": "specifically",
+    "category": "example",
+    "frequency": 5,
+    "bookSpread": 4
+  },
+  {
+    "marker": "above all",
+    "category": "emphasis",
+    "frequency": 5,
+    "bookSpread": 4
+  },
+  {
+    "marker": "apparently",
+    "category": "hedging",
+    "frequency": 5,
+    "bookSpread": 4
+  },
+  {
+    "marker": "it is possible",
+    "category": "hedging",
+    "frequency": 5,
+    "bookSpread": 4
+  },
+  {
+    "marker": "in contrast",
+    "category": "contrast",
+    "frequency": 4,
+    "bookSpread": 4
+  },
+  {
+    "marker": "possibly",
+    "category": "hedging",
+    "frequency": 4,
+    "bookSpread": 4
+  },
+  {
+    "marker": "initially",
+    "category": "sequence",
+    "frequency": 4,
+    "bookSpread": 4
+  },
+  {
+    "marker": "simultaneously",
+    "category": "sequence",
+    "frequency": 4,
+    "bookSpread": 4
+  },
+  {
+    "marker": "hence",
+    "category": "cause_effect",
+    "frequency": 5,
+    "bookSpread": 3
+  },
+  {
+    "marker": "resulted in",
+    "category": "cause_effect",
+    "frequency": 5,
+    "bookSpread": 3
+  },
+  {
+    "marker": "on top of",
+    "category": "addition",
+    "frequency": 5,
+    "bookSpread": 3
+  },
+  {
+    "marker": "essentially",
+    "category": "emphasis",
+    "frequency": 5,
+    "bookSpread": 3
+  },
+  {
+    "marker": "firstly",
+    "category": "sequence",
+    "frequency": 4,
+    "bookSpread": 3
+  },
+  {
+    "marker": "alternatively",
+    "category": "contrast",
+    "frequency": 3,
+    "bookSpread": 3
+  },
+  {
+    "marker": "besides",
+    "category": "addition",
+    "frequency": 3,
+    "bookSpread": 3
+  },
+  {
+    "marker": "namely",
+    "category": "example",
+    "frequency": 3,
+    "bookSpread": 3
+  },
+  {
+    "marker": "presumably",
+    "category": "hedging",
+    "frequency": 3,
+    "bookSpread": 3
+  },
+  {
+    "marker": "tends to",
+    "category": "hedging",
+    "frequency": 3,
+    "bookSpread": 3
+  },
+  {
+    "marker": "to some extent",
+    "category": "hedging",
+    "frequency": 3,
+    "bookSpread": 3
+  },
+  {
+    "marker": "secondly",
+    "category": "sequence",
+    "frequency": 3,
+    "bookSpread": 3
+  },
+  {
+    "marker": "ultimately",
+    "category": "conclusion",
+    "frequency": 3,
+    "bookSpread": 3
+  },
+  {
+    "marker": "whilst",
+    "category": "contrast",
+    "frequency": 3,
+    "bookSpread": 2
+  },
+  {
+    "marker": "even so",
+    "category": "contrast",
+    "frequency": 3,
+    "bookSpread": 2
+  },
+  {
+    "marker": "may well",
+    "category": "hedging",
+    "frequency": 3,
+    "bookSpread": 2
+  },
+  {
+    "marker": "granted",
+    "category": "concession",
+    "frequency": 3,
+    "bookSpread": 2
+  },
+  {
+    "marker": "in spite of",
+    "category": "contrast",
+    "frequency": 2,
+    "bookSpread": 2
+  },
+  {
+    "marker": "accordingly",
+    "category": "cause_effect",
+    "frequency": 2,
+    "bookSpread": 2
+  },
+  {
+    "marker": "what is more",
+    "category": "addition",
+    "frequency": 2,
+    "bookSpread": 2
+  },
+  {
+    "marker": "to illustrate",
+    "category": "example",
+    "frequency": 2,
+    "bookSpread": 2
+  },
+  {
+    "marker": "notably",
+    "category": "emphasis",
+    "frequency": 2,
+    "bookSpread": 2
+  },
+  {
+    "marker": "fundamentally",
+    "category": "emphasis",
+    "frequency": 2,
+    "bookSpread": 2
+  },
+  {
+    "marker": "in some cases",
+    "category": "hedging",
+    "frequency": 2,
+    "bookSpread": 2
+  },
+  {
+    "marker": "subsequently",
+    "category": "sequence",
+    "frequency": 2,
+    "bookSpread": 2
+  },
+  {
+    "marker": "in spite of",
+    "category": "concession",
+    "frequency": 2,
+    "bookSpread": 2
+  },
+  {
+    "marker": "in short",
+    "category": "conclusion",
+    "frequency": 2,
+    "bookSpread": 2
+  },
+  {
+    "marker": "on the whole",
+    "category": "conclusion",
+    "frequency": 2,
+    "bookSpread": 2
+  },
+  {
+    "marker": "in comparison",
+    "category": "comparison",
+    "frequency": 2,
+    "bookSpread": 1
+  },
+  {
+    "marker": "nonetheless",
+    "category": "contrast",
+    "frequency": 1,
+    "bookSpread": 1
+  },
+  {
+    "marker": "conversely",
+    "category": "contrast",
+    "frequency": 1,
+    "bookSpread": 1
+  },
+  {
+    "marker": "contrary to",
+    "category": "contrast",
+    "frequency": 1,
+    "bookSpread": 1
+  },
+  {
+    "marker": "notwithstanding",
+    "category": "contrast",
+    "frequency": 1,
+    "bookSpread": 1
+  },
+  {
+    "marker": "as a consequence",
+    "category": "cause_effect",
+    "frequency": 1,
+    "bookSpread": 1
+  },
+  {
+    "marker": "for this reason",
+    "category": "cause_effect",
+    "frequency": 1,
+    "bookSpread": 1
+  },
+  {
+    "marker": "stem from",
+    "category": "cause_effect",
+    "frequency": 1,
+    "bookSpread": 1
+  },
+  {
+    "marker": "likewise",
+    "category": "addition",
+    "frequency": 1,
+    "bookSpread": 1
+  },
+  {
+    "marker": "chiefly",
+    "category": "emphasis",
+    "frequency": 1,
+    "bookSpread": 1
+  },
+  {
+    "marker": "arguably",
+    "category": "hedging",
+    "frequency": 1,
+    "bookSpread": 1
+  },
+  {
+    "marker": "it is thought",
+    "category": "hedging",
+    "frequency": 1,
+    "bookSpread": 1
+  },
+  {
+    "marker": "it is believed",
+    "category": "hedging",
+    "frequency": 1,
+    "bookSpread": 1
+  },
+  {
+    "marker": "it is estimated",
+    "category": "hedging",
+    "frequency": 1,
+    "bookSpread": 1
+  },
+  {
+    "marker": "it is probable",
+    "category": "hedging",
+    "frequency": 1,
+    "bookSpread": 1
+  },
+  {
+    "marker": "thirdly",
+    "category": "sequence",
+    "frequency": 1,
+    "bookSpread": 1
+  },
+  {
+    "marker": "in the meantime",
+    "category": "sequence",
+    "frequency": 1,
+    "bookSpread": 1
+  },
+  {
+    "marker": "prior to",
+    "category": "sequence",
+    "frequency": 1,
+    "bookSpread": 1
+  },
+  {
+    "marker": "likewise",
+    "category": "comparison",
+    "frequency": 1,
+    "bookSpread": 1
+  },
+  {
+    "marker": "in conclusion",
+    "category": "conclusion",
+    "frequency": 1,
+    "bookSpread": 1
+  },
+  {
+    "marker": "to sum up",
+    "category": "conclusion",
+    "frequency": 1,
+    "bookSpread": 1
+  }
+]

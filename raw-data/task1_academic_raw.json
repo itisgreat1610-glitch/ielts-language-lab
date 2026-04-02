@@ -1,0 +1,889 @@
+{
+  "model_answers": [
+    {
+      "id": "task1-001",
+      "filename": "Bar_1.docx",
+      "chart_type": "bar",
+      "text": "The given bar chart compares the amount of prize money won by men and women at various golfing competitions in 2010.\n\nOverall, men tended to earn substantially more money than women in each of the competitions where both sexes participated. In the two women-only competitions, the average prize money was also considerably lower than the one in which only men competed.\n\nAccording to the bar chart, in the ANA and Evian Championship majors, which were open only to women, winnings were under $500,000. In contrast, prize money for the men-only Masters golf major was nearly two million dollars.\n\nIn the three championships in which both men and women compete, the US Open, the Open Champ, and the PGA, there was a strikingly similar trend. Male winnings were almost triple those of female earnings in two of them, while in the US Open they were double. Female prize money fell between $500,000 and $800,000, whereas men’s winner earnings began at just under two million dollars, with the US Open winnings, the most lucrative of the competitions, higher than that.",
+      "paragraphs": [
+        "The given bar chart compares the amount of prize money won by men and women at various golfing competitions in 2010.",
+        "Overall, men tended to earn substantially more money than women in each of the competitions where both sexes participated. In the two women-only competitions, the average prize money was also considerably lower than the one in which only men competed.",
+        "According to the bar chart, in the ANA and Evian Championship majors, which were open only to women, winnings were under $500,000. In contrast, prize money for the men-only Masters golf major was nearly two million dollars.",
+        "In the three championships in which both men and women compete, the US Open, the Open Champ, and the PGA, there was a strikingly similar trend. Male winnings were almost triple those of female earnings in two of them, while in the US Open they were double. Female prize money fell between $500,000 and $800,000, whereas men’s winner earnings began at just under two million dollars, with the US Open winnings, the most lucrative of the competitions, higher than that."
+      ],
+      "paragraph_count": 4,
+      "word_count": 178
+    },
+    {
+      "id": "task1-002",
+      "filename": "Bar_2.docx",
+      "chart_type": "bar",
+      "text": "The bar charts below show the average number of trips made by bus, train, taxi and Uber, and the average cost per trip in Sydney between 2004 and 2016.\n\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.\n\nThe first bar chart compares how many trips people in Sydney made using four modes of transport, while the second provides information on average costs per trip from 2004 to 2016.\n\nOverall, it is clear that the train was the most popular form of transport in all four years and its use increased. While Uber use increased, taxi patronage dropped, and there was little change in the number of bus trips. Cost-wise, taxis and Ubers were the most expensive although the average price fell.\n\nIn terms of public transport, trains were clearly the preferred option. The average number of trips rose from 28 per year in 2004 to almost 70 in 2016, whereas people only took buses between 15 and 20 times per year. In terms of ticket costs, both were much lower than taxis and Ubers. In 2004, the average cost per train and bus trip was around $2, rising to $5 for the bus and around $7 for the train by the final year.",
+      "paragraphs": [
+        "The bar charts below show the average number of trips made by bus, train, taxi and Uber, and the average cost per trip in Sydney between 2004 and 2016.",
+        "Summarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+        "The first bar chart compares how many trips people in Sydney made using four modes of transport, while the second provides information on average costs per trip from 2004 to 2016.",
+        "Overall, it is clear that the train was the most popular form of transport in all four years and its use increased. While Uber use increased, taxi patronage dropped, and there was little change in the number of bus trips. Cost-wise, taxis and Ubers were the most expensive although the average price fell.",
+        "In terms of public transport, trains were clearly the preferred option. The average number of trips rose from 28 per year in 2004 to almost 70 in 2016, whereas people only took buses between 15 and 20 times per year. In terms of ticket costs, both were much lower than taxis and Ubers. In 2004, the average cost per train and bus trip was around $2, rising to $5 for the bus and around $7 for the train by the final year."
+      ],
+      "paragraph_count": 5,
+      "word_count": 210
+    },
+    {
+      "id": "task1-003",
+      "filename": "Bar_3.docx",
+      "chart_type": "bar",
+      "text": "The bar charts below show the average number of trips made by bus, train, taxi and Uber, and the average cost per trip in Sydney between 2004 and 2016. \n\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.\n\nThe first bar chart compares how many trips people in Sydney made using four modes of transport, while the second provides information on average costs per trip from 2004 to 2016.\n\nOverall, it is clear that the train was the most popular form of transport in all four years and its use increased. While Uber use increased, taxi patronage dropped, and there was little change in the number of bus trips. Cost-wise, taxis and Ubers were the most expensive although the average price fell.\n\nIn terms of public transport, trains were clearly the preferred option. The average number of trips rose from 28 per year in 2004 to almost 70 in 2016, whereas people only took buses between 15 and 20 times per year. In terms of ticket costs, both were much lower than taxis and Ubers. In 2004, the average cost per train and bus trip was around $2, rising to $5 for the bus and around $7 for the train by the final year.\n\nThe trends for taxis and Ubers were quite different. Uber entered the market in 2012 and quickly gained popularity with under 10 trips made per person in that year and over 30 four years later. Taxi use saw a steady decline particularly after the arrival of Uber, falling from over 15 trips to under 5. Prices for both were at least double the public transport options, although they dropped during the period. Taxis saw a particularly large decline from an average of around $23 per trip in 2004 to only about $13 in 2016.",
+      "paragraphs": [
+        "The bar charts below show the average number of trips made by bus, train, taxi and Uber, and the average cost per trip in Sydney between 2004 and 2016.",
+        "Summarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+        "The first bar chart compares how many trips people in Sydney made using four modes of transport, while the second provides information on average costs per trip from 2004 to 2016.",
+        "Overall, it is clear that the train was the most popular form of transport in all four years and its use increased. While Uber use increased, taxi patronage dropped, and there was little change in the number of bus trips. Cost-wise, taxis and Ubers were the most expensive although the average price fell.",
+        "In terms of public transport, trains were clearly the preferred option. The average number of trips rose from 28 per year in 2004 to almost 70 in 2016, whereas people only took buses between 15 and 20 times per year. In terms of ticket costs, both were much lower than taxis and Ubers. In 2004, the average cost per train and bus trip was around $2, rising to $5 for the bus and around $7 for the train by the final year.",
+        "The trends for taxis and Ubers were quite different. Uber entered the market in 2012 and quickly gained popularity with under 10 trips made per person in that year and over 30 four years later. Taxi use saw a steady decline particularly after the arrival of Uber, falling from over 15 trips to under 5. Prices for both were at least double the public transport options, although they dropped during the period. Taxis saw a particularly large decline from an average of around $23 per trip in 2004 to only about $13 in 2016."
+      ],
+      "paragraph_count": 6,
+      "word_count": 304
+    },
+    {
+      "id": "task1-004",
+      "filename": "Bar_4.docx",
+      "chart_type": "bar",
+      "text": "You should spend about 20 minutes on this task. Write at least 150 words. The bar chart shows the percentage of Tasmanian men and women who played competitive sports in 2015. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.\n\nThe bar graph compares the proportions of males and females in Tasmania who competed in team games in 2015.\n\nOverall, young Tasmanians were clearly the most engaged in competitive sports. In terms of gender,\n\nwhereas in the younger age groups males took part in these sports in greater numbers, in the two oldest\n\ngroups, women’s participation was higher.\n\nAs noted above, roughly the same percentage of under 19s played competitively in teams at 60% of the island's population. In their 20s, males continued to take part in the same numbers, but the percentage of females was much lower, with just over half the figure of under 19s (around 33%). Although the percentage of men was significantly lower in the next oldest age bracket (30-39- year-olds), it was still almost double that of Tasmanian women, with just 20% in this age group competing.\n\nInterestingly, participation percentages for women were higher among the older age groups, with  round 30% of both genders playing team sports in their 40s. While only 20% of men were still playing into their 50s and beyond, the figure was slightly higher for women.",
+      "paragraphs": [
+        "You should spend about 20 minutes on this task. Write at least 150 words. The bar chart shows the percentage of Tasmanian men and women who played competitive sports in 2015. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+        "The bar graph compares the proportions of males and females in Tasmania who competed in team games in 2015.",
+        "Overall, young Tasmanians were clearly the most engaged in competitive sports. In terms of gender,",
+        "whereas in the younger age groups males took part in these sports in greater numbers, in the two oldest",
+        "groups, women’s participation was higher.",
+        "As noted above, roughly the same percentage of under 19s played competitively in teams at 60% of the island's population. In their 20s, males continued to take part in the same numbers, but the percentage of females was much lower, with just over half the figure of under 19s (around 33%). Although the percentage of men was significantly lower in the next oldest age bracket (30-39- year-olds), it was still almost double that of Tasmanian women, with just 20% in this age group competing.",
+        "Interestingly, participation percentages for women were higher among the older age groups, with  round 30% of both genders playing team sports in their 40s. While only 20% of men were still playing into their 50s and beyond, the figure was slightly higher for women."
+      ],
+      "paragraph_count": 7,
+      "word_count": 232
+    },
+    {
+      "id": "task1-005",
+      "filename": "Bar_5.docx",
+      "chart_type": "bar",
+      "text": "The graph shows the percentage of international students enrolled in university in 5 countries in 2009 and 2013.\n\nThe bar chart compares the proportion of international students enrolled in universities in five nations in 2009 and four years later in 2013.\n\nOverall, it is clear that Australia had the highest percentage of foreign university students in 2009, but in 2013, it was Singapore that had the biggest figure. Both countries, however, saw a drop in 2013. Meanwhile, international enrolments rose in the UK, the USA and in Spain over the four-year period.\n\nIn 2009, 21.47% of Australia university students were from abroad while just slightly less, 20.34% of students in Singapore unis were foreigners. By 2013, although Singapore's figure was the highest of all five countries, both it and Australia experienced a slight drop in their percentages.\n\nIn contrast, the other countries’ figures increased. In the UK, just over 15% of university students were internationals in 2009 and this had risen to over 17% by 2013. Although the figures in the US and Spain were significantly lower, they too saw a rise, albeit minor. In both countries, under 4% of their university student body came from other countries.",
+      "paragraphs": [
+        "The graph shows the percentage of international students enrolled in university in 5 countries in 2009 and 2013.",
+        "The bar chart compares the proportion of international students enrolled in universities in five nations in 2009 and four years later in 2013.",
+        "Overall, it is clear that Australia had the highest percentage of foreign university students in 2009, but in 2013, it was Singapore that had the biggest figure. Both countries, however, saw a drop in 2013. Meanwhile, international enrolments rose in the UK, the USA and in Spain over the four-year period.",
+        "In 2009, 21.47% of Australia university students were from abroad while just slightly less, 20.34% of students in Singapore unis were foreigners. By 2013, although Singapore's figure was the highest of all five countries, both it and Australia experienced a slight drop in their percentages.",
+        "In contrast, the other countries’ figures increased. In the UK, just over 15% of university students were internationals in 2009 and this had risen to over 17% by 2013. Although the figures in the US and Spain were significantly lower, they too saw a rise, albeit minor. In both countries, under 4% of their university student body came from other countries."
+      ],
+      "paragraph_count": 5,
+      "word_count": 198
+    },
+    {
+      "id": "task1-006",
+      "filename": "Bar_6.docx",
+      "chart_type": "bar",
+      "text": "The bar chart shows how many people came from 5 countries to Australia for business, holidays or to visit family and friends in 2017.\n\nThe bar chart compares visitor numbers to Australia in 2017 according to the reasons for travel. The  data from 5 countries are given.\n\nOverall, it is clear that the largest number of people came from China and New Zealand, and most people came for a holiday, except for those from the UK, who mainly came to see family and friends.\n\nOver 1.2 million visitors came from both China and New Zealand in this year. Holiday-making was the main reason for almost 700,000 Chinese travellers and about 500,000 New Zealanders. While slightly fewer came from NZ for work and visiting, the figures were substantially lower among Chinese, with 400,000 visiting for work and 300,000 to see friends/family.\n\nThe trends were similar for Japan and the USA although the figures were much lower. In both cases, most people came for a holiday, followed by work and then family/friends. Under 50,000 Japanese travellers came for this reason. The UK's ratio was quite different. Over 300,000 came to Australia for family or social reasons and about 200000 for both work and leisure.",
+      "paragraphs": [
+        "The bar chart shows how many people came from 5 countries to Australia for business, holidays or to visit family and friends in 2017.",
+        "The bar chart compares visitor numbers to Australia in 2017 according to the reasons for travel. The  data from 5 countries are given.",
+        "Overall, it is clear that the largest number of people came from China and New Zealand, and most people came for a holiday, except for those from the UK, who mainly came to see family and friends.",
+        "Over 1.2 million visitors came from both China and New Zealand in this year. Holiday-making was the main reason for almost 700,000 Chinese travellers and about 500,000 New Zealanders. While slightly fewer came from NZ for work and visiting, the figures were substantially lower among Chinese, with 400,000 visiting for work and 300,000 to see friends/family.",
+        "The trends were similar for Japan and the USA although the figures were much lower. In both cases, most people came for a holiday, followed by work and then family/friends. Under 50,000 Japanese travellers came for this reason. The UK's ratio was quite different. Over 300,000 came to Australia for family or social reasons and about 200000 for both work and leisure."
+      ],
+      "paragraph_count": 5,
+      "word_count": 202
+    },
+    {
+      "id": "task1-007",
+      "filename": "Diagram_1.docx",
+      "chart_type": "diagram",
+      "text": "The diagram illustrates the process that is used to manufacture bricks for the building industry.\n\nThe process diagram shows how bricks are made from clay for the construction industry.\n\nOverall, the brick-making process involves seven steps, beginning with the extraction of raw material from the ground and finishing with the delivery of the finished bricks.\n\nFirst of all, clay is dug from the ground using a machine known as a digger. It is then put through a metal grid which sifts the large chunks from the pure clay. Sand and water are then added and the mixture is either cut into bricks with wire or put into a rectangular mould to achieve the final shape.\n\nOnce the bricks have been formed, they are sent to a drying oven for one to two days before entering the heating stage. Here, they are heated in kilns, firstly at moderate temperatures (200-980 degrees Celsius) and then at high temperatures of up to 1300 degrees. The cooked bricks are eventually moved into a cooling chamber for another 48-72 hours until they are ready to be packaged and transported to their final destination by truck.",
+      "paragraphs": [
+        "The diagram illustrates the process that is used to manufacture bricks for the building industry.",
+        "The process diagram shows how bricks are made from clay for the construction industry.",
+        "Overall, the brick-making process involves seven steps, beginning with the extraction of raw material from the ground and finishing with the delivery of the finished bricks.",
+        "First of all, clay is dug from the ground using a machine known as a digger. It is then put through a metal grid which sifts the large chunks from the pure clay. Sand and water are then added and the mixture is either cut into bricks with wire or put into a rectangular mould to achieve the final shape.",
+        "Once the bricks have been formed, they are sent to a drying oven for one to two days before entering the heating stage. Here, they are heated in kilns, firstly at moderate temperatures (200-980 degrees Celsius) and then at high temperatures of up to 1300 degrees. The cooked bricks are eventually moved into a cooling chamber for another 48-72 hours until they are ready to be packaged and transported to their final destination by truck."
+      ],
+      "paragraph_count": 5,
+      "word_count": 190
+    },
+    {
+      "id": "task1-008",
+      "filename": "Diagram_2.docx",
+      "chart_type": "diagram",
+      "text": "The diagram shows how glass is recycled. Summarise the information by selecting and reporting the main features and make comparisons where relevant.\n\nThe diagram illustrates the stages and machinery required to recycle glass products.\n\nOverall, the process requires eight steps and several pieces of equipment, beginning with the collection of glass and finishing with the organisation and distribution of new products.\n\nFirst of all, after a glass product has been used, it is discarded in bins and collected before being transported by truck to a recycling facility. Here, the different types of glass are sorted according to colour. Once this has been done manually, the glass is fed into a machine which crushes it into small pieces.\n\nThese small glass shards are then moved into a washing area to be thoroughly cleaned. When this step has been completed, the glass is poured into a machine where it is subjected to extreme heat and melted so that it can be used to create new items. These products are then reorganised and made ready for sale, after which the whole process will begin again",
+      "paragraphs": [
+        "The diagram shows how glass is recycled. Summarise the information by selecting and reporting the main features and make comparisons where relevant.",
+        "The diagram illustrates the stages and machinery required to recycle glass products.",
+        "Overall, the process requires eight steps and several pieces of equipment, beginning with the collection of glass and finishing with the organisation and distribution of new products.",
+        "First of all, after a glass product has been used, it is discarded in bins and collected before being transported by truck to a recycling facility. Here, the different types of glass are sorted according to colour. Once this has been done manually, the glass is fed into a machine which crushes it into small pieces.",
+        "These small glass shards are then moved into a washing area to be thoroughly cleaned. When this step has been completed, the glass is poured into a machine where it is subjected to extreme heat and melted so that it can be used to create new items. These products are then reorganised and made ready for sale, after which the whole process will begin again"
+      ],
+      "paragraph_count": 5,
+      "word_count": 182
+    },
+    {
+      "id": "task1-009",
+      "filename": "Diagram_3.docx",
+      "chart_type": "diagram",
+      "text": "You should spend about 20 minutes on this task. Write at least 150 words. The diagram shows how strawberry jam is made. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.\n\nThe diagram illustrates the process by which strawberry jam is manufactured.\n\nOverall, fresh strawberries are prepared and made into jam in 8 stages, starting with the preparation of the fruit and ending with the packaging into jars and boxes.\n\nFirst of all, before being processed into jam, the strawberries have their stalks removed and are spray washed. They are then taken by conveyor belt to a machine which crushes them. Citric acid is added to the pulped strawberries here, after which they are cooked in a boiler until they have turned into jam.\n\nThe next part of the process entails removing the jam from the top of the boiler through a pipe into a large tank, which sits above a long conveyor belt. Empty jars are lowered onto this belt and then moved one by one until they are directly below the tank containing the jam. Once enough jam has been released from this tank to fill the jars, they next pass along the belt to another machine which fits airtight lids to them. After sealing, in the final stage, the jars are picked up and lowered into boxes for delivery.",
+      "paragraphs": [
+        "You should spend about 20 minutes on this task. Write at least 150 words. The diagram shows how strawberry jam is made. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+        "The diagram illustrates the process by which strawberry jam is manufactured.",
+        "Overall, fresh strawberries are prepared and made into jam in 8 stages, starting with the preparation of the fruit and ending with the packaging into jars and boxes.",
+        "First of all, before being processed into jam, the strawberries have their stalks removed and are spray washed. They are then taken by conveyor belt to a machine which crushes them. Citric acid is added to the pulped strawberries here, after which they are cooked in a boiler until they have turned into jam.",
+        "The next part of the process entails removing the jam from the top of the boiler through a pipe into a large tank, which sits above a long conveyor belt. Empty jars are lowered onto this belt and then moved one by one until they are directly below the tank containing the jam. Once enough jam has been released from this tank to fill the jars, they next pass along the belt to another machine which fits airtight lids to them. After sealing, in the final stage, the jars are picked up and lowered into boxes for delivery."
+      ],
+      "paragraph_count": 5,
+      "word_count": 228
+    },
+    {
+      "id": "task1-010",
+      "filename": "Diagram_4.docx",
+      "chart_type": "diagram",
+      "text": "You should spend about 20 minutes on this task. The diagram shows how coffee is produced from beans Summarise the information by selecting and reporting the main features, and make comparisons where relevant.\n\nThe diagram given illustrates the production of coffee.\n\nOverall, itis clear that there are ten stages that are needed to make a cup of coffee. They begin with its cultivation and include various processes as well as transportation until the ground beans are used to brew coffee for consumption.\n\nLooking in more detail, coffee beans are grown on a bush and, once they are ripe, are picked by hand. Before they reach the consumer, they have to be processed in several ways. In the first stage, the beans are processed, either wet or dry, before being put through a milling machine.\n\nAfter this, the milled beans are transported to their destination where they are roasted. Once roasted, the beans are ground and then, to preserve their freshness, put into packets. The final stage of their journey sees them delivered to a cafe or restaurant ready to be brewed in a machine which is designed to give the drinker an enjoyable cup of coffee.",
+      "paragraphs": [
+        "You should spend about 20 minutes on this task. The diagram shows how coffee is produced from beans Summarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+        "The diagram given illustrates the production of coffee.",
+        "Overall, itis clear that there are ten stages that are needed to make a cup of coffee. They begin with its cultivation and include various processes as well as transportation until the ground beans are used to brew coffee for consumption.",
+        "Looking in more detail, coffee beans are grown on a bush and, once they are ripe, are picked by hand. Before they reach the consumer, they have to be processed in several ways. In the first stage, the beans are processed, either wet or dry, before being put through a milling machine.",
+        "After this, the milled beans are transported to their destination where they are roasted. Once roasted, the beans are ground and then, to preserve their freshness, put into packets. The final stage of their journey sees them delivered to a cafe or restaurant ready to be brewed in a machine which is designed to give the drinker an enjoyable cup of coffee."
+      ],
+      "paragraph_count": 5,
+      "word_count": 196
+    },
+    {
+      "id": "task1-011",
+      "filename": "Line_1.docx",
+      "chart_type": "line",
+      "text": "The line graph provides information about the average emissions of carbon dioxide per person in four countries from 1967 to 2007.\n\nOverall, it is clear that although the UK produced the most CO2 per\n\ncapita, output fell there and in Sweden over the period. Meanwhile,\n\nthere were significant rises in the emission levels from people in Italy\n\nand Portugal.\n\nIn 1967, people in the UK were the biggest polluters, responsible for\n\nalmost 11 metric tonnes of CO2 each. The next highest emitters were\n\nthe Swedes, with around 8.5 metric tonnes each, which was almost\n\ndouble the output of the average Italian, and sixteen times more than\n\na person in Portugal. CO2 output fell steadily in the UK over the next\n\nforty years, however, and despite a surge in the 70s, people in Sweden\n\nalso cut their emissions dramatically until by 2007, they accounted for\n\nonly around 5 metric tonnes each.\n\nBy contrast, after 1967, emissions increased from Italy and Portugal.\n\nBy the end of the given period, Italy was the second highest polluter,\n\nwith almost 8 metric tonnes, and in Portugal, though it was still the\n\nlowest emitter along with Sweden, just under 6 metric tonnes per\n\nperson were generated.",
+      "paragraphs": [
+        "The line graph provides information about the average emissions of carbon dioxide per person in four countries from 1967 to 2007.",
+        "Overall, it is clear that although the UK produced the most CO2 per",
+        "capita, output fell there and in Sweden over the period. Meanwhile,",
+        "there were significant rises in the emission levels from people in Italy",
+        "and Portugal.",
+        "In 1967, people in the UK were the biggest polluters, responsible for",
+        "almost 11 metric tonnes of CO2 each. The next highest emitters were",
+        "the Swedes, with around 8.5 metric tonnes each, which was almost",
+        "double the output of the average Italian, and sixteen times more than",
+        "a person in Portugal. CO2 output fell steadily in the UK over the next",
+        "forty years, however, and despite a surge in the 70s, people in Sweden",
+        "also cut their emissions dramatically until by 2007, they accounted for",
+        "only around 5 metric tonnes each.",
+        "By contrast, after 1967, emissions increased from Italy and Portugal.",
+        "By the end of the given period, Italy was the second highest polluter,",
+        "with almost 8 metric tonnes, and in Portugal, though it was still the",
+        "lowest emitter along with Sweden, just under 6 metric tonnes per",
+        "person were generated."
+      ],
+      "paragraph_count": 18,
+      "word_count": 200
+    },
+    {
+      "id": "task1-012",
+      "filename": "Line_2.docx",
+      "chart_type": "line",
+      "text": "The line graph shows the number of customers in four restaurants between 1990 and 2015.\n\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.\n\nThe given graph provides information about how many people went to four eateries from 1990 to 2015.\n\nOverall, it is clear that there were dramatic differences in the popularity of the restaurants. While the two top ones in 1990, Pizza Hut and Chick Spot, experienced a decline in customers over the period, Burger Bar and Donut Bro saw significant rises.\n\nIn 1990, 8000 people ate at Pizza Hut, which was 2000 more than the figure for Chicken Spot. Donut Bro only had 2500 customers that year and Burger Bar had even fewer, with just over 1000. These two lowest performing restaurants saw little change over the next five years before a significant rise from 1995 to 2005 when they had 6000 and 3000 customers respectively. The growth continued until, by 2015, Donut Bro had by far the most customers (8000) out of the four, and Burger Bar just under 4000.\n\nIn contrast, from 1990 onwards, Pizza Hut saw a steady drop in customers. Although there was a slight rise in 2010, the figure had fallen by 3000 in 2015 when only 5000 people visited. Meanwhile, despite increasing from 6000 in 1990 to 7000 in the year 2000, Chicken Spot also experienced a considerable decline in customer numbers. Its figure plummeted to under 3000 in 2015, making it the least popular venue.",
+      "paragraphs": [
+        "The line graph shows the number of customers in four restaurants between 1990 and 2015.",
+        "Summarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+        "The given graph provides information about how many people went to four eateries from 1990 to 2015.",
+        "Overall, it is clear that there were dramatic differences in the popularity of the restaurants. While the two top ones in 1990, Pizza Hut and Chick Spot, experienced a decline in customers over the period, Burger Bar and Donut Bro saw significant rises.",
+        "In 1990, 8000 people ate at Pizza Hut, which was 2000 more than the figure for Chicken Spot. Donut Bro only had 2500 customers that year and Burger Bar had even fewer, with just over 1000. These two lowest performing restaurants saw little change over the next five years before a significant rise from 1995 to 2005 when they had 6000 and 3000 customers respectively. The growth continued until, by 2015, Donut Bro had by far the most customers (8000) out of the four, and Burger Bar just under 4000.",
+        "In contrast, from 1990 onwards, Pizza Hut saw a steady drop in customers. Although there was a slight rise in 2010, the figure had fallen by 3000 in 2015 when only 5000 people visited. Meanwhile, despite increasing from 6000 in 1990 to 7000 in the year 2000, Chicken Spot also experienced a considerable decline in customer numbers. Its figure plummeted to under 3000 in 2015, making it the least popular venue."
+      ],
+      "paragraph_count": 6,
+      "word_count": 251
+    },
+    {
+      "id": "task1-013",
+      "filename": "Line_3.docx",
+      "chart_type": "line",
+      "text": "The line graph shows weekly meat consumption per person in Australia from 1980 to 2005. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.\n\nThe given line graph compares how much beef, chicken, pork and lamb was eaten per person on a weekly basis between 1980 and 2005 in Australia.\n\nOverall, while beef consumption rose over the period, other types of meat saw reduced or stable consumption.\n\nBeef consumption showed massive growth over the period. In 1980, it was the least consumed type of meat, starting at roughly 100 grams per person each week; however, it quickly doubled, reaching 200 grams after 5 years and overtaking other kinds of meat. Then, despite a brief drop, by 2005, it had reached roughly 290 grams per week, a three-fold increase from 1980, making it clearly the most consumed type of meat.\t\n\nLamb showed the opposite trend, starting at roughly 275 grams per week, more than double that of beef, and fell notably, dropping to roughly 225 by 1985. By 2005, it had fallen to roughly 75 grams, less than one third of its initial amount and clearly the least popular form of meat. Similarly, pork consumption dropped from 160 grams in 1980 to 100 grams by 2005. Chicken, meanwhile, remained relatively stable, starting and ending at roughly 200 grams per week over the period.",
+      "paragraphs": [
+        "The line graph shows weekly meat consumption per person in Australia from 1980 to 2005. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+        "The given line graph compares how much beef, chicken, pork and lamb was eaten per person on a weekly basis between 1980 and 2005 in Australia.",
+        "Overall, while beef consumption rose over the period, other types of meat saw reduced or stable consumption.",
+        "Beef consumption showed massive growth over the period. In 1980, it was the least consumed type of meat, starting at roughly 100 grams per person each week; however, it quickly doubled, reaching 200 grams after 5 years and overtaking other kinds of meat. Then, despite a brief drop, by 2005, it had reached roughly 290 grams per week, a three-fold increase from 1980, making it clearly the most consumed type of meat.",
+        "Lamb showed the opposite trend, starting at roughly 275 grams per week, more than double that of beef, and fell notably, dropping to roughly 225 by 1985. By 2005, it had fallen to roughly 75 grams, less than one third of its initial amount and clearly the least popular form of meat. Similarly, pork consumption dropped from 160 grams in 1980 to 100 grams by 2005. Chicken, meanwhile, remained relatively stable, starting and ending at roughly 200 grams per week over the period."
+      ],
+      "paragraph_count": 5,
+      "word_count": 228
+    },
+    {
+      "id": "task1-014",
+      "filename": "Line_4.docx",
+      "chart_type": "line",
+      "text": "You should spend about 20 minutes on this task. Write at least 150 words. The line graph shows average house prices in thousands of dollars in four major Australian cities between 2004 and 2014. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.\n\nThe graph compares the average cost of a house in four Australian cities from 2004 to 2014.\n\nOverall, Sydney was clearly the most expensive place to buy a house over this period though all cities saw an increase in prices, especially Melbourne and Perth.\n\nSydney was consistently the most expensive place to buy a house and its cost had a noticeable increase. After starting at roughly $550,000 in 2004, it was notably more expensive than the other cities. Then, despite some fluctuations, it showed an overall increase. By 2014, it had risen to almost $700,000. Melbourne also showed an upward trend. It started as the second most expensive place in 2004 at roughly $350,000 and steadily climbed, reaching $550,000 by 2014. Brisbane grew in a similar fashion, rising from roughly $320,000 in 2004 to $420,000 by 2014.\n\nDespite consistently having relatively lower costs, Perth clearly showed the most growth. It had the lowest cost in 2004 at roughly $280,000. Then, prices rose quickly, peaking at roughly $510,000 in 2006, almost matching Sydney's high prices. The prices then fell, but reached $510,000 again in 2014, a nearly 50% jump from its 2004 prices.",
+      "paragraphs": [
+        "You should spend about 20 minutes on this task. Write at least 150 words. The line graph shows average house prices in thousands of dollars in four major Australian cities between 2004 and 2014. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+        "The graph compares the average cost of a house in four Australian cities from 2004 to 2014.",
+        "Overall, Sydney was clearly the most expensive place to buy a house over this period though all cities saw an increase in prices, especially Melbourne and Perth.",
+        "Sydney was consistently the most expensive place to buy a house and its cost had a noticeable increase. After starting at roughly $550,000 in 2004, it was notably more expensive than the other cities. Then, despite some fluctuations, it showed an overall increase. By 2014, it had risen to almost $700,000. Melbourne also showed an upward trend. It started as the second most expensive place in 2004 at roughly $350,000 and steadily climbed, reaching $550,000 by 2014. Brisbane grew in a similar fashion, rising from roughly $320,000 in 2004 to $420,000 by 2014.",
+        "Despite consistently having relatively lower costs, Perth clearly showed the most growth. It had the lowest cost in 2004 at roughly $280,000. Then, prices rose quickly, peaking at roughly $510,000 in 2006, almost matching Sydney's high prices. The prices then fell, but reached $510,000 again in 2014, a nearly 50% jump from its 2004 prices."
+      ],
+      "paragraph_count": 5,
+      "word_count": 241
+    },
+    {
+      "id": "task1-015",
+      "filename": "Line_5.docx",
+      "chart_type": "line",
+      "text": "You should spend about 20 minutes on this task. Write at least 150 words.\n\nThe line graph shows visitor numbers to 5 attractions in the city of Parkvale from 1996 to 2016. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.\n\nThe graph compares the number of people who visited 5 attractions in Parkvale city between 1996 and 2016.\n\nOverall, the National Gallery was by far the most popular venue after 2000, although the Indigenous Art Museum also saw a rise in visitor numbers. While fewer people went to the aquarium and zoo over the two decades, museum attendance remained fairly stable.\n\nIn 1996, the aquarium was the main attraction, with over 500,000 people coming through the doors. Slightly fewer went to the museum in that year, and the zoo and National Gallery welcomed approximately 300,00 people each. Although the Indigenous Art Centre attracted barely 80 thousand people in 1996, it then enjoyed a huge rise in popularity over the next 10 years, peaking at almost 400,000 visitors in 2004 and reaching a similar figure in 2016. By that year, also, the National Gallery had seen an unparalleled increase in visitors to almost 1 million.\n\nMeanwhile, over the period shown, aquarium attendance plummeted by about 400,000, going from the most to the least visited venue. The zoo’s figure fell substantially as well, though less dramatically, while the museum saw little deviation from around 450,000 annual visitors.",
+      "paragraphs": [
+        "You should spend about 20 minutes on this task. Write at least 150 words.",
+        "The line graph shows visitor numbers to 5 attractions in the city of Parkvale from 1996 to 2016. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+        "The graph compares the number of people who visited 5 attractions in Parkvale city between 1996 and 2016.",
+        "Overall, the National Gallery was by far the most popular venue after 2000, although the Indigenous Art Museum also saw a rise in visitor numbers. While fewer people went to the aquarium and zoo over the two decades, museum attendance remained fairly stable.",
+        "In 1996, the aquarium was the main attraction, with over 500,000 people coming through the doors. Slightly fewer went to the museum in that year, and the zoo and National Gallery welcomed approximately 300,00 people each. Although the Indigenous Art Centre attracted barely 80 thousand people in 1996, it then enjoyed a huge rise in popularity over the next 10 years, peaking at almost 400,000 visitors in 2004 and reaching a similar figure in 2016. By that year, also, the National Gallery had seen an unparalleled increase in visitors to almost 1 million.",
+        "Meanwhile, over the period shown, aquarium attendance plummeted by about 400,000, going from the most to the least visited venue. The zoo’s figure fell substantially as well, though less dramatically, while the museum saw little deviation from around 450,000 annual visitors."
+      ],
+      "paragraph_count": 6,
+      "word_count": 242
+    },
+    {
+      "id": "task1-016",
+      "filename": "Map_1.docx",
+      "chart_type": "map",
+      "text": "The maps below show the town of Madisonville in 1995 and the present day.\n\nThe pictures provide information about Madisonville as it was in 1995 and in its current state.\n\nOverall, the town appears to have evolved from a rural fishing town to more of a residential zone with more leisure facilities available to townspeople.\n\nWhereas a fishing port and fish market used to dominate the southern coastline in 1995, nowadays there is no sign of this industry. The market has been replaced by apartments, and on the other side of the coastal road, the old shops have been transformed into restaurants. The café on the beach remains, as does the hotel opposite though a new carpark has been constructed beside it.\n\nTo the north-west of the town, more houses have been built along the main road, and another road was extended to the west. To the north-east, farmland has been taken over by a golf course while what used to be the forest park is now a couple of tennis courts.",
+      "paragraphs": [
+        "The maps below show the town of Madisonville in 1995 and the present day.",
+        "The pictures provide information about Madisonville as it was in 1995 and in its current state.",
+        "Overall, the town appears to have evolved from a rural fishing town to more of a residential zone with more leisure facilities available to townspeople.",
+        "Whereas a fishing port and fish market used to dominate the southern coastline in 1995, nowadays there is no sign of this industry. The market has been replaced by apartments, and on the other side of the coastal road, the old shops have been transformed into restaurants. The café on the beach remains, as does the hotel opposite though a new carpark has been constructed beside it.",
+        "To the north-west of the town, more houses have been built along the main road, and another road was extended to the west. To the north-east, farmland has been taken over by a golf course while what used to be the forest park is now a couple of tennis courts."
+      ],
+      "paragraph_count": 5,
+      "word_count": 172
+    },
+    {
+      "id": "task1-017",
+      "filename": "Map_2.docx",
+      "chart_type": "map",
+      "text": "You should spend about  20 minutes on this task.  The maps below show the changes that occurred in the town of Newport between 1980 and 2010. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.\n\nThe two maps illustrate how the town of Newport changed from 1980 to 2010.\n\nMost notably, over the 30 years, while Newport acquired more amenities and transport access increased, most trees were cut down and all single dwellings were replaced.\n\nIn terms of transport, over the thirty years shown, the railway running along the coast, which in 1980 terminated to the east of the river, became a through line. Similarly, the road which used to stop near the lake in the north-east had been widened and extended by 2010 to connect to the road which gave access to the school in the north-west in 1980.\n\nThe school itself was knocked down in this period to be replaced by a shopping centre, and the carpark for the hospital next to it was moved and reduced in size in order to allow for the road extension. All of the trees that were growing to the south of these buildings in 1980 were felled to both make way for the new sports ground and university as well as the site of the new railway station. After the houses to the east of the river were demolished, a factory and apartment block were built in their place.",
+      "paragraphs": [
+        "You should spend about  20 minutes on this task.  The maps below show the changes that occurred in the town of Newport between 1980 and 2010. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+        "The two maps illustrate how the town of Newport changed from 1980 to 2010.",
+        "Most notably, over the 30 years, while Newport acquired more amenities and transport access increased, most trees were cut down and all single dwellings were replaced.",
+        "In terms of transport, over the thirty years shown, the railway running along the coast, which in 1980 terminated to the east of the river, became a through line. Similarly, the road which used to stop near the lake in the north-east had been widened and extended by 2010 to connect to the road which gave access to the school in the north-west in 1980.",
+        "The school itself was knocked down in this period to be replaced by a shopping centre, and the carpark for the hospital next to it was moved and reduced in size in order to allow for the road extension. All of the trees that were growing to the south of these buildings in 1980 were felled to both make way for the new sports ground and university as well as the site of the new railway station. After the houses to the east of the river were demolished, a factory and apartment block were built in their place."
+      ],
+      "paragraph_count": 5,
+      "word_count": 244
+    },
+    {
+      "id": "task1-018",
+      "filename": "Mix_1.docx",
+      "chart_type": "mixed",
+      "text": "The charts show the number of sports club members in the town of Laloonga from 2014 to 2019 and the percentage of males and females in those clubs in 2019. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.\n\nThe line graph compares the number of members in four sporting clubs between 2014 and 2019, while the bar chart shows the gender makeup of those clubs in 2019.\n\nOverall, it is clear that although the soccer club grew its membership over the period, other teams lost members or remained fairly stable. In terms of gender balance, the soccer and basketball teams were male dominated, with athletics the only club with a higher proportion of females.\n\nIn 2014, there were almost 400 members of the athletics team, and just over 200 in the soccer club. Over the next five years, as members left the athletics club, the soccer club grew up to become the most popular club with around 500 members. Throughout the period, the number of basketball and tennis club members remained fairly steady at just under 300 and 100 respectively.\n\nIn 2019, the most popular clubs also had the highest proportion of males, accounting for about three quarters in the soccer club and 65% in basketball. The tennis club had a fairly even representation of men and women, and the athletics team had more women; they accounted for around 60% of the membership.",
+      "paragraphs": [
+        "The charts show the number of sports club members in the town of Laloonga from 2014 to 2019 and the percentage of males and females in those clubs in 2019. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+        "The line graph compares the number of members in four sporting clubs between 2014 and 2019, while the bar chart shows the gender makeup of those clubs in 2019.",
+        "Overall, it is clear that although the soccer club grew its membership over the period, other teams lost members or remained fairly stable. In terms of gender balance, the soccer and basketball teams were male dominated, with athletics the only club with a higher proportion of females.",
+        "In 2014, there were almost 400 members of the athletics team, and just over 200 in the soccer club. Over the next five years, as members left the athletics club, the soccer club grew up to become the most popular club with around 500 members. Throughout the period, the number of basketball and tennis club members remained fairly steady at just under 300 and 100 respectively.",
+        "In 2019, the most popular clubs also had the highest proportion of males, accounting for about three quarters in the soccer club and 65% in basketball. The tennis club had a fairly even representation of men and women, and the athletics team had more women; they accounted for around 60% of the membership."
+      ],
+      "paragraph_count": 5,
+      "word_count": 240
+    },
+    {
+      "id": "task1-019",
+      "filename": "Mix_2.docx",
+      "chart_type": "mixed",
+      "text": "The bar chart shows the amount spent on digital games in the USA and China from 2010 to 2017 and the pie chart shows global spending on these games in 2017. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.\n\nThe bar chart compares how much money people in the USA and China spent on digital gaming between 2010 and 2017, while the pie chart reflects the global totals spent on mobile, console and PC games.\n\nOverall, gaming became a more lucrative industry over the period, with massive growth in China in particular. Worldwide, mobiles accounted for the largest market share in 2017.\n\nAccording to the first chart, in 2010, Chinese people spent around 8 billion dollars on games, which was approximately half the figure of the USA. Although spending increased steadily in America over the next 7 years, the rise was much more marked in China until by 2016, gamers there were spending slightly more than their US counterparts. By 2017, this figure had more than tripled to $28 billion, surpassing the $25 billion spent in the USA.\n\nin 2017, the two countries accounted for almost half of the gaming market revenue. In that year, people around the world spent over 110 billion dollars on this pastime, with 42% ($46.1 billion) going on mobile games, 31% on consoles and the rest on PC versions.",
+      "paragraphs": [
+        "The bar chart shows the amount spent on digital games in the USA and China from 2010 to 2017 and the pie chart shows global spending on these games in 2017. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+        "The bar chart compares how much money people in the USA and China spent on digital gaming between 2010 and 2017, while the pie chart reflects the global totals spent on mobile, console and PC games.",
+        "Overall, gaming became a more lucrative industry over the period, with massive growth in China in particular. Worldwide, mobiles accounted for the largest market share in 2017.",
+        "According to the first chart, in 2010, Chinese people spent around 8 billion dollars on games, which was approximately half the figure of the USA. Although spending increased steadily in America over the next 7 years, the rise was much more marked in China until by 2016, gamers there were spending slightly more than their US counterparts. By 2017, this figure had more than tripled to $28 billion, surpassing the $25 billion spent in the USA.",
+        "in 2017, the two countries accounted for almost half of the gaming market revenue. In that year, people around the world spent over 110 billion dollars on this pastime, with 42% ($46.1 billion) going on mobile games, 31% on consoles and the rest on PC versions."
+      ],
+      "paragraph_count": 5,
+      "word_count": 231
+    },
+    {
+      "id": "task1-020",
+      "filename": "Mix_3.docx",
+      "chart_type": "mixed",
+      "text": "The line graph shows visitor numbers to the National Museum before and after its refurbishment in 2010. The pie chart shows visitor satisfaction levels from a survey in 2015.\n\nThe line graph illustrates how many people visited the National Museum between 1995 and 2015 while the pie chart represents how satisfied they were according to a 2015 survey.\n\nOverall, it is clear that more local people and international students went to the museum after it was refurbished in 2010 and the vast majority of visitors in 2015 enjoyed their experience there.\n\nIn 1995, the museum was not very popular with locals, with only around 20,000 visiting, compared to about 45,000 foreign students. Although these figures did not change much over the next 15 years, after the museum underwent its refurbishment in 2010, numbers soared. By 2015, almost 70,000 local people visited and slightly fewer students. In terms of international tourists, despite a dramatic rise in visitors in 2000 when almost 70,000 visited, numbers fell steadily over the rest of the period.\n\nDespite that, the pie chart shows that over 3/4 of visitors were satisfied or very satisfied in 2015. While 10% said they were not pleased, only a tiny fraction were very disappointed",
+      "paragraphs": [
+        "The line graph shows visitor numbers to the National Museum before and after its refurbishment in 2010. The pie chart shows visitor satisfaction levels from a survey in 2015.",
+        "The line graph illustrates how many people visited the National Museum between 1995 and 2015 while the pie chart represents how satisfied they were according to a 2015 survey.",
+        "Overall, it is clear that more local people and international students went to the museum after it was refurbished in 2010 and the vast majority of visitors in 2015 enjoyed their experience there.",
+        "In 1995, the museum was not very popular with locals, with only around 20,000 visiting, compared to about 45,000 foreign students. Although these figures did not change much over the next 15 years, after the museum underwent its refurbishment in 2010, numbers soared. By 2015, almost 70,000 local people visited and slightly fewer students. In terms of international tourists, despite a dramatic rise in visitors in 2000 when almost 70,000 visited, numbers fell steadily over the rest of the period.",
+        "Despite that, the pie chart shows that over 3/4 of visitors were satisfied or very satisfied in 2015. While 10% said they were not pleased, only a tiny fraction were very disappointed"
+      ],
+      "paragraph_count": 5,
+      "word_count": 203
+    },
+    {
+      "id": "task1-021",
+      "filename": "Pie_1.docx",
+      "chart_type": "pie",
+      "text": "The first chart shows how energy is used in an average Australian household. The second chart shows the greenhouse gas emissions which result from this energy use. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.\n\nThe first pie chart provides information about energy use in an average Australian home while the second chart compares the emissions produced.\n\nOverall, it is clear that although heating requires the most energy domestically, it is not a significant cause of greenhouse gas emissions. In fact, water heating and appliances account for the majority.\n\nLooking in more detail at the consumption, household heating and water heating clearly require the most energy, accounting for 42% and 32% of overall use respectively. Other household appliances use 15% of the energy while refrigeration, lighting and cooling require less than 8% each.\n\nIn terms of emissions, however, the levels are quite different. Even though heating the home uses up the most energy, it accounts for only 15% of the emissions, just slightly more than refrigeration. It is the heating of water, that generates the most greenhouse gases, almost a third, followed by appliances which account for 28% of the average home’s pollution. As with energy consumption, figures for lighting and cooling are very low.",
+      "paragraphs": [
+        "The first chart shows how energy is used in an average Australian household. The second chart shows the greenhouse gas emissions which result from this energy use. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+        "The first pie chart provides information about energy use in an average Australian home while the second chart compares the emissions produced.",
+        "Overall, it is clear that although heating requires the most energy domestically, it is not a significant cause of greenhouse gas emissions. In fact, water heating and appliances account for the majority.",
+        "Looking in more detail at the consumption, household heating and water heating clearly require the most energy, accounting for 42% and 32% of overall use respectively. Other household appliances use 15% of the energy while refrigeration, lighting and cooling require less than 8% each.",
+        "In terms of emissions, however, the levels are quite different. Even though heating the home uses up the most energy, it accounts for only 15% of the emissions, just slightly more than refrigeration. It is the heating of water, that generates the most greenhouse gases, almost a third, followed by appliances which account for 28% of the average home’s pollution. As with energy consumption, figures for lighting and cooling are very low."
+      ],
+      "paragraph_count": 5,
+      "word_count": 212
+    },
+    {
+      "id": "task1-022",
+      "filename": "Pie_2.docx",
+      "chart_type": "pie",
+      "text": "The pie charts below show the proportion of waste produced by different Australian cities and the main types of waste. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.\n\nThe first pie chart compares the percentage of rubbish produced by various cities in Australia and the second one represents the different types of waste generated.\n\nOverall, it is clear that Sydney produces by far the most rubbish and that, nationwide, food accounts for the largest proportion of all waste generated.\n\nThe most waste is produced by Sydney, which generates more than half the rubbish in Australia. The second biggest rubbish producer is Melbourne accounting for 18%, just under a third of Sydney's proportion. After that, Brisbane and Hobart produce 13% and a mere 6% respectively, while other cities make up a combined 7%.\n\nIn terms of the type of rubbish Australians produce, almost two thirds of it is food. Plastic is the next most common waste product although the figure is much lower (18%). Metal accounts for approximately a tenth of the generated trash and the rest is made up of paper and other materials.",
+      "paragraphs": [
+        "The pie charts below show the proportion of waste produced by different Australian cities and the main types of waste. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+        "The first pie chart compares the percentage of rubbish produced by various cities in Australia and the second one represents the different types of waste generated.",
+        "Overall, it is clear that Sydney produces by far the most rubbish and that, nationwide, food accounts for the largest proportion of all waste generated.",
+        "The most waste is produced by Sydney, which generates more than half the rubbish in Australia. The second biggest rubbish producer is Melbourne accounting for 18%, just under a third of Sydney's proportion. After that, Brisbane and Hobart produce 13% and a mere 6% respectively, while other cities make up a combined 7%.",
+        "In terms of the type of rubbish Australians produce, almost two thirds of it is food. Plastic is the next most common waste product although the figure is much lower (18%). Metal accounts for approximately a tenth of the generated trash and the rest is made up of paper and other materials."
+      ],
+      "paragraph_count": 5,
+      "word_count": 191
+    },
+    {
+      "id": "task1-023",
+      "filename": "Pie_3.docx",
+      "chart_type": "pie",
+      "text": "You should spend about 20 minutes on this task. Write at least 150 words. The pie charts show how people in urban China spent their money in 1995 and 2011. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.\n\nThe pie charts compare consumer spending on urban areas of China in 1995 and sixteen years later in 2011.\n\nOverall, food was consistently the main expenditure despite a drop over the period. Spending in most other areas increased.\n\nIn 1995, food accounted for exactly half of all urban Chinese spending. The next largest portion went towards clothing, although this was a much lower figure at just 14%. By 2011, however, both figures had dropped, falling to 36% and 11% respectively.\n\nIn other categories, there were increases in their figures over the period. The largest rise was in transport and communication spending. In 1995, people spent a mere 5% of their money on these areas. By 2011, however, this category accounted for 14%, a nearly three-fold increase. Medicine made up the lowest percentage in 1995, but by 2011 it had increased to 7%. While it had more than doubled, it remained one of the smallest percentages. Spending on recreation and education rose slightly from 10% to 12%.\n\nThere was no change in the proportion spent on household facilities, which remained at 7%. The rest of people’s money went towards other expenses, accounting for just over 10% in both years.",
+      "paragraphs": [
+        "You should spend about 20 minutes on this task. Write at least 150 words. The pie charts show how people in urban China spent their money in 1995 and 2011. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+        "The pie charts compare consumer spending on urban areas of China in 1995 and sixteen years later in 2011.",
+        "Overall, food was consistently the main expenditure despite a drop over the period. Spending in most other areas increased.",
+        "In 1995, food accounted for exactly half of all urban Chinese spending. The next largest portion went towards clothing, although this was a much lower figure at just 14%. By 2011, however, both figures had dropped, falling to 36% and 11% respectively.",
+        "In other categories, there were increases in their figures over the period. The largest rise was in transport and communication spending. In 1995, people spent a mere 5% of their money on these areas. By 2011, however, this category accounted for 14%, a nearly three-fold increase. Medicine made up the lowest percentage in 1995, but by 2011 it had increased to 7%. While it had more than doubled, it remained one of the smallest percentages. Spending on recreation and education rose slightly from 10% to 12%.",
+        "There was no change in the proportion spent on household facilities, which remained at 7%. The rest of people’s money went towards other expenses, accounting for just over 10% in both years."
+      ],
+      "paragraph_count": 6,
+      "word_count": 243
+    },
+    {
+      "id": "task1-024",
+      "filename": "Pie_4.docx",
+      "chart_type": "pie",
+      "text": "You should spend about 20 minutes on this task. Write at least 150 words. The pie charts compare emissions by economic sector and by gas type globally in 2014. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.\n\nThe pie charts given provide a comparison of greenhouse gas emissions worldwide by gas type and\n\ndifferent sectors of the economy in the year 2014.\n\nOverall, almost half of all emissions in 2014 were produced in two areas of the world economy: electricity and heat generation, and various uses of land including agriculture and forestry. In that year, carbon dioxide accounted for the majority of all greenhouse gases emitted.\n\nIn more detail, we can see that although greenhouse gases in 2014 were generated by activities in six economic sectors, by far the largest volumes came from electricity and heat production at 25% of the total and, at 24%, from agriculture, forestry and other land uses. The remaining half of gas emissions came from four sectors, namely industry and transportation which accounted for around a fifth each, followed by other energy and buildings.\n\nIn terms of the types of gases emitted by the above sectors, while almost two thirds was CO2 from fossil fuel and industrial processes, a further 11% of the same gas came from land use. Methane accounted for 16%, and the rest was made up of nitrous oxide and F-gases.",
+      "paragraphs": [
+        "You should spend about 20 minutes on this task. Write at least 150 words. The pie charts compare emissions by economic sector and by gas type globally in 2014. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+        "The pie charts given provide a comparison of greenhouse gas emissions worldwide by gas type and",
+        "different sectors of the economy in the year 2014.",
+        "Overall, almost half of all emissions in 2014 were produced in two areas of the world economy: electricity and heat generation, and various uses of land including agriculture and forestry. In that year, carbon dioxide accounted for the majority of all greenhouse gases emitted.",
+        "In more detail, we can see that although greenhouse gases in 2014 were generated by activities in six economic sectors, by far the largest volumes came from electricity and heat production at 25% of the total and, at 24%, from agriculture, forestry and other land uses. The remaining half of gas emissions came from four sectors, namely industry and transportation which accounted for around a fifth each, followed by other energy and buildings.",
+        "In terms of the types of gases emitted by the above sectors, while almost two thirds was CO2 from fossil fuel and industrial processes, a further 11% of the same gas came from land use. Methane accounted for 16%, and the rest was made up of nitrous oxide and F-gases."
+      ],
+      "paragraph_count": 6,
+      "word_count": 236
+    },
+    {
+      "id": "task1-025",
+      "filename": "Table_1.docx",
+      "chart_type": "table",
+      "text": "The table shows the percentage of spending by five different countries on three product groups. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.\n\nThe table compares spending on three different product groups by people in five countries.\n\nOverall, it is clear that the highest proportion of money in all five nations goes towards food, drink and tobacco, though Turkish people have the highest figure. In terms of clothing and footwear, Italians are the biggest spenders while Turks again account for the largest proportion spent on leisure and education.\n\nLooking in more detail at the food/drink/tobacco figures, almost a third of Turkish people’s money goes towards this and just under 29% of Irish people’s income. The figures are much lower, under 20% for Italy and Spain, and only 15.77% for Sweden.\n\nMeanwhile, Italians spend 9% of their money on fashion, which is around 3% more than the other countries. Sweden again has the lowest figure here with just 5.4% going towards clothes and shoes. Although outgoings are much lower when it comes to leisure and education, Turks again account for the largest figure, with 4.35%.",
+      "paragraphs": [
+        "The table shows the percentage of spending by five different countries on three product groups. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+        "The table compares spending on three different product groups by people in five countries.",
+        "Overall, it is clear that the highest proportion of money in all five nations goes towards food, drink and tobacco, though Turkish people have the highest figure. In terms of clothing and footwear, Italians are the biggest spenders while Turks again account for the largest proportion spent on leisure and education.",
+        "Looking in more detail at the food/drink/tobacco figures, almost a third of Turkish people’s money goes towards this and just under 29% of Irish people’s income. The figures are much lower, under 20% for Italy and Spain, and only 15.77% for Sweden.",
+        "Meanwhile, Italians spend 9% of their money on fashion, which is around 3% more than the other countries. Sweden again has the lowest figure here with just 5.4% going towards clothes and shoes. Although outgoings are much lower when it comes to leisure and education, Turks again account for the largest figure, with 4.35%."
+      ],
+      "paragraph_count": 5,
+      "word_count": 191
+    },
+    {
+      "id": "task1-026",
+      "filename": "Table_2.docx",
+      "chart_type": "table",
+      "text": "You should spend about 20 minutes on this task. Write at least 150 words. The table below shows CO2 emissions from 4 regions of the world and total emissions between 1995 and 2015. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.\n\nThe table compares the amount of carbon dioxide emissions produced by Africa, the USA, Asia and Europe as well as the global total from 1995 to 2015. .\n\nOverall, it is clear that emissions rose in total and in all regions except for Europe. Although this region was the highest emitter in 1995, by the end of the period, Asia was by far the biggest polluter.\n\nIn 1995, 20 billion metric tons of CO2 were emitted worldwide, and Europe accounted for just over a third of this figure. 5 billion metric tons came from Asia and slightly less from the USA while Africa produced only 1 billion. Over the next decade, despite a brief increase in 2000, Europe's emissions fell substantially, dropping to 4.1 billion metric tons by 2015.\n\nIn all other areas, emissions rose, particularly in Asia which had doubled its CO2 output by 2005 and by the end of the given period, it was producing 14 billion metric tons. The increases in Africa and the USA were less dramatic, going up by under a billion metric tons by 2015. Globally, however, the rise in emissions was substantial, increasing by 15 billion tons over the 2 decades.",
+      "paragraphs": [
+        "You should spend about 20 minutes on this task. Write at least 150 words. The table below shows CO2 emissions from 4 regions of the world and total emissions between 1995 and 2015. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+        "The table compares the amount of carbon dioxide emissions produced by Africa, the USA, Asia and Europe as well as the global total from 1995 to 2015. .",
+        "Overall, it is clear that emissions rose in total and in all regions except for Europe. Although this region was the highest emitter in 1995, by the end of the period, Asia was by far the biggest polluter.",
+        "In 1995, 20 billion metric tons of CO2 were emitted worldwide, and Europe accounted for just over a third of this figure. 5 billion metric tons came from Asia and slightly less from the USA while Africa produced only 1 billion. Over the next decade, despite a brief increase in 2000, Europe's emissions fell substantially, dropping to 4.1 billion metric tons by 2015.",
+        "In all other areas, emissions rose, particularly in Asia which had doubled its CO2 output by 2005 and by the end of the given period, it was producing 14 billion metric tons. The increases in Africa and the USA were less dramatic, going up by under a billion metric tons by 2015. Globally, however, the rise in emissions was substantial, increasing by 15 billion tons over the 2 decades."
+      ],
+      "paragraph_count": 5,
+      "word_count": 246
+    },
+    {
+      "id": "task1-027",
+      "filename": "Table_3.docx",
+      "chart_type": "table",
+      "text": "You should spend about 20 minutes on this task. Write at least 150 words. The table shows the average amount of time spent on mobile phones in 3 countries and worldwide from 2010 to 2014. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.\n\nThe table compares the number of hours people spent on mobile devices in 3 countries and the global mean between 2010 and 2014.\n\nOverall, it is clear that globally and in the three given countries, people were spending increasingly more time on their phones over the 5-year period. Although usage was highest in Japan in 2010, by 2014, Australians were using their phones for the longest period of time daily, much more than the global average.\n\nIn 2010, Japanese people used their phones for an average of 3.1 hours per day, which was much longer than the second biggest users, Australians, who spent just over an hour daily. The figure for India was far lower and close to the global average with .4 and .3 hours respectively. Although mobile usage in India remained lower than in the other two countries throughout the period, by 2014, the figure had risen considerably to 3 hours per day.\n\nUntil 2013, Japanese people were the heaviest phone users, hitting 5 hours per day in that year. While Australians spent 3 hours per day on their mobiles in the same year, the figure rose dramatically to 5.2 hours in 2014, slightly more than the Japanese people and over 3 hours more than the global daily average.",
+      "paragraphs": [
+        "You should spend about 20 minutes on this task. Write at least 150 words. The table shows the average amount of time spent on mobile phones in 3 countries and worldwide from 2010 to 2014. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+        "The table compares the number of hours people spent on mobile devices in 3 countries and the global mean between 2010 and 2014.",
+        "Overall, it is clear that globally and in the three given countries, people were spending increasingly more time on their phones over the 5-year period. Although usage was highest in Japan in 2010, by 2014, Australians were using their phones for the longest period of time daily, much more than the global average.",
+        "In 2010, Japanese people used their phones for an average of 3.1 hours per day, which was much longer than the second biggest users, Australians, who spent just over an hour daily. The figure for India was far lower and close to the global average with .4 and .3 hours respectively. Although mobile usage in India remained lower than in the other two countries throughout the period, by 2014, the figure had risen considerably to 3 hours per day.",
+        "Until 2013, Japanese people were the heaviest phone users, hitting 5 hours per day in that year. While Australians spent 3 hours per day on their mobiles in the same year, the figure rose dramatically to 5.2 hours in 2014, slightly more than the Japanese people and over 3 hours more than the global daily average."
+      ],
+      "paragraph_count": 5,
+      "word_count": 261
+    },
+    {
+      "id": "task1-029",
+      "filename": "double_line_1.docx",
+      "chart_type": "double_line",
+      "text": "The graphs show crimes that took place in the city of Greenvale and arrests from 2010 to 2019. Summarise the information by selecting and report the main features, and make comparisons where relevant.\n\nThe graphs compare crime rates in three categories and arrests of adults and juveniles in a city called Greenvale between 2010 and 2019.\n\nOverall, it is clear that although the most common crime over the nine years was home burglaries, the number of incidents fell significantly. There was a drop too in car thefts but little change in the number of robberies from people. In terms of arrests, while adult apprehensions dropped, there was a rise in the number of juveniles arrested.\n\nLooking at the crime rates in more detail, in 2010, about 300 homes were burgled. Just over 100 cars were stolen and about 80 people were robbed in that same year. In 2011, there was a spike in those crimes relating to homes and cars, however, the figures for both of these then fell gradually over the next eight years. Robberies of people, meanwhile, did not change much.\n\nThe same 2011 spike was evident in the number of arrests when about 340 adults and 80 young people were apprehended. After this, the figure for adults almost halved whereas that of juveniles had doubled by 2019.",
+      "paragraphs": [
+        "The graphs show crimes that took place in the city of Greenvale and arrests from 2010 to 2019. Summarise the information by selecting and report the main features, and make comparisons where relevant.",
+        "The graphs compare crime rates in three categories and arrests of adults and juveniles in a city called Greenvale between 2010 and 2019.",
+        "Overall, it is clear that although the most common crime over the nine years was home burglaries, the number of incidents fell significantly. There was a drop too in car thefts but little change in the number of robberies from people. In terms of arrests, while adult apprehensions dropped, there was a rise in the number of juveniles arrested.",
+        "Looking at the crime rates in more detail, in 2010, about 300 homes were burgled. Just over 100 cars were stolen and about 80 people were robbed in that same year. In 2011, there was a spike in those crimes relating to homes and cars, however, the figures for both of these then fell gradually over the next eight years. Robberies of people, meanwhile, did not change much.",
+        "The same 2011 spike was evident in the number of arrests when about 340 adults and 80 young people were apprehended. After this, the figure for adults almost halved whereas that of juveniles had doubled by 2019."
+      ],
+      "paragraph_count": 5,
+      "word_count": 220
+    },
+    {
+      "id": "task1-030",
+      "filename": "double_line_2.docx",
+      "chart_type": "double_line",
+      "text": "The graphs provide information about population changes from 1950 to 2100 both globally and in Japan.\n\nOverall, the global population will increase despite a plateau in the number of young people. In Japan, however, a decrease is expected.\n\nThroughout the 150-year period, the global population consistently grows, increasing more than 3-fold. In 1950, the total population was roughly 3 billion. People aged 15-64 made up more than half at roughly 1.75 billion. Those younger than 15 accounted for 1 billion, and younger than 5 even less. By 2100, the total population will have reached roughly 11 billion. Those between 15 and 64 will remain the biggest sub-group, more than doubling by 2010 and reaching nearly 7 billion by 2100. Those under 15 had doubled by 2010, reaching roughly 2 billion, but remained steady thereafter. Those under 5 remain stable throughout the whole period.\n\nJapan will show a downward trend by 2100. After starting at 80 million in 1950, the total population peaked at just under 130 million in 2010, after which it shows a consistent downward trend, falling to 80 million in 2100, roughly the same levels as 1950. The population between 15 to 64 had risen to 80 million by 1980; however, after 2010, it began to fall, and will have dropped to just over 40 million by 2100. Those under 15 and under 5 both show downward trends, starting at 35 and 5 million respectively in 1950. By 2100, both will have fallen to less than 20 million.",
+      "paragraphs": [
+        "The graphs provide information about population changes from 1950 to 2100 both globally and in Japan.",
+        "Overall, the global population will increase despite a plateau in the number of young people. In Japan, however, a decrease is expected.",
+        "Throughout the 150-year period, the global population consistently grows, increasing more than 3-fold. In 1950, the total population was roughly 3 billion. People aged 15-64 made up more than half at roughly 1.75 billion. Those younger than 15 accounted for 1 billion, and younger than 5 even less. By 2100, the total population will have reached roughly 11 billion. Those between 15 and 64 will remain the biggest sub-group, more than doubling by 2010 and reaching nearly 7 billion by 2100. Those under 15 had doubled by 2010, reaching roughly 2 billion, but remained steady thereafter. Those under 5 remain stable throughout the whole period.",
+        "Japan will show a downward trend by 2100. After starting at 80 million in 1950, the total population peaked at just under 130 million in 2010, after which it shows a consistent downward trend, falling to 80 million in 2100, roughly the same levels as 1950. The population between 15 to 64 had risen to 80 million by 1980; however, after 2010, it began to fall, and will have dropped to just over 40 million by 2100. Those under 15 and under 5 both show downward trends, starting at 35 and 5 million respectively in 1950. By 2100, both will have fallen to less than 20 million."
+      ],
+      "paragraph_count": 4,
+      "word_count": 250
+    },
+    {
+      "id": "task1-031",
+      "filename": "double_line_3.docx",
+      "chart_type": "double_line",
+      "text": "You should spend about 20 minutes on this task. Write at least 150 words. The graphs show the value of exports from Bartonville from 2008 to 2013. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.\n\nThe two graphs illustrate the value of all exports from Bartonville and that of four selected products between 2008 and 2013.\n\nOverall, despite a significant dip in export revenue in 2010, the trend was upwards in terms of the total. Of the four individual exports shown, however, only palm oil saw an increase in export earnings. While the figures for fuel and cars fell, the value of food exports saw little change.\n\nThe first graph shows the sudden drop in Bartonville’s export value between 2008 and 2010 when it fell by almost half from around $120 million. It recovered quickly and by 2013, the figure had reached almost $160 million.\n\nAccording to the second graph, the only export which grew in value was palm oil despite being the lowest of all in 2008. By 2013, it had increased by ten times to over $20 million, which was more than the combined total of the other three. The value of fuel and cars varied a great deal but declined overall with that of fuel falling by $17 million from a high of $22 million and car exports dropping $5 million to finish at slightly less than $10 million. At a little over $5 million, the value of the fourth export, food, stayed relatively unchanged.",
+      "paragraphs": [
+        "You should spend about 20 minutes on this task. Write at least 150 words. The graphs show the value of exports from Bartonville from 2008 to 2013. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+        "The two graphs illustrate the value of all exports from Bartonville and that of four selected products between 2008 and 2013.",
+        "Overall, despite a significant dip in export revenue in 2010, the trend was upwards in terms of the total. Of the four individual exports shown, however, only palm oil saw an increase in export earnings. While the figures for fuel and cars fell, the value of food exports saw little change.",
+        "The first graph shows the sudden drop in Bartonville’s export value between 2008 and 2010 when it fell by almost half from around $120 million. It recovered quickly and by 2013, the figure had reached almost $160 million.",
+        "According to the second graph, the only export which grew in value was palm oil despite being the lowest of all in 2008. By 2013, it had increased by ten times to over $20 million, which was more than the combined total of the other three. The value of fuel and cars varied a great deal but declined overall with that of fuel falling by $17 million from a high of $22 million and car exports dropping $5 million to finish at slightly less than $10 million. At a little over $5 million, the value of the fourth export, food, stayed relatively unchanged."
+      ],
+      "paragraph_count": 5,
+      "word_count": 255
+    },
+    {
+      "id": "task1-032",
+      "filename": "double_line_4.docx",
+      "chart_type": "double_line",
+      "text": "The line graphs compare council investment in public transport and the number of journeys made annually in 4 cities from 2000 with prediction to 2040.\n\nThe graphs show council spending on public transport in four cities and the number of trips on those systems from 2000 to 2040.\n\nOverall, as investment increases in Hamilton and Geelong, the use of public transport also rises, whereas Seddon experiences the opposite. Despite a predicted rise in spending in Carlton, use is expected to remain low there.\n\nHamilton consistently receives the most investment, starting at roughly 33 million dollars in 2000 and is projected to rise slightly but steadily. By 2040, it will have reached roughly 42 million. Geelong's investment, however, shows the most growth, increasing from a mere 11 million in 2000 to 35 million by 2020, and roughly 40 million by 2040, nearly matching that of Hamilton. While patronage rises slightly in Hamilton, in Geelong, it increases significantly, both reaching nearly 70,000 by 2040.\n\nCarlton and Seddon show very different trends. Investment in Carlton, despite a massive increase from roughly 3 million in 2000 to 28 million in 2020, is expected to be roughly 14 million in 2040. Use of transit also drops steadily throughout the period, falling from 20 million 12 million by 2040. Seddon shows a consistent drop in investment and patronage. Investment falls from 30 million to 12 million and patronage from 40 million in 2000 to 20 in 2040.",
+      "paragraphs": [
+        "The line graphs compare council investment in public transport and the number of journeys made annually in 4 cities from 2000 with prediction to 2040.",
+        "The graphs show council spending on public transport in four cities and the number of trips on those systems from 2000 to 2040.",
+        "Overall, as investment increases in Hamilton and Geelong, the use of public transport also rises, whereas Seddon experiences the opposite. Despite a predicted rise in spending in Carlton, use is expected to remain low there.",
+        "Hamilton consistently receives the most investment, starting at roughly 33 million dollars in 2000 and is projected to rise slightly but steadily. By 2040, it will have reached roughly 42 million. Geelong's investment, however, shows the most growth, increasing from a mere 11 million in 2000 to 35 million by 2020, and roughly 40 million by 2040, nearly matching that of Hamilton. While patronage rises slightly in Hamilton, in Geelong, it increases significantly, both reaching nearly 70,000 by 2040.",
+        "Carlton and Seddon show very different trends. Investment in Carlton, despite a massive increase from roughly 3 million in 2000 to 28 million in 2020, is expected to be roughly 14 million in 2040. Use of transit also drops steadily throughout the period, falling from 20 million 12 million by 2040. Seddon shows a consistent drop in investment and patronage. Investment falls from 30 million to 12 million and patronage from 40 million in 2000 to 20 in 2040."
+      ],
+      "paragraph_count": 5,
+      "word_count": 241
+    }
+  ],
+  "chart_language": {
+    "trend_up": [
+      {
+        "phrase": "rise",
+        "count": 24
+      },
+      {
+        "phrase": "increased",
+        "count": 22
+      },
+      {
+        "phrase": "increase",
+        "count": 20
+      },
+      {
+        "phrase": "rose",
+        "count": 18
+      },
+      {
+        "phrase": "growth",
+        "count": 10
+      },
+      {
+        "phrase": "grew",
+        "count": 8
+      },
+      {
+        "phrase": "increasing",
+        "count": 8
+      },
+      {
+        "phrase": "rising",
+        "count": 6
+      },
+      {
+        "phrase": "climbed",
+        "count": 2
+      },
+      {
+        "phrase": "soared",
+        "count": 2
+      },
+      {
+        "phrase": "picked up",
+        "count": 2
+      }
+    ],
+    "trend_down": [
+      {
+        "phrase": "fell",
+        "count": 28
+      },
+      {
+        "phrase": "drop",
+        "count": 16
+      },
+      {
+        "phrase": "dropped",
+        "count": 14
+      },
+      {
+        "phrase": "falling",
+        "count": 10
+      },
+      {
+        "phrase": "decline",
+        "count": 8
+      },
+      {
+        "phrase": "plummeted",
+        "count": 4
+      },
+      {
+        "phrase": "declined",
+        "count": 2
+      },
+      {
+        "phrase": "decrease",
+        "count": 2
+      },
+      {
+        "phrase": "fall",
+        "count": 2
+      }
+    ],
+    "trend_stable": [
+      {
+        "phrase": "little change",
+        "count": 10
+      },
+      {
+        "phrase": "steady",
+        "count": 8
+      },
+      {
+        "phrase": "plateau",
+        "count": 2
+      },
+      {
+        "phrase": "unchanged",
+        "count": 2
+      },
+      {
+        "phrase": "remained at",
+        "count": 2
+      }
+    ],
+    "trend_fluctuate": [
+      {
+        "phrase": "varied",
+        "count": 2
+      }
+    ],
+    "comparison": [
+      {
+        "phrase": "while",
+        "count": 58
+      },
+      {
+        "phrase": "more than",
+        "count": 32
+      },
+      {
+        "phrase": "slightly",
+        "count": 26
+      },
+      {
+        "phrase": "whereas",
+        "count": 14
+      },
+      {
+        "phrase": "double",
+        "count": 10
+      },
+      {
+        "phrase": "less than",
+        "count": 8
+      },
+      {
+        "phrase": "lower than",
+        "count": 8
+      },
+      {
+        "phrase": "significantly",
+        "count": 8
+      },
+      {
+        "phrase": "substantially",
+        "count": 8
+      },
+      {
+        "phrase": "in contrast",
+        "count": 6
+      },
+      {
+        "phrase": "dramatically",
+        "count": 6
+      },
+      {
+        "phrase": "considerably",
+        "count": 4
+      },
+      {
+        "phrase": "higher than",
+        "count": 2
+      },
+      {
+        "phrase": "triple",
+        "count": 2
+      },
+      {
+        "phrase": "compared to",
+        "count": 2
+      }
+    ],
+    "data_reference": [
+      {
+        "phrase": "overall",
+        "count": 66
+      },
+      {
+        "phrase": "the number",
+        "count": 30
+      },
+      {
+        "phrase": "it is clear",
+        "count": 28
+      },
+      {
+        "phrase": "in terms of",
+        "count": 28
+      },
+      {
+        "phrase": "the figure",
+        "count": 22
+      },
+      {
+        "phrase": "the percentage",
+        "count": 14
+      },
+      {
+        "phrase": "according to",
+        "count": 12
+      },
+      {
+        "phrase": "the proportion",
+        "count": 6
+      },
+      {
+        "phrase": "the amount",
+        "count": 6
+      }
+    ],
+    "approximation": [
+      {
+        "phrase": "about",
+        "count": 50
+      },
+      {
+        "phrase": "almost",
+        "count": 48
+      },
+      {
+        "phrase": "roughly",
+        "count": 44
+      },
+      {
+        "phrase": "around",
+        "count": 34
+      },
+      {
+        "phrase": "just over",
+        "count": 18
+      },
+      {
+        "phrase": "just under",
+        "count": 14
+      },
+      {
+        "phrase": "nearly",
+        "count": 12
+      },
+      {
+        "phrase": "approximately",
+        "count": 6
+      },
+      {
+        "phrase": "close to",
+        "count": 2
+      },
+      {
+        "phrase": "exactly",
+        "count": 2
+      }
+    ],
+    "process": [
+      {
+        "phrase": "then",
+        "count": 30
+      },
+      {
+        "phrase": "next",
+        "count": 30
+      },
+      {
+        "phrase": "once",
+        "count": 10
+      },
+      {
+        "phrase": "the final stage",
+        "count": 4
+      },
+      {
+        "phrase": "firstly",
+        "count": 2
+      },
+      {
+        "phrase": "after that",
+        "count": 2
+      }
+    ],
+    "time_reference": [
+      {
+        "phrase": "by \\d{4}",
+        "count": 80
+      },
+      {
+        "phrase": "from .* to",
+        "count": 70
+      },
+      {
+        "phrase": "between",
+        "count": 40
+      },
+      {
+        "phrase": "over the period",
+        "count": 20
+      },
+      {
+        "phrase": "throughout",
+        "count": 10
+      },
+      {
+        "phrase": "by the end of",
+        "count": 6
+      },
+      {
+        "phrase": "in the year",
+        "count": 4
+      },
+      {
+        "phrase": "during",
+        "count": 2
+      }
+    ]
+  },
+  "band_ladder": [
+    {
+      "family": "increase",
+      "B5": "went up",
+      "B6": "increased",
+      "B7": "rose significantly",
+      "B8": "witnessed a marked surge"
+    },
+    {
+      "family": "decrease",
+      "B5": "went down",
+      "B6": "decreased",
+      "B7": "fell sharply",
+      "B8": "experienced a dramatic decline"
+    },
+    {
+      "family": "stable",
+      "B5": "stayed the same",
+      "B6": "remained stable",
+      "B7": "levelled off at",
+      "B8": "plateaued at approximately"
+    },
+    {
+      "family": "compare_more",
+      "B5": "more than",
+      "B6": "higher than",
+      "B7": "considerably higher than",
+      "B8": "was almost double that of / exceeded X by a considerable margin"
+    },
+    {
+      "family": "compare_less",
+      "B5": "less than",
+      "B6": "lower than",
+      "B7": "significantly lower than",
+      "B8": "was significantly lower, at roughly half the level of"
+    },
+    {
+      "family": "approximate",
+      "B5": "about",
+      "B6": "around",
+      "B7": "approximately",
+      "B8": "in the region of"
+    },
+    {
+      "family": "peak",
+      "B5": "the most",
+      "B6": "the highest",
+      "B7": "peaked at",
+      "B8": "reached a peak of / hit its highest point at"
+    },
+    {
+      "family": "low",
+      "B5": "the least",
+      "B6": "the lowest",
+      "B7": "bottomed out at",
+      "B8": "fell to its lowest point of / reached a low of"
+    },
+    {
+      "family": "fluctuate",
+      "B5": "went up and down",
+      "B6": "changed a lot",
+      "B7": "fluctuated considerably",
+      "B8": "exhibited marked volatility"
+    },
+    {
+      "family": "proportion",
+      "B5": "the number of",
+      "B6": "the percentage of",
+      "B7": "the proportion of",
+      "B8": "the share accounted for by"
+    }
+  ],
+  "stats": {
+    "total_files": 31,
+    "total_words": 6918,
+    "by_type": {
+      "bar": 6,
+      "diagram": 4,
+      "double_line": 4,
+      "line": 5,
+      "map": 2,
+      "mixed": 3,
+      "pie": 4,
+      "table": 3
+    }
+  }
+}

@@ -1,0 +1,1347 @@
+[
+  {
+    "id": "p3-001-1",
+    "question": "Why do people like visiting places with trees or forests?",
+    "linked_part2": "p2-001"
+  },
+  {
+    "id": "p3-001-2",
+    "question": "Are natural views better than city views?",
+    "linked_part2": "p2-001"
+  },
+  {
+    "id": "p3-001-3",
+    "question": "Do all people need some nature?",
+    "linked_part2": "p2-001"
+  },
+  {
+    "id": "p3-001-4",
+    "question": "Are people hard-wired to protect the environment?",
+    "linked_part2": "p2-001"
+  },
+  {
+    "id": "p3-002-1",
+    "question": "What kind of music is popular in your country?",
+    "linked_part2": "p2-002"
+  },
+  {
+    "id": "p3-002-2",
+    "question": "What kind of music do young people like?",
+    "linked_part2": "p2-002"
+  },
+  {
+    "id": "p3-002-3",
+    "question": "Do you think music is beneficial for children at school?",
+    "linked_part2": "p2-002"
+  },
+  {
+    "id": "p3-002-4",
+    "question": "What are the benefits of children learning a musical instrument?",
+    "linked_part2": "p2-002"
+  },
+  {
+    "id": "p3-002-5",
+    "question": "Do you know what kind of music children like today?",
+    "linked_part2": "p2-002"
+  },
+  {
+    "id": "p3-002-6",
+    "question": "Do you think the government should invest more money on concerts?",
+    "linked_part2": "p2-002"
+  },
+  {
+    "id": "p3-003-1",
+    "question": "Why are some people more willing to protect wild animals than others?",
+    "linked_part2": "p2-003"
+  },
+  {
+    "id": "p3-003-2",
+    "question": "Do you think it's important to take children to the zoo to see animals?",
+    "linked_part2": "p2-003"
+  },
+  {
+    "id": "p3-004-1",
+    "question": "Do you think it is better for children to have a few close friends or many casual friends?",
+    "linked_part2": "p2-004"
+  },
+  {
+    "id": "p3-004-2",
+    "question": "Do you think a child's relationship with friends can be replaced by that with other people, like parents or other family members?",
+    "linked_part2": "p2-004"
+  },
+  {
+    "id": "p3-005-1",
+    "question": "Why do some people get lost more easily than others?",
+    "linked_part2": "p2-005"
+  },
+  {
+    "id": "p3-005-2",
+    "question": "Do you think it is important to be able to read a map?",
+    "linked_part2": "p2-005"
+  },
+  {
+    "id": "p3-005-3",
+    "question": "Do you think it is important to do some preparation before you travel to new places?",
+    "linked_part2": "p2-005"
+  },
+  {
+    "id": "p3-005-4",
+    "question": "How can people find their way when they are lost?",
+    "linked_part2": "p2-005"
+  },
+  {
+    "id": "p3-005-5",
+    "question": "Is a paper map still necessary?",
+    "linked_part2": "p2-005"
+  },
+  {
+    "id": "p3-005-6",
+    "question": "How do people react when they get lost?",
+    "linked_part2": "p2-005"
+  },
+  {
+    "id": "p3-006-1",
+    "question": "Why do people like travelling?",
+    "linked_part2": "p2-006"
+  },
+  {
+    "id": "p3-006-2",
+    "question": "What should we prepare before a trip?",
+    "linked_part2": "p2-006"
+  },
+  {
+    "id": "p3-006-3",
+    "question": "What would happen if no preparation were made before the trip?",
+    "linked_part2": "p2-006"
+  },
+  {
+    "id": "p3-006-4",
+    "question": "Why do some people prefer to travel in their own country rather than going abroad?",
+    "linked_part2": "p2-006"
+  },
+  {
+    "id": "p3-007-1",
+    "question": "Would you like to start a family business?",
+    "linked_part2": "p2-007"
+  },
+  {
+    "id": "p3-007-2",
+    "question": "What are the advantages and disadvantages of family businesses?",
+    "linked_part2": "p2-007"
+  },
+  {
+    "id": "p3-008-1",
+    "question": "Do you think being artistically talented is useful?",
+    "linked_part2": "p2-008"
+  },
+  {
+    "id": "p3-008-2",
+    "question": "Is it possible for us to know whether children who are 3 or 4 years old will become musicians and painters when they grow up?",
+    "linked_part2": "p2-008"
+  },
+  {
+    "id": "p3-008-3",
+    "question": "Why are talent shows popular these days?",
+    "linked_part2": "p2-008"
+  },
+  {
+    "id": "p3-008-4",
+    "question": "Do you think it is more interesting to watch famous people's or ordinary people's shows?",
+    "linked_part2": "p2-008"
+  },
+  {
+    "id": "p3-008-5",
+    "question": "Do you think artistically talented people have a duty to contribute to society?",
+    "linked_part2": "p2-008"
+  },
+  {
+    "id": "p3-008-6",
+    "question": "Do you think exceptionally talented people are good for the country?",
+    "linked_part2": "p2-008"
+  },
+  {
+    "id": "p3-009-1",
+    "question": "Is it common for students to dine with each other on school days in your country?",
+    "linked_part2": "p2-009"
+  },
+  {
+    "id": "p3-009-2",
+    "question": "Do people prefer to eat out at restaurants or eat at home during the Spring Festival?",
+    "linked_part2": "p2-009"
+  },
+  {
+    "id": "p3-009-3",
+    "question": "What food do you eat on special occasions, like during the Spring Festival or the Mid-autumn Festival?",
+    "linked_part2": "p2-009"
+  },
+  {
+    "id": "p3-009-4",
+    "question": "Why do people like to have meals together during important festivals?",
+    "linked_part2": "p2-009"
+  },
+  {
+    "id": "p3-009-5",
+    "question": "Is it a hassle to prepare a meal at home?",
+    "linked_part2": "p2-009"
+  },
+  {
+    "id": "p3-010-1",
+    "question": "How easy is it to travel around your country?",
+    "linked_part2": "p2-010"
+  },
+  {
+    "id": "p3-011-1",
+    "question": "What kind of stories do children like?",
+    "linked_part2": "p2-011"
+  },
+  {
+    "id": "p3-011-2",
+    "question": "What are the benefits of bedtime stories for children?",
+    "linked_part2": "p2-011"
+  },
+  {
+    "id": "p3-011-3",
+    "question": "Why do most children like listening to stories before bedtime?",
+    "linked_part2": "p2-011"
+  },
+  {
+    "id": "p3-011-4",
+    "question": "What can children learn from stories?",
+    "linked_part2": "p2-011"
+  },
+  {
+    "id": "p3-011-5",
+    "question": "Do all stories for children have happy endings?",
+    "linked_part2": "p2-011"
+  },
+  {
+    "id": "p3-011-6",
+    "question": "Is a good storyline important for a movie?",
+    "linked_part2": "p2-011"
+  },
+  {
+    "id": "p3-012-1",
+    "question": "Which is better, electric bicycles or ordinary bicycles?",
+    "linked_part2": "p2-012"
+  },
+  {
+    "id": "p3-012-2",
+    "question": "Do you think electric bicycles will replace ordinary bicycles in the future?",
+    "linked_part2": "p2-012"
+  },
+  {
+    "id": "p3-012-3",
+    "question": "Which is better, electric cars or petrol cars?",
+    "linked_part2": "p2-012"
+  },
+  {
+    "id": "p3-012-4",
+    "question": "How did people manage to live without electricity in the ancient world?",
+    "linked_part2": "p2-012"
+  },
+  {
+    "id": "p3-013-1",
+    "question": "Do you think people should apologize for anything wrong they do?",
+    "linked_part2": "p2-013"
+  },
+  {
+    "id": "p3-013-2",
+    "question": "Do people in your country like to say \"sorry\"?",
+    "linked_part2": "p2-013"
+  },
+  {
+    "id": "p3-013-3",
+    "question": "On what occasion do people usually apologize to others?",
+    "linked_part2": "p2-013"
+  },
+  {
+    "id": "p3-013-4",
+    "question": "Why do some people refuse to say \"sorry\" to others?",
+    "linked_part2": "p2-013"
+  },
+  {
+    "id": "p3-014-1",
+    "question": "What good habits should children have?",
+    "linked_part2": "p2-014"
+  },
+  {
+    "id": "p3-014-2",
+    "question": "What should parents do to help their children develop good habits?",
+    "linked_part2": "p2-014"
+  },
+  {
+    "id": "p3-014-3",
+    "question": "Why do we develop bad habits?",
+    "linked_part2": "p2-014"
+  },
+  {
+    "id": "p3-014-4",
+    "question": "What can we do to get rid of bad habits?",
+    "linked_part2": "p2-014"
+  },
+  {
+    "id": "p3-014-5",
+    "question": "Do you think a person's good habits would influence those around him or her? How?",
+    "linked_part2": "p2-014"
+  },
+  {
+    "id": "p3-015-1",
+    "question": "Why are some people unwilling to try new things?",
+    "linked_part2": "p2-015"
+  },
+  {
+    "id": "p3-015-2",
+    "question": "Why are some people keen on doing dangerous activities?",
+    "linked_part2": "p2-015"
+  },
+  {
+    "id": "p3-015-3",
+    "question": "Do you think that children adapt to new things more easily than adults?",
+    "linked_part2": "p2-015"
+  },
+  {
+    "id": "p3-016-1",
+    "question": "Do you think children should learn to play musical instruments?",
+    "linked_part2": "p2-016"
+  },
+  {
+    "id": "p3-016-2",
+    "question": "How do artists acquire inspiration?",
+    "linked_part2": "p2-016"
+  },
+  {
+    "id": "p3-016-3",
+    "question": "Do you think pictures and videos in news reports are important?",
+    "linked_part2": "p2-016"
+  },
+  {
+    "id": "p3-016-4",
+    "question": "What can we do to help children keep creative?",
+    "linked_part2": "p2-016"
+  },
+  {
+    "id": "p3-016-5",
+    "question": "What can we do to help older children learn music?",
+    "linked_part2": "p2-016"
+  },
+  {
+    "id": "p3-017-1",
+    "question": "What kind of old things do people like to keep?",
+    "linked_part2": "p2-017"
+  },
+  {
+    "id": "p3-017-2",
+    "question": "Why do people keep old things?",
+    "linked_part2": "p2-017"
+  },
+  {
+    "id": "p3-017-3",
+    "question": "What are the differences between the things old people keep and those young people keep?",
+    "linked_part2": "p2-017"
+  },
+  {
+    "id": "p3-017-4",
+    "question": "What are the differences between the things that people keep today and the things that people kept in the past?",
+    "linked_part2": "p2-017"
+  },
+  {
+    "id": "p3-018-1",
+    "question": "At what age should children start learning a foreign language?",
+    "linked_part2": "p2-018"
+  },
+  {
+    "id": "p3-018-2",
+    "question": "Which skill is more important, speaking or writing?",
+    "linked_part2": "p2-018"
+  },
+  {
+    "id": "p3-018-3",
+    "question": "Does a person still need to learn other languages, if he or she is good at English?",
+    "linked_part2": "p2-018"
+  },
+  {
+    "id": "p3-018-4",
+    "question": "Do you think minority languages will disappear?",
+    "linked_part2": "p2-018"
+  },
+  {
+    "id": "p3-019-1",
+    "question": "Why do people like to use social media?",
+    "linked_part2": "p2-019"
+  },
+  {
+    "id": "p3-019-2",
+    "question": "What kinds of things are popular on social media?",
+    "linked_part2": "p2-019"
+  },
+  {
+    "id": "p3-019-3",
+    "question": "What are the advantages and disadvantages of using social media?",
+    "linked_part2": "p2-019"
+  },
+  {
+    "id": "p3-019-4",
+    "question": "What do you think of making friends on social network?",
+    "linked_part2": "p2-019"
+  },
+  {
+    "id": "p3-020-1",
+    "question": "What kind of things are more likely to be broken by people at home?",
+    "linked_part2": "p2-020"
+  },
+  {
+    "id": "p3-020-2",
+    "question": "What kind of people like to fix things by themselves?",
+    "linked_part2": "p2-020"
+  },
+  {
+    "id": "p3-020-3",
+    "question": "Do you think clothes produced in the factory are of better quality than those made by hand?",
+    "linked_part2": "p2-020"
+  },
+  {
+    "id": "p3-020-4",
+    "question": "Do you think handmade clothes are more valuable?",
+    "linked_part2": "p2-020"
+  },
+  {
+    "id": "p3-021-1",
+    "question": "What are the types of books that young people like to read?",
+    "linked_part2": "p2-021"
+  },
+  {
+    "id": "p3-021-2",
+    "question": "What's the difference between the reading habits of old people and young people?",
+    "linked_part2": "p2-021"
+  },
+  {
+    "id": "p3-021-3",
+    "question": "What's the difference between paper books and e-books?",
+    "linked_part2": "p2-021"
+  },
+  {
+    "id": "p3-021-4",
+    "question": "Some people say that it is easier for children who start reading from a young age to succeed. Do you agree?",
+    "linked_part2": "p2-021"
+  },
+  {
+    "id": "p3-022-1",
+    "question": "How do advertisements influence children?",
+    "linked_part2": "p2-022"
+  },
+  {
+    "id": "p3-022-2",
+    "question": "Should advertising aimed at kids be prohibited?",
+    "linked_part2": "p2-022"
+  },
+  {
+    "id": "p3-022-3",
+    "question": "What's the difference between the toys kids play now and those they played in the past?",
+    "linked_part2": "p2-022"
+  },
+  {
+    "id": "p3-022-4",
+    "question": "Do you think parents should buy more toys for their kids or spend more time with them?",
+    "linked_part2": "p2-022"
+  },
+  {
+    "id": "p3-022-5",
+    "question": "What's the difference between the toys boys play with and girls play with?",
+    "linked_part2": "p2-022"
+  },
+  {
+    "id": "p3-022-6",
+    "question": "What are the advantages and disadvantages of modern toys?",
+    "linked_part2": "p2-022"
+  },
+  {
+    "id": "p3-023-1",
+    "question": "Should students have physical education and do sports at school?",
+    "linked_part2": "p2-023"
+  },
+  {
+    "id": "p3-023-2",
+    "question": "What qualities should an athlete have?",
+    "linked_part2": "p2-023"
+  },
+  {
+    "id": "p3-023-3",
+    "question": "Is talent important in sports?",
+    "linked_part2": "p2-023"
+  },
+  {
+    "id": "p3-023-4",
+    "question": "Is it easy to identify children's talents?",
+    "linked_part2": "p2-023"
+  },
+  {
+    "id": "p3-023-5",
+    "question": "What is the most popular sport in your country?",
+    "linked_part2": "p2-023"
+  },
+  {
+    "id": "p3-023-6",
+    "question": "Why are there so few top athletes?",
+    "linked_part2": "p2-023"
+  },
+  {
+    "id": "p3-024-1",
+    "question": "Why do people like to go on adventures?",
+    "linked_part2": "p2-024"
+  },
+  {
+    "id": "p3-024-2",
+    "question": "Do you think children should be encouraged to take risks?",
+    "linked_part2": "p2-024"
+  },
+  {
+    "id": "p3-024-3",
+    "question": "What kinds of adventures are popular in your country?",
+    "linked_part2": "p2-024"
+  },
+  {
+    "id": "p3-024-4",
+    "question": "How have adventures changed compared to the past?",
+    "linked_part2": "p2-024"
+  },
+  {
+    "id": "p3-024-5",
+    "question": "Do you think experiencing adventures through video games or in real life is better?",
+    "linked_part2": "p2-024"
+  },
+  {
+    "id": "p3-025-1",
+    "question": "Do you think it's important for people to spend time in nature?",
+    "linked_part2": "p2-025"
+  },
+  {
+    "id": "p3-025-2",
+    "question": "How has urbanization affected people's relationship with nature?",
+    "linked_part2": "p2-025"
+  },
+  {
+    "id": "p3-025-3",
+    "question": "Why do some people prefer the countryside to the city?",
+    "linked_part2": "p2-025"
+  },
+  {
+    "id": "p3-025-4",
+    "question": "Do you think schools should organize more outdoor activities for children?",
+    "linked_part2": "p2-025"
+  },
+  {
+    "id": "p3-026-1",
+    "question": "Should all scenic spots charge an entry fee?",
+    "linked_part2": "p2-026"
+  },
+  {
+    "id": "p3-026-2",
+    "question": "Is visiting scenic spots the best choice for us while travelling?",
+    "linked_part2": "p2-026"
+  },
+  {
+    "id": "p3-026-3",
+    "question": "Why do some people like to live in big cities?",
+    "linked_part2": "p2-026"
+  },
+  {
+    "id": "p3-026-4",
+    "question": "Is it necessary for tourists to visit landmarks when travelling in a place?",
+    "linked_part2": "p2-026"
+  },
+  {
+    "id": "p3-026-5",
+    "question": "Which do most people prefer, living in a bungalow or in a tall building?",
+    "linked_part2": "p2-026"
+  },
+  {
+    "id": "p3-027-1",
+    "question": "What benefits does the internet bring to communication?",
+    "linked_part2": "p2-027"
+  },
+  {
+    "id": "p3-027-2",
+    "question": "Which one is better, being a communicator or a listener?",
+    "linked_part2": "p2-027"
+  },
+  {
+    "id": "p3-027-3",
+    "question": "What qualities does a person need to have to be a good communicator?",
+    "linked_part2": "p2-027"
+  },
+  {
+    "id": "p3-027-4",
+    "question": "What qualities do people need to speak in public?",
+    "linked_part2": "p2-027"
+  },
+  {
+    "id": "p3-027-5",
+    "question": "How important is it to be a good listener when communicating?",
+    "linked_part2": "p2-027"
+  },
+  {
+    "id": "p3-027-6",
+    "question": "What kinds of people often give speeches?",
+    "linked_part2": "p2-027"
+  },
+  {
+    "id": "p3-028-1",
+    "question": "Do you think luxury stores always provide good service?",
+    "linked_part2": "p2-028"
+  },
+  {
+    "id": "p3-028-2",
+    "question": "What qualities do you think are needed to handle customer complaints?",
+    "linked_part2": "p2-028"
+  },
+  {
+    "id": "p3-028-3",
+    "question": "What do you think it might be like to work in a customer service job?",
+    "linked_part2": "p2-028"
+  },
+  {
+    "id": "p3-028-4",
+    "question": "Do you agree that customers are more likely to complain frequently?",
+    "linked_part2": "p2-028"
+  },
+  {
+    "id": "p3-029-1",
+    "question": "Do you think it is good to teach swimming in school?",
+    "linked_part2": "p2-029"
+  },
+  {
+    "id": "p3-029-2",
+    "question": "What kinds of water sports are popular nowadays?",
+    "linked_part2": "p2-029"
+  },
+  {
+    "id": "p3-029-3",
+    "question": "Why do people like to live near water?",
+    "linked_part2": "p2-029"
+  },
+  {
+    "id": "p3-029-4",
+    "question": "What are the advantages of water transportation?",
+    "linked_part2": "p2-029"
+  },
+  {
+    "id": "p3-029-5",
+    "question": "What do you think of the people who waste water?",
+    "linked_part2": "p2-029"
+  },
+  {
+    "id": "p3-029-6",
+    "question": "What are the characteristics of goods transported by water?",
+    "linked_part2": "p2-029"
+  },
+  {
+    "id": "p3-030-1",
+    "question": "What do people normally plan in their daily lives?",
+    "linked_part2": "p2-030"
+  },
+  {
+    "id": "p3-030-2",
+    "question": "Is time management very important in our daily lives?",
+    "linked_part2": "p2-030"
+  },
+  {
+    "id": "p3-030-3",
+    "question": "What changes would people often make?",
+    "linked_part2": "p2-030"
+  },
+  {
+    "id": "p3-030-4",
+    "question": "Do you think it is good to change jobs frequently?",
+    "linked_part2": "p2-030"
+  },
+  {
+    "id": "p3-030-5",
+    "question": "Who do you think would make changes more often, young people or old people?",
+    "linked_part2": "p2-030"
+  },
+  {
+    "id": "p3-030-6",
+    "question": "Who should get more promotion opportunities in the workplace, young people or older people?",
+    "linked_part2": "p2-030"
+  },
+  {
+    "id": "p3-031-1",
+    "question": "Why do some children not like learning science at school?",
+    "linked_part2": "p2-031"
+  },
+  {
+    "id": "p3-031-2",
+    "question": "Is it important to study science at school?",
+    "linked_part2": "p2-031"
+  },
+  {
+    "id": "p3-031-3",
+    "question": "Which science subject is the most important for children to learn?",
+    "linked_part2": "p2-031"
+  },
+  {
+    "id": "p3-031-4",
+    "question": "Should people continue to study science after graduating from school?",
+    "linked_part2": "p2-031"
+  },
+  {
+    "id": "p3-031-5",
+    "question": "How do you get to know about scientific news?",
+    "linked_part2": "p2-031"
+  },
+  {
+    "id": "p3-031-6",
+    "question": "Should scientists explain the research process to the public?",
+    "linked_part2": "p2-031"
+  },
+  {
+    "id": "p3-032-1",
+    "question": "Why are some people unwilling to wait?",
+    "linked_part2": "p2-032"
+  },
+  {
+    "id": "p3-032-2",
+    "question": "Where do children learn to be patient, at home or at school?",
+    "linked_part2": "p2-032"
+  },
+  {
+    "id": "p3-032-3",
+    "question": "On what occasions do people usually need to wait?",
+    "linked_part2": "p2-032"
+  },
+  {
+    "id": "p3-032-4",
+    "question": "Who behave better when waiting, children or adults?",
+    "linked_part2": "p2-032"
+  },
+  {
+    "id": "p3-032-5",
+    "question": "Compared to the past, are people less patient now? Why?",
+    "linked_part2": "p2-032"
+  },
+  {
+    "id": "p3-033-1",
+    "question": "How can leaders encourage their employees?",
+    "linked_part2": "p2-033"
+  },
+  {
+    "id": "p3-033-2",
+    "question": "When should parents encourage their children?",
+    "linked_part2": "p2-033"
+  },
+  {
+    "id": "p3-033-3",
+    "question": "What kind of encouragement should parents give?",
+    "linked_part2": "p2-033"
+  },
+  {
+    "id": "p3-033-4",
+    "question": "Do you think some people are better than others at persuading?",
+    "linked_part2": "p2-033"
+  },
+  {
+    "id": "p3-034-1",
+    "question": "Do you often buy more than you expected?",
+    "linked_part2": "p2-034"
+  },
+  {
+    "id": "p3-034-2",
+    "question": "What do you think young people spend most of their money on?",
+    "linked_part2": "p2-034"
+  },
+  {
+    "id": "p3-034-3",
+    "question": "Do you think it is important to save money? Why?",
+    "linked_part2": "p2-034"
+  },
+  {
+    "id": "p3-034-4",
+    "question": "Do people buy things they don't need?",
+    "linked_part2": "p2-034"
+  },
+  {
+    "id": "p3-035-1",
+    "question": "What kinds of movies do you think are successful in your country?",
+    "linked_part2": "p2-035"
+  },
+  {
+    "id": "p3-035-2",
+    "question": "What are the factors that make a successful movie?",
+    "linked_part2": "p2-035"
+  },
+  {
+    "id": "p3-035-3",
+    "question": "Do Vietnamese people prefer to watch domestic movies or foreign movies?",
+    "linked_part2": "p2-035"
+  },
+  {
+    "id": "p3-035-4",
+    "question": "Do you think only well-known directors can create the best movies?",
+    "linked_part2": "p2-035"
+  },
+  {
+    "id": "p3-035-5",
+    "question": "Do you think successful movies should have well-known actors or actresses in leading roles?",
+    "linked_part2": "p2-035"
+  },
+  {
+    "id": "p3-035-6",
+    "question": "Why do people prefer to watch movies in the cinema?",
+    "linked_part2": "p2-035"
+  },
+  {
+    "id": "p3-036-1",
+    "question": "What types of buildings are popular in your country?",
+    "linked_part2": "p2-036"
+  },
+  {
+    "id": "p3-036-2",
+    "question": "Is it worth spending a lot of money on the exterior appearance of a building?",
+    "linked_part2": "p2-036"
+  },
+  {
+    "id": "p3-036-3",
+    "question": "Is it more important for a building to look good on the outside or on the inside?",
+    "linked_part2": "p2-036"
+  },
+  {
+    "id": "p3-036-4",
+    "question": "Why do people like to visit historical sites?",
+    "linked_part2": "p2-036"
+  },
+  {
+    "id": "p3-037-1",
+    "question": "Do you think adults can have lots of imagination?",
+    "linked_part2": "p2-037"
+  },
+  {
+    "id": "p3-037-2",
+    "question": "Do you think imagination is essential for scientists?",
+    "linked_part2": "p2-037"
+  },
+  {
+    "id": "p3-037-3",
+    "question": "What kinds of jobs need imagination?",
+    "linked_part2": "p2-037"
+  },
+  {
+    "id": "p3-037-4",
+    "question": "What subjects are helpful for children's imagination?",
+    "linked_part2": "p2-037"
+  },
+  {
+    "id": "p3-037-5",
+    "question": "What games help develop children's imagination?",
+    "linked_part2": "p2-037"
+  },
+  {
+    "id": "p3-037-6",
+    "question": "How important is imagination to children?",
+    "linked_part2": "p2-037"
+  },
+  {
+    "id": "p3-038-1",
+    "question": "Should children help their parents with household chores?",
+    "linked_part2": "p2-038"
+  },
+  {
+    "id": "p3-038-2",
+    "question": "What kind of help do people need when looking for a new job?",
+    "linked_part2": "p2-038"
+  },
+  {
+    "id": "p3-038-3",
+    "question": "Who should people ask for help, colleagues or family members?",
+    "linked_part2": "p2-038"
+  },
+  {
+    "id": "p3-039-1",
+    "question": "Do you think children are born smart or they learn to become smart?",
+    "linked_part2": "p2-039"
+  },
+  {
+    "id": "p3-039-2",
+    "question": "How do children become smart at school?",
+    "linked_part2": "p2-039"
+  },
+  {
+    "id": "p3-039-3",
+    "question": "Why are some people well-rounded and others only good at one thing?",
+    "linked_part2": "p2-039"
+  },
+  {
+    "id": "p3-039-4",
+    "question": "Why does modern society need talents of all kinds?",
+    "linked_part2": "p2-039"
+  },
+  {
+    "id": "p3-040-1",
+    "question": "Is it necessary to keep learning after graduating from school?",
+    "linked_part2": "p2-040"
+  },
+  {
+    "id": "p3-040-2",
+    "question": "Should teachers make learning in their classes fun?",
+    "linked_part2": "p2-040"
+  },
+  {
+    "id": "p3-040-3",
+    "question": "Do you think there are too many subjects for students to learn?",
+    "linked_part2": "p2-040"
+  },
+  {
+    "id": "p3-040-4",
+    "question": "Is it better to focus on a few subjects or to learn many subjects?",
+    "linked_part2": "p2-040"
+  },
+  {
+    "id": "p3-040-5",
+    "question": "Do you think enterprises should provide training for their employees?",
+    "linked_part2": "p2-040"
+  },
+  {
+    "id": "p3-040-6",
+    "question": "Do you think it is good for older adults to continue learning?",
+    "linked_part2": "p2-040"
+  },
+  {
+    "id": "p3-041-1",
+    "question": "What kind of music events do people like today?",
+    "linked_part2": "p2-041"
+  },
+  {
+    "id": "p3-042-1",
+    "question": "Which form of vehicle is more popular in your country, bikes, cars or motorcycles?",
+    "linked_part2": "p2-042"
+  },
+  {
+    "id": "p3-042-2",
+    "question": "Do you think air pollution comes mostly from mobile vehicles?",
+    "linked_part2": "p2-042"
+  },
+  {
+    "id": "p3-042-3",
+    "question": "Do you think people need to change the way of transportation drastically to protect the environment?",
+    "linked_part2": "p2-042"
+  },
+  {
+    "id": "p3-042-4",
+    "question": "How are the transportation systems in urban areas and rural areas different?",
+    "linked_part2": "p2-042"
+  },
+  {
+    "id": "p3-043-1",
+    "question": "How can parents teach their children to protect nature?",
+    "linked_part2": "p2-043"
+  },
+  {
+    "id": "p3-043-2",
+    "question": "Should schools teach children to get close to nature?",
+    "linked_part2": "p2-043"
+  },
+  {
+    "id": "p3-043-3",
+    "question": "Do you think there should be laws to protect nature?",
+    "linked_part2": "p2-043"
+  },
+  {
+    "id": "p3-044-1",
+    "question": "Why do people buy things they don't need?",
+    "linked_part2": "p2-044"
+  },
+  {
+    "id": "p3-045-1",
+    "question": "What things do families keep for a long time?",
+    "linked_part2": "p2-045"
+  },
+  {
+    "id": "p3-045-2",
+    "question": "What's the difference between things valued by people in the past and today?",
+    "linked_part2": "p2-045"
+  },
+  {
+    "id": "p3-045-3",
+    "question": "What kinds of things are kept in museums?",
+    "linked_part2": "p2-045"
+  },
+  {
+    "id": "p3-045-4",
+    "question": "What's the influence of technology on museums?",
+    "linked_part2": "p2-045"
+  },
+  {
+    "id": "p3-045-5",
+    "question": "What are the benefits of technology for learning history?",
+    "linked_part2": "p2-045"
+  },
+  {
+    "id": "p3-045-6",
+    "question": "Why do people visit museums?",
+    "linked_part2": "p2-045"
+  },
+  {
+    "id": "p3-046-1",
+    "question": "Should people prepare before giving advice?",
+    "linked_part2": "p2-046"
+  },
+  {
+    "id": "p3-046-2",
+    "question": "Is it good to ask advice from strangers online?",
+    "linked_part2": "p2-046"
+  },
+  {
+    "id": "p3-046-3",
+    "question": "What are the personalities of people whose job is to give advice to others?",
+    "linked_part2": "p2-046"
+  },
+  {
+    "id": "p3-046-4",
+    "question": "What are the problems if you ask too many people for advice?",
+    "linked_part2": "p2-046"
+  },
+  {
+    "id": "p3-047-1",
+    "question": "Why do people sometimes go to other cities or other countries to travel?",
+    "linked_part2": "p2-047"
+  },
+  {
+    "id": "p3-048-1",
+    "question": "What are the differences between the technology of the past and that of today?",
+    "linked_part2": "p2-048"
+  },
+  {
+    "id": "p3-048-2",
+    "question": "What technology do young people like to use?",
+    "linked_part2": "p2-048"
+  },
+  {
+    "id": "p3-048-3",
+    "question": "What are the differences between online and face-to-face communication?",
+    "linked_part2": "p2-048"
+  },
+  {
+    "id": "p3-048-4",
+    "question": "Do you think technology has changed the way people communicate?",
+    "linked_part2": "p2-048"
+  },
+  {
+    "id": "p3-048-5",
+    "question": "What negative effects does technology have on people's relationships?",
+    "linked_part2": "p2-048"
+  },
+  {
+    "id": "p3-048-6",
+    "question": "What are the differences between making friends in real life and online?",
+    "linked_part2": "p2-048"
+  },
+  {
+    "id": "p3-049-1",
+    "question": "Do you think it's important to plan ahead?",
+    "linked_part2": "p2-049"
+  },
+  {
+    "id": "p3-049-2",
+    "question": "What activities do we need to plan ahead?",
+    "linked_part2": "p2-049"
+  },
+  {
+    "id": "p3-049-3",
+    "question": "Do you think children should plan their future careers?",
+    "linked_part2": "p2-049"
+  },
+  {
+    "id": "p3-049-4",
+    "question": "Should children ask their teachers and parents for advice when making plans?",
+    "linked_part2": "p2-049"
+  },
+  {
+    "id": "p3-049-5",
+    "question": "Is making study plans popular among young people?",
+    "linked_part2": "p2-049"
+  },
+  {
+    "id": "p3-049-6",
+    "question": "Do you think choosing a college major is closely related to a person's future career?",
+    "linked_part2": "p2-049"
+  },
+  {
+    "id": "p3-050-1",
+    "question": "What is the right age for a child to learn drawing?",
+    "linked_part2": "p2-050"
+  },
+  {
+    "id": "p3-050-2",
+    "question": "Why do most children draw more often than adults do?",
+    "linked_part2": "p2-050"
+  },
+  {
+    "id": "p3-050-3",
+    "question": "Why do some people visit galleries or museums instead of viewing artworks online?",
+    "linked_part2": "p2-050"
+  },
+  {
+    "id": "p3-050-4",
+    "question": "Do you think galleries and museums should be free of charge?",
+    "linked_part2": "p2-050"
+  },
+  {
+    "id": "p3-050-5",
+    "question": "How do artworks inspire people?",
+    "linked_part2": "p2-050"
+  },
+  {
+    "id": "p3-050-6",
+    "question": "What are the differences between reading a book and visiting a museum?",
+    "linked_part2": "p2-050"
+  },
+  {
+    "id": "p3-051-1",
+    "question": "What are the differences between old and young people when using apps?",
+    "linked_part2": "p2-051"
+  },
+  {
+    "id": "p3-051-2",
+    "question": "Why do some people not like using apps?",
+    "linked_part2": "p2-051"
+  },
+  {
+    "id": "p3-051-3",
+    "question": "What apps are popular in your country? Why?",
+    "linked_part2": "p2-051"
+  },
+  {
+    "id": "p3-051-4",
+    "question": "Should parents limit their children's use of computer programs and computer games? Why and how?",
+    "linked_part2": "p2-051"
+  },
+  {
+    "id": "p3-051-5",
+    "question": "Do you think young people are more and more reliant on these programs?",
+    "linked_part2": "p2-051"
+  },
+  {
+    "id": "p3-052-1",
+    "question": "Why do most children like listening to stories before bedtime?",
+    "linked_part2": "p2-052"
+  },
+  {
+    "id": "p3-052-2",
+    "question": "Is a good storyline important for a movie?",
+    "linked_part2": "p2-052"
+  },
+  {
+    "id": "p3-052-3",
+    "question": "Do you think films with many celebrities are more likely to be popular?",
+    "linked_part2": "p2-052"
+  },
+  {
+    "id": "p3-052-4",
+    "question": "What films are popular in Vietnam right now?",
+    "linked_part2": "p2-052"
+  },
+  {
+    "id": "p3-053-1",
+    "question": "Do you think people who like to smile are more friendly?",
+    "linked_part2": "p2-053"
+  },
+  {
+    "id": "p3-053-2",
+    "question": "Why do most people smile in photographs?",
+    "linked_part2": "p2-053"
+  },
+  {
+    "id": "p3-053-3",
+    "question": "Do women smile more than men? Why?",
+    "linked_part2": "p2-053"
+  },
+  {
+    "id": "p3-053-4",
+    "question": "Do people smile more when they are younger or older?",
+    "linked_part2": "p2-053"
+  },
+  {
+    "id": "p3-054-1",
+    "question": "Why are children attracted to new things (such as electronics)?",
+    "linked_part2": "p2-054"
+  },
+  {
+    "id": "p3-054-2",
+    "question": "Why do some grown-ups hate to throw out old things (such as clothes)?",
+    "linked_part2": "p2-054"
+  },
+  {
+    "id": "p3-054-3",
+    "question": "Is the way people buy things affected? How?",
+    "linked_part2": "p2-054"
+  },
+  {
+    "id": "p3-054-4",
+    "question": "What do you think influences people to buy new things?",
+    "linked_part2": "p2-054"
+  },
+  {
+    "id": "p3-054-5",
+    "question": "Why do all children like toys?",
+    "linked_part2": "p2-054"
+  },
+  {
+    "id": "p3-054-6",
+    "question": "Do you think it is good for a child to always take his or her favourite toy with them all the time?",
+    "linked_part2": "p2-054"
+  },
+  {
+    "id": "p3-055-1",
+    "question": "Why is it difficult for some people to relax?",
+    "linked_part2": "p2-055"
+  },
+  {
+    "id": "p3-055-2",
+    "question": "What are the benefits of doing exercise?",
+    "linked_part2": "p2-055"
+  },
+  {
+    "id": "p3-055-3",
+    "question": "Do people in your country exercise after work?",
+    "linked_part2": "p2-055"
+  },
+  {
+    "id": "p3-055-4",
+    "question": "What is the place where people spend most of their time at home?",
+    "linked_part2": "p2-055"
+  },
+  {
+    "id": "p3-055-5",
+    "question": "Do you think there should be classes for training young people and children how to relax?",
+    "linked_part2": "p2-055"
+  },
+  {
+    "id": "p3-055-6",
+    "question": "Which is more important, mental relaxation or physical relaxation?",
+    "linked_part2": "p2-055"
+  },
+  {
+    "id": "p3-056-1",
+    "question": "How do young and old people use mobile phones differently?",
+    "linked_part2": "p2-056"
+  },
+  {
+    "id": "p3-056-2",
+    "question": "What positive and negative impact do mobile phones have on friendship?",
+    "linked_part2": "p2-056"
+  },
+  {
+    "id": "p3-056-3",
+    "question": "Is it a waste of time to take pictures with mobile phones?",
+    "linked_part2": "p2-056"
+  },
+  {
+    "id": "p3-056-4",
+    "question": "Do you think it is necessary to have laws on the use of mobile phones?",
+    "linked_part2": "p2-056"
+  },
+  {
+    "id": "p3-057-1",
+    "question": "What are the advantages and disadvantages of being a famous child?",
+    "linked_part2": "p2-057"
+  },
+  {
+    "id": "p3-057-2",
+    "question": "What can today's children do to become famous?",
+    "linked_part2": "p2-057"
+  },
+  {
+    "id": "p3-057-3",
+    "question": "What can children do with their fame?",
+    "linked_part2": "p2-057"
+  },
+  {
+    "id": "p3-057-4",
+    "question": "Do people become famous because of their talent?",
+    "linked_part2": "p2-057"
+  },
+  {
+    "id": "p3-058-1",
+    "question": "What kind of job can be called a 'dream job'?",
+    "linked_part2": "p2-058"
+  },
+  {
+    "id": "p3-058-2",
+    "question": "What jobs do children want to do when they grow up?",
+    "linked_part2": "p2-058"
+  },
+  {
+    "id": "p3-058-3",
+    "question": "Do people's ideal jobs change as they grow up?",
+    "linked_part2": "p2-058"
+  },
+  {
+    "id": "p3-058-4",
+    "question": "What should people consider when choosing jobs?",
+    "linked_part2": "p2-058"
+  },
+  {
+    "id": "p3-058-5",
+    "question": "Is salary the main reason why people choose a certain job?",
+    "linked_part2": "p2-058"
+  },
+  {
+    "id": "p3-059-1",
+    "question": "When would parents feel proud of their children?",
+    "linked_part2": "p2-059"
+  },
+  {
+    "id": "p3-059-2",
+    "question": "Should parents reward children? Why and how?",
+    "linked_part2": "p2-059"
+  },
+  {
+    "id": "p3-059-3",
+    "question": "Is it good to reward children too often? Why?",
+    "linked_part2": "p2-059"
+  },
+  {
+    "id": "p3-059-4",
+    "question": "On what occasions would adults be proud of themselves?",
+    "linked_part2": "p2-059"
+  },
+  {
+    "id": "p3-059-5",
+    "question": "Do rewards help a child become better?",
+    "linked_part2": "p2-059"
+  },
+  {
+    "id": "p3-059-6",
+    "question": "What do you think about children working hard just for grades?",
+    "linked_part2": "p2-059"
+  },
+  {
+    "id": "p3-060-1",
+    "question": "Do you believe movie reviews?",
+    "linked_part2": "p2-060"
+  },
+  {
+    "id": "p3-060-2",
+    "question": "What are the different types of films in your country?",
+    "linked_part2": "p2-060"
+  },
+  {
+    "id": "p3-060-3",
+    "question": "Are historical films popular in your country? Why?",
+    "linked_part2": "p2-060"
+  },
+  {
+    "id": "p3-060-4",
+    "question": "Do you think films with famous actors or actresses are more likely to become successful films?",
+    "linked_part2": "p2-060"
+  },
+  {
+    "id": "p3-060-5",
+    "question": "Why are Japanese animated films so popular?",
+    "linked_part2": "p2-060"
+  },
+  {
+    "id": "p3-060-6",
+    "question": "Should the director pay a lot of money to famous actors?",
+    "linked_part2": "p2-060"
+  }
+]

@@ -1,0 +1,6293 @@
+[
+  {
+    "rank": 1,
+    "word": "research",
+    "passageFreq": 165,
+    "questionFreq": 132,
+    "bookSpread": 11,
+    "awl": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "research",
+      "researchers",
+      "researcher",
+      "researched"
+    ]
+  },
+  {
+    "rank": 2,
+    "word": "differ",
+    "passageFreq": 148,
+    "questionFreq": 80,
+    "bookSpread": 11,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "different",
+      "difference",
+      "differences",
+      "differently",
+      "differ"
+    ]
+  },
+  {
+    "rank": 3,
+    "word": "study",
+    "passageFreq": 162,
+    "questionFreq": 75,
+    "bookSpread": 11,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "study",
+      "studies",
+      "studied",
+      "studying"
+    ]
+  },
+  {
+    "rank": 4,
+    "word": "produce",
+    "passageFreq": 143,
+    "questionFreq": 67,
+    "bookSpread": 11,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "production",
+      "produce",
+      "produced",
+      "producing",
+      "productivity"
+    ]
+  },
+  {
+    "rank": 5,
+    "word": "section",
+    "passageFreq": 8,
+    "questionFreq": 63,
+    "bookSpread": 11,
+    "awl": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "section"
+    ]
+  },
+  {
+    "rank": 6,
+    "word": "science",
+    "passageFreq": 165,
+    "questionFreq": 62,
+    "bookSpread": 11,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "scientists",
+      "science",
+      "scientific",
+      "sciences",
+      "scientist"
+    ]
+  },
+  {
+    "rank": 7,
+    "word": "develop",
+    "passageFreq": 182,
+    "questionFreq": 61,
+    "bookSpread": 11,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "development",
+      "developed",
+      "developing",
+      "develop",
+      "developments"
+    ]
+  },
+  {
+    "rank": 8,
+    "word": "certain",
+    "passageFreq": 41,
+    "questionFreq": 53,
+    "bookSpread": 11,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "certain"
+    ]
+  },
+  {
+    "rank": 9,
+    "word": "reference",
+    "passageFreq": 2,
+    "questionFreq": 51,
+    "bookSpread": 10,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "reference"
+    ]
+  },
+  {
+    "rank": 10,
+    "word": "suggest",
+    "passageFreq": 93,
+    "questionFreq": 49,
+    "bookSpread": 11,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "suggest",
+      "suggests",
+      "suggested",
+      "suggestion",
+      "suggesting"
+    ]
+  },
+  {
+    "rank": 11,
+    "word": "a-g",
+    "passageFreq": 2,
+    "questionFreq": 47,
+    "bookSpread": 11,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "a-g"
+    ]
+  },
+  {
+    "rank": 12,
+    "word": "art",
+    "passageFreq": 51,
+    "questionFreq": 46,
+    "bookSpread": 10,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "art"
+    ]
+  },
+  {
+    "rank": 13,
+    "word": "children",
+    "passageFreq": 129,
+    "questionFreq": 45,
+    "bookSpread": 11,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "children",
+      "child",
+      "childhood"
+    ]
+  },
+  {
+    "rank": 14,
+    "word": "environment",
+    "passageFreq": 100,
+    "questionFreq": 44,
+    "bookSpread": 11,
+    "awl": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "environment",
+      "environmental",
+      "environments",
+      "environmentally"
+    ]
+  },
+  {
+    "rank": 15,
+    "word": "found",
+    "passageFreq": 112,
+    "questionFreq": 44,
+    "bookSpread": 11,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "found"
+    ]
+  },
+  {
+    "rank": 16,
+    "word": "soil",
+    "passageFreq": 16,
+    "questionFreq": 44,
+    "bookSpread": 7,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "soil"
+    ]
+  },
+  {
+    "rank": 17,
+    "word": "impossible",
+    "passageFreq": 10,
+    "questionFreq": 42,
+    "bookSpread": 11,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "impossible"
+    ]
+  },
+  {
+    "rank": 18,
+    "word": "century",
+    "passageFreq": 142,
+    "questionFreq": 41,
+    "bookSpread": 11,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "century",
+      "centuries"
+    ]
+  },
+  {
+    "rank": 19,
+    "word": "result",
+    "passageFreq": 98,
+    "questionFreq": 41,
+    "bookSpread": 11,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "result",
+      "results",
+      "resulting",
+      "resulted"
+    ]
+  },
+  {
+    "rank": 20,
+    "word": "effect",
+    "passageFreq": 82,
+    "questionFreq": 41,
+    "bookSpread": 11,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "effects",
+      "effect",
+      "effective",
+      "effectively",
+      "effectiveness"
+    ]
+  },
+  {
+    "rank": 21,
+    "word": "according",
+    "passageFreq": 49,
+    "questionFreq": 41,
+    "bookSpread": 11,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "according"
+    ]
+  },
+  {
+    "rank": 22,
+    "word": "animal",
+    "passageFreq": 85,
+    "questionFreq": 40,
+    "bookSpread": 11,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "animals",
+      "animal"
+    ]
+  },
+  {
+    "rank": 23,
+    "word": "increase",
+    "passageFreq": 102,
+    "questionFreq": 39,
+    "bookSpread": 11,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "increase",
+      "increasingly",
+      "increased",
+      "increasing",
+      "increases"
+    ]
+  },
+  {
+    "rank": 24,
+    "word": "example",
+    "passageFreq": 89,
+    "questionFreq": 39,
+    "bookSpread": 11,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "example"
+    ]
+  },
+  {
+    "rank": 25,
+    "word": "thinks",
+    "passageFreq": 7,
+    "questionFreq": 39,
+    "bookSpread": 11,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "thinks"
+    ]
+  },
+  {
+    "rank": 26,
+    "word": "a-f",
+    "passageFreq": 4,
+    "questionFreq": 39,
+    "bookSpread": 11,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "a-f"
+    ]
+  },
+  {
+    "rank": 27,
+    "word": "a-e",
+    "passageFreq": 1,
+    "questionFreq": 39,
+    "bookSpread": 10,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "a-e"
+    ]
+  },
+  {
+    "rank": 28,
+    "word": "involve",
+    "passageFreq": 63,
+    "questionFreq": 38,
+    "bookSpread": 11,
+    "awl": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "involved",
+      "involve",
+      "involves",
+      "involving",
+      "involvement"
+    ]
+  },
+  {
+    "rank": 29,
+    "word": "work",
+    "passageFreq": 145,
+    "questionFreq": 38,
+    "bookSpread": 11,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "work"
+    ]
+  },
+  {
+    "rank": 30,
+    "word": "human",
+    "passageFreq": 107,
+    "questionFreq": 38,
+    "bookSpread": 11,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "human"
+    ]
+  },
+  {
+    "rank": 31,
+    "word": "viii",
+    "passageFreq": 1,
+    "questionFreq": 38,
+    "bookSpread": 9,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "viii"
+    ]
+  },
+  {
+    "rank": 32,
+    "word": "species",
+    "passageFreq": 115,
+    "questionFreq": 37,
+    "bookSpread": 11,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "species"
+    ]
+  },
+  {
+    "rank": 33,
+    "word": "views",
+    "passageFreq": 11,
+    "questionFreq": 37,
+    "bookSpread": 10,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "views"
+    ]
+  },
+  {
+    "rank": 34,
+    "word": "help",
+    "passageFreq": 77,
+    "questionFreq": 36,
+    "bookSpread": 11,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "help"
+    ]
+  },
+  {
+    "rank": 35,
+    "word": "once",
+    "passageFreq": 44,
+    "questionFreq": 36,
+    "bookSpread": 11,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "once"
+    ]
+  },
+  {
+    "rank": 36,
+    "word": "language",
+    "passageFreq": 95,
+    "questionFreq": 36,
+    "bookSpread": 10,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "language",
+      "languages",
+      "linguistic"
+    ]
+  },
+  {
+    "rank": 37,
+    "word": "vary",
+    "passageFreq": 92,
+    "questionFreq": 35,
+    "bookSpread": 11,
+    "awl": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "various",
+      "variety",
+      "vary",
+      "varied",
+      "variation"
+    ]
+  },
+  {
+    "rank": 38,
+    "word": "discover",
+    "passageFreq": 71,
+    "questionFreq": 35,
+    "bookSpread": 11,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "discovery",
+      "discovered",
+      "discoveries",
+      "discovering",
+      "discover"
+    ]
+  },
+  {
+    "rank": 39,
+    "word": "benefit",
+    "passageFreq": 40,
+    "questionFreq": 34,
+    "bookSpread": 11,
+    "awl": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "benefit",
+      "benefits",
+      "beneficial"
+    ]
+  },
+  {
+    "rank": 40,
+    "word": "impact",
+    "passageFreq": 27,
+    "questionFreq": 34,
+    "bookSpread": 11,
+    "awl": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "impact"
+    ]
+  },
+  {
+    "rank": 41,
+    "word": "life",
+    "passageFreq": 107,
+    "questionFreq": 34,
+    "bookSpread": 11,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "life"
+    ]
+  },
+  {
+    "rank": 42,
+    "word": "person",
+    "passageFreq": 39,
+    "questionFreq": 34,
+    "bookSpread": 11,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "person"
+    ]
+  },
+  {
+    "rank": 43,
+    "word": "explain",
+    "passageFreq": 62,
+    "questionFreq": 33,
+    "bookSpread": 11,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "explains",
+      "explain",
+      "explanation",
+      "explained",
+      "explanations"
+    ]
+  },
+  {
+    "rank": 44,
+    "word": "public",
+    "passageFreq": 57,
+    "questionFreq": 33,
+    "bookSpread": 11,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "public"
+    ]
+  },
+  {
+    "rank": 45,
+    "word": "describe",
+    "passageFreq": 19,
+    "questionFreq": 33,
+    "bookSpread": 11,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "described",
+      "describing",
+      "descriptions",
+      "describe",
+      "description"
+    ]
+  },
+  {
+    "rank": 46,
+    "word": "theory",
+    "passageFreq": 82,
+    "questionFreq": 32,
+    "bookSpread": 11,
+    "awl": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "theory",
+      "theories",
+      "theoretical"
+    ]
+  },
+  {
+    "rank": 47,
+    "word": "world",
+    "passageFreq": 167,
+    "questionFreq": 32,
+    "bookSpread": 11,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "world"
+    ]
+  },
+  {
+    "rank": 48,
+    "word": "less",
+    "passageFreq": 56,
+    "questionFreq": 32,
+    "bookSpread": 11,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "less"
+    ]
+  },
+  {
+    "rank": 49,
+    "word": "industry",
+    "passageFreq": 62,
+    "questionFreq": 32,
+    "bookSpread": 10,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "industry",
+      "industrial",
+      "industries",
+      "industrialisation"
+    ]
+  },
+  {
+    "rank": 50,
+    "word": "students",
+    "passageFreq": 52,
+    "questionFreq": 32,
+    "bookSpread": 8,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "students"
+    ]
+  },
+  {
+    "rank": 51,
+    "word": "transport",
+    "passageFreq": 62,
+    "questionFreq": 31,
+    "bookSpread": 9,
+    "awl": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "transport",
+      "transportation",
+      "transported",
+      "transporting"
+    ]
+  },
+  {
+    "rank": 52,
+    "word": "plant",
+    "passageFreq": 103,
+    "questionFreq": 31,
+    "bookSpread": 11,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "plants",
+      "plant",
+      "planting"
+    ]
+  },
+  {
+    "rank": 53,
+    "word": "problems",
+    "passageFreq": 33,
+    "questionFreq": 31,
+    "bookSpread": 11,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "problems"
+    ]
+  },
+  {
+    "rank": 54,
+    "word": "music",
+    "passageFreq": 38,
+    "questionFreq": 31,
+    "bookSpread": 5,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "music"
+    ]
+  },
+  {
+    "rank": 55,
+    "word": "ai",
+    "passageFreq": 38,
+    "questionFreq": 31,
+    "bookSpread": 3,
+    "awl": false,
+    "tier": "TIER 2: Should-Know",
+    "surfaceForms": [
+      "ai"
+    ]
+  },
+  {
+    "rank": 56,
+    "word": "change",
+    "passageFreq": 73,
+    "questionFreq": 30,
+    "bookSpread": 11,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "change"
+    ]
+  },
+  {
+    "rank": 57,
+    "word": "a-h",
+    "passageFreq": 1,
+    "questionFreq": 30,
+    "bookSpread": 11,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "a-h"
+    ]
+  },
+  {
+    "rank": 58,
+    "word": "design",
+    "passageFreq": 80,
+    "questionFreq": 29,
+    "bookSpread": 11,
+    "awl": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "design",
+      "designed",
+      "designs",
+      "designing",
+      "designer"
+    ]
+  },
+  {
+    "rank": 59,
+    "word": "particular",
+    "passageFreq": 79,
+    "questionFreq": 29,
+    "bookSpread": 11,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "particular",
+      "particularly"
+    ]
+  },
+  {
+    "rank": 60,
+    "word": "ideas",
+    "passageFreq": 38,
+    "questionFreq": 29,
+    "bookSpread": 11,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "ideas"
+    ]
+  },
+  {
+    "rank": 61,
+    "word": "food",
+    "passageFreq": 56,
+    "questionFreq": 29,
+    "bookSpread": 10,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "food"
+    ]
+  },
+  {
+    "rank": 62,
+    "word": "process",
+    "passageFreq": 99,
+    "questionFreq": 28,
+    "bookSpread": 11,
+    "awl": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "process",
+      "processes",
+      "processing",
+      "processed"
+    ]
+  },
+  {
+    "rank": 63,
+    "word": "range",
+    "passageFreq": 28,
+    "questionFreq": 28,
+    "bookSpread": 11,
+    "awl": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "range"
+    ]
+  },
+  {
+    "rank": 64,
+    "word": "brain",
+    "passageFreq": 107,
+    "questionFreq": 28,
+    "bookSpread": 10,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "brain",
+      "brains"
+    ]
+  },
+  {
+    "rank": 65,
+    "word": "play",
+    "passageFreq": 85,
+    "questionFreq": 28,
+    "bookSpread": 9,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "play"
+    ]
+  },
+  {
+    "rank": 66,
+    "word": "look",
+    "passageFreq": 26,
+    "questionFreq": 28,
+    "bookSpread": 11,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "look"
+    ]
+  },
+  {
+    "rank": 67,
+    "word": "provide",
+    "passageFreq": 92,
+    "questionFreq": 27,
+    "bookSpread": 11,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "provide",
+      "provided",
+      "provides",
+      "providing",
+      "provision"
+    ]
+  },
+  {
+    "rank": 68,
+    "word": "trees",
+    "passageFreq": 62,
+    "questionFreq": 27,
+    "bookSpread": 10,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "trees"
+    ]
+  },
+  {
+    "rank": 69,
+    "word": "humans",
+    "passageFreq": 30,
+    "questionFreq": 27,
+    "bookSpread": 10,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "humans"
+    ]
+  },
+  {
+    "rank": 70,
+    "word": "reduce",
+    "passageFreq": 66,
+    "questionFreq": 26,
+    "bookSpread": 11,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "reduce",
+      "reducing",
+      "reduces",
+      "reduction",
+      "reduced"
+    ]
+  },
+  {
+    "rank": 71,
+    "word": "likely",
+    "passageFreq": 45,
+    "questionFreq": 26,
+    "bookSpread": 11,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "likely"
+    ]
+  },
+  {
+    "rank": 72,
+    "word": "water",
+    "passageFreq": 99,
+    "questionFreq": 26,
+    "bookSpread": 10,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "water"
+    ]
+  },
+  {
+    "rank": 73,
+    "word": "relate",
+    "passageFreq": 70,
+    "questionFreq": 26,
+    "bookSpread": 10,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "relate",
+      "relatively",
+      "relative",
+      "relationship",
+      "related",
+      "relation"
+    ]
+  },
+  {
+    "rank": 74,
+    "word": "point",
+    "passageFreq": 39,
+    "questionFreq": 26,
+    "bookSpread": 11,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "point"
+    ]
+  },
+  {
+    "rank": 75,
+    "word": "compare",
+    "passageFreq": 38,
+    "questionFreq": 26,
+    "bookSpread": 11,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "compared",
+      "compare",
+      "comparison",
+      "comparing",
+      "comparable"
+    ]
+  },
+  {
+    "rank": 76,
+    "word": "respond",
+    "passageFreq": 37,
+    "questionFreq": 25,
+    "bookSpread": 11,
+    "awl": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "response",
+      "responded",
+      "responses",
+      "responding",
+      "respond"
+    ]
+  },
+  {
+    "rank": 77,
+    "word": "important",
+    "passageFreq": 73,
+    "questionFreq": 25,
+    "bookSpread": 11,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "important"
+    ]
+  },
+  {
+    "rank": 78,
+    "word": "idea",
+    "passageFreq": 48,
+    "questionFreq": 25,
+    "bookSpread": 11,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "idea"
+    ]
+  },
+  {
+    "rank": 79,
+    "word": "behaviour",
+    "passageFreq": 42,
+    "questionFreq": 25,
+    "bookSpread": 10,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "behaviour",
+      "behavior",
+      "behaviors",
+      "behavioral",
+      "behaviours"
+    ]
+  },
+  {
+    "rank": 80,
+    "word": "findings",
+    "passageFreq": 16,
+    "questionFreq": 25,
+    "bookSpread": 11,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "findings"
+    ]
+  },
+  {
+    "rank": 81,
+    "word": "achieve",
+    "passageFreq": 60,
+    "questionFreq": 24,
+    "bookSpread": 11,
+    "awl": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "achieve",
+      "achieved",
+      "achievement",
+      "achievements",
+      "achieving"
+    ]
+  },
+  {
+    "rank": 82,
+    "word": "others",
+    "passageFreq": 69,
+    "questionFreq": 24,
+    "bookSpread": 11,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "others"
+    ]
+  },
+  {
+    "rank": 83,
+    "word": "technology",
+    "passageFreq": 73,
+    "questionFreq": 23,
+    "bookSpread": 11,
+    "awl": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "technology",
+      "technologies",
+      "technological"
+    ]
+  },
+  {
+    "rank": 84,
+    "word": "construct",
+    "passageFreq": 59,
+    "questionFreq": 23,
+    "bookSpread": 10,
+    "awl": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "construction",
+      "constructed",
+      "construct",
+      "constructing"
+    ]
+  },
+  {
+    "rank": 85,
+    "word": "aware",
+    "passageFreq": 21,
+    "questionFreq": 23,
+    "bookSpread": 11,
+    "awl": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "aware",
+      "awareness",
+      "unaware"
+    ]
+  },
+  {
+    "rank": 86,
+    "word": "large",
+    "passageFreq": 73,
+    "questionFreq": 23,
+    "bookSpread": 11,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "large"
+    ]
+  },
+  {
+    "rank": 87,
+    "word": "control",
+    "passageFreq": 64,
+    "questionFreq": 23,
+    "bookSpread": 11,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "control",
+      "controlled",
+      "controlling",
+      "controls"
+    ]
+  },
+  {
+    "rank": 88,
+    "word": "possible",
+    "passageFreq": 55,
+    "questionFreq": 23,
+    "bookSpread": 11,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "possible"
+    ]
+  },
+  {
+    "rank": 89,
+    "word": "areas",
+    "passageFreq": 40,
+    "questionFreq": 23,
+    "bookSpread": 11,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "areas"
+    ]
+  },
+  {
+    "rank": 90,
+    "word": "explore",
+    "passageFreq": 37,
+    "questionFreq": 23,
+    "bookSpread": 10,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "exploration",
+      "explorer",
+      "explore",
+      "exploring",
+      "explored"
+    ]
+  },
+  {
+    "rank": 91,
+    "word": "approach",
+    "passageFreq": 57,
+    "questionFreq": 22,
+    "bookSpread": 11,
+    "awl": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "approach",
+      "approaches",
+      "approached",
+      "approaching"
+    ]
+  },
+  {
+    "rank": 92,
+    "word": "significant",
+    "passageFreq": 55,
+    "questionFreq": 22,
+    "bookSpread": 11,
+    "awl": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "significant",
+      "significantly",
+      "significance"
+    ]
+  },
+  {
+    "rank": 93,
+    "word": "period",
+    "passageFreq": 26,
+    "questionFreq": 22,
+    "bookSpread": 11,
+    "awl": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "period"
+    ]
+  },
+  {
+    "rank": 94,
+    "word": "society",
+    "passageFreq": 108,
+    "questionFreq": 22,
+    "bookSpread": 11,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "social",
+      "society",
+      "societies",
+      "socially",
+      "societal"
+    ]
+  },
+  {
+    "rank": 95,
+    "word": "today",
+    "passageFreq": 85,
+    "questionFreq": 22,
+    "bookSpread": 11,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "today"
+    ]
+  },
+  {
+    "rank": 96,
+    "word": "city",
+    "passageFreq": 69,
+    "questionFreq": 22,
+    "bookSpread": 11,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "city"
+    ]
+  },
+  {
+    "rank": 97,
+    "word": "material",
+    "passageFreq": 57,
+    "questionFreq": 22,
+    "bookSpread": 11,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "material",
+      "materials"
+    ]
+  },
+  {
+    "rank": 98,
+    "word": "island",
+    "passageFreq": 74,
+    "questionFreq": 22,
+    "bookSpread": 9,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "island",
+      "islands"
+    ]
+  },
+  {
+    "rank": 99,
+    "word": "order",
+    "passageFreq": 37,
+    "questionFreq": 22,
+    "bookSpread": 11,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "order"
+    ]
+  },
+  {
+    "rank": 100,
+    "word": "examples",
+    "passageFreq": 18,
+    "questionFreq": 22,
+    "bookSpread": 11,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "examples"
+    ]
+  },
+  {
+    "rank": 101,
+    "word": "natural",
+    "passageFreq": 94,
+    "questionFreq": 21,
+    "bookSpread": 11,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "natural",
+      "nature",
+      "naturally"
+    ]
+  },
+  {
+    "rank": 102,
+    "word": "little",
+    "passageFreq": 52,
+    "questionFreq": 21,
+    "bookSpread": 11,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "little"
+    ]
+  },
+  {
+    "rank": 103,
+    "word": "age",
+    "passageFreq": 51,
+    "questionFreq": 21,
+    "bookSpread": 11,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "age"
+    ]
+  },
+  {
+    "rank": 104,
+    "word": "good",
+    "passageFreq": 46,
+    "questionFreq": 21,
+    "bookSpread": 11,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "good"
+    ]
+  },
+  {
+    "rank": 105,
+    "word": "climate",
+    "passageFreq": 54,
+    "questionFreq": 21,
+    "bookSpread": 10,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "climate",
+      "climatic",
+      "climates"
+    ]
+  },
+  {
+    "rank": 106,
+    "word": "future",
+    "passageFreq": 41,
+    "questionFreq": 21,
+    "bookSpread": 11,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "future"
+    ]
+  },
+  {
+    "rank": 107,
+    "word": "past",
+    "passageFreq": 39,
+    "questionFreq": 21,
+    "bookSpread": 10,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "past"
+    ]
+  },
+  {
+    "rank": 108,
+    "word": "works",
+    "passageFreq": 31,
+    "questionFreq": 21,
+    "bookSpread": 8,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "works"
+    ]
+  },
+  {
+    "rank": 109,
+    "word": "ships",
+    "passageFreq": 16,
+    "questionFreq": 21,
+    "bookSpread": 7,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "ships"
+    ]
+  },
+  {
+    "rank": 110,
+    "word": "participants",
+    "passageFreq": 16,
+    "questionFreq": 21,
+    "bookSpread": 6,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "participants"
+    ]
+  },
+  {
+    "rank": 111,
+    "word": "smell",
+    "passageFreq": 18,
+    "questionFreq": 21,
+    "bookSpread": 2,
+    "awl": false,
+    "tier": "TIER 3: Good-to-Know",
+    "surfaceForms": [
+      "smell"
+    ]
+  },
+  {
+    "rank": 112,
+    "word": "source",
+    "passageFreq": 37,
+    "questionFreq": 20,
+    "bookSpread": 10,
+    "awl": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "source",
+      "sources"
+    ]
+  },
+  {
+    "rank": 113,
+    "word": "data",
+    "passageFreq": 31,
+    "questionFreq": 20,
+    "bookSpread": 11,
+    "awl": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "data"
+    ]
+  },
+  {
+    "rank": 114,
+    "word": "ability",
+    "passageFreq": 65,
+    "questionFreq": 20,
+    "bookSpread": 11,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "ability",
+      "abilities",
+      "inability"
+    ]
+  },
+  {
+    "rank": 115,
+    "word": "problem",
+    "passageFreq": 42,
+    "questionFreq": 20,
+    "bookSpread": 11,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "problem"
+    ]
+  },
+  {
+    "rank": 116,
+    "word": "reason",
+    "passageFreq": 35,
+    "questionFreq": 20,
+    "bookSpread": 11,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "reason"
+    ]
+  },
+  {
+    "rank": 117,
+    "word": "britain",
+    "passageFreq": 27,
+    "questionFreq": 20,
+    "bookSpread": 6,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "britain"
+    ]
+  },
+  {
+    "rank": 118,
+    "word": "mention",
+    "passageFreq": 3,
+    "questionFreq": 20,
+    "bookSpread": 8,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "mention"
+    ]
+  },
+  {
+    "rank": 119,
+    "word": "al",
+    "passageFreq": 24,
+    "questionFreq": 20,
+    "bookSpread": 4,
+    "awl": false,
+    "tier": "TIER 2: Should-Know",
+    "surfaceForms": [
+      "al"
+    ]
+  },
+  {
+    "rank": 120,
+    "word": "consider",
+    "passageFreq": 51,
+    "questionFreq": 19,
+    "bookSpread": 11,
+    "awl": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "considered",
+      "consider",
+      "considerable",
+      "consideration",
+      "considers"
+    ]
+  },
+  {
+    "rank": 121,
+    "word": "feature",
+    "passageFreq": 29,
+    "questionFreq": 19,
+    "bookSpread": 9,
+    "awl": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "features",
+      "feature",
+      "featured"
+    ]
+  },
+  {
+    "rank": 122,
+    "word": "occur",
+    "passageFreq": 22,
+    "questionFreq": 19,
+    "bookSpread": 10,
+    "awl": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "occurred",
+      "occur",
+      "occurs",
+      "occurring",
+      "occurrence"
+    ]
+  },
+  {
+    "rank": 123,
+    "word": "university",
+    "passageFreq": 89,
+    "questionFreq": 19,
+    "bookSpread": 11,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "university"
+    ]
+  },
+  {
+    "rank": 124,
+    "word": "experience",
+    "passageFreq": 77,
+    "questionFreq": 19,
+    "bookSpread": 11,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "experience",
+      "experiences",
+      "experiencing",
+      "experienced"
+    ]
+  },
+  {
+    "rank": 125,
+    "word": "changes",
+    "passageFreq": 44,
+    "questionFreq": 19,
+    "bookSpread": 11,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "changes"
+    ]
+  },
+  {
+    "rank": 126,
+    "word": "book",
+    "passageFreq": 43,
+    "questionFreq": 19,
+    "bookSpread": 9,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "book"
+    ]
+  },
+  {
+    "rank": 127,
+    "word": "silk",
+    "passageFreq": 33,
+    "questionFreq": 19,
+    "bookSpread": 1,
+    "awl": false,
+    "tier": "TIER 4: Low Priority",
+    "surfaceForms": [
+      "silk"
+    ]
+  },
+  {
+    "rank": 128,
+    "word": "require",
+    "passageFreq": 54,
+    "questionFreq": 18,
+    "bookSpread": 11,
+    "awl": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "required",
+      "require",
+      "requirements",
+      "requiring",
+      "requires"
+    ]
+  },
+  {
+    "rank": 129,
+    "word": "area",
+    "passageFreq": 48,
+    "questionFreq": 18,
+    "bookSpread": 11,
+    "awl": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "area"
+    ]
+  },
+  {
+    "rank": 130,
+    "word": "early",
+    "passageFreq": 66,
+    "questionFreq": 18,
+    "bookSpread": 11,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "early"
+    ]
+  },
+  {
+    "rank": 131,
+    "word": "land",
+    "passageFreq": 59,
+    "questionFreq": 18,
+    "bookSpread": 11,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "land"
+    ]
+  },
+  {
+    "rank": 132,
+    "word": "view",
+    "passageFreq": 45,
+    "questionFreq": 18,
+    "bookSpread": 11,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "view"
+    ]
+  },
+  {
+    "rank": 133,
+    "word": "sea",
+    "passageFreq": 35,
+    "questionFreq": 18,
+    "bookSpread": 10,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "sea"
+    ]
+  },
+  {
+    "rank": 134,
+    "word": "influence",
+    "passageFreq": 30,
+    "questionFreq": 18,
+    "bookSpread": 11,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "influence",
+      "influenced",
+      "influential",
+      "influencing",
+      "influences"
+    ]
+  },
+  {
+    "rank": 135,
+    "word": "conditions",
+    "passageFreq": 29,
+    "questionFreq": 18,
+    "bookSpread": 10,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "conditions"
+    ]
+  },
+  {
+    "rank": 136,
+    "word": "farming",
+    "passageFreq": 25,
+    "questionFreq": 18,
+    "bookSpread": 8,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "farming"
+    ]
+  },
+  {
+    "rank": 137,
+    "word": "lack",
+    "passageFreq": 19,
+    "questionFreq": 18,
+    "bookSpread": 11,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "lack"
+    ]
+  },
+  {
+    "rank": 138,
+    "word": "type",
+    "passageFreq": 14,
+    "questionFreq": 18,
+    "bookSpread": 9,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "type"
+    ]
+  },
+  {
+    "rank": 139,
+    "word": "sections",
+    "passageFreq": 5,
+    "questionFreq": 18,
+    "bookSpread": 9,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "sections"
+    ]
+  },
+  {
+    "rank": 140,
+    "word": "charles",
+    "passageFreq": 25,
+    "questionFreq": 18,
+    "bookSpread": 5,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "charles"
+    ]
+  },
+  {
+    "rank": 141,
+    "word": "evidence",
+    "passageFreq": 61,
+    "questionFreq": 17,
+    "bookSpread": 11,
+    "awl": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "evidence",
+      "evident",
+      "evidently"
+    ]
+  },
+  {
+    "rank": 142,
+    "word": "contribute",
+    "passageFreq": 32,
+    "questionFreq": 17,
+    "bookSpread": 11,
+    "awl": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "contribute",
+      "contributions",
+      "contributed",
+      "contribution",
+      "contributing"
+    ]
+  },
+  {
+    "rank": 143,
+    "word": "indicate",
+    "passageFreq": 30,
+    "questionFreq": 17,
+    "bookSpread": 11,
+    "awl": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "indicate",
+      "indicates",
+      "indicating",
+      "indicated",
+      "indication"
+    ]
+  },
+  {
+    "rank": 144,
+    "word": "find",
+    "passageFreq": 51,
+    "questionFreq": 17,
+    "bookSpread": 11,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "find"
+    ]
+  },
+  {
+    "rank": 145,
+    "word": "measure",
+    "passageFreq": 51,
+    "questionFreq": 17,
+    "bookSpread": 11,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "measure",
+      "measures",
+      "measurements",
+      "measured",
+      "measuring"
+    ]
+  },
+  {
+    "rank": 146,
+    "word": "parts",
+    "passageFreq": 41,
+    "questionFreq": 17,
+    "bookSpread": 11,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "parts"
+    ]
+  },
+  {
+    "rank": 147,
+    "word": "insects",
+    "passageFreq": 33,
+    "questionFreq": 17,
+    "bookSpread": 10,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "insects"
+    ]
+  },
+  {
+    "rank": 148,
+    "word": "amount",
+    "passageFreq": 23,
+    "questionFreq": 17,
+    "bookSpread": 10,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "amount"
+    ]
+  },
+  {
+    "rank": 149,
+    "word": "main",
+    "passageFreq": 18,
+    "questionFreq": 17,
+    "bookSpread": 11,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "main"
+    ]
+  },
+  {
+    "rank": 150,
+    "word": "reasons",
+    "passageFreq": 11,
+    "questionFreq": 17,
+    "bookSpread": 8,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "reasons"
+    ]
+  },
+  {
+    "rank": 151,
+    "word": "staff",
+    "passageFreq": 9,
+    "questionFreq": 17,
+    "bookSpread": 6,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "staff"
+    ]
+  },
+  {
+    "rank": 152,
+    "word": "glass",
+    "passageFreq": 75,
+    "questionFreq": 17,
+    "bookSpread": 3,
+    "awl": false,
+    "tier": "TIER 2: Should-Know",
+    "surfaceForms": [
+      "glass"
+    ]
+  },
+  {
+    "rank": 153,
+    "word": "lapita",
+    "passageFreq": 17,
+    "questionFreq": 17,
+    "bookSpread": 1,
+    "awl": false,
+    "tier": "TIER 4: Low Priority",
+    "surfaceForms": [
+      "lapita"
+    ]
+  },
+  {
+    "rank": 154,
+    "word": "physical",
+    "passageFreq": 32,
+    "questionFreq": 16,
+    "bookSpread": 10,
+    "awl": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "physical",
+      "physically"
+    ]
+  },
+  {
+    "rank": 155,
+    "word": "method",
+    "passageFreq": 30,
+    "questionFreq": 16,
+    "bookSpread": 10,
+    "awl": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "method"
+    ]
+  },
+  {
+    "rank": 156,
+    "word": "high",
+    "passageFreq": 70,
+    "questionFreq": 16,
+    "bookSpread": 11,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "high"
+    ]
+  },
+  {
+    "rank": 157,
+    "word": "power",
+    "passageFreq": 52,
+    "questionFreq": 16,
+    "bookSpread": 11,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "power"
+    ]
+  },
+  {
+    "rank": 158,
+    "word": "learning",
+    "passageFreq": 58,
+    "questionFreq": 16,
+    "bookSpread": 10,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "learning"
+    ]
+  },
+  {
+    "rank": 159,
+    "word": "building",
+    "passageFreq": 53,
+    "questionFreq": 16,
+    "bookSpread": 10,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "building"
+    ]
+  },
+  {
+    "rank": 160,
+    "word": "company",
+    "passageFreq": 45,
+    "questionFreq": 16,
+    "bookSpread": 10,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "company"
+    ]
+  },
+  {
+    "rank": 161,
+    "word": "oil",
+    "passageFreq": 39,
+    "questionFreq": 16,
+    "bookSpread": 7,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "oil"
+    ]
+  },
+  {
+    "rank": 162,
+    "word": "wood",
+    "passageFreq": 35,
+    "questionFreq": 16,
+    "bookSpread": 7,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "wood"
+    ]
+  },
+  {
+    "rank": 163,
+    "word": "farmers",
+    "passageFreq": 33,
+    "questionFreq": 16,
+    "bookSpread": 8,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "farmers"
+    ]
+  },
+  {
+    "rank": 164,
+    "word": "difficult",
+    "passageFreq": 32,
+    "questionFreq": 16,
+    "bookSpread": 11,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "difficult"
+    ]
+  },
+  {
+    "rank": 165,
+    "word": "longer",
+    "passageFreq": 31,
+    "questionFreq": 16,
+    "bookSpread": 11,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "longer"
+    ]
+  },
+  {
+    "rank": 166,
+    "word": "concern",
+    "passageFreq": 31,
+    "questionFreq": 16,
+    "bookSpread": 11,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "concern",
+      "concerned",
+      "concerns",
+      "concerning"
+    ]
+  },
+  {
+    "rank": 167,
+    "word": "financial",
+    "passageFreq": 11,
+    "questionFreq": 16,
+    "bookSpread": 6,
+    "awl": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "financial"
+    ]
+  },
+  {
+    "rank": 168,
+    "word": "observe",
+    "passageFreq": 27,
+    "questionFreq": 16,
+    "bookSpread": 9,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "observed",
+      "observation",
+      "observations",
+      "observe",
+      "observing"
+    ]
+  },
+  {
+    "rank": 169,
+    "word": "importance",
+    "passageFreq": 24,
+    "questionFreq": 16,
+    "bookSpread": 10,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "importance"
+    ]
+  },
+  {
+    "rank": 170,
+    "word": "businesses",
+    "passageFreq": 20,
+    "questionFreq": 16,
+    "bookSpread": 7,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "businesses"
+    ]
+  },
+  {
+    "rank": 171,
+    "word": "a-i",
+    "passageFreq": 1,
+    "questionFreq": 16,
+    "bookSpread": 7,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "a-i"
+    ]
+  },
+  {
+    "rank": 172,
+    "word": "steam",
+    "passageFreq": 23,
+    "questionFreq": 16,
+    "bookSpread": 5,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "steam"
+    ]
+  },
+  {
+    "rank": 173,
+    "word": "ship",
+    "passageFreq": 14,
+    "questionFreq": 16,
+    "bookSpread": 5,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "ship"
+    ]
+  },
+  {
+    "rank": 174,
+    "word": "tourism",
+    "passageFreq": 29,
+    "questionFreq": 16,
+    "bookSpread": 2,
+    "awl": false,
+    "tier": "TIER 3: Good-to-Know",
+    "surfaceForms": [
+      "tourism"
+    ]
+  },
+  {
+    "rank": 175,
+    "word": "boredom",
+    "passageFreq": 24,
+    "questionFreq": 16,
+    "bookSpread": 2,
+    "awl": false,
+    "tier": "TIER 3: Good-to-Know",
+    "surfaceForms": [
+      "boredom"
+    ]
+  },
+  {
+    "rank": 176,
+    "word": "economy",
+    "passageFreq": 63,
+    "questionFreq": 15,
+    "bookSpread": 8,
+    "awl": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "economic",
+      "economy",
+      "economics",
+      "economically",
+      "economies"
+    ]
+  },
+  {
+    "rank": 177,
+    "word": "technique",
+    "passageFreq": 43,
+    "questionFreq": 15,
+    "bookSpread": 11,
+    "awl": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "technical",
+      "techniques",
+      "technique",
+      "technically"
+    ]
+  },
+  {
+    "rank": 178,
+    "word": "similar",
+    "passageFreq": 39,
+    "questionFreq": 15,
+    "bookSpread": 11,
+    "awl": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "similar"
+    ]
+  },
+  {
+    "rank": 179,
+    "word": "potential",
+    "passageFreq": 35,
+    "questionFreq": 15,
+    "bookSpread": 11,
+    "awl": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "potential"
+    ]
+  },
+  {
+    "rank": 180,
+    "word": "strategy",
+    "passageFreq": 32,
+    "questionFreq": 15,
+    "bookSpread": 9,
+    "awl": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "strategy",
+      "strategies",
+      "strategically",
+      "strategic"
+    ]
+  },
+  {
+    "rank": 181,
+    "word": "individual",
+    "passageFreq": 26,
+    "questionFreq": 15,
+    "bookSpread": 11,
+    "awl": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "individual"
+    ]
+  },
+  {
+    "rank": 182,
+    "word": "space",
+    "passageFreq": 58,
+    "questionFreq": 15,
+    "bookSpread": 10,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "space"
+    ]
+  },
+  {
+    "rank": 183,
+    "word": "growth",
+    "passageFreq": 57,
+    "questionFreq": 15,
+    "bookSpread": 10,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "growth"
+    ]
+  },
+  {
+    "rank": 184,
+    "word": "positive",
+    "passageFreq": 16,
+    "questionFreq": 15,
+    "bookSpread": 7,
+    "awl": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "positive"
+    ]
+  },
+  {
+    "rank": 185,
+    "word": "employ",
+    "passageFreq": 47,
+    "questionFreq": 15,
+    "bookSpread": 11,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "employ",
+      "employees",
+      "employee",
+      "employment",
+      "employer",
+      "employing"
+    ]
+  },
+  {
+    "rank": 186,
+    "word": "appropriate",
+    "passageFreq": 12,
+    "questionFreq": 15,
+    "bookSpread": 9,
+    "awl": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "appropriate"
+    ]
+  },
+  {
+    "rank": 187,
+    "word": "sense",
+    "passageFreq": 42,
+    "questionFreq": 15,
+    "bookSpread": 10,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "sense"
+    ]
+  },
+  {
+    "rank": 188,
+    "word": "urban",
+    "passageFreq": 41,
+    "questionFreq": 15,
+    "bookSpread": 7,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "urban"
+    ]
+  },
+  {
+    "rank": 189,
+    "word": "london",
+    "passageFreq": 38,
+    "questionFreq": 15,
+    "bookSpread": 9,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "london"
+    ]
+  },
+  {
+    "rank": 190,
+    "word": "leaves",
+    "passageFreq": 27,
+    "questionFreq": 15,
+    "bookSpread": 8,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "leaves"
+    ]
+  },
+  {
+    "rank": 191,
+    "word": "groups",
+    "passageFreq": 26,
+    "questionFreq": 15,
+    "bookSpread": 10,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "groups"
+    ]
+  },
+  {
+    "rank": 192,
+    "word": "successful",
+    "passageFreq": 22,
+    "questionFreq": 15,
+    "bookSpread": 10,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "successful"
+    ]
+  },
+  {
+    "rank": 193,
+    "word": "aspects",
+    "passageFreq": 19,
+    "questionFreq": 15,
+    "bookSpread": 10,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "aspects"
+    ]
+  },
+  {
+    "rank": 194,
+    "word": "caused",
+    "passageFreq": 18,
+    "questionFreq": 15,
+    "bookSpread": 11,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "caused"
+    ]
+  },
+  {
+    "rank": 195,
+    "word": "limited",
+    "passageFreq": 15,
+    "questionFreq": 15,
+    "bookSpread": 10,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "limited"
+    ]
+  },
+  {
+    "rank": 196,
+    "word": "damage",
+    "passageFreq": 11,
+    "questionFreq": 15,
+    "bookSpread": 11,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "damage"
+    ]
+  },
+  {
+    "rank": 197,
+    "word": "affected",
+    "passageFreq": 10,
+    "questionFreq": 15,
+    "bookSpread": 9,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "affected"
+    ]
+  },
+  {
+    "rank": 198,
+    "word": "advantages",
+    "passageFreq": 8,
+    "questionFreq": 15,
+    "bookSpread": 8,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "advantages"
+    ]
+  },
+  {
+    "rank": 199,
+    "word": "scheme",
+    "passageFreq": 11,
+    "questionFreq": 15,
+    "bookSpread": 4,
+    "awl": true,
+    "tier": "TIER 2: Should-Know",
+    "surfaceForms": [
+      "scheme"
+    ]
+  },
+  {
+    "rank": 200,
+    "word": "palm",
+    "passageFreq": 32,
+    "questionFreq": 15,
+    "bookSpread": 3,
+    "awl": false,
+    "tier": "TIER 2: Should-Know",
+    "surfaceForms": [
+      "palm"
+    ]
+  },
+  {
+    "rank": 201,
+    "word": "intelligence",
+    "passageFreq": 41,
+    "questionFreq": 14,
+    "bookSpread": 6,
+    "awl": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "intelligence"
+    ]
+  },
+  {
+    "rank": 202,
+    "word": "site",
+    "passageFreq": 24,
+    "questionFreq": 14,
+    "bookSpread": 10,
+    "awl": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "site"
+    ]
+  },
+  {
+    "rank": 203,
+    "word": "system",
+    "passageFreq": 89,
+    "questionFreq": 14,
+    "bookSpread": 11,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "system",
+      "systems",
+      "systematic"
+    ]
+  },
+  {
+    "rank": 204,
+    "word": "long",
+    "passageFreq": 79,
+    "questionFreq": 14,
+    "bookSpread": 11,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "long"
+    ]
+  },
+  {
+    "rank": 205,
+    "word": "better",
+    "passageFreq": 66,
+    "questionFreq": 14,
+    "bookSpread": 11,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "better"
+    ]
+  },
+  {
+    "rank": 206,
+    "word": "population",
+    "passageFreq": 60,
+    "questionFreq": 14,
+    "bookSpread": 11,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "population",
+      "populations"
+    ]
+  },
+  {
+    "rank": 207,
+    "word": "key",
+    "passageFreq": 42,
+    "questionFreq": 14,
+    "bookSpread": 11,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "key"
+    ]
+  },
+  {
+    "rank": 208,
+    "word": "working",
+    "passageFreq": 41,
+    "questionFreq": 14,
+    "bookSpread": 11,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "working"
+    ]
+  },
+  {
+    "rank": 209,
+    "word": "travel",
+    "passageFreq": 41,
+    "questionFreq": 14,
+    "bookSpread": 10,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "travel"
+    ]
+  },
+  {
+    "rank": 210,
+    "word": "buildings",
+    "passageFreq": 40,
+    "questionFreq": 14,
+    "bookSpread": 9,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "buildings"
+    ]
+  },
+  {
+    "rank": 211,
+    "word": "experiment",
+    "passageFreq": 36,
+    "questionFreq": 14,
+    "bookSpread": 11,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "experiment",
+      "experiments",
+      "experimentation",
+      "experimental",
+      "experimented"
+    ]
+  },
+  {
+    "rank": 212,
+    "word": "greater",
+    "passageFreq": 33,
+    "questionFreq": 14,
+    "bookSpread": 11,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "greater"
+    ]
+  },
+  {
+    "rank": 213,
+    "word": "lead",
+    "passageFreq": 33,
+    "questionFreq": 14,
+    "bookSpread": 11,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "lead"
+    ]
+  },
+  {
+    "rank": 214,
+    "word": "risk",
+    "passageFreq": 33,
+    "questionFreq": 14,
+    "bookSpread": 11,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "risk",
+      "risks",
+      "risky"
+    ]
+  },
+  {
+    "rank": 215,
+    "word": "local",
+    "passageFreq": 29,
+    "questionFreq": 14,
+    "bookSpread": 9,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "local"
+    ]
+  },
+  {
+    "rank": 216,
+    "word": "government",
+    "passageFreq": 18,
+    "questionFreq": 14,
+    "bookSpread": 10,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "government"
+    ]
+  },
+  {
+    "rank": 217,
+    "word": "current",
+    "passageFreq": 15,
+    "questionFreq": 14,
+    "bookSpread": 10,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "current"
+    ]
+  },
+  {
+    "rank": 218,
+    "word": "tend",
+    "passageFreq": 11,
+    "questionFreq": 14,
+    "bookSpread": 11,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "tend"
+    ]
+  },
+  {
+    "rank": 219,
+    "word": "prevent",
+    "passageFreq": 11,
+    "questionFreq": 14,
+    "bookSpread": 10,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "prevent"
+    ]
+  },
+  {
+    "rank": 220,
+    "word": "machines",
+    "passageFreq": 20,
+    "questionFreq": 14,
+    "bookSpread": 4,
+    "awl": false,
+    "tier": "TIER 2: Should-Know",
+    "surfaceForms": [
+      "machines"
+    ]
+  },
+  {
+    "rank": 221,
+    "word": "moore",
+    "passageFreq": 24,
+    "questionFreq": 14,
+    "bookSpread": 2,
+    "awl": false,
+    "tier": "TIER 3: Good-to-Know",
+    "surfaceForms": [
+      "moore"
+    ]
+  },
+  {
+    "rank": 222,
+    "word": "marie",
+    "passageFreq": 16,
+    "questionFreq": 14,
+    "bookSpread": 1,
+    "awl": false,
+    "tier": "TIER 4: Low Priority",
+    "surfaceForms": [
+      "marie"
+    ]
+  },
+  {
+    "rank": 223,
+    "word": "team",
+    "passageFreq": 45,
+    "questionFreq": 13,
+    "bookSpread": 10,
+    "awl": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "team"
+    ]
+  },
+  {
+    "rank": 224,
+    "word": "identify",
+    "passageFreq": 35,
+    "questionFreq": 13,
+    "bookSpread": 11,
+    "awl": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "identify",
+      "identified",
+      "identifying",
+      "identifies",
+      "identification"
+    ]
+  },
+  {
+    "rank": 225,
+    "word": "several",
+    "passageFreq": 53,
+    "questionFreq": 13,
+    "bookSpread": 11,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "several"
+    ]
+  },
+  {
+    "rank": 226,
+    "word": "ways",
+    "passageFreq": 49,
+    "questionFreq": 13,
+    "bookSpread": 11,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "ways"
+    ]
+  },
+  {
+    "rank": 227,
+    "word": "making",
+    "passageFreq": 47,
+    "questionFreq": 13,
+    "bookSpread": 10,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "making"
+    ]
+  },
+  {
+    "rank": 228,
+    "word": "negative",
+    "passageFreq": 12,
+    "questionFreq": 13,
+    "bookSpread": 9,
+    "awl": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "negative"
+    ]
+  },
+  {
+    "rank": 229,
+    "word": "times",
+    "passageFreq": 41,
+    "questionFreq": 13,
+    "bookSpread": 10,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "times"
+    ]
+  },
+  {
+    "rank": 230,
+    "word": "business",
+    "passageFreq": 41,
+    "questionFreq": 13,
+    "bookSpread": 9,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "business"
+    ]
+  },
+  {
+    "rank": 231,
+    "word": "agriculture",
+    "passageFreq": 40,
+    "questionFreq": 13,
+    "bookSpread": 9,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "agriculture",
+      "agricultural"
+    ]
+  },
+  {
+    "rank": 232,
+    "word": "best",
+    "passageFreq": 38,
+    "questionFreq": 13,
+    "bookSpread": 10,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "best"
+    ]
+  },
+  {
+    "rank": 233,
+    "word": "protect",
+    "passageFreq": 37,
+    "questionFreq": 13,
+    "bookSpread": 10,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "protect",
+      "protection",
+      "protected",
+      "protecting",
+      "protects"
+    ]
+  },
+  {
+    "rank": 234,
+    "word": "support",
+    "passageFreq": 30,
+    "questionFreq": 13,
+    "bookSpread": 9,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "support"
+    ]
+  },
+  {
+    "rank": 235,
+    "word": "needed",
+    "passageFreq": 28,
+    "questionFreq": 13,
+    "bookSpread": 11,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "needed"
+    ]
+  },
+  {
+    "rank": 236,
+    "word": "objects",
+    "passageFreq": 25,
+    "questionFreq": 13,
+    "bookSpread": 10,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "objects"
+    ]
+  },
+  {
+    "rank": 237,
+    "word": "improve",
+    "passageFreq": 19,
+    "questionFreq": 13,
+    "bookSpread": 10,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "improve"
+    ]
+  },
+  {
+    "rank": 238,
+    "word": "grown",
+    "passageFreq": 16,
+    "questionFreq": 13,
+    "bookSpread": 8,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "grown"
+    ]
+  },
+  {
+    "rank": 239,
+    "word": "account",
+    "passageFreq": 12,
+    "questionFreq": 13,
+    "bookSpread": 10,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "account"
+    ]
+  },
+  {
+    "rank": 240,
+    "word": "wild",
+    "passageFreq": 31,
+    "questionFreq": 13,
+    "bookSpread": 5,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "wild"
+    ]
+  },
+  {
+    "rank": 241,
+    "word": "genius",
+    "passageFreq": 23,
+    "questionFreq": 13,
+    "bookSpread": 4,
+    "awl": false,
+    "tier": "TIER 2: Should-Know",
+    "surfaceForms": [
+      "genius"
+    ]
+  },
+  {
+    "rank": 242,
+    "word": "film",
+    "passageFreq": 22,
+    "questionFreq": 13,
+    "bookSpread": 4,
+    "awl": false,
+    "tier": "TIER 2: Should-Know",
+    "surfaceForms": [
+      "film"
+    ]
+  },
+  {
+    "rank": 243,
+    "word": "oxytocin",
+    "passageFreq": 20,
+    "questionFreq": 13,
+    "bookSpread": 1,
+    "awl": false,
+    "tier": "TIER 4: Low Priority",
+    "surfaceForms": [
+      "oxytocin"
+    ]
+  },
+  {
+    "rank": 244,
+    "word": "major",
+    "passageFreq": 58,
+    "questionFreq": 12,
+    "bookSpread": 11,
+    "awl": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "major"
+    ]
+  },
+  {
+    "rank": 245,
+    "word": "role",
+    "passageFreq": 38,
+    "questionFreq": 12,
+    "bookSpread": 11,
+    "awl": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "role"
+    ]
+  },
+  {
+    "rank": 246,
+    "word": "create",
+    "passageFreq": 34,
+    "questionFreq": 12,
+    "bookSpread": 11,
+    "awl": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "create"
+    ]
+  },
+  {
+    "rank": 247,
+    "word": "rely",
+    "passageFreq": 30,
+    "questionFreq": 12,
+    "bookSpread": 10,
+    "awl": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "reliable",
+      "rely",
+      "reliance",
+      "relied",
+      "relies"
+    ]
+  },
+  {
+    "rank": 248,
+    "word": "predict",
+    "passageFreq": 29,
+    "questionFreq": 12,
+    "bookSpread": 11,
+    "awl": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "predict",
+      "predictions",
+      "predictable",
+      "predicted",
+      "predicts"
+    ]
+  },
+  {
+    "rank": 249,
+    "word": "great",
+    "passageFreq": 51,
+    "questionFreq": 12,
+    "bookSpread": 11,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "great"
+    ]
+  },
+  {
+    "rank": 250,
+    "word": "available",
+    "passageFreq": 17,
+    "questionFreq": 12,
+    "bookSpread": 9,
+    "awl": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "available"
+    ]
+  },
+  {
+    "rank": 251,
+    "word": "recent",
+    "passageFreq": 43,
+    "questionFreq": 12,
+    "bookSpread": 11,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "recent"
+    ]
+  },
+  {
+    "rank": 252,
+    "word": "tree",
+    "passageFreq": 42,
+    "questionFreq": 12,
+    "bookSpread": 8,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "tree"
+    ]
+  },
+  {
+    "rank": 253,
+    "word": "air",
+    "passageFreq": 40,
+    "questionFreq": 12,
+    "bookSpread": 11,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "air"
+    ]
+  },
+  {
+    "rank": 254,
+    "word": "having",
+    "passageFreq": 39,
+    "questionFreq": 12,
+    "bookSpread": 11,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "having"
+    ]
+  },
+  {
+    "rank": 255,
+    "word": "enough",
+    "passageFreq": 36,
+    "questionFreq": 12,
+    "bookSpread": 11,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "enough"
+    ]
+  },
+  {
+    "rank": 256,
+    "word": "green",
+    "passageFreq": 35,
+    "questionFreq": 12,
+    "bookSpread": 8,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "green"
+    ]
+  },
+  {
+    "rank": 257,
+    "word": "level",
+    "passageFreq": 33,
+    "questionFreq": 12,
+    "bookSpread": 10,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "level"
+    ]
+  },
+  {
+    "rank": 258,
+    "word": "original",
+    "passageFreq": 31,
+    "questionFreq": 12,
+    "bookSpread": 11,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "original"
+    ]
+  },
+  {
+    "rank": 259,
+    "word": "points",
+    "passageFreq": 28,
+    "questionFreq": 12,
+    "bookSpread": 11,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "points"
+    ]
+  },
+  {
+    "rank": 260,
+    "word": "earth",
+    "passageFreq": 28,
+    "questionFreq": 12,
+    "bookSpread": 9,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "earth"
+    ]
+  },
+  {
+    "rank": 261,
+    "word": "home",
+    "passageFreq": 27,
+    "questionFreq": 12,
+    "bookSpread": 11,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "home"
+    ]
+  },
+  {
+    "rank": 262,
+    "word": "growing",
+    "passageFreq": 27,
+    "questionFreq": 12,
+    "bookSpread": 11,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "growing"
+    ]
+  },
+  {
+    "rank": 263,
+    "word": "addition",
+    "passageFreq": 26,
+    "questionFreq": 12,
+    "bookSpread": 11,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "addition"
+    ]
+  },
+  {
+    "rank": 264,
+    "word": "carried",
+    "passageFreq": 26,
+    "questionFreq": 12,
+    "bookSpread": 11,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "carried"
+    ]
+  },
+  {
+    "rank": 265,
+    "word": "close",
+    "passageFreq": 25,
+    "questionFreq": 12,
+    "bookSpread": 10,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "close"
+    ]
+  },
+  {
+    "rank": 266,
+    "word": "numbers",
+    "passageFreq": 20,
+    "questionFreq": 12,
+    "bookSpread": 9,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "numbers"
+    ]
+  },
+  {
+    "rank": 267,
+    "word": "events",
+    "passageFreq": 19,
+    "questionFreq": 12,
+    "bookSpread": 9,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "events"
+    ]
+  },
+  {
+    "rank": 268,
+    "word": "size",
+    "passageFreq": 18,
+    "questionFreq": 12,
+    "bookSpread": 10,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "size"
+    ]
+  },
+  {
+    "rank": 269,
+    "word": "name",
+    "passageFreq": 17,
+    "questionFreq": 12,
+    "bookSpread": 10,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "name"
+    ]
+  },
+  {
+    "rank": 270,
+    "word": "methods",
+    "passageFreq": 16,
+    "questionFreq": 12,
+    "bookSpread": 9,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "methods"
+    ]
+  },
+  {
+    "rank": 271,
+    "word": "vehicles",
+    "passageFreq": 20,
+    "questionFreq": 12,
+    "bookSpread": 6,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "vehicles"
+    ]
+  },
+  {
+    "rank": 272,
+    "word": "china",
+    "passageFreq": 14,
+    "questionFreq": 12,
+    "bookSpread": 5,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "china"
+    ]
+  },
+  {
+    "rank": 273,
+    "word": "corresponding",
+    "passageFreq": 3,
+    "questionFreq": 12,
+    "bookSpread": 5,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "corresponding"
+    ]
+  },
+  {
+    "rank": 274,
+    "word": "audience",
+    "passageFreq": 12,
+    "questionFreq": 12,
+    "bookSpread": 4,
+    "awl": false,
+    "tier": "TIER 2: Should-Know",
+    "surfaceForms": [
+      "audience"
+    ]
+  },
+  {
+    "rank": 275,
+    "word": "wegener",
+    "passageFreq": 17,
+    "questionFreq": 12,
+    "bookSpread": 1,
+    "awl": false,
+    "tier": "TIER 4: Low Priority",
+    "surfaceForms": [
+      "wegener"
+    ]
+  },
+  {
+    "rank": 276,
+    "word": "energy",
+    "passageFreq": 45,
+    "questionFreq": 11,
+    "bookSpread": 9,
+    "awl": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "energy",
+      "energies"
+    ]
+  },
+  {
+    "rank": 277,
+    "word": "survive",
+    "passageFreq": 39,
+    "questionFreq": 11,
+    "bookSpread": 11,
+    "awl": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "survive",
+      "survival",
+      "survived",
+      "surviving",
+      "survives"
+    ]
+  },
+  {
+    "rank": 278,
+    "word": "analyse",
+    "passageFreq": 38,
+    "questionFreq": 11,
+    "bookSpread": 10,
+    "awl": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "analysis",
+      "analytical",
+      "analysed",
+      "analyse",
+      "analyze"
+    ]
+  },
+  {
+    "rank": 279,
+    "word": "tradition",
+    "passageFreq": 28,
+    "questionFreq": 11,
+    "bookSpread": 11,
+    "awl": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "traditional",
+      "traditionally",
+      "tradition",
+      "traditions"
+    ]
+  },
+  {
+    "rank": 280,
+    "word": "project",
+    "passageFreq": 27,
+    "questionFreq": 11,
+    "bookSpread": 10,
+    "awl": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "project"
+    ]
+  },
+  {
+    "rank": 281,
+    "word": "challenge",
+    "passageFreq": 26,
+    "questionFreq": 11,
+    "bookSpread": 10,
+    "awl": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "challenge",
+      "challenging",
+      "challenges",
+      "challenged"
+    ]
+  },
+  {
+    "rank": 282,
+    "word": "innovation",
+    "passageFreq": 24,
+    "questionFreq": 11,
+    "bookSpread": 7,
+    "awl": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "innovation"
+    ]
+  },
+  {
+    "rank": 283,
+    "word": "focus",
+    "passageFreq": 22,
+    "questionFreq": 11,
+    "bookSpread": 11,
+    "awl": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "focus"
+    ]
+  },
+  {
+    "rank": 284,
+    "word": "light",
+    "passageFreq": 49,
+    "questionFreq": 11,
+    "bookSpread": 11,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "light"
+    ]
+  },
+  {
+    "rank": 285,
+    "word": "group",
+    "passageFreq": 49,
+    "questionFreq": 11,
+    "bookSpread": 10,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "group"
+    ]
+  },
+  {
+    "rank": 286,
+    "word": "ensure",
+    "passageFreq": 15,
+    "questionFreq": 11,
+    "bookSpread": 9,
+    "awl": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "ensure"
+    ]
+  },
+  {
+    "rank": 287,
+    "word": "form",
+    "passageFreq": 45,
+    "questionFreq": 11,
+    "bookSpread": 11,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "form"
+    ]
+  },
+  {
+    "rank": 288,
+    "word": "story",
+    "passageFreq": 42,
+    "questionFreq": 11,
+    "bookSpread": 9,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "story"
+    ]
+  },
+  {
+    "rank": 289,
+    "word": "education",
+    "passageFreq": 40,
+    "questionFreq": 11,
+    "bookSpread": 9,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "education"
+    ]
+  },
+  {
+    "rank": 290,
+    "word": "together",
+    "passageFreq": 38,
+    "questionFreq": 11,
+    "bookSpread": 11,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "together"
+    ]
+  },
+  {
+    "rank": 291,
+    "word": "knowledge",
+    "passageFreq": 38,
+    "questionFreq": 11,
+    "bookSpread": 10,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "knowledge"
+    ]
+  },
+  {
+    "rank": 292,
+    "word": "show",
+    "passageFreq": 35,
+    "questionFreq": 11,
+    "bookSpread": 10,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "show"
+    ]
+  },
+  {
+    "rank": 293,
+    "word": "associate",
+    "passageFreq": 33,
+    "questionFreq": 11,
+    "bookSpread": 11,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "associated",
+      "associate",
+      "association"
+    ]
+  },
+  {
+    "rank": 294,
+    "word": "trade",
+    "passageFreq": 32,
+    "questionFreq": 11,
+    "bookSpread": 11,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "trade"
+    ]
+  },
+  {
+    "rank": 295,
+    "word": "further",
+    "passageFreq": 31,
+    "questionFreq": 11,
+    "bookSpread": 11,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "further"
+    ]
+  },
+  {
+    "rank": 296,
+    "word": "led",
+    "passageFreq": 29,
+    "questionFreq": 11,
+    "bookSpread": 11,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "led"
+    ]
+  },
+  {
+    "rank": 297,
+    "word": "living",
+    "passageFreq": 29,
+    "questionFreq": 11,
+    "bookSpread": 10,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "living"
+    ]
+  },
+  {
+    "rank": 298,
+    "word": "companies",
+    "passageFreq": 29,
+    "questionFreq": 11,
+    "bookSpread": 8,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "companies"
+    ]
+  },
+  {
+    "rank": 299,
+    "word": "red",
+    "passageFreq": 29,
+    "questionFreq": 11,
+    "bookSpread": 7,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "red"
+    ]
+  },
+  {
+    "rank": 300,
+    "word": "present",
+    "passageFreq": 27,
+    "questionFreq": 11,
+    "bookSpread": 11,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "present"
+    ]
+  },
+  {
+    "rank": 301,
+    "word": "road",
+    "passageFreq": 25,
+    "questionFreq": 11,
+    "bookSpread": 9,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "road"
+    ]
+  },
+  {
+    "rank": 302,
+    "word": "interest",
+    "passageFreq": 23,
+    "questionFreq": 11,
+    "bookSpread": 11,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "interest"
+    ]
+  },
+  {
+    "rank": 303,
+    "word": "success",
+    "passageFreq": 23,
+    "questionFreq": 11,
+    "bookSpread": 10,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "success"
+    ]
+  },
+  {
+    "rank": 304,
+    "word": "quality",
+    "passageFreq": 23,
+    "questionFreq": 11,
+    "bookSpread": 10,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "quality"
+    ]
+  },
+  {
+    "rank": 305,
+    "word": "weather",
+    "passageFreq": 23,
+    "questionFreq": 11,
+    "bookSpread": 8,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "weather"
+    ]
+  },
+  {
+    "rank": 306,
+    "word": "model",
+    "passageFreq": 23,
+    "questionFreq": 11,
+    "bookSpread": 8,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "model"
+    ]
+  },
+  {
+    "rank": 307,
+    "word": "interested",
+    "passageFreq": 21,
+    "questionFreq": 11,
+    "bookSpread": 9,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "interested"
+    ]
+  },
+  {
+    "rank": 308,
+    "word": "america",
+    "passageFreq": 20,
+    "questionFreq": 11,
+    "bookSpread": 9,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "america"
+    ]
+  },
+  {
+    "rank": 309,
+    "word": "destroy",
+    "passageFreq": 18,
+    "questionFreq": 11,
+    "bookSpread": 8,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "destruction",
+      "destroying",
+      "destroy",
+      "destroyed",
+      "destroys"
+    ]
+  },
+  {
+    "rank": 310,
+    "word": "visitors",
+    "passageFreq": 18,
+    "questionFreq": 11,
+    "bookSpread": 7,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "visitors"
+    ]
+  },
+  {
+    "rank": 311,
+    "word": "big",
+    "passageFreq": 17,
+    "questionFreq": 11,
+    "bookSpread": 11,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "big"
+    ]
+  },
+  {
+    "rank": 312,
+    "word": "avoid",
+    "passageFreq": 16,
+    "questionFreq": 11,
+    "bookSpread": 10,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "avoid"
+    ]
+  },
+  {
+    "rank": 313,
+    "word": "crops",
+    "passageFreq": 27,
+    "questionFreq": 11,
+    "bookSpread": 6,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "crops"
+    ]
+  },
+  {
+    "rank": 314,
+    "word": "issues",
+    "passageFreq": 13,
+    "questionFreq": 11,
+    "bookSpread": 5,
+    "awl": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "issues"
+    ]
+  },
+  {
+    "rank": 315,
+    "word": "aim",
+    "passageFreq": 12,
+    "questionFreq": 11,
+    "bookSpread": 8,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "aim"
+    ]
+  },
+  {
+    "rank": 316,
+    "word": "habitat",
+    "passageFreq": 12,
+    "questionFreq": 11,
+    "bookSpread": 7,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "habitat"
+    ]
+  },
+  {
+    "rank": 317,
+    "word": "fruit",
+    "passageFreq": 22,
+    "questionFreq": 11,
+    "bookSpread": 6,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "fruit"
+    ]
+  },
+  {
+    "rank": 318,
+    "word": "sentence",
+    "passageFreq": 4,
+    "questionFreq": 11,
+    "bookSpread": 7,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "sentence"
+    ]
+  },
+  {
+    "rank": 319,
+    "word": "car",
+    "passageFreq": 17,
+    "questionFreq": 11,
+    "bookSpread": 5,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "car"
+    ]
+  },
+  {
+    "rank": 320,
+    "word": "jobs",
+    "passageFreq": 12,
+    "questionFreq": 11,
+    "bookSpread": 5,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "jobs"
+    ]
+  },
+  {
+    "rank": 321,
+    "word": "babies",
+    "passageFreq": 15,
+    "questionFreq": 11,
+    "bookSpread": 4,
+    "awl": false,
+    "tier": "TIER 2: Should-Know",
+    "surfaceForms": [
+      "babies"
+    ]
+  },
+  {
+    "rank": 322,
+    "word": "museums",
+    "passageFreq": 12,
+    "questionFreq": 11,
+    "bookSpread": 4,
+    "awl": false,
+    "tier": "TIER 2: Should-Know",
+    "surfaceForms": [
+      "museums"
+    ]
+  },
+  {
+    "rank": 323,
+    "word": "bears",
+    "passageFreq": 24,
+    "questionFreq": 11,
+    "bookSpread": 3,
+    "awl": false,
+    "tier": "TIER 2: Should-Know",
+    "surfaceForms": [
+      "bears"
+    ]
+  },
+  {
+    "rank": 324,
+    "word": "microbes",
+    "passageFreq": 23,
+    "questionFreq": 11,
+    "bookSpread": 3,
+    "awl": false,
+    "tier": "TIER 2: Should-Know",
+    "surfaceForms": [
+      "microbes"
+    ]
+  },
+  {
+    "rank": 325,
+    "word": "bilingual",
+    "passageFreq": 19,
+    "questionFreq": 11,
+    "bookSpread": 2,
+    "awl": false,
+    "tier": "TIER 3: Good-to-Know",
+    "surfaceForms": [
+      "bilingual"
+    ]
+  },
+  {
+    "rank": 326,
+    "word": "nutmeg",
+    "passageFreq": 18,
+    "questionFreq": 11,
+    "bookSpread": 1,
+    "awl": false,
+    "tier": "TIER 4: Low Priority",
+    "surfaceForms": [
+      "nutmeg"
+    ]
+  },
+  {
+    "rank": 327,
+    "word": "perkin",
+    "passageFreq": 17,
+    "questionFreq": 11,
+    "bookSpread": 1,
+    "awl": false,
+    "tier": "TIER 4: Low Priority",
+    "surfaceForms": [
+      "perkin"
+    ]
+  },
+  {
+    "rank": 328,
+    "word": "henderson",
+    "passageFreq": 12,
+    "questionFreq": 11,
+    "bookSpread": 1,
+    "awl": false,
+    "tier": "TIER 4: Low Priority",
+    "surfaceForms": [
+      "henderson"
+    ]
+  },
+  {
+    "rank": 329,
+    "word": "evolve",
+    "passageFreq": 57,
+    "questionFreq": 10,
+    "bookSpread": 10,
+    "awl": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "evolution",
+      "evolved",
+      "evolutionary",
+      "evolves",
+      "evolve"
+    ]
+  },
+  {
+    "rank": 330,
+    "word": "complex",
+    "passageFreq": 25,
+    "questionFreq": 10,
+    "bookSpread": 9,
+    "awl": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "complex",
+      "complexity"
+    ]
+  },
+  {
+    "rank": 331,
+    "word": "like",
+    "passageFreq": 125,
+    "questionFreq": 10,
+    "bookSpread": 11,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "like"
+    ]
+  },
+  {
+    "rank": 332,
+    "word": "called",
+    "passageFreq": 73,
+    "questionFreq": 10,
+    "bookSpread": 11,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "called"
+    ]
+  },
+  {
+    "rank": 333,
+    "word": "down",
+    "passageFreq": 71,
+    "questionFreq": 10,
+    "bookSpread": 11,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "down"
+    ]
+  },
+  {
+    "rank": 334,
+    "word": "far",
+    "passageFreq": 63,
+    "questionFreq": 10,
+    "bookSpread": 11,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "far"
+    ]
+  },
+  {
+    "rank": 335,
+    "word": "built",
+    "passageFreq": 54,
+    "questionFreq": 10,
+    "bookSpread": 10,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "built"
+    ]
+  },
+  {
+    "rank": 336,
+    "word": "rather",
+    "passageFreq": 52,
+    "questionFreq": 10,
+    "bookSpread": 11,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "rather"
+    ]
+  },
+  {
+    "rank": 337,
+    "word": "task",
+    "passageFreq": 17,
+    "questionFreq": 10,
+    "bookSpread": 9,
+    "awl": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "task"
+    ]
+  },
+  {
+    "rank": 338,
+    "word": "ancient",
+    "passageFreq": 50,
+    "questionFreq": 10,
+    "bookSpread": 9,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "ancient"
+    ]
+  },
+  {
+    "rank": 339,
+    "word": "modern",
+    "passageFreq": 47,
+    "questionFreq": 10,
+    "bookSpread": 11,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "modern",
+      "modernisation"
+    ]
+  },
+  {
+    "rank": 340,
+    "word": "themselves",
+    "passageFreq": 47,
+    "questionFreq": 10,
+    "bookSpread": 11,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "themselves"
+    ]
+  },
+  {
+    "rank": 341,
+    "word": "disease",
+    "passageFreq": 40,
+    "questionFreq": 10,
+    "bookSpread": 10,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "disease"
+    ]
+  },
+  {
+    "rank": 342,
+    "word": "makes",
+    "passageFreq": 35,
+    "questionFreq": 10,
+    "bookSpread": 11,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "makes"
+    ]
+  },
+  {
+    "rank": 343,
+    "word": "activity",
+    "passageFreq": 32,
+    "questionFreq": 10,
+    "bookSpread": 11,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "activity"
+    ]
+  },
+  {
+    "rank": 344,
+    "word": "attention",
+    "passageFreq": 32,
+    "questionFreq": 10,
+    "bookSpread": 9,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "attention"
+    ]
+  },
+  {
+    "rank": 345,
+    "word": "under",
+    "passageFreq": 31,
+    "questionFreq": 10,
+    "bookSpread": 11,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "under"
+    ]
+  },
+  {
+    "rank": 346,
+    "word": "national",
+    "passageFreq": 31,
+    "questionFreq": 10,
+    "bookSpread": 10,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "national"
+    ]
+  },
+  {
+    "rank": 347,
+    "word": "determine",
+    "passageFreq": 29,
+    "questionFreq": 10,
+    "bookSpread": 9,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "determined",
+      "determine",
+      "determining",
+      "determination",
+      "determines"
+    ]
+  },
+  {
+    "rank": 348,
+    "word": "learn",
+    "passageFreq": 28,
+    "questionFreq": 10,
+    "bookSpread": 11,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "learn"
+    ]
+  },
+  {
+    "rank": 349,
+    "word": "common",
+    "passageFreq": 25,
+    "questionFreq": 10,
+    "bookSpread": 10,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "common"
+    ]
+  },
+  {
+    "rank": 350,
+    "word": "thinking",
+    "passageFreq": 24,
+    "questionFreq": 10,
+    "bookSpread": 7,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "thinking"
+    ]
+  },
+  {
+    "rank": 351,
+    "word": "skills",
+    "passageFreq": 23,
+    "questionFreq": 10,
+    "bookSpread": 10,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "skills"
+    ]
+  },
+  {
+    "rank": 352,
+    "word": "south",
+    "passageFreq": 23,
+    "questionFreq": 10,
+    "bookSpread": 9,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "south"
+    ]
+  },
+  {
+    "rank": 353,
+    "word": "practices",
+    "passageFreq": 22,
+    "questionFreq": 10,
+    "bookSpread": 10,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "practices"
+    ]
+  },
+  {
+    "rank": 354,
+    "word": "quickly",
+    "passageFreq": 22,
+    "questionFreq": 10,
+    "bookSpread": 10,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "quickly"
+    ]
+  },
+  {
+    "rank": 355,
+    "word": "fire",
+    "passageFreq": 22,
+    "questionFreq": 10,
+    "bookSpread": 7,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "fire"
+    ]
+  },
+  {
+    "rank": 356,
+    "word": "schools",
+    "passageFreq": 21,
+    "questionFreq": 10,
+    "bookSpread": 7,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "schools"
+    ]
+  },
+  {
+    "rank": 357,
+    "word": "money",
+    "passageFreq": 20,
+    "questionFreq": 10,
+    "bookSpread": 9,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "money"
+    ]
+  },
+  {
+    "rank": 358,
+    "word": "personal",
+    "passageFreq": 18,
+    "questionFreq": 10,
+    "bookSpread": 10,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "personal"
+    ]
+  },
+  {
+    "rank": 359,
+    "word": "purpose",
+    "passageFreq": 17,
+    "questionFreq": 10,
+    "bookSpread": 11,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "purpose"
+    ]
+  },
+  {
+    "rank": 360,
+    "word": "doing",
+    "passageFreq": 16,
+    "questionFreq": 10,
+    "bookSpread": 11,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "doing"
+    ]
+  },
+  {
+    "rank": 361,
+    "word": "shows",
+    "passageFreq": 16,
+    "questionFreq": 10,
+    "bookSpread": 10,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "shows"
+    ]
+  },
+  {
+    "rank": 362,
+    "word": "commercial",
+    "passageFreq": 15,
+    "questionFreq": 10,
+    "bookSpread": 9,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "commercial"
+    ]
+  },
+  {
+    "rank": 363,
+    "word": "changing",
+    "passageFreq": 15,
+    "questionFreq": 10,
+    "bookSpread": 8,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "changing"
+    ]
+  },
+  {
+    "rank": 364,
+    "word": "goods",
+    "passageFreq": 13,
+    "questionFreq": 10,
+    "bookSpread": 8,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "goods"
+    ]
+  },
+  {
+    "rank": 365,
+    "word": "speed",
+    "passageFreq": 13,
+    "questionFreq": 10,
+    "bookSpread": 8,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "speed"
+    ]
+  },
+  {
+    "rank": 366,
+    "word": "feelings",
+    "passageFreq": 9,
+    "questionFreq": 10,
+    "bookSpread": 7,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "feelings"
+    ]
+  },
+  {
+    "rank": 367,
+    "word": "beliefs",
+    "passageFreq": 3,
+    "questionFreq": 10,
+    "bookSpread": 9,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "beliefs"
+    ]
+  },
+  {
+    "rank": 368,
+    "word": "ending",
+    "passageFreq": 2,
+    "questionFreq": 10,
+    "bookSpread": 7,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "ending"
+    ]
+  },
+  {
+    "rank": 369,
+    "word": "john",
+    "passageFreq": 11,
+    "questionFreq": 10,
+    "bookSpread": 6,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "john"
+    ]
+  },
+  {
+    "rank": 370,
+    "word": "goals",
+    "passageFreq": 11,
+    "questionFreq": 10,
+    "bookSpread": 6,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "goals"
+    ]
+  },
+  {
+    "rank": 371,
+    "word": "cars",
+    "passageFreq": 20,
+    "questionFreq": 10,
+    "bookSpread": 5,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "cars"
+    ]
+  },
+  {
+    "rank": 372,
+    "word": "white",
+    "passageFreq": 21,
+    "questionFreq": 10,
+    "bookSpread": 4,
+    "awl": false,
+    "tier": "TIER 2: Should-Know",
+    "surfaceForms": [
+      "white"
+    ]
+  },
+  {
+    "rank": 373,
+    "word": "ants",
+    "passageFreq": 38,
+    "questionFreq": 10,
+    "bookSpread": 3,
+    "awl": false,
+    "tier": "TIER 2: Should-Know",
+    "surfaceForms": [
+      "ants"
+    ]
+  },
+  {
+    "rank": 374,
+    "word": "tortoises",
+    "passageFreq": 25,
+    "questionFreq": 10,
+    "bookSpread": 3,
+    "awl": false,
+    "tier": "TIER 2: Should-Know",
+    "surfaceForms": [
+      "tortoises"
+    ]
+  },
+  {
+    "rank": 375,
+    "word": "leonardo",
+    "passageFreq": 18,
+    "questionFreq": 10,
+    "bookSpread": 3,
+    "awl": false,
+    "tier": "TIER 2: Should-Know",
+    "surfaceForms": [
+      "leonardo"
+    ]
+  },
+  {
+    "rank": 376,
+    "word": "dialogue",
+    "passageFreq": 10,
+    "questionFreq": 10,
+    "bookSpread": 2,
+    "awl": false,
+    "tier": "TIER 3: Good-to-Know",
+    "surfaceForms": [
+      "dialogue"
+    ]
+  },
+  {
+    "rank": 377,
+    "word": "tales",
+    "passageFreq": 9,
+    "questionFreq": 10,
+    "bookSpread": 2,
+    "awl": false,
+    "tier": "TIER 3: Good-to-Know",
+    "surfaceForms": [
+      "tales"
+    ]
+  },
+  {
+    "rank": 378,
+    "word": "cork",
+    "passageFreq": 24,
+    "questionFreq": 10,
+    "bookSpread": 1,
+    "awl": false,
+    "tier": "TIER 4: Low Priority",
+    "surfaceForms": [
+      "cork"
+    ]
+  },
+  {
+    "rank": 379,
+    "word": "polar",
+    "passageFreq": 16,
+    "questionFreq": 10,
+    "bookSpread": 1,
+    "awl": false,
+    "tier": "TIER 4: Low Priority",
+    "surfaceForms": [
+      "polar"
+    ]
+  },
+  {
+    "rank": 380,
+    "word": "barr",
+    "passageFreq": 15,
+    "questionFreq": 10,
+    "bookSpread": 1,
+    "awl": false,
+    "tier": "TIER 4: Low Priority",
+    "surfaceForms": [
+      "barr"
+    ]
+  },
+  {
+    "rank": 381,
+    "word": "bike-sharing",
+    "passageFreq": 10,
+    "questionFreq": 10,
+    "bookSpread": 1,
+    "awl": false,
+    "tier": "TIER 4: Low Priority",
+    "surfaceForms": [
+      "bike-sharing"
+    ]
+  },
+  {
+    "rank": 382,
+    "word": "fairy",
+    "passageFreq": 6,
+    "questionFreq": 10,
+    "bookSpread": 1,
+    "awl": false,
+    "tier": "TIER 4: Low Priority",
+    "surfaceForms": [
+      "fairy"
+    ]
+  },
+  {
+    "rank": 383,
+    "word": "reveal",
+    "passageFreq": 36,
+    "questionFreq": 9,
+    "bookSpread": 11,
+    "awl": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "revealed",
+      "reveal",
+      "reveals",
+      "revealing"
+    ]
+  },
+  {
+    "rank": 384,
+    "word": "small",
+    "passageFreq": 58,
+    "questionFreq": 9,
+    "bookSpread": 11,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "small"
+    ]
+  },
+  {
+    "rank": 385,
+    "word": "decline",
+    "passageFreq": 14,
+    "questionFreq": 9,
+    "bookSpread": 9,
+    "awl": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "decline",
+      "declines",
+      "declined",
+      "declining"
+    ]
+  },
+  {
+    "rank": 386,
+    "word": "history",
+    "passageFreq": 45,
+    "questionFreq": 9,
+    "bookSpread": 11,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "history"
+    ]
+  },
+  {
+    "rank": 387,
+    "word": "text",
+    "passageFreq": 7,
+    "questionFreq": 9,
+    "bookSpread": 8,
+    "awl": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "text"
+    ]
+  },
+  {
+    "rank": 388,
+    "word": "lives",
+    "passageFreq": 40,
+    "questionFreq": 9,
+    "bookSpread": 11,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "lives"
+    ]
+  },
+  {
+    "rank": 389,
+    "word": "clear",
+    "passageFreq": 37,
+    "questionFreq": 9,
+    "bookSpread": 11,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "clear"
+    ]
+  },
+  {
+    "rank": 390,
+    "word": "value",
+    "passageFreq": 36,
+    "questionFreq": 9,
+    "bookSpread": 10,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "value"
+    ]
+  },
+  {
+    "rank": 391,
+    "word": "course",
+    "passageFreq": 35,
+    "questionFreq": 9,
+    "bookSpread": 11,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "course"
+    ]
+  },
+  {
+    "rank": 392,
+    "word": "last",
+    "passageFreq": 32,
+    "questionFreq": 9,
+    "bookSpread": 10,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "last"
+    ]
+  },
+  {
+    "rank": 393,
+    "word": "young",
+    "passageFreq": 32,
+    "questionFreq": 9,
+    "bookSpread": 10,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "young"
+    ]
+  },
+  {
+    "rank": 394,
+    "word": "route",
+    "passageFreq": 11,
+    "questionFreq": 9,
+    "bookSpread": 6,
+    "awl": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "route"
+    ]
+  },
+  {
+    "rank": 395,
+    "word": "activities",
+    "passageFreq": 27,
+    "questionFreq": 9,
+    "bookSpread": 8,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "activities"
+    ]
+  },
+  {
+    "rank": 396,
+    "word": "countries",
+    "passageFreq": 26,
+    "questionFreq": 9,
+    "bookSpread": 10,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "countries"
+    ]
+  },
+  {
+    "rank": 397,
+    "word": "genetic",
+    "passageFreq": 26,
+    "questionFreq": 9,
+    "bookSpread": 8,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "genetic"
+    ]
+  },
+  {
+    "rank": 398,
+    "word": "hard",
+    "passageFreq": 25,
+    "questionFreq": 9,
+    "bookSpread": 11,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "hard"
+    ]
+  },
+  {
+    "rank": 399,
+    "word": "types",
+    "passageFreq": 24,
+    "questionFreq": 9,
+    "bookSpread": 11,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "types"
+    ]
+  },
+  {
+    "rank": 400,
+    "word": "cause",
+    "passageFreq": 24,
+    "questionFreq": 9,
+    "bookSpread": 11,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "cause"
+    ]
+  },
+  {
+    "rank": 401,
+    "word": "due",
+    "passageFreq": 24,
+    "questionFreq": 9,
+    "bookSpread": 10,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "due"
+    ]
+  },
+  {
+    "rank": 402,
+    "word": "subject",
+    "passageFreq": 21,
+    "questionFreq": 9,
+    "bookSpread": 11,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "subject"
+    ]
+  },
+  {
+    "rank": 403,
+    "word": "middle",
+    "passageFreq": 20,
+    "questionFreq": 9,
+    "bookSpread": 10,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "middle"
+    ]
+  },
+  {
+    "rank": 404,
+    "word": "cut",
+    "passageFreq": 20,
+    "questionFreq": 9,
+    "bookSpread": 8,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "cut"
+    ]
+  },
+  {
+    "rank": 405,
+    "word": "experts",
+    "passageFreq": 20,
+    "questionFreq": 9,
+    "bookSpread": 8,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "experts"
+    ]
+  },
+  {
+    "rank": 406,
+    "word": "believes",
+    "passageFreq": 20,
+    "questionFreq": 9,
+    "bookSpread": 7,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "believes"
+    ]
+  },
+  {
+    "rank": 407,
+    "word": "forms",
+    "passageFreq": 19,
+    "questionFreq": 9,
+    "bookSpread": 9,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "forms"
+    ]
+  },
+  {
+    "rank": 408,
+    "word": "feel",
+    "passageFreq": 19,
+    "questionFreq": 9,
+    "bookSpread": 9,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "feel"
+    ]
+  },
+  {
+    "rank": 409,
+    "word": "bring",
+    "passageFreq": 19,
+    "questionFreq": 9,
+    "bookSpread": 9,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "bring"
+    ]
+  },
+  {
+    "rank": 410,
+    "word": "attitudes",
+    "passageFreq": 16,
+    "questionFreq": 9,
+    "bookSpread": 9,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "attitudes"
+    ]
+  },
+  {
+    "rank": 411,
+    "word": "step",
+    "passageFreq": 16,
+    "questionFreq": 9,
+    "bookSpread": 8,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "step"
+    ]
+  },
+  {
+    "rank": 412,
+    "word": "law",
+    "passageFreq": 16,
+    "questionFreq": 9,
+    "bookSpread": 7,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "law"
+    ]
+  },
+  {
+    "rank": 413,
+    "word": "solution",
+    "passageFreq": 15,
+    "questionFreq": 9,
+    "bookSpread": 10,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "solution"
+    ]
+  },
+  {
+    "rank": 414,
+    "word": "characteristics",
+    "passageFreq": 14,
+    "questionFreq": 9,
+    "bookSpread": 10,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "characteristics"
+    ]
+  },
+  {
+    "rank": 415,
+    "word": "trends",
+    "passageFreq": 13,
+    "questionFreq": 9,
+    "bookSpread": 7,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "trends"
+    ]
+  },
+  {
+    "rank": 416,
+    "word": "read",
+    "passageFreq": 23,
+    "questionFreq": 9,
+    "bookSpread": 6,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "read"
+    ]
+  },
+  {
+    "rank": 417,
+    "word": "intended",
+    "passageFreq": 8,
+    "questionFreq": 9,
+    "bookSpread": 9,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "intended"
+    ]
+  },
+  {
+    "rank": 418,
+    "word": "difficulties",
+    "passageFreq": 8,
+    "questionFreq": 9,
+    "bookSpread": 7,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "difficulties"
+    ]
+  },
+  {
+    "rank": 419,
+    "word": "action",
+    "passageFreq": 7,
+    "questionFreq": 9,
+    "bookSpread": 10,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "action"
+    ]
+  },
+  {
+    "rank": 420,
+    "word": "encouraged",
+    "passageFreq": 6,
+    "questionFreq": 9,
+    "bookSpread": 9,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "encouraged"
+    ]
+  },
+  {
+    "rank": 421,
+    "word": "teachers",
+    "passageFreq": 19,
+    "questionFreq": 9,
+    "bookSpread": 6,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "teachers"
+    ]
+  },
+  {
+    "rank": 422,
+    "word": "governments",
+    "passageFreq": 11,
+    "questionFreq": 9,
+    "bookSpread": 6,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "governments"
+    ]
+  },
+  {
+    "rank": 423,
+    "word": "noise",
+    "passageFreq": 25,
+    "questionFreq": 9,
+    "bookSpread": 5,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "noise"
+    ]
+  },
+  {
+    "rank": 424,
+    "word": "collecting",
+    "passageFreq": 23,
+    "questionFreq": 9,
+    "bookSpread": 5,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "collecting"
+    ]
+  },
+  {
+    "rank": 425,
+    "word": "debris",
+    "passageFreq": 22,
+    "questionFreq": 9,
+    "bookSpread": 4,
+    "awl": false,
+    "tier": "TIER 2: Should-Know",
+    "surfaceForms": [
+      "debris"
+    ]
+  },
+  {
+    "rank": 426,
+    "word": "mathematics",
+    "passageFreq": 19,
+    "questionFreq": 9,
+    "bookSpread": 4,
+    "awl": false,
+    "tier": "TIER 2: Should-Know",
+    "surfaceForms": [
+      "mathematics"
+    ]
+  },
+  {
+    "rank": 427,
+    "word": "pests",
+    "passageFreq": 15,
+    "questionFreq": 9,
+    "bookSpread": 4,
+    "awl": false,
+    "tier": "TIER 2: Should-Know",
+    "surfaceForms": [
+      "pests"
+    ]
+  },
+  {
+    "rank": 428,
+    "word": "gifted",
+    "passageFreq": 11,
+    "questionFreq": 9,
+    "bookSpread": 3,
+    "awl": false,
+    "tier": "TIER 2: Should-Know",
+    "surfaceForms": [
+      "gifted"
+    ]
+  },
+  {
+    "rank": 429,
+    "word": "pesticides",
+    "passageFreq": 9,
+    "questionFreq": 9,
+    "bookSpread": 3,
+    "awl": false,
+    "tier": "TIER 2: Should-Know",
+    "surfaceForms": [
+      "pesticides"
+    ]
+  },
+  {
+    "rank": 430,
+    "word": "degradation",
+    "passageFreq": 2,
+    "questionFreq": 9,
+    "bookSpread": 3,
+    "awl": false,
+    "tier": "TIER 2: Should-Know",
+    "surfaceForms": [
+      "degradation"
+    ]
+  },
+  {
+    "rank": 431,
+    "word": "horse",
+    "passageFreq": 20,
+    "questionFreq": 9,
+    "bookSpread": 1,
+    "awl": false,
+    "tier": "TIER 4: Low Priority",
+    "surfaceForms": [
+      "horse"
+    ]
+  },
+  {
+    "rank": 432,
+    "word": "bingham",
+    "passageFreq": 9,
+    "questionFreq": 9,
+    "bookSpread": 1,
+    "awl": false,
+    "tier": "TIER 4: Low Priority",
+    "surfaceForms": [
+      "bingham"
+    ]
+  },
+  {
+    "rank": 433,
+    "word": "adapt",
+    "passageFreq": 29,
+    "questionFreq": 8,
+    "bookSpread": 10,
+    "awl": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "adapted",
+      "adapt",
+      "adaptation",
+      "adapting",
+      "adaptive"
+    ]
+  },
+  {
+    "rank": 434,
+    "word": "global",
+    "passageFreq": 27,
+    "questionFreq": 8,
+    "bookSpread": 11,
+    "awl": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "global"
+    ]
+  },
+  {
+    "rank": 435,
+    "word": "think",
+    "passageFreq": 60,
+    "questionFreq": 8,
+    "bookSpread": 11,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "think"
+    ]
+  },
+  {
+    "rank": 436,
+    "word": "assume",
+    "passageFreq": 21,
+    "questionFreq": 8,
+    "bookSpread": 9,
+    "awl": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "assumptions",
+      "assumption",
+      "assume",
+      "assumed",
+      "assumes"
+    ]
+  },
+  {
+    "rank": 437,
+    "word": "specific",
+    "passageFreq": 17,
+    "questionFreq": 8,
+    "bookSpread": 10,
+    "awl": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "specific"
+    ]
+  },
+  {
+    "rank": 438,
+    "word": "later",
+    "passageFreq": 50,
+    "questionFreq": 8,
+    "bookSpread": 11,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "later"
+    ]
+  },
+  {
+    "rank": 439,
+    "word": "argue",
+    "passageFreq": 48,
+    "questionFreq": 8,
+    "bookSpread": 11,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "argued",
+      "argues",
+      "argument",
+      "argue",
+      "arguments"
+    ]
+  },
+  {
+    "rank": 440,
+    "word": "location",
+    "passageFreq": 8,
+    "questionFreq": 8,
+    "bookSpread": 9,
+    "awl": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "location"
+    ]
+  },
+  {
+    "rank": 441,
+    "word": "cities",
+    "passageFreq": 40,
+    "questionFreq": 8,
+    "bookSpread": 9,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "cities"
+    ]
+  },
+  {
+    "rank": 442,
+    "word": "left",
+    "passageFreq": 39,
+    "questionFreq": 8,
+    "bookSpread": 11,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "left"
+    ]
+  },
+  {
+    "rank": 443,
+    "word": "understanding",
+    "passageFreq": 38,
+    "questionFreq": 8,
+    "bookSpread": 10,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "understanding"
+    ]
+  },
+  {
+    "rank": 444,
+    "word": "initially",
+    "passageFreq": 4,
+    "questionFreq": 8,
+    "bookSpread": 9,
+    "awl": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "initially"
+    ]
+  },
+  {
+    "rank": 445,
+    "word": "individuals",
+    "passageFreq": 36,
+    "questionFreq": 8,
+    "bookSpread": 10,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "individuals"
+    ]
+  },
+  {
+    "rank": 446,
+    "word": "ago",
+    "passageFreq": 33,
+    "questionFreq": 8,
+    "bookSpread": 11,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "ago"
+    ]
+  },
+  {
+    "rank": 447,
+    "word": "psychology",
+    "passageFreq": 11,
+    "questionFreq": 8,
+    "bookSpread": 6,
+    "awl": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "psychology"
+    ]
+  },
+  {
+    "rank": 448,
+    "word": "kind",
+    "passageFreq": 26,
+    "questionFreq": 8,
+    "bookSpread": 10,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "kind"
+    ]
+  },
+  {
+    "rank": 449,
+    "word": "single",
+    "passageFreq": 24,
+    "questionFreq": 8,
+    "bookSpread": 11,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "single"
+    ]
+  },
+  {
+    "rank": 450,
+    "word": "grow",
+    "passageFreq": 22,
+    "questionFreq": 8,
+    "bookSpread": 9,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "grow"
+    ]
+  },
+  {
+    "rank": 451,
+    "word": "surface",
+    "passageFreq": 21,
+    "questionFreq": 8,
+    "bookSpread": 9,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "surface"
+    ]
+  },
+  {
+    "rank": 452,
+    "word": "archaeological",
+    "passageFreq": 21,
+    "questionFreq": 8,
+    "bookSpread": 7,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "archaeological"
+    ]
+  },
+  {
+    "rank": 453,
+    "word": "shape",
+    "passageFreq": 19,
+    "questionFreq": 8,
+    "bookSpread": 10,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "shape"
+    ]
+  },
+  {
+    "rank": 454,
+    "word": "writing",
+    "passageFreq": 18,
+    "questionFreq": 8,
+    "bookSpread": 8,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "writing"
+    ]
+  },
+  {
+    "rank": 455,
+    "word": "wide",
+    "passageFreq": 17,
+    "questionFreq": 8,
+    "bookSpread": 10,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "wide"
+    ]
+  },
+  {
+    "rank": 456,
+    "word": "popular",
+    "passageFreq": 17,
+    "questionFreq": 8,
+    "bookSpread": 10,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "popular"
+    ]
+  },
+  {
+    "rank": 457,
+    "word": "low",
+    "passageFreq": 17,
+    "questionFreq": 8,
+    "bookSpread": 9,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "low"
+    ]
+  },
+  {
+    "rank": 458,
+    "word": "connect",
+    "passageFreq": 16,
+    "questionFreq": 8,
+    "bookSpread": 8,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "connected",
+      "connecting",
+      "connect",
+      "connects",
+      "connection"
+    ]
+  },
+  {
+    "rank": 459,
+    "word": "bacteria",
+    "passageFreq": 16,
+    "questionFreq": 8,
+    "bookSpread": 7,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "bacteria"
+    ]
+  },
+  {
+    "rank": 460,
+    "word": "members",
+    "passageFreq": 14,
+    "questionFreq": 8,
+    "bookSpread": 9,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "members"
+    ]
+  },
+  {
+    "rank": 461,
+    "word": "tasks",
+    "passageFreq": 14,
+    "questionFreq": 8,
+    "bookSpread": 8,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "tasks"
+    ]
+  },
+  {
+    "rank": 462,
+    "word": "someone",
+    "passageFreq": 13,
+    "questionFreq": 8,
+    "bookSpread": 9,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "someone"
+    ]
+  },
+  {
+    "rank": 463,
+    "word": "background",
+    "passageFreq": 12,
+    "questionFreq": 8,
+    "bookSpread": 9,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "background"
+    ]
+  },
+  {
+    "rank": 464,
+    "word": "encourage",
+    "passageFreq": 12,
+    "questionFreq": 8,
+    "bookSpread": 8,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "encourage"
+    ]
+  },
+  {
+    "rank": 465,
+    "word": "details",
+    "passageFreq": 12,
+    "questionFreq": 8,
+    "bookSpread": 8,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "details"
+    ]
+  },
+  {
+    "rank": 466,
+    "word": "fuel",
+    "passageFreq": 10,
+    "questionFreq": 8,
+    "bookSpread": 7,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "fuel"
+    ]
+  },
+  {
+    "rank": 467,
+    "word": "books",
+    "passageFreq": 9,
+    "questionFreq": 8,
+    "bookSpread": 7,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "books"
+    ]
+  },
+  {
+    "rank": 468,
+    "word": "artistic",
+    "passageFreq": 8,
+    "questionFreq": 8,
+    "bookSpread": 9,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "artistic"
+    ]
+  },
+  {
+    "rank": 469,
+    "word": "possibility",
+    "passageFreq": 8,
+    "questionFreq": 8,
+    "bookSpread": 8,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "possibility"
+    ]
+  },
+  {
+    "rank": 470,
+    "word": "suitable",
+    "passageFreq": 6,
+    "questionFreq": 8,
+    "bookSpread": 8,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "suitable"
+    ]
+  },
+  {
+    "rank": 471,
+    "word": "unusual",
+    "passageFreq": 6,
+    "questionFreq": 8,
+    "bookSpread": 7,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "unusual"
+    ]
+  },
+  {
+    "rank": 472,
+    "word": "danger",
+    "passageFreq": 5,
+    "questionFreq": 8,
+    "bookSpread": 8,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "danger"
+    ]
+  },
+  {
+    "rank": 473,
+    "word": "belief",
+    "passageFreq": 4,
+    "questionFreq": 8,
+    "bookSpread": 8,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "belief"
+    ]
+  },
+  {
+    "rank": 474,
+    "word": "fear",
+    "passageFreq": 14,
+    "questionFreq": 8,
+    "bookSpread": 6,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "fear"
+    ]
+  },
+  {
+    "rank": 475,
+    "word": "regarding",
+    "passageFreq": 6,
+    "questionFreq": 8,
+    "bookSpread": 6,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "regarding"
+    ]
+  },
+  {
+    "rank": 476,
+    "word": "expectations",
+    "passageFreq": 5,
+    "questionFreq": 8,
+    "bookSpread": 6,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "expectations"
+    ]
+  },
+  {
+    "rank": 477,
+    "word": "limitations",
+    "passageFreq": 4,
+    "questionFreq": 8,
+    "bookSpread": 6,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "limitations"
+    ]
+  },
+  {
+    "rank": 478,
+    "word": "abstract",
+    "passageFreq": 10,
+    "questionFreq": 8,
+    "bookSpread": 4,
+    "awl": true,
+    "tier": "TIER 2: Should-Know",
+    "surfaceForms": [
+      "abstract"
+    ]
+  },
+  {
+    "rank": 479,
+    "word": "fifth",
+    "passageFreq": 3,
+    "questionFreq": 8,
+    "bookSpread": 5,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "fifth"
+    ]
+  },
+  {
+    "rank": 480,
+    "word": "vertical",
+    "passageFreq": 16,
+    "questionFreq": 8,
+    "bookSpread": 4,
+    "awl": false,
+    "tier": "TIER 2: Should-Know",
+    "surfaceForms": [
+      "vertical"
+    ]
+  },
+  {
+    "rank": 481,
+    "word": "rates",
+    "passageFreq": 7,
+    "questionFreq": 8,
+    "bookSpread": 4,
+    "awl": false,
+    "tier": "TIER 2: Should-Know",
+    "surfaceForms": [
+      "rates"
+    ]
+  },
+  {
+    "rank": 482,
+    "word": "da",
+    "passageFreq": 5,
+    "questionFreq": 8,
+    "bookSpread": 4,
+    "awl": false,
+    "tier": "TIER 2: Should-Know",
+    "surfaceForms": [
+      "da"
+    ]
+  },
+  {
+    "rank": 483,
+    "word": "computer",
+    "passageFreq": 8,
+    "questionFreq": 8,
+    "bookSpread": 2,
+    "awl": true,
+    "tier": "TIER 3: Good-to-Know",
+    "surfaceForms": [
+      "computer"
+    ]
+  },
+  {
+    "rank": 484,
+    "word": "zoos",
+    "passageFreq": 19,
+    "questionFreq": 8,
+    "bookSpread": 3,
+    "awl": false,
+    "tier": "TIER 2: Should-Know",
+    "surfaceForms": [
+      "zoos"
+    ]
+  },
+  {
+    "rank": 485,
+    "word": "maths",
+    "passageFreq": 9,
+    "questionFreq": 8,
+    "bookSpread": 3,
+    "awl": false,
+    "tier": "TIER 2: Should-Know",
+    "surfaceForms": [
+      "maths"
+    ]
+  },
+  {
+    "rank": 486,
+    "word": "captain",
+    "passageFreq": 4,
+    "questionFreq": 8,
+    "bookSpread": 3,
+    "awl": false,
+    "tier": "TIER 2: Should-Know",
+    "surfaceForms": [
+      "captain"
+    ]
+  },
+  {
+    "rank": 487,
+    "word": "vinci",
+    "passageFreq": 4,
+    "questionFreq": 8,
+    "bookSpread": 3,
+    "awl": false,
+    "tier": "TIER 2: Should-Know",
+    "surfaceForms": [
+      "vinci"
+    ]
+  },
+  {
+    "rank": 488,
+    "word": "curie",
+    "passageFreq": 19,
+    "questionFreq": 8,
+    "bookSpread": 2,
+    "awl": false,
+    "tier": "TIER 3: Good-to-Know",
+    "surfaceForms": [
+      "curie"
+    ]
+  },
+  {
+    "rank": 489,
+    "word": "rose",
+    "passageFreq": 12,
+    "questionFreq": 8,
+    "bookSpread": 2,
+    "awl": false,
+    "tier": "TIER 3: Good-to-Know",
+    "surfaceForms": [
+      "rose"
+    ]
+  },
+  {
+    "rank": 490,
+    "word": "mary",
+    "passageFreq": 11,
+    "questionFreq": 8,
+    "bookSpread": 2,
+    "awl": false,
+    "tier": "TIER 3: Good-to-Know",
+    "surfaceForms": [
+      "mary"
+    ]
+  },
+  {
+    "rank": 491,
+    "word": "roofs",
+    "passageFreq": 19,
+    "questionFreq": 8,
+    "bookSpread": 1,
+    "awl": false,
+    "tier": "TIER 4: Low Priority",
+    "surfaceForms": [
+      "roofs"
+    ]
+  },
+  {
+    "rank": 492,
+    "word": "geo-engineering",
+    "passageFreq": 14,
+    "questionFreq": 8,
+    "bookSpread": 1,
+    "awl": false,
+    "tier": "TIER 4: Low Priority",
+    "surfaceForms": [
+      "geo-engineering"
+    ]
+  },
+  {
+    "rank": 493,
+    "word": "moai",
+    "passageFreq": 12,
+    "questionFreq": 8,
+    "bookSpread": 1,
+    "awl": false,
+    "tier": "TIER 4: Low Priority",
+    "surfaceForms": [
+      "moai"
+    ]
+  },
+  {
+    "rank": 494,
+    "word": "tehrani",
+    "passageFreq": 9,
+    "questionFreq": 8,
+    "bookSpread": 1,
+    "awl": false,
+    "tier": "TIER 4: Low Priority",
+    "surfaceForms": [
+      "tehrani"
+    ]
+  },
+  {
+    "rank": 495,
+    "word": "lynx",
+    "passageFreq": 9,
+    "questionFreq": 8,
+    "bookSpread": 1,
+    "awl": false,
+    "tier": "TIER 4: Low Priority",
+    "surfaceForms": [
+      "lynx"
+    ]
+  },
+  {
+    "rank": 496,
+    "word": "tomato",
+    "passageFreq": 4,
+    "questionFreq": 8,
+    "bookSpread": 1,
+    "awl": false,
+    "tier": "TIER 4: Low Priority",
+    "surfaceForms": [
+      "tomato"
+    ]
+  },
+  {
+    "rank": 497,
+    "word": "region",
+    "passageFreq": 48,
+    "questionFreq": 7,
+    "bookSpread": 11,
+    "awl": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "region",
+      "regions",
+      "regional"
+    ]
+  },
+  {
+    "rank": 498,
+    "word": "factors",
+    "passageFreq": 32,
+    "questionFreq": 7,
+    "bookSpread": 9,
+    "awl": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "factors"
+    ]
+  },
+  {
+    "rank": 499,
+    "word": "maintain",
+    "passageFreq": 30,
+    "questionFreq": 7,
+    "bookSpread": 11,
+    "awl": true,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "maintain",
+      "maintaining",
+      "maintained",
+      "maintenance",
+      "maintains"
+    ]
+  },
+  {
+    "rank": 500,
+    "word": "set",
+    "passageFreq": 60,
+    "questionFreq": 7,
+    "bookSpread": 11,
+    "awl": false,
+    "tier": "TIER 1: Must-Know",
+    "surfaceForms": [
+      "set"
+    ]
+  }
+]

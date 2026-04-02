@@ -1,0 +1,371 @@
+[
+  {
+    "topic": "Where you live now",
+    "type": "compulsory",
+    "questions": [
+      "Which town or city do you live in now?",
+      "Are there any things you don't like about your area?",
+      "Do you think you will continue to live there for a long time?",
+      "What are some changes in the area recently?",
+      "Do you live in a house or an apartment?",
+      "What is your favourite room in your home?",
+      "What things make your home pleasant to live in?",
+      "Are the people in your neighbourhood nice and friendly?",
+      "Do you know any of your neighbours?",
+      "Do you know any famous people in your area?"
+    ]
+  },
+  {
+    "topic": "Work/Study",
+    "type": "compulsory",
+    "questions": [
+      "What kind of work do you do?",
+      "What do you find most interesting about your work?",
+      "Which is more important - the people you work with or the work you do?",
+      "Do you work best in the morning or the afternoon?",
+      "What do you study?",
+      "What do you find most interesting about your studies?",
+      "Which is more important - the teachers or other students on your course?",
+      "How much time do you spend studying every week?",
+      "How do you usually travel to the city where you study?",
+      "Do you study best in the morning or the afternoon?",
+      "Have you always wanted to study this subject?",
+      "II. SPECIFIC TOPICS"
+    ]
+  },
+  {
+    "topic": "Chatting",
+    "type": "specific",
+    "questions": [
+      "Do you like chatting with friends?",
+      "What do you usually chat about with friends?",
+      "Do you prefer to chat with a group of people or with only one friend?",
+      "Do you prefer to communicate face-to-face or via social media?",
+      "Do you argue with friends?"
+    ]
+  },
+  {
+    "topic": "Staying with old people",
+    "type": "specific",
+    "questions": [
+      "Have you ever worked with old people?",
+      "Are you happy to work with people who are older than you?",
+      "What are the advantages of working with old people?"
+    ]
+  },
+  {
+    "topic": "Doing something well",
+    "type": "specific",
+    "questions": [
+      "Do you have an experience that you did something well?",
+      "Do you have an experience that your teacher thought you did a good job?",
+      "Do you often tell your friends when they do something well?"
+    ]
+  },
+  {
+    "topic": "Shoes",
+    "type": "specific",
+    "questions": [
+      "Do you like buying shoes? How often?",
+      "Have you ever bought shoes online?",
+      "How much money do you usually spend on shoes?",
+      "Do you prefer shoes that are comfortable or shoes that look nice?",
+      "Do you often buy shoes from famous brands?"
+    ]
+  },
+  {
+    "topic": "Rules",
+    "type": "specific",
+    "questions": [
+      "Are there any rules for students at your school?",
+      "Do you think students would benefit more from more rules?",
+      "What rules did your teacher tell you when you were a child?",
+      "Did any teacher require you to strictly follow these rules?"
+    ]
+  },
+  {
+    "topic": "Plants",
+    "type": "specific",
+    "questions": [
+      "Do you keep plants at home?",
+      "What plant did you grow when you were young?",
+      "Do you know anything about growing a plant?",
+      "Do Vietnamese people send plants as gifts?"
+    ]
+  },
+  {
+    "topic": "Going out",
+    "type": "specific",
+    "questions": [
+      "Do you bring food or snacks with you when going out?",
+      "Do you always take your mobile phone with you when going out?",
+      "Do you often bring cash with you?",
+      "How often do you use cash?"
+    ]
+  },
+  {
+    "topic": "Growing vegetables/fruits",
+    "type": "specific",
+    "questions": [
+      "Are you interested in growing vegetables and fruits?",
+      "Is growing vegetables popular in your country?",
+      "Do many people grow vegetables in your city?",
+      "Do you think it's easy to grow vegetables?",
+      "Should schools teach students how to grow vegetables?"
+    ]
+  },
+  {
+    "topic": "Museum",
+    "type": "specific",
+    "questions": [
+      "Do you think museums are important?",
+      "Are there many museums in your hometown?",
+      "Do you often visit a museum?",
+      "When was the last time you visited a museum?"
+    ]
+  },
+  {
+    "topic": "Taking a break",
+    "type": "specific",
+    "questions": [
+      "Do you often take breaks?",
+      "What do you do when you take breaks?",
+      "Have you ever slept when you take a break?"
+    ]
+  },
+  {
+    "topic": "Public places",
+    "type": "specific",
+    "questions": [
+      "Do you usually go to public places with your friends?",
+      "Do you think your place should add more public places?",
+      "Do you wear headphones when you are in public places?"
+    ]
+  },
+  {
+    "topic": "Advertisements",
+    "type": "specific",
+    "questions": [
+      "Do you often remember advertisements/commercials that you've seen?",
+      "What do you usually do when an advertisement comes on TV or the Internet?",
+      "Have you ever seen an advertisement that you really didn't like?",
+      "Would you like to be in an advertisement one day?"
+    ]
+  },
+  {
+    "topic": "Crowded place",
+    "type": "specific",
+    "questions": [
+      "Is the city where you live crowded?",
+      "Is there a crowded place near where you live?",
+      "Do most people like crowded places?",
+      "When was the last time you were in a crowded place?"
+    ]
+  },
+  {
+    "topic": "Sharing",
+    "type": "specific",
+    "questions": [
+      "Did your parents teach you to share when you were a child?",
+      "What kind of things do you like to share with others?",
+      "What kind of things are not suitable for sharing?",
+      "Who is the first person you would like to share good news with?"
+    ]
+  },
+  {
+    "topic": "Taking photos",
+    "type": "specific",
+    "questions": [
+      "How often do you take photos?",
+      "Do you like taking photos of yourself?",
+      "Do you have a favorite family photo?",
+      "Would you like to learn how to take better photos?"
+    ]
+  },
+  {
+    "topic": "Drawing and Art galleries",
+    "type": "specific",
+    "questions": [
+      "Did you learn to draw or paint when you were younger?",
+      "Have you ever visited an art gallery?",
+      "Do you like looking at drawings or paintings?",
+      "Would you like to learn more about art in the future?"
+    ]
+  },
+  {
+    "topic": "Borrowing and Lending",
+    "type": "specific",
+    "questions": [
+      "Have you ever borrowed any books from others?",
+      "Have you borrowed money from a friend?",
+      "Do you like to lend things to others?",
+      "How would you feel if someone borrowed something and never gave it back?"
+    ]
+  },
+  {
+    "topic": "Cash",
+    "type": "specific",
+    "questions": [
+      "Do you have a school bank account?",
+      "Why do people use banks?",
+      "Do you prefer to use cash or bank services?"
+    ]
+  },
+  {
+    "topic": "Health",
+    "type": "specific",
+    "questions": [
+      "What are some ways to live a healthy lifestyle?",
+      "Did you learn how to live a healthy lifestyle when you were a child?"
+    ]
+  },
+  {
+    "topic": "Day Off",
+    "type": "specific",
+    "questions": [
+      "When was the last time you had a few days off?",
+      "What do you usually do when you have days off?",
+      "Do you usually spend your days off with your parents or friends?",
+      "What would you like to do if you had a day off tomorrow?"
+    ]
+  },
+  {
+    "topic": "Childhood activities",
+    "type": "specific",
+    "questions": [
+      "What were your favourite activities when you were a child?",
+      "Did you prefer to do activities alone or with a group when you were a child?"
+    ]
+  },
+  {
+    "topic": "Building",
+    "type": "specific",
+    "questions": [
+      "Are there tall buildings near your home?",
+      "Do you take photos of buildings?",
+      "Is there a building that you would like to visit?"
+    ]
+  },
+  {
+    "topic": "Scenery",
+    "type": "specific",
+    "questions": [
+      "Do you look out the window at the scenery when travelling?",
+      "Do you prefer the mountains or the sea?",
+      "Do you like to take scenery pictures?",
+      "What are the most beautiful sights you have seen while travelling?"
+    ]
+  },
+  {
+    "topic": "Typing",
+    "type": "specific",
+    "questions": [
+      "Do you prefer typing or handwriting?",
+      "Do you type on a keyboard every day?",
+      "When did you learn how to type on a keyboard?",
+      "How do you improve your typing?"
+    ]
+  },
+  {
+    "topic": "Hobby",
+    "type": "specific",
+    "questions": [
+      "Do you have any hobbies?",
+      "Did you have any hobbies when you were a child?",
+      "Do you have a hobby that you've had since childhood?",
+      "Do you have the same hobbies as your family members?"
+    ]
+  },
+  {
+    "topic": "Morning time",
+    "type": "specific",
+    "questions": [
+      "Do you like getting up early in the morning?",
+      "What do you usually do in the morning?",
+      "What did you do in the morning when you were little?",
+      "Are there differences between what you do in the morning now and in the past?",
+      "Do you spend mornings doing the same things on weekends and weekdays?"
+    ]
+  },
+  {
+    "topic": "Gifts",
+    "type": "specific",
+    "questions": [
+      "Have you ever sent handmade gifts to others?",
+      "Have you ever received a great gift?",
+      "What do you consider when choosing a gift?",
+      "Do you think you are good at choosing gifts?",
+      "What gift have you received recently?"
+    ]
+  },
+  {
+    "topic": "Reading",
+    "type": "specific",
+    "questions": [
+      "Do you like reading?",
+      "Do you prefer to read on paper or on a screen?",
+      "When do you need to read carefully, and when not?",
+      "Do you prefer scanning or detailed reading?"
+    ]
+  },
+  {
+    "topic": "Walking",
+    "type": "specific",
+    "questions": [
+      "Do you walk a lot?",
+      "Did you often go outside to have a walk when you were a child?",
+      "Why do people like to walk in parks?",
+      "Where would you like to take a long walk if you had the chance?",
+      "Where did you go for a walk lately?"
+    ]
+  },
+  {
+    "topic": "Dreams",
+    "type": "specific",
+    "questions": [
+      "Can you remember the dreams you had?",
+      "Do you share your dreams with others?",
+      "Do you think dreams have special meanings?",
+      "Do you want to make your dreams come true?"
+    ]
+  },
+  {
+    "topic": "Keys",
+    "type": "specific",
+    "questions": [
+      "Do you always bring a lot of keys with you?",
+      "Have you ever lost your keys?",
+      "Do you often forget the keys and lock yourself out?",
+      "Do you think it's a good idea to leave your keys with a neighbour?"
+    ]
+  },
+  {
+    "topic": "Sports Teams",
+    "type": "specific",
+    "questions": [
+      "Have you ever been part of a sports team?",
+      "Are team sports popular in your culture?",
+      "Do you like watching team games? Why?",
+      "What are the differences between team sports and individual sports?"
+    ]
+  },
+  {
+    "topic": "Pets and Animals",
+    "type": "specific",
+    "questions": [
+      "What's your favourite animal? Why?",
+      "Where do you prefer to keep your pet, indoors or outdoors?",
+      "Have you ever had a pet before?"
+    ]
+  },
+  {
+    "topic": "Food",
+    "type": "specific",
+    "questions": [
+      "What is your favourite food?",
+      "What kind of food did you like when you were young?",
+      "Do you eat different foods at different times of the year?",
+      "Has your favourite food changed since you were a child?"
+    ]
+  }
+]

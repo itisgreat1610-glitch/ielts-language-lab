@@ -1,0 +1,1111 @@
+{
+  "level": 7,
+  "title": "Academic & Task 1 Language",
+  "description": "Master Academic Word List vocabulary and chart description language.",
+  "vocab_range": {
+    "tier": 1,
+    "min_rank": 1001,
+    "max_rank": 1680,
+    "filter": "AWL + Task 1"
+  },
+  "vocabulary": [
+    {
+      "id": "t1-1028",
+      "word": "community",
+      "tier": 1,
+      "rank": 1028,
+      "score": 69.6,
+      "freq": 12,
+      "bookSpread": 5,
+      "awl": true,
+      "bridge": true,
+      "surfaceForms": [
+        "community"
+      ],
+      "topics": [
+        "crime",
+        "culture"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-1033",
+      "word": "media",
+      "tier": 1,
+      "rank": 1033,
+      "score": 69.5,
+      "freq": 10,
+      "bookSpread": 5,
+      "awl": true,
+      "bridge": true,
+      "surfaceForms": [
+        "media"
+      ],
+      "topics": [
+        "family",
+        "media",
+        "society",
+        "work"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-1037",
+      "word": "percent",
+      "tier": 1,
+      "rank": 1037,
+      "score": 69.4,
+      "freq": 13,
+      "bookSpread": 5,
+      "awl": true,
+      "bridge": true,
+      "surfaceForms": [
+        "percent"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-1038",
+      "word": "topic",
+      "tier": 1,
+      "rank": 1038,
+      "score": 69.4,
+      "freq": 8,
+      "bookSpread": 5,
+      "awl": true,
+      "bridge": true,
+      "surfaceForms": [
+        "topic"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-1056",
+      "word": "perspective",
+      "tier": 1,
+      "rank": 1056,
+      "score": 69.3,
+      "freq": 11,
+      "bookSpread": 5,
+      "awl": true,
+      "bridge": true,
+      "surfaceForms": [
+        "perspective"
+      ],
+      "topics": [
+        "culture",
+        "family",
+        "media",
+        "technology"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-1071",
+      "word": "stress",
+      "tier": 1,
+      "rank": 1071,
+      "score": 69.1,
+      "freq": 12,
+      "bookSpread": 5,
+      "awl": true,
+      "bridge": true,
+      "surfaceForms": [
+        "stress"
+      ],
+      "topics": [
+        "culture",
+        "environment",
+        "family",
+        "society",
+        "work"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-1072",
+      "word": "element",
+      "tier": 1,
+      "rank": 1072,
+      "score": 69.1,
+      "freq": 7,
+      "bookSpread": 5,
+      "awl": true,
+      "bridge": true,
+      "surfaceForms": [
+        "element"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-1073",
+      "word": "outcome",
+      "tier": 1,
+      "rank": 1073,
+      "score": 69.1,
+      "freq": 7,
+      "bookSpread": 5,
+      "awl": true,
+      "bridge": true,
+      "surfaceForms": [
+        "outcome"
+      ],
+      "topics": [
+        "technology"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-1093",
+      "word": "notion",
+      "tier": 1,
+      "rank": 1093,
+      "score": 68.9,
+      "freq": 8,
+      "bookSpread": 5,
+      "awl": true,
+      "bridge": true,
+      "surfaceForms": [
+        "notion"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-1094",
+      "word": "infrastructure",
+      "tier": 1,
+      "rank": 1094,
+      "score": 68.9,
+      "freq": 8,
+      "bookSpread": 5,
+      "awl": true,
+      "bridge": true,
+      "surfaceForms": [
+        "infrastructure"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-1111",
+      "word": "investigate",
+      "tier": 1,
+      "rank": 1111,
+      "score": 68.6,
+      "freq": 7,
+      "bookSpread": 5,
+      "awl": true,
+      "bridge": true,
+      "surfaceForms": [
+        "investigate"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-1123",
+      "word": "reaction",
+      "tier": 1,
+      "rank": 1123,
+      "score": 68.5,
+      "freq": 5,
+      "bookSpread": 5,
+      "awl": true,
+      "bridge": true,
+      "surfaceForms": [
+        "reaction"
+      ],
+      "topics": [
+        "food"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-1129",
+      "word": "consistent",
+      "tier": 1,
+      "rank": 1129,
+      "score": 68.3,
+      "freq": 6,
+      "bookSpread": 5,
+      "awl": true,
+      "bridge": true,
+      "surfaceForms": [
+        "consistent"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-1134",
+      "word": "civil",
+      "tier": 1,
+      "rank": 1134,
+      "score": 68.2,
+      "freq": 9,
+      "bookSpread": 5,
+      "awl": true,
+      "bridge": true,
+      "surfaceForms": [
+        "civil"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-1135",
+      "word": "reverse",
+      "tier": 1,
+      "rank": 1135,
+      "score": 68.2,
+      "freq": 9,
+      "bookSpread": 5,
+      "awl": true,
+      "bridge": true,
+      "surfaceForms": [
+        "reverse"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-1136",
+      "word": "straightforward",
+      "tier": 1,
+      "rank": 1136,
+      "score": 68.2,
+      "freq": 9,
+      "bookSpread": 5,
+      "awl": true,
+      "bridge": true,
+      "surfaceForms": [
+        "straightforward"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-1140",
+      "word": "security",
+      "tier": 1,
+      "rank": 1140,
+      "score": 68.1,
+      "freq": 7,
+      "bookSpread": 5,
+      "awl": true,
+      "bridge": true,
+      "surfaceForms": [
+        "security"
+      ],
+      "topics": [
+        "society",
+        "technology"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-1141",
+      "word": "acquire",
+      "tier": 1,
+      "rank": 1141,
+      "score": 68.1,
+      "freq": 7,
+      "bookSpread": 5,
+      "awl": true,
+      "bridge": true,
+      "surfaceForms": [
+        "acquire"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-1142",
+      "word": "minimise",
+      "tier": 1,
+      "rank": 1142,
+      "score": 68.1,
+      "freq": 7,
+      "bookSpread": 5,
+      "awl": true,
+      "bridge": true,
+      "surfaceForms": [
+        "minimise"
+      ],
+      "topics": [
+        "health"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-1143",
+      "word": "domestic",
+      "tier": 1,
+      "rank": 1143,
+      "score": 68.1,
+      "freq": 7,
+      "bookSpread": 5,
+      "awl": true,
+      "bridge": true,
+      "surfaceForms": [
+        "domestic"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-1144",
+      "word": "assess",
+      "tier": 1,
+      "rank": 1144,
+      "score": 68.1,
+      "freq": 7,
+      "bookSpread": 5,
+      "awl": true,
+      "bridge": true,
+      "surfaceForms": [
+        "assess"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-1154",
+      "word": "intense",
+      "tier": 1,
+      "rank": 1154,
+      "score": 67.9,
+      "freq": 8,
+      "bookSpread": 5,
+      "awl": true,
+      "bridge": true,
+      "surfaceForms": [
+        "intense"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-1155",
+      "word": "resource",
+      "tier": 1,
+      "rank": 1155,
+      "score": 67.9,
+      "freq": 8,
+      "bookSpread": 5,
+      "awl": true,
+      "bridge": true,
+      "surfaceForms": [
+        "resource"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-1156",
+      "word": "apparent",
+      "tier": 1,
+      "rank": 1156,
+      "score": 67.9,
+      "freq": 8,
+      "bookSpread": 5,
+      "awl": true,
+      "bridge": true,
+      "surfaceForms": [
+        "apparent"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-1157",
+      "word": "annual",
+      "tier": 1,
+      "rank": 1157,
+      "score": 67.9,
+      "freq": 8,
+      "bookSpread": 5,
+      "awl": true,
+      "bridge": true,
+      "surfaceForms": [
+        "annual"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-1159",
+      "word": "minimal",
+      "tier": 1,
+      "rank": 1159,
+      "score": 67.8,
+      "freq": 6,
+      "bookSpread": 5,
+      "awl": true,
+      "bridge": true,
+      "surfaceForms": [
+        "minimal"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-1160",
+      "word": "restore",
+      "tier": 1,
+      "rank": 1160,
+      "score": 67.8,
+      "freq": 6,
+      "bookSpread": 5,
+      "awl": true,
+      "bridge": true,
+      "surfaceForms": [
+        "restore"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-1161",
+      "word": "recover",
+      "tier": 1,
+      "rank": 1161,
+      "score": 67.8,
+      "freq": 6,
+      "bookSpread": 5,
+      "awl": true,
+      "bridge": true,
+      "surfaceForms": [
+        "recover"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-1168",
+      "word": "shift",
+      "tier": 1,
+      "rank": 1168,
+      "score": 67.6,
+      "freq": 7,
+      "bookSpread": 5,
+      "awl": true,
+      "bridge": true,
+      "surfaceForms": [
+        "shift"
+      ],
+      "topics": [
+        "environment"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-1170",
+      "word": "underlying",
+      "tier": 1,
+      "rank": 1170,
+      "score": 67.5,
+      "freq": 5,
+      "bookSpread": 5,
+      "awl": true,
+      "bridge": true,
+      "surfaceForms": [
+        "underlying"
+      ],
+      "topics": [
+        "crime"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-1175",
+      "word": "military",
+      "tier": 1,
+      "rank": 1175,
+      "score": 67.3,
+      "freq": 6,
+      "bookSpread": 5,
+      "awl": true,
+      "bridge": true,
+      "surfaceForms": [
+        "military"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-1176",
+      "word": "minimum",
+      "tier": 1,
+      "rank": 1176,
+      "score": 67.3,
+      "freq": 6,
+      "bookSpread": 5,
+      "awl": true,
+      "bridge": true,
+      "surfaceForms": [
+        "minimum"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-1177",
+      "word": "authority",
+      "tier": 1,
+      "rank": 1177,
+      "score": 67.3,
+      "freq": 6,
+      "bookSpread": 5,
+      "awl": true,
+      "bridge": true,
+      "surfaceForms": [
+        "authority"
+      ],
+      "topics": [
+        "education"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-1186",
+      "word": "colleague",
+      "tier": 1,
+      "rank": 1186,
+      "score": 67,
+      "freq": 5,
+      "bookSpread": 5,
+      "awl": true,
+      "bridge": true,
+      "surfaceForms": [
+        "colleague"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-1187",
+      "word": "valid",
+      "tier": 1,
+      "rank": 1187,
+      "score": 67,
+      "freq": 5,
+      "bookSpread": 5,
+      "awl": true,
+      "bridge": true,
+      "surfaceForms": [
+        "valid"
+      ],
+      "topics": [
+        "culture"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-1676",
+      "word": "investment",
+      "tier": 1,
+      "rank": 1676,
+      "score": 53.3,
+      "freq": 11,
+      "bookSpread": 7,
+      "awl": true,
+      "bridge": false,
+      "surfaceForms": [
+        "investment"
+      ],
+      "topics": [
+        "culture",
+        "environment",
+        "science",
+        "work"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-1677",
+      "word": "radical",
+      "tier": 1,
+      "rank": 1677,
+      "score": 53.3,
+      "freq": 11,
+      "bookSpread": 7,
+      "awl": true,
+      "bridge": false,
+      "surfaceForms": [
+        "radical"
+      ],
+      "topics": [],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-1678",
+      "word": "solely",
+      "tier": 1,
+      "rank": 1678,
+      "score": 52.7,
+      "freq": 9,
+      "bookSpread": 7,
+      "awl": true,
+      "bridge": false,
+      "surfaceForms": [
+        "solely"
+      ],
+      "topics": [
+        "culture",
+        "environment"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-1679",
+      "word": "diverse",
+      "tier": 1,
+      "rank": 1679,
+      "score": 52.7,
+      "freq": 9,
+      "bookSpread": 7,
+      "awl": true,
+      "bridge": false,
+      "surfaceForms": [
+        "diverse"
+      ],
+      "topics": [
+        "society"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    }
+  ],
+  "chart_language": {
+    "trend_up": [
+      {
+        "phrase": "rise",
+        "count": 24
+      },
+      {
+        "phrase": "increased",
+        "count": 22
+      },
+      {
+        "phrase": "increase",
+        "count": 20
+      },
+      {
+        "phrase": "rose",
+        "count": 18
+      },
+      {
+        "phrase": "growth",
+        "count": 10
+      },
+      {
+        "phrase": "grew",
+        "count": 8
+      },
+      {
+        "phrase": "increasing",
+        "count": 8
+      },
+      {
+        "phrase": "rising",
+        "count": 6
+      },
+      {
+        "phrase": "climbed",
+        "count": 2
+      },
+      {
+        "phrase": "soared",
+        "count": 2
+      },
+      {
+        "phrase": "picked up",
+        "count": 2
+      }
+    ],
+    "trend_down": [
+      {
+        "phrase": "fell",
+        "count": 28
+      },
+      {
+        "phrase": "drop",
+        "count": 16
+      },
+      {
+        "phrase": "dropped",
+        "count": 14
+      },
+      {
+        "phrase": "falling",
+        "count": 10
+      },
+      {
+        "phrase": "decline",
+        "count": 8
+      },
+      {
+        "phrase": "plummeted",
+        "count": 4
+      },
+      {
+        "phrase": "declined",
+        "count": 2
+      },
+      {
+        "phrase": "decrease",
+        "count": 2
+      },
+      {
+        "phrase": "fall",
+        "count": 2
+      }
+    ],
+    "trend_stable": [
+      {
+        "phrase": "little change",
+        "count": 10
+      },
+      {
+        "phrase": "steady",
+        "count": 8
+      },
+      {
+        "phrase": "plateau",
+        "count": 2
+      },
+      {
+        "phrase": "unchanged",
+        "count": 2
+      },
+      {
+        "phrase": "remained at",
+        "count": 2
+      }
+    ],
+    "trend_fluctuate": [
+      {
+        "phrase": "varied",
+        "count": 2
+      }
+    ],
+    "comparison": [
+      {
+        "phrase": "while",
+        "count": 58
+      },
+      {
+        "phrase": "more than",
+        "count": 32
+      },
+      {
+        "phrase": "slightly",
+        "count": 26
+      },
+      {
+        "phrase": "whereas",
+        "count": 14
+      },
+      {
+        "phrase": "double",
+        "count": 10
+      },
+      {
+        "phrase": "less than",
+        "count": 8
+      },
+      {
+        "phrase": "lower than",
+        "count": 8
+      },
+      {
+        "phrase": "significantly",
+        "count": 8
+      },
+      {
+        "phrase": "substantially",
+        "count": 8
+      },
+      {
+        "phrase": "in contrast",
+        "count": 6
+      },
+      {
+        "phrase": "dramatically",
+        "count": 6
+      },
+      {
+        "phrase": "considerably",
+        "count": 4
+      },
+      {
+        "phrase": "higher than",
+        "count": 2
+      },
+      {
+        "phrase": "triple",
+        "count": 2
+      },
+      {
+        "phrase": "compared to",
+        "count": 2
+      }
+    ],
+    "data_reference": [
+      {
+        "phrase": "overall",
+        "count": 66
+      },
+      {
+        "phrase": "the number",
+        "count": 30
+      },
+      {
+        "phrase": "it is clear",
+        "count": 28
+      },
+      {
+        "phrase": "in terms of",
+        "count": 28
+      },
+      {
+        "phrase": "the figure",
+        "count": 22
+      },
+      {
+        "phrase": "the percentage",
+        "count": 14
+      },
+      {
+        "phrase": "according to",
+        "count": 12
+      },
+      {
+        "phrase": "the proportion",
+        "count": 6
+      },
+      {
+        "phrase": "the amount",
+        "count": 6
+      }
+    ],
+    "approximation": [
+      {
+        "phrase": "about",
+        "count": 50
+      },
+      {
+        "phrase": "almost",
+        "count": 48
+      },
+      {
+        "phrase": "roughly",
+        "count": 44
+      },
+      {
+        "phrase": "around",
+        "count": 34
+      },
+      {
+        "phrase": "just over",
+        "count": 18
+      },
+      {
+        "phrase": "just under",
+        "count": 14
+      },
+      {
+        "phrase": "nearly",
+        "count": 12
+      },
+      {
+        "phrase": "approximately",
+        "count": 6
+      },
+      {
+        "phrase": "close to",
+        "count": 2
+      },
+      {
+        "phrase": "exactly",
+        "count": 2
+      }
+    ],
+    "process": [
+      {
+        "phrase": "then",
+        "count": 30
+      },
+      {
+        "phrase": "next",
+        "count": 30
+      },
+      {
+        "phrase": "once",
+        "count": 10
+      },
+      {
+        "phrase": "the final stage",
+        "count": 4
+      },
+      {
+        "phrase": "firstly",
+        "count": 2
+      },
+      {
+        "phrase": "after that",
+        "count": 2
+      }
+    ],
+    "time_reference": [
+      {
+        "phrase": "by \\d{4}",
+        "count": 80
+      },
+      {
+        "phrase": "from .* to",
+        "count": 70
+      },
+      {
+        "phrase": "between",
+        "count": 40
+      },
+      {
+        "phrase": "over the period",
+        "count": 20
+      },
+      {
+        "phrase": "throughout",
+        "count": 10
+      },
+      {
+        "phrase": "by the end of",
+        "count": 6
+      },
+      {
+        "phrase": "in the year",
+        "count": 4
+      },
+      {
+        "phrase": "during",
+        "count": 2
+      }
+    ]
+  },
+  "band_ladder_task1": [
+    {
+      "family": "increase",
+      "B5": "went up",
+      "B6": "increased",
+      "B7": "rose significantly",
+      "B8": "witnessed a marked surge"
+    },
+    {
+      "family": "decrease",
+      "B5": "went down",
+      "B6": "decreased",
+      "B7": "fell sharply",
+      "B8": "experienced a dramatic decline"
+    },
+    {
+      "family": "stable",
+      "B5": "stayed the same",
+      "B6": "remained stable",
+      "B7": "levelled off at",
+      "B8": "plateaued at approximately"
+    },
+    {
+      "family": "compare_more",
+      "B5": "more than",
+      "B6": "higher than",
+      "B7": "considerably higher than",
+      "B8": "was almost double that of / exceeded X by a considerable margin"
+    },
+    {
+      "family": "compare_less",
+      "B5": "less than",
+      "B6": "lower than",
+      "B7": "significantly lower than",
+      "B8": "was significantly lower, at roughly half the level of"
+    },
+    {
+      "family": "approximate",
+      "B5": "about",
+      "B6": "around",
+      "B7": "approximately",
+      "B8": "in the region of"
+    },
+    {
+      "family": "peak",
+      "B5": "the most",
+      "B6": "the highest",
+      "B7": "peaked at",
+      "B8": "reached a peak of / hit its highest point at"
+    },
+    {
+      "family": "low",
+      "B5": "the least",
+      "B6": "the lowest",
+      "B7": "bottomed out at",
+      "B8": "fell to its lowest point of / reached a low of"
+    },
+    {
+      "family": "fluctuate",
+      "B5": "went up and down",
+      "B6": "changed a lot",
+      "B7": "fluctuated considerably",
+      "B8": "exhibited marked volatility"
+    },
+    {
+      "family": "proportion",
+      "B5": "the number of",
+      "B6": "the percentage of",
+      "B7": "the proportion of",
+      "B8": "the share accounted for by"
+    }
+  ],
+  "exercises": {}
+}

@@ -1,0 +1,1506 @@
+[
+  {
+    "source": "part1",
+    "topic": "Animals",
+    "question_text": "Zoos are inhumane and pointless. To what extent do you agree or disagree?",
+    "question_type": "opinion",
+    "introduction": "Love them or loathe them, zoos have been part of the cityscape for over 150 years. Recently, however, many have questioned their value and the quality of care provided to the animals. Personally, I feel that zoos are cruel, pointless and ought to be phased out.",
+    "body_paragraphs": [
+      {
+        "text": "Although many zoos have made great improvements over the years, there can be no doubt that the captive animals suffer. Not only are the enclosures usually far too small, but the climate and conditions are often completely unsuitable. Polar bears, for instance, travel across vast distances of ice daily and yet, in some tropical regions, they are kept in small pens with only a tiny pool for relief. In addition to this discomfort, zoo animals can suffer stress as a result of being kept with unfamiliar and unrelated cage-mates, not to mention the crowds of noisy visitors.",
+        "sentences": [
+          "Although many zoos have made great improvements over the years, there can be no doubt that the captive animals suffer.",
+          "Not only are the enclosures usually far too small, but the climate and conditions are often completely unsuitable.",
+          "Polar bears, for instance, travel across vast distances of ice daily and yet, in some tropical regions, they are kept in small pens with only a tiny pool for relief.",
+          "In addition to this discomfort, zoo animals can suffer stress as a result of being kept with unfamiliar and unrelated cage-mates, not to mention the crowds of noisy visitors."
+        ],
+        "sentence_count": 4,
+        "word_count": 97,
+        "structure_type": "PEEEL"
+      },
+      {
+        "text": "In terms of conservation, while zoos can assist in the preservation of endangered species, this effort is ultimately futile. The Sumatran tiger, for example, has been successfully bred in captivity, however, having been reared by humans, the captive population has lost its natural instinct to hunt, avoid humans, and raise its young. It would therefore be impossible to re-introduce these creatures into the wild. As well as this loss of instinct, there is also the loss of habitat to consider. Urban sprawl, industrialisation, farming and logging all contribute to the destruction of habitat, meaning that even if a captive bred population of pandas or tigers were ready for release, there is, in fact, nowhere left for them to go.",
+        "sentences": [
+          "In terms of conservation, while zoos can assist in the preservation of endangered species, this effort is ultimately futile.",
+          "The Sumatran tiger, for example, has been successfully bred in captivity, however, having been reared by humans, the captive population has lost its natural instinct to hunt, avoid humans, and raise its young.",
+          "It would therefore be impossible to re-introduce these creatures into the wild.",
+          "As well as this loss of instinct, there is also the loss of habitat to consider.",
+          "Urban sprawl, industrialisation, farming and logging all contribute to the destruction of habitat, meaning that even if a captive bred population of pandas or tigers were ready for release, there is, in fact, nowhere left for them to go."
+        ],
+        "sentence_count": 5,
+        "word_count": 119,
+        "structure_type": "PEEEL"
+      }
+    ],
+    "conclusion": "In conclusion, zoos may be able to keep animals alive but the quality of this life is poor and the animals’ future prospects are bleak. Efforts should instead be made to preserve wilderness areas to ensure the long-term survival of species.",
+    "word_count": 303,
+    "id": "essay-001"
+  },
+  {
+    "source": "part1",
+    "topic": "Art",
+    "question_text": "Many governments spend a lot of money on art. Some people think this investment in art is necessary, but others say the money is better spent on improving health and education. Discuss both these views and give your own opinion.",
+    "question_type": "discussion",
+    "introduction": "It is generally accepted that art enriches a society and plays a valuable role in its culture and history. Although some support government investment in galleries, artistic organisations and other art-related matters, others feel that this money should be spent on public services. In this essay, I will consider both views and explain why I agree that state funding of the arts should be redirected.",
+    "body_paragraphs": [
+      {
+        "text": "Those who support government funding usually argue that it is essential to maintain a healthy arts scene. In Australia, the government pours millions of dollars into this sector, with the National Gallery alone receiving over $8 million annually. Such institutions, it is claimed, are pillars of society, and money from the government makes them more accessible. Indeed, it is free to enter most public galleries and museums in Australia, thanks to the government’s support. Smaller arts groups and emerging artists also benefit from government funding, and without it, many worry that arts bodies would not survive, and that society would be poorer for it.",
+        "sentences": [
+          "Those who support government funding usually argue that it is essential to maintain a healthy arts scene.",
+          "In Australia, the government pours millions of dollars into this sector, with the National Gallery alone receiving over $8 million annually.",
+          "Such institutions, it is claimed, are pillars of society, and money from the government makes them more accessible.",
+          "Indeed, it is free to enter most public galleries and museums in Australia, thanks to the government’s support.",
+          "Smaller arts groups and emerging artists also benefit from government funding, and without it, many worry that arts bodies would not survive, and that society would be poorer for it."
+        ],
+        "sentence_count": 5,
+        "word_count": 104,
+        "structure_type": "PEEEL"
+      },
+      {
+        "text": "There are others, however, myself included, who feel that these fears are unfounded, and that taxpayers’ money would be more wisely spent on services that benefit the entire community. Already, many arts organisations not only survive but thrive without government handouts. The Museum of Old and New Art in Tasmania, for instance, is the state’s major tourist attraction, despite earning money solely from ticket sales and private investors. This kind of self-sufficiency supports the claim that state money should instead go to hospitals which could certainly use more staff, more wards and better technology or schools where the money could be put towards updating facilities, hiring more teachers or improving their resources. These are services used by every citizen and, in many cases, they are severely underfunded.",
+        "sentences": [
+          "There are others, however, myself included, who feel that these fears are unfounded, and that taxpayers’ money would be more wisely spent on services that benefit the entire community.",
+          "Already, many arts organisations not only survive but thrive without government handouts.",
+          "The Museum of Old and New Art in Tasmania, for instance, is the state’s major tourist attraction, despite earning money solely from ticket sales and private investors.",
+          "This kind of self-sufficiency supports the claim that state money should instead go to hospitals which could certainly use more staff, more wards and better technology or schools where the money could be put towards updating facilities, hiring more teachers or improving their resources.",
+          "These are services used by every citizen and, in many cases, they are severely underfunded."
+        ],
+        "sentence_count": 5,
+        "word_count": 127,
+        "structure_type": "PEEEL"
+      }
+    ],
+    "conclusion": "In conclusion, even though state support of the arts has been a long tradition, there are many other ways for artists and organisations to raise funds. It is more important for the government to spend on vital services such as education and healthcare.",
+    "word_count": 339,
+    "id": "essay-002"
+  },
+  {
+    "source": "part1",
+    "topic": "Communication",
+    "question_text": "Some people think that because of email, social media and telephones, communication among people is less personal now than it used to be. To what extent do you agree or disagree?",
+    "question_type": "opinion",
+    "introduction": "Communication between people has never been faster or easier than it is now, thanks to the development of information technology and the Internet in particular. Some people, however, claim that despite these advancements, people’s communication is more superficial, and lacking genuine interaction. While I agree that this is true to some extent, I feel that the modern tools of email, mobiles and social media platforms create wider networks and greater intimacy.",
+    "body_paragraphs": [
+      {
+        "text": "Certainly, it could be argued that more traditional methods of communicating had a more personal touch. Take the handwritten letter as an example. It used to be the case that to contact someone living abroad, we had to write out a letter or card by hand, buy a stamp and envelope, take it to the post office, and wait for weeks until it reached its destination. Upon arrival, it is easy to imagine that the recipient felt a much greater sense of connection than they would these days simply clicking on an email or opening a WatsApp message. Similarly, speaking on the phone, as opposed to sending a text, could also be viewed as a more personal interaction. I would argue, however, that such views of the past are clouded by nostalgia rather than truth.",
+        "sentences": [
+          "Certainly, it could be argued that more traditional methods of communicating had a more personal touch.",
+          "Take the handwritten letter as an example.",
+          "It used to be the case that to contact someone living abroad, we had to write out a letter or card by hand, buy a stamp and envelope, take it to the post office, and wait for weeks until it reached its destination.",
+          "Upon arrival, it is easy to imagine that the recipient felt a much greater sense of connection than they would these days simply clicking on an email or opening a WatsApp message.",
+          "Similarly, speaking on the phone, as opposed to sending a text, could also be viewed as a more personal interaction.",
+          "I would argue, however, that such views of the past are clouded by nostalgia rather than truth."
+        ],
+        "sentence_count": 6,
+        "word_count": 135,
+        "structure_type": "PEEEL"
+      },
+      {
+        "text": "Modern forms of communication, by contrast, create even stronger connections between people. Nowadays, when living abroad, we can maintain our relationships as if we were living under the same roof. Given that it is free to message and email, there is not the need to keep interactions brief and irregular. In fact, friends and loved ones can be in almost constant contact, regardless of their geographic proximity. In addition to this physical ability to keep in touch, there is also the depth of intimacy that comes from sharing pictures and stories on social media platforms like instagram and facebook. These tools enable us to have access to aspects of our loved ones’ lives that we never had before. We can share in celebrations, tragedies and triumphs, all of which strengthen our bonds and networks.",
+        "sentences": [
+          "Modern forms of communication, by contrast, create even stronger connections between people.",
+          "Nowadays, when living abroad, we can maintain our relationships as if we were living under the same roof.",
+          "Given that it is free to message and email, there is not the need to keep interactions brief and irregular.",
+          "In fact, friends and loved ones can be in almost constant contact, regardless of their geographic proximity.",
+          "In addition to this physical ability to keep in touch, there is also the depth of intimacy that comes from sharing pictures and stories on social media platforms like instagram and facebook.",
+          "These tools enable us to have access to aspects of our loved ones’ lives that we never had before.",
+          "We can share in celebrations, tragedies and triumphs, all of which strengthen our bonds and networks."
+        ],
+        "sentence_count": 7,
+        "word_count": 134,
+        "structure_type": "PEEEL"
+      }
+    ],
+    "conclusion": "In conclusion, communication has definitely changed dramatically in the last fifty years. Although some feel a sentimental yearning for the old days, I feel that modern devices and tools have enhanced the way we interact with each other.",
+    "word_count": 378,
+    "id": "essay-003"
+  },
+  {
+    "source": "part1",
+    "topic": "Crime",
+    "question_text": "Many criminals re-offend after they have been punished. Why do some people continue to commit crimes after they have been punished, and what measures can be taken to tackle this problem?",
+    "question_type": "causes_solutions",
+    "introduction": "Crime is a pervasive problem in most countries around the world. Despite penalties such as incarceration and fines, many criminals are likely to re-offend. In this essay, I will outline two main reasons for this and suggest some ways to reduce recidivism.",
+    "body_paragraphs": [
+      {
+        "text": "Criminals commit offences after punishment for several reasons. One major factor is their background. If a person comes from a criminal family, for instance, or has friends involved in drugs and burglaries, it can be difficult for them to escape this world. In addition to their upbringing and environment, substance abuse may increase the likelihood of a person returning to crime. Indeed, the majority of crime in Australia stems from drug and alcohol addiction. If these issues and addictions are left untreated, it is inevitable that the offender, seeking money or a high, will return to a life of crime after serving their time.",
+        "sentences": [
+          "Criminals commit offences after punishment for several reasons.",
+          "One major factor is their background.",
+          "If a person comes from a criminal family, for instance, or has friends involved in drugs and burglaries, it can be difficult for them to escape this world.",
+          "In addition to their upbringing and environment, substance abuse may increase the likelihood of a person returning to crime.",
+          "Indeed, the majority of crime in Australia stems from drug and alcohol addiction.",
+          "If these issues and addictions are left untreated, it is inevitable that the offender, seeking money or a high, will return to a life of crime after serving their time."
+        ],
+        "sentence_count": 6,
+        "word_count": 104,
+        "structure_type": "UPEPE"
+      },
+      {
+        "text": "Despite the seriousness of the reoffending problem, there are a number of possible ways to remedy the situation. The key factor is the treatment of the underlying issues. In many cases, this may mean addiction rehabilitation in prison or in the community. In other cases, providing education programs or training can enhance employability, which would dramatically reduce their risk of re-offending. Offering work placements or providing job-hunting assistance after jail or community service would also help to improve former criminals’ prospects.",
+        "sentences": [
+          "Despite the seriousness of the reoffending problem, there are a number of possible ways to remedy the situation.",
+          "The key factor is the treatment of the underlying issues.",
+          "In many cases, this may mean addiction rehabilitation in prison or in the community.",
+          "In other cases, providing education programs or training can enhance employability, which would dramatically reduce their risk of re-offending.",
+          "Offering work placements or providing job-hunting assistance after jail or community service would also help to improve former criminals’ prospects."
+        ],
+        "sentence_count": 5,
+        "word_count": 81,
+        "structure_type": "UPEPE"
+      }
+    ],
+    "conclusion": "In conclusion, the reasons behind reoffending are complex. Although it can be a vicious cycle, driven by background and addiction problems, it can be reduced by effective intervention initiatives and greater support in the community.",
+    "word_count": 262,
+    "id": "essay-004"
+  },
+  {
+    "source": "part1",
+    "topic": "Culture and Society",
+    "question_text": "In the developed world, average life expectancy is increasing. What problems will this cause for individuals and society? Suggest some measures that could be taken to reduce the impact of ageing populations.",
+    "question_type": "causes_solutions",
+    "introduction": "In developed countries, people are living longer than ever. In this essay I will discuss some of the challenges this brings and propose ways in which the consequences of a rise in the number of older citizens can be mitigated.",
+    "body_paragraphs": [
+      {
+        "text": "While the addition of a decade or more onto our lives can be wonderful, there are inevitably challenges that will arise for the individual. One of these is the onset of debilitating diseases such as alzheimers and diabetes. These diseases not only make it difficult to continue to enjoy a normal life but also put a great strain on other members of the family who may have to bear much of the burden of care financially and/or physically. Another issue is the financial strain the elderly themselves can be under. If they retired at the age of 65 but live beyond 90, they may well find that their savings run out and they become either destitute or reliant on state or family care.",
+        "sentences": [
+          "While the addition of a decade or more onto our lives can be wonderful, there are inevitably challenges that will arise for the individual.",
+          "One of these is the onset of debilitating diseases such as alzheimers and diabetes.",
+          "These diseases not only make it difficult to continue to enjoy a normal life but also put a great strain on other members of the family who may have to bear much of the burden of care financially and/or physically.",
+          "Another issue is the financial strain the elderly themselves can be under.",
+          "If they retired at the age of 65 but live beyond 90, they may well find that their savings run out and they become either destitute or reliant on state or family care."
+        ],
+        "sentence_count": 5,
+        "word_count": 123,
+        "structure_type": "PEEEL"
+      },
+      {
+        "text": "Clearly, society as a whole is impacted as well. As an increasing proportion of a country’s resources end up being dedicated to the care of the elderly, much needed funds are taken away from other areas of society such as schooling and security. In the UK, for example, the budget for aged care has risen by millions of pounds, though it is still not enough to provide adequate care for pensioners. Meanwhile, schools and law enforcement have had their budgets slashed, to the detriment of education standards and public safety.",
+        "sentences": [
+          "Clearly, society as a whole is impacted as well.",
+          "As an increasing proportion of a country’s resources end up being dedicated to the care of the elderly, much needed funds are taken away from other areas of society such as schooling and security.",
+          "In the UK, for example, the budget for aged care has risen by millions of pounds, though it is still not enough to provide adequate care for pensioners.",
+          "Meanwhile, schools and law enforcement have had their budgets slashed, to the detriment of education standards and public safety."
+        ],
+        "sentence_count": 4,
+        "word_count": 90,
+        "structure_type": "PEEEL"
+      },
+      {
+        "text": "In order to adapt to this new reality, several steps can be taken. The most obvious one would be to increase the age of retirement. Rather than force people to give up work at 65, which could eventually place them in dire financial circumstances, healthy individuals should be encouraged to continue working longer. This would mean more taxes paid, and less money flowing out into pensions. A second simple measure would be to prioritise preventative healthcare. In other words, rather than wait for aged people to develop illnesses, the government should subsidise exercise programs, nutrition classes, and even fund practitioners to conduct home visits in order to keep elderly people active members of society for longer.",
+        "sentences": [
+          "In order to adapt to this new reality, several steps can be taken.",
+          "The most obvious one would be to increase the age of retirement.",
+          "Rather than force people to give up work at 65, which could eventually place them in dire financial circumstances, healthy individuals should be encouraged to continue working longer.",
+          "This would mean more taxes paid, and less money flowing out into pensions.",
+          "A second simple measure would be to prioritise preventative healthcare.",
+          "In other words, rather than wait for aged people to develop illnesses, the government should subsidise exercise programs, nutrition classes, and even fund practitioners to conduct home visits in order to keep elderly people active members of society for longer."
+        ],
+        "sentence_count": 6,
+        "word_count": 116,
+        "structure_type": "UPEPE"
+      }
+    ],
+    "conclusion": "In conclusion, we can see clearly that both individuals and society are struggling to find a way to deal with increasing life expectancy. Increasing the retirement age and providing early health services are just two ways the authorities can work to reduce the pressure of ageing populations.",
+    "word_count": 416,
+    "id": "essay-005"
+  },
+  {
+    "source": "part1",
+    "topic": "Education",
+    "question_text": "In many countries, schools have severe problems with student behaviour. What do you think are the causes of this? What solutions can you suggest?",
+    "question_type": "causes_solutions",
+    "introduction": "Many schools around the world are facing a variety of challenges. In a number of countries, students are causing their schools serious problems because of the way they behave. In this essay, I will outline why this is happening and suggest two possible ways to curb bad behaviour.",
+    "body_paragraphs": [
+      {
+        "text": "One of the main factors driving this problem is lack of discipline at school. Whereas in the past, schools and teachers maintained extremely strict rules regarding everything from hairstyles to handwriting neatness, now there are few boundaries and expectations. Indeed, just this month, a Sydney school teacher was physically attacked by three students, and not one of them was suspended, let alone expelled. Without explicit and firmly enforced rules, such incidents serve to further encourage other students to play up as there seems to be no consequences.",
+        "sentences": [
+          "One of the main factors driving this problem is lack of discipline at school.",
+          "Whereas in the past, schools and teachers maintained extremely strict rules regarding everything from hairstyles to handwriting neatness, now there are few boundaries and expectations.",
+          "Indeed, just this month, a Sydney school teacher was physically attacked by three students, and not one of them was suspended, let alone expelled.",
+          "Without explicit and firmly enforced rules, such incidents serve to further encourage other students to play up as there seems to be no consequences."
+        ],
+        "sentence_count": 4,
+        "word_count": 87,
+        "structure_type": "PEEEL"
+      },
+      {
+        "text": "The other contributing factor related to parents. Those who are excessively lenient at home, allowing their children to set their own rules and essentially run wild, must also be held accountable when their child behaves badly at school. The problem is, even if the teachers report and punish the bad behaviour, many parents refuse to accept the matter, preferring instead to undermine the school’s authority, and further fuel their child’s delinquency.",
+        "sentences": [
+          "The other contributing factor related to parents.",
+          "Those who are excessively lenient at home, allowing their children to set their own rules and essentially run wild, must also be held accountable when their child behaves badly at school.",
+          "The problem is, even if the teachers report and punish the bad behaviour, many parents refuse to accept the matter, preferring instead to undermine the school’s authority, and further fuel their child’s delinquency."
+        ],
+        "sentence_count": 3,
+        "word_count": 71,
+        "structure_type": "PEEEL"
+      },
+      {
+        "text": "Clearly, in order to manage the problem, it must be tackled both at school and at home. On an institutional level, school authorities need to get tough on bad behaviour. That means they need to set rules regarding uniforms, homework, classroom conduct, and other important areas. If the rules are broken, the teachers must have the power to discipline by, for instance, giving a detention or banning the student from school social events. On the home front, parents too need to set up and get tough. Without expectations and limitations around behaviour, they are setting their child up for a life of trouble.",
+        "sentences": [
+          "Clearly, in order to manage the problem, it must be tackled both at school and at home.",
+          "On an institutional level, school authorities need to get tough on bad behaviour.",
+          "That means they need to set rules regarding uniforms, homework, classroom conduct, and other important areas.",
+          "If the rules are broken, the teachers must have the power to discipline by, for instance, giving a detention or banning the student from school social events.",
+          "On the home front, parents too need to set up and get tough.",
+          "Without expectations and limitations around behaviour, they are setting their child up for a life of trouble."
+        ],
+        "sentence_count": 6,
+        "word_count": 103,
+        "structure_type": "PEEEL"
+      }
+    ],
+    "conclusion": "In conclusion, both schools and parents are, to varying degrees, culpable when it comes to problems with students. With a concerted joint effort, however, steps can be taken to improve standards and, ultimately, help students succeed in society.",
+    "word_count": 347,
+    "id": "essay-006"
+  },
+  {
+    "source": "part1",
+    "topic": "Entertainment",
+    "question_text": "Some people think that it is important to use leisure time for activities that improve the mind, such as reading and doing word puzzles. Other people feel that it is important to rest the mind during leisure time. Discuss both views and give your opinion.",
+    "question_type": "discussion",
+    "introduction": "Over many thousands of years, humans have used the time when they are not working in different ways. These days, there are two main views as to how our leisure time should be employed, either actively or for rest. In this essay, I will discuss both perspectives and give my opinion, which is that both views are valid.",
+    "body_paragraphs": [
+      {
+        "text": "Many feel that cognitively stimulating activities should be pursued during leisure time. The idea behind this, which is well-supported by scientific research, is that when we use our minds, we keep the synapses or connections in our brains in good condition. Games like sudoku, crosswords, puzzles or more high-tech activities on apps or websites have indeed been proven to keep our minds alert and sharp, and even ward off dementia. Although the claims some of the creators of these make that they can change the very structure of our brains or enlarge its capacity may well be exaggerated, there is enough reliable evidence that they can benefit our minds.",
+        "sentences": [
+          "Many feel that cognitively stimulating activities should be pursued during leisure time.",
+          "The idea behind this, which is well-supported by scientific research, is that when we use our minds, we keep the synapses or connections in our brains in good condition.",
+          "Games like sudoku, crosswords, puzzles or more high-tech activities on apps or websites have indeed been proven to keep our minds alert and sharp, and even ward off dementia.",
+          "Although the claims some of the creators of these make that they can change the very structure of our brains or enlarge its capacity may well be exaggerated, there is enough reliable evidence that they can benefit our minds."
+        ],
+        "sentence_count": 4,
+        "word_count": 109,
+        "structure_type": "PEEEL"
+      },
+      {
+        "text": "The other view, however, is that leisure time ought to be devoted to mental rest. Given the overwhelmingly long work hours expected nowadays, along with the stress of being eternal contactable, thanks to our phones, there is good reason for people to advocate switching off. Indeed, there is plenty of research to show how healing and beneficial a walk in nature can be or how calming and renewing it is to simply sit quietly in meditation or contemplation using our mental faculties as little as possible. A study of Buddhist monks too showed that when they were deep in meditation, their cells regenerated more rapidly and their bodies’ ageing processes slowed down.",
+        "sentences": [
+          "The other view, however, is that leisure time ought to be devoted to mental rest.",
+          "Given the overwhelmingly long work hours expected nowadays, along with the stress of being eternal contactable, thanks to our phones, there is good reason for people to advocate switching off.",
+          "Indeed, there is plenty of research to show how healing and beneficial a walk in nature can be or how calming and renewing it is to simply sit quietly in meditation or contemplation using our mental faculties as little as possible.",
+          "A study of Buddhist monks too showed that when they were deep in meditation, their cells regenerated more rapidly and their bodies’ ageing processes slowed down."
+        ],
+        "sentence_count": 4,
+        "word_count": 112,
+        "structure_type": "PEEEL"
+      },
+      {
+        "text": "Personally, I see the value in both uses of leisure time. Following periods of extreme stress, problem-solving, or meetings with lots of people, spending time alone doing nothing can be hugely re-energising. Similarly, after spending a day doing monotonous work or without much mental stimulation, a good book or challenging puzzle can have the same impact. There is no point, in my view, in declaring one form of leisure better than another.",
+        "sentences": [
+          "Personally, I see the value in both uses of leisure time.",
+          "Following periods of extreme stress, problem-solving, or meetings with lots of people, spending time alone doing nothing can be hugely re-energising.",
+          "Similarly, after spending a day doing monotonous work or without much mental stimulation, a good book or challenging puzzle can have the same impact.",
+          "There is no point, in my view, in declaring one form of leisure better than another."
+        ],
+        "sentence_count": 4,
+        "word_count": 72,
+        "structure_type": "PEEEL"
+      }
+    ],
+    "conclusion": "In conclusion, I think that it is true to say that both an active leisure time and one of relaxation are good for us. In the former, the mind benefits from stimulation and in the latter from being used very little.",
+    "word_count": 392,
+    "id": "essay-007"
+  },
+  {
+    "source": "part1",
+    "topic": "Environment",
+    "question_text": "Many people think it is very important to protect the environment but they make no effort to do it themselves. Why do you think this is the case? What actions should individuals take to protect the environment?",
+    "question_type": "discussion",
+    "introduction": "It is abundantly clear today that our environment is under threat. There are many who believe in the importance of looking after it but take no action themselves to do this. In this essay I will suggest why this is happening and propose ways in which anyone can give our environment some of the protection it needs.",
+    "body_paragraphs": [
+      {
+        "text": "The main reason why people take no action to take care of their environment is because they are largely cut off from it. Let us take the example of half of our world’s population who are now living in urban areas. They often reside in high rise air-conditioned apartments, travel to work on trains and buses and rarely leave the city. Their offices are cooled too so, being mostly unaffected by pollution, global heating and other symptoms of our disregard for our environment, they have few daily reminders of the need to do anything to protect it. Although they recognise that their world needs their help, they are not sufficiently affected or inconvenienced by decades of failure to care for it.",
+        "sentences": [
+          "The main reason why people take no action to take care of their environment is because they are largely cut off from it.",
+          "Let us take the example of half of our world’s population who are now living in urban areas.",
+          "They often reside in high rise air-conditioned apartments, travel to work on trains and buses and rarely leave the city.",
+          "Their offices are cooled too so, being mostly unaffected by pollution, global heating and other symptoms of our disregard for our environment, they have few daily reminders of the need to do anything to protect it.",
+          "Although they recognise that their world needs their help, they are not sufficiently affected or inconvenienced by decades of failure to care for it."
+        ],
+        "sentence_count": 5,
+        "word_count": 121,
+        "structure_type": "PEEEL"
+      },
+      {
+        "text": "There are so many ways in which people could act in support of their environment. The two I would propose take a lead from the saying, \"Think globally, act locally\". Because it is usually overwhelming for an individual when she thinks about how to protect the planet, the first action to take is to lobby elected officials such as members of parliament and local councillors to share her concerns, ask what environmental policies are in place and find out what her state and country representatives are doing to protect the environment. On a local level, in every city around the world there are groups actively engaged in caring for and improving their neighbourhood which anyone can join. From street gardens which supply free produce to citizens to groups campaigning for greener transport options, from food cooperatives which grow food on rooftops and in underground carparks to those working to better recycle plastic waste, there are numerous ways the individual can take action to look after the local environment.",
+        "sentences": [
+          "There are so many ways in which people could act in support of their environment.",
+          "The two I would propose take a lead from the saying, \"Think globally, act locally\".",
+          "Because it is usually overwhelming for an individual when she thinks about how to protect the planet, the first action to take is to lobby elected officials such as members of parliament and local councillors to share her concerns, ask what environmental policies are in place and find out what her state and country representatives are doing to protect the environment.",
+          "On a local level, in every city around the world there are groups actively engaged in caring for and improving their neighbourhood which anyone can join.",
+          "From street gardens which supply free produce to citizens to groups campaigning for greener transport options, from food cooperatives which grow food on rooftops and in underground carparks to those working to better recycle plastic waste, there are numerous ways the individual can take action to look after the local environment."
+        ],
+        "sentence_count": 5,
+        "word_count": 168,
+        "structure_type": "PEEEL"
+      }
+    ],
+    "conclusion": "Given the pressures of life, it is not surprising that people fail to act on their belief that it is important to protect the environment. Holding those we elect to account to take action and joining local initiatives to enhance the surroundings we live in are two ways people can respond to their understanding of how important it is to look after our world.",
+    "word_count": 410,
+    "id": "essay-008"
+  },
+  {
+    "source": "part1",
+    "topic": "Family",
+    "question_text": "Young people spend less of their free time with their family nowadays. What are the reasons for this? Are there more negative or positive sides to it?",
+    "question_type": "causes_solutions",
+    "introduction": "The youth of today has more choice and freedom than ever before. When they are not working or studying, many of them see less of their families than they used to. In my view, there are very few advantages to this development, some causes of which I will explore in this essay.",
+    "body_paragraphs": [
+      {
+        "text": "To begin with, there are a number of reasons teenagers and those in their twenties are with their families less during their leisure time, the main one being the need for them to work. A good example of this is in Indonesia where studies have shown that an increase in the cost of living has forced parents to ask their children who are still at school to work in the evenings and on Sundays and persuade those already in work to do overtime or work two jobs. Although this brings in much needed funds, it comes at a huge cost, depriving families of important time to relax and spend time together and causing stress and ill health through over work and lack of sleep.",
+        "sentences": [
+          "To begin with, there are a number of reasons teenagers and those in their twenties are with their families less during their leisure time, the main one being the need for them to work.",
+          "A good example of this is in Indonesia where studies have shown that an increase in the cost of living has forced parents to ask their children who are still at school to work in the evenings and on Sundays and persuade those already in work to do overtime or work two jobs.",
+          "Although this brings in much needed funds, it comes at a huge cost, depriving families of important time to relax and spend time together and causing stress and ill health through over work and lack of sleep."
+        ],
+        "sentence_count": 3,
+        "word_count": 124,
+        "structure_type": "UPEPE"
+      },
+      {
+        "text": "Families these days are also unable to enjoy each other’s company as they used to because young people are under increasing pressure. They are compelled to study and train in their spare time in the hope of securing a place at the best university or college or, if already in work, develop further skills to ensure they keep their positions and are favourably considered for promotion. This pressure to succeed in studies and work is huge as demonstrated by research by the London School of Economics, which revealed a huge increase in hours worked in unpaid internship positions both for those still students and for young graduates hoping to persuade a company to employ them. Again, the loss of precious time with families cannot compensate for the advantages which ensue although promotion may be achieved or jobs secured by this practice.",
+        "sentences": [
+          "Families these days are also unable to enjoy each other’s company as they used to because young people are under increasing pressure.",
+          "They are compelled to study and train in their spare time in the hope of securing a place at the best university or college or, if already in work, develop further skills to ensure they keep their positions and are favourably considered for promotion.",
+          "This pressure to succeed in studies and work is huge as demonstrated by research by the London School of Economics, which revealed a huge increase in hours worked in unpaid internship positions both for those still students and for young graduates hoping to persuade a company to employ them.",
+          "Again, the loss of precious time with families cannot compensate for the advantages which ensue although promotion may be achieved or jobs secured by this practice."
+        ],
+        "sentence_count": 4,
+        "word_count": 141,
+        "structure_type": "PEEEL"
+      }
+    ],
+    "conclusion": "In conclusion, once that time with family has passed it cannot be regained. Clearly, whatever positives there are for young people from increased income or better job opportunities they cannot outweigh the negative impacts of spending less time with their families.",
+    "word_count": 358,
+    "id": "essay-009"
+  },
+  {
+    "source": "part1",
+    "topic": "Food and Farming",
+    "question_text": "Junk food advertising has a harmful effect on society and should be banned. To what extent do you agree or disagree?",
+    "question_type": "opinion",
+    "introduction": "Over the past decades, quick convenient food, often called fast or junk food, has become readily available, leading to serious problems including obesity, heart disease and high blood pressure. Many people hold the view that it is the advertising of this food that is responsible for these issues, and therefore ought to stopped. While I do not support a complete ban on this form of marketing, I do feel that stricter regulations and greater transparency are needed.",
+    "body_paragraphs": [
+      {
+        "text": "Although an outright ban on fast food promotion may seem appealing, it would not be a sensible move. For starters, companies would suffer huge financial losses if they were unable to promote their products. Magnum Ice Creams, for instance, runs TV and billboard campaigns when they launch a new product, and if they were prevented from doing so, far fewer consumers would even know the new treat existed. This would inevitably lead to a reduction in revenue, possibly a fall in the company’s stock prices, retrenchments and so on. The consumers have a right to know what is on the market, so, clearly, the solution need not be so drastic.",
+        "sentences": [
+          "Although an outright ban on fast food promotion may seem appealing, it would not be a sensible move.",
+          "For starters, companies would suffer huge financial losses if they were unable to promote their products.",
+          "Magnum Ice Creams, for instance, runs TV and billboard campaigns when they launch a new product, and if they were prevented from doing so, far fewer consumers would even know the new treat existed.",
+          "This would inevitably lead to a reduction in revenue, possibly a fall in the company’s stock prices, retrenchments and so on.",
+          "The consumers have a right to know what is on the market, so, clearly, the solution need not be so drastic."
+        ],
+        "sentence_count": 5,
+        "word_count": 110,
+        "structure_type": "PEEEL"
+      },
+      {
+        "text": "The alternative is to impose stricter laws regarding when and how advertising happens. This is particularly important when it comes to children. McDonald’s is just one example of a company that deliberately advertises during children’s shows, and actively seeks to push their marketing into schools and clubs. If the government limited the amount of junk food advertising during typical children’s viewing hours on TV, and also banned it inside school gates, the problem of excessive consumption by youngsters could be tackled. Regarding the ad itself, authorities should also require that companies are upfront about the health risks of their product. A Coca Cola ad, for example, should contain the sugar quantity. Alerting people, especially parents, to the real nutritional value of junk foods through honest information in advertising, would form part of a public education program which could have, over time, a significant positive impact on the health of our societies.",
+        "sentences": [
+          "The alternative is to impose stricter laws regarding when and how advertising happens.",
+          "This is particularly important when it comes to children.",
+          "McDonald’s is just one example of a company that deliberately advertises during children’s shows, and actively seeks to push their marketing into schools and clubs.",
+          "If the government limited the amount of junk food advertising during typical children’s viewing hours on TV, and also banned it inside school gates, the problem of excessive consumption by youngsters could be tackled.",
+          "Regarding the ad itself, authorities should also require that companies are upfront about the health risks of their product.",
+          "A Coca Cola ad, for example, should contain the sugar quantity.",
+          "Alerting people, especially parents, to the real nutritional value of junk foods through honest information in advertising, would form part of a public education program which could have, over time, a significant positive impact on the health of our societies."
+        ],
+        "sentence_count": 7,
+        "word_count": 151,
+        "structure_type": "PEEEL"
+      }
+    ],
+    "conclusion": "There is now incontrovertible evidence that eating junk food harms our heath. In my view, banning all promotion is an over-reaction, but limiting children’s exposure, and informing consumers of what they are buying are better ways to manage the problem.",
+    "word_count": 378,
+    "id": "essay-010"
+  },
+  {
+    "source": "part1",
+    "topic": "Global Issues",
+    "question_text": "The exploration and development of safe alternatives to fossil fuels should be the most important global priority today. To what extent do you agree or disagree?",
+    "question_type": "opinion",
+    "introduction": "The use of fossil fuels as a source of energy has been increasing since the industrial revolution began. There is a view that the most important step we can take today is to prioritise research and development into other forms of energy which are safe. In my view, I completely agree that we need to halt extraction of fossil fuels while also investing more heavily in greener energy sources.",
+    "body_paragraphs": [
+      {
+        "text": "The first step in curbing the damage caused by fossil fuel use must be to phase out extraction and use. That is, mining, fracking, deep sea drilling and other methods need to be stopped in order to end the damage such activities cause to ecosystems and the atmosphere. Indeed, ending oil drilling alone would greatly reduce the risk of environmental disasters such as the BP spill in the Gulf of Mexico which had a catastrophic and far-reaching impact on marine life, air and water quality. The burning of coal and use of petrol, oil and gas in industry and transport also contributes to the greenhouse gases that are causing climate change and poor air quality globally. Clearly, steps need to be taken to eliminate these sources of energy and promote alternatives.",
+        "sentences": [
+          "The first step in curbing the damage caused by fossil fuel use must be to phase out extraction and use.",
+          "That is, mining, fracking, deep sea drilling and other methods need to be stopped in order to end the damage such activities cause to ecosystems and the atmosphere.",
+          "Indeed, ending oil drilling alone would greatly reduce the risk of environmental disasters such as the BP spill in the Gulf of Mexico which had a catastrophic and far-reaching impact on marine life, air and water quality.",
+          "The burning of coal and use of petrol, oil and gas in industry and transport also contributes to the greenhouse gases that are causing climate change and poor air quality globally.",
+          "Clearly, steps need to be taken to eliminate these sources of energy and promote alternatives."
+        ],
+        "sentence_count": 5,
+        "word_count": 131,
+        "structure_type": "PEEEL"
+      },
+      {
+        "text": "To replace fossil fuels, greener energy sources must be further developed. Currently, although solar, wind and hydro power systems are available, they are not yet able to provide the vast quantities required to keep nations supplied with their energy requirements. Solar panels, for instance, are still prohibitively expensive for many households and businesses to install. Wind power too has limitations in terms of energy production and reliability; it only works when the wind blows. Unless these alternatives are improved, and made more affordable, it will simply not be possible to end fossil fuel use. Investment, not only by governments, but also by organisations and individuals, is crucial to bridge this gap.",
+        "sentences": [
+          "To replace fossil fuels, greener energy sources must be further developed.",
+          "Currently, although solar, wind and hydro power systems are available, they are not yet able to provide the vast quantities required to keep nations supplied with their energy requirements.",
+          "Solar panels, for instance, are still prohibitively expensive for many households and businesses to install.",
+          "Wind power too has limitations in terms of energy production and reliability; it only works when the wind blows.",
+          "Unless these alternatives are improved, and made more affordable, it will simply not be possible to end fossil fuel use.",
+          "Investment, not only by governments, but also by organisations and individuals, is crucial to bridge this gap."
+        ],
+        "sentence_count": 6,
+        "word_count": 111,
+        "structure_type": "PEEEL"
+      }
+    ],
+    "conclusion": "In conclusion, improving ways of producing energy other than by the use of fossil fuels is of paramount importance today. Given that it is currently not possible to rely fully on green energy, greater investment is urgently needed.",
+    "word_count": 349,
+    "id": "essay-011"
+  },
+  {
+    "source": "part1",
+    "topic": "Health",
+    "question_text": "Childhood obesity is a serious problem in many countries. What are the causes of this and how can the problem be managed?",
+    "question_type": "causes_solutions",
+    "introduction": "Our changing lifestyles have had a far-reaching effect on our health. Today, many young children are chronically overweight as a result. In this essay, I will outline some causes of childhood obesity and suggest ways the problem can be addressed.",
+    "body_paragraphs": [
+      {
+        "text": "While obesity has several causes, poor diets and insufficient exercise appear to be key drivers of this serious disease. A move to a convenience food diet both in schools and at home has resulted in many youngsters eating mostly nutrient-low foods, which are high in sugars and fats and low in fibre. Our bodies are unable to process these foods efficiently so fat accumulates until our body mass index is high enough for us to be diagnosed as obese. Exercise is well known to assist the body in getting rid of fat but the reality today for many children is that they take almost none. Spending more time sitting at school or on devices, and being driven everywhere in cars, it is difficult for many children to avoid becoming overweight. This combination of a sedentary lifestyle and a junk food diet is, indeed, a dangerous one.",
+        "sentences": [
+          "While obesity has several causes, poor diets and insufficient exercise appear to be key drivers of this serious disease.",
+          "A move to a convenience food diet both in schools and at home has resulted in many youngsters eating mostly nutrient-low foods, which are high in sugars and fats and low in fibre.",
+          "Our bodies are unable to process these foods efficiently so fat accumulates until our body mass index is high enough for us to be diagnosed as obese.",
+          "Exercise is well known to assist the body in getting rid of fat but the reality today for many children is that they take almost none.",
+          "Spending more time sitting at school or on devices, and being driven everywhere in cars, it is difficult for many children to avoid becoming overweight.",
+          "This combination of a sedentary lifestyle and a junk food diet is, indeed, a dangerous one."
+        ],
+        "sentence_count": 6,
+        "word_count": 146,
+        "structure_type": "PEEEL"
+      },
+      {
+        "text": "Challenging though this problem of childhood obesity is, there is much that can be done to manage it. Addressing the two causes which I outlined above would be good but the matter may not be so simply overcome. Because the causes of this disease are deeply rooted and complex it would seem that a broad educational strategy could work well. This would involve governments funding programs, in schools and in communities, which are designed to help young people and their parents to understand the causes of obesity and then to assist them to make whatever changes are needed to deal with these. In addition, governments would need to address the so-called food deserts found in many urban areas within which healthy nutritious food is hard to obtain, the majority of food outlets being fast food restaurants and 7/11s. If parents struggle to buy good food, education is unlikely to have a long term impact on the health of their offspring.",
+        "sentences": [
+          "Challenging though this problem of childhood obesity is, there is much that can be done to manage it.",
+          "Addressing the two causes which I outlined above would be good but the matter may not be so simply overcome.",
+          "Because the causes of this disease are deeply rooted and complex it would seem that a broad educational strategy could work well.",
+          "This would involve governments funding programs, in schools and in communities, which are designed to help young people and their parents to understand the causes of obesity and then to assist them to make whatever changes are needed to deal with these.",
+          "In addition, governments would need to address the so-called food deserts found in many urban areas within which healthy nutritious food is hard to obtain, the majority of food outlets being fast food restaurants and 7/11s.",
+          "If parents struggle to buy good food, education is unlikely to have a long term impact on the health of their offspring."
+        ],
+        "sentence_count": 6,
+        "word_count": 160,
+        "structure_type": "PEEEL"
+      }
+    ],
+    "conclusion": "To conclude, there is no doubt that it is crucial to deal with obesity among young people. As it is often caused by poor diet and insufficient exercise, educating children and their parents about the importance of both, as well as ensuring healthy food is available to all, will go a long way towards solving this problem.",
+    "word_count": 403,
+    "id": "essay-012"
+  },
+  {
+    "source": "part1",
+    "topic": "Media",
+    "question_text": "The tendency of news media to focus on problems and emergencies rather than good news has a negative effect on individuals and society. To what extent do you agree or disagree?",
+    "question_type": "opinion",
+    "introduction": "In modern times, thanks to our smartphones and the 24/7 media cycle, we seem to be constantly bombarded by the news and, unfortunately, most of it is about disasters, attacks and tragedies. It has been argued that this negative focus within the media has a detrimental effect not only on individuals but on society as a whole. Personally, I strongly agree.",
+    "body_paragraphs": [
+      {
+        "text": "In terms of individuals, the effects of this overwhelming amount of bad news in the media manifest in changes to our wellbeing and behaviour. First of all, mental health can suffer. When a person is continually absorbing news about crime, accidents and terrorism, for instance, they may begin to feel anxious and fearful. In serious cases, they may even suffer agoraphobia or panic attacks as a result. The sheer volume of bad news can also lead to feelings of hopelessness or even depression. The other issue is the changes in behaviour that stem from fear. After seeing hours and hours of footage of plane crashes or tsunami destruction, many people may feel reluctant to travel or simply try something new. This is a direct result of the media’s bad news saturation.",
+        "sentences": [
+          "In terms of individuals, the effects of this overwhelming amount of bad news in the media manifest in changes to our wellbeing and behaviour.",
+          "First of all, mental health can suffer.",
+          "When a person is continually absorbing news about crime, accidents and terrorism, for instance, they may begin to feel anxious and fearful.",
+          "In serious cases, they may even suffer agoraphobia or panic attacks as a result.",
+          "The sheer volume of bad news can also lead to feelings of hopelessness or even depression.",
+          "The other issue is the changes in behaviour that stem from fear.",
+          "After seeing hours and hours of footage of plane crashes or tsunami destruction, many people may feel reluctant to travel or simply try something new.",
+          "This is a direct result of the media’s bad news saturation."
+        ],
+        "sentence_count": 8,
+        "word_count": 131,
+        "structure_type": "PEEEL"
+      },
+      {
+        "text": "Obviously, such impacts also have a knock-on effect throughout society. As fear grows among individuals, so too does animosity, distrust, intolerance and, ultimately, conflict. Take terrorism reports as an example. When incidents such as 9/11 or the 2015 Paris attacks occur, the media runs footage constantly, and the coverage continues for days, sometimes months. In the aftermath of these events, public panic grows, and minority groups, unrelated to the incident, often suffer attacks and marginalisation. From an economic perspective, this fear-mongering can also lead to financial loss as people, crippled by anxiety, go out less and travel less frequently.",
+        "sentences": [
+          "Obviously, such impacts also have a knock-on effect throughout society.",
+          "As fear grows among individuals, so too does animosity, distrust, intolerance and, ultimately, conflict.",
+          "Take terrorism reports as an example.",
+          "When incidents such as 9/11 or the 2015 Paris attacks occur, the media runs footage constantly, and the coverage continues for days, sometimes months.",
+          "In the aftermath of these events, public panic grows, and minority groups, unrelated to the incident, often suffer attacks and marginalisation.",
+          "From an economic perspective, this fear-mongering can also lead to financial loss as people, crippled by anxiety, go out less and travel less frequently."
+        ],
+        "sentence_count": 6,
+        "word_count": 99,
+        "structure_type": "PEEEL"
+      }
+    ],
+    "conclusion": "In conclusion, while it is true that terrible things happen on a daily basis, it is the media’s obsession with such tragedy that is problematic. This focus on negativity inevitably has serious effects on individuals’ mental health and lifestyles, as well as the cohesion of communities.",
+    "word_count": 337,
+    "id": "essay-013"
+  },
+  {
+    "source": "part1",
+    "topic": "Money",
+    "question_text": "Successful sports professionals can earn a great deal more money than people in other important professions. Some people think this is fully justified while others think it is unfair. Discuss both these views and give your own opinion.",
+    "question_type": "discussion",
+    "introduction": "In the past few decades there has been a dramatic increase in the amount of money earned by those who excel in the sport they play. Today these professionals are able to take home many times what top professionals in other fields do and there are conflicting views as to whether this is right. In this essay, I will examine both views and explain why I think it is entirely fair.",
+    "body_paragraphs": [
+      {
+        "text": "The belief that it is not fair that is understandable. Why should the skills someone is born with give them such an advantage? The world of sport these days is heavily sponsored by companies looking for ways to promote their products and these lucky few who excel at their chosen sport receive extra income on top of their salaries. It does indeed seem unjust that sports professionals, who are already well paid, can earn this extra income which makes them far richer than their peers. These may have spent years studying for a qualification as, for instance, a solicitor or doctor, and then further time on an average salary gaining experience before they are well paid at the age of 30 or more. Meanwhile, young sports professionals are earning huge sums of money at the age of 25.",
+        "sentences": [
+          "The belief that it is not fair that is understandable.",
+          "Why should the skills someone is born with give them such an advantage?",
+          "The world of sport these days is heavily sponsored by companies looking for ways to promote their products and these lucky few who excel at their chosen sport receive extra income on top of their salaries.",
+          "It does indeed seem unjust that sports professionals, who are already well paid, can earn this extra income which makes them far richer than their peers.",
+          "These may have spent years studying for a qualification as, for instance, a solicitor or doctor, and then further time on an average salary gaining experience before they are well paid at the age of 30 or more.",
+          "Meanwhile, young sports professionals are earning huge sums of money at the age of 25."
+        ],
+        "sentence_count": 6,
+        "word_count": 138,
+        "structure_type": "PEEEL"
+      },
+      {
+        "text": "Although many people consider this to be unfair, I believe it is not. This is mainly because it is not just the skills successful sports professionals possess which make them wealthier than others who have important jobs. This view is based on the understanding that these skills have to be developed and nurtured before the person who possesses them can rise to the top of their sport. There are many examples of extremely talented sportsmen and women who have failed to become elite athletes in their sport. Either through lack of application, injury, poor management or simply bad luck, they merely do well. Those who join the tiny group of super sports professionals have not just relied on their skills, important as these are, but have worked extremely hard to make the most of them. It is surely fair that they should be rewarded for their hard work, even if they earn many times what other important professionals do.",
+        "sentences": [
+          "Although many people consider this to be unfair, I believe it is not.",
+          "This is mainly because it is not just the skills successful sports professionals possess which make them wealthier than others who have important jobs.",
+          "This view is based on the understanding that these skills have to be developed and nurtured before the person who possesses them can rise to the top of their sport.",
+          "There are many examples of extremely talented sportsmen and women who have failed to become elite athletes in their sport.",
+          "Either through lack of application, injury, poor management or simply bad luck, they merely do well.",
+          "Those who join the tiny group of super sports professionals have not just relied on their skills, important as these are, but have worked extremely hard to make the most of them.",
+          "It is surely fair that they should be rewarded for their hard work, even if they earn many times what other important professionals do."
+        ],
+        "sentence_count": 7,
+        "word_count": 159,
+        "structure_type": "PEEEL"
+      }
+    ],
+    "conclusion": "In conclusion, in a world where how much professionals are paid is a reflection of how important they are seen to be, it is understandable that there is jealousy towards those who have benefited from their innate skills to earn a great deal more than these professionals. I believe it is entirely justified that sportsmen and women who make the most of their skills are well reimbursed even if they earn a lot more than other professionals.",
+    "word_count": 445,
+    "id": "essay-014"
+  },
+  {
+    "source": "part1",
+    "topic": "Science/Technology",
+    "question_text": "Some people think that computer games are bad for children, while others believe that they are useful. Discuss the advantages and disadvantages of computer games.",
+    "question_type": "advantages_disadvantages",
+    "introduction": "Access to various technological devices, including computers, is now commonplace among children. Some say that games played on these devices are detrimental to young people while others think the opposite. I believe these games can have both positive and negative outcomes for children, depending on several factors, and in this essay I will explore these two aspects.",
+    "body_paragraphs": [
+      {
+        "text": "Certainly, when games are age-appropriate and children are supervised, there can be many benefits for youngsters. One key positive outcome is the enhancement to problem-solving skills and creativity. Indeed, many games are designed to challenge young minds by, for instance, simulating a current problem in the world. Greenpeace has recently designed such a game for children called Our World which presents a range of different situations to which players respond and then see the effects of their actions. Another point to mention is that gaming can have significant social and psychological impacts. Multiplayer online games like World of Warcraft enable players to interact, cooperate or compete. Participation in these communities has been shown to boost confidence and reduce feelings of isolation that many young people may feel.",
+        "sentences": [
+          "Certainly, when games are age-appropriate and children are supervised, there can be many benefits for youngsters.",
+          "One key positive outcome is the enhancement to problem-solving skills and creativity.",
+          "Indeed, many games are designed to challenge young minds by, for instance, simulating a current problem in the world.",
+          "Greenpeace has recently designed such a game for children called Our World which presents a range of different situations to which players respond and then see the effects of their actions.",
+          "Another point to mention is that gaming can have significant social and psychological impacts.",
+          "Multiplayer online games like World of Warcraft enable players to interact, cooperate or compete.",
+          "Participation in these communities has been shown to boost confidence and reduce feelings of isolation that many young people may feel."
+        ],
+        "sentence_count": 7,
+        "word_count": 127,
+        "structure_type": "PEEEL"
+      },
+      {
+        "text": "There are, however, legitimate concerns when it comes to certain games. Those that seemingly promote violence and law-breaking, such as Grand Theft Auto, can have negative impacts on those who play them. This is especially true of young children who are yet to learn the distinction between real life and virtual worlds, and may end up committing violent acts themselves. Another downside of some computer games is their addictive nature. There are many stories of young people who become so completely involved in playing that they lose all sense of time and forget to eat or sleep. The impact on their health and on their studies can become severe, even leading to them dropping out of school or being hospitalised.",
+        "sentences": [
+          "There are, however, legitimate concerns when it comes to certain games.",
+          "Those that seemingly promote violence and law-breaking, such as Grand Theft Auto, can have negative impacts on those who play them.",
+          "This is especially true of young children who are yet to learn the distinction between real life and virtual worlds, and may end up committing violent acts themselves.",
+          "Another downside of some computer games is their addictive nature.",
+          "There are many stories of young people who become so completely involved in playing that they lose all sense of time and forget to eat or sleep.",
+          "The impact on their health and on their studies can become severe, even leading to them dropping out of school or being hospitalised."
+        ],
+        "sentence_count": 6,
+        "word_count": 120,
+        "structure_type": "PEEEL"
+      }
+    ],
+    "conclusion": "In conclusion, I believe that all the technology at our disposal can be used for good or ill and computer games are no exception. Young children who play them can derive educational and developmental benefits from them, or can be drawn into a dependent and unhealthy relationship, which provides no clear positive outcomes. It is up to their guardians to ensure the outcome is positive.",
+    "word_count": 369,
+    "id": "essay-015"
+  },
+  {
+    "source": "part1",
+    "topic": "Space",
+    "question_text": "Some governments spend a lot of money on exploring space. Some feel that this investment is justified while others think that money should be spent on public services like healthcare and education. Discuss both views and give your own opinion.",
+    "question_type": "discussion",
+    "introduction": "In the last century, billions of dollars have been spent on the exploration of the universe. Although some support this investment, others feel that this money is squandered and should instead be spent tackling Earth’s many problems such as public health and education. In this essay, I will examine both views and explain why I agree that the government should cease funding space programs.",
+    "body_paragraphs": [
+      {
+        "text": "Those who advocate this state-funded research argue that the future of humankind may depend on such a discovery. If we found an earth-like planet nearby, for instance, they claim that our species could mine its resources or even colonise and potentially migrate there, once our own planet becomes uninhabitable. Indeed, projects are already underway investigating the feasibility of life on Mars, among other places. Thus, to these supporters, the government’s money is well-spent on exploring outer space as it could ultimately save us.",
+        "sentences": [
+          "Those who advocate this state-funded research argue that the future of humankind may depend on such a discovery.",
+          "If we found an earth-like planet nearby, for instance, they claim that our species could mine its resources or even colonise and potentially migrate there, once our own planet becomes uninhabitable.",
+          "Indeed, projects are already underway investigating the feasibility of life on Mars, among other places.",
+          "Thus, to these supporters, the government’s money is well-spent on exploring outer space as it could ultimately save us."
+        ],
+        "sentence_count": 4,
+        "word_count": 83,
+        "structure_type": "PEEEL"
+      },
+      {
+        "text": "Others, however, myself included, do not support this ongoing exploration. Indeed, in the last few decades, countries like the USA have spent over $100 billion sending astronauts, rovers and rockets out into the galaxy and the results have been negligible. If this money had been spent instead on improving literacy or sanitation in the third world, or on researching vaccines and treatments for deadly diseases, our lives would be much better than they currently are. Given that private businesses such as Tesla and Virgin are now pouring money into space research, governments no longer need to waste their money on this fruitless pursuit.",
+        "sentences": [
+          "Others, however, myself included, do not support this ongoing exploration.",
+          "Indeed, in the last few decades, countries like the USA have spent over $100 billion sending astronauts, rovers and rockets out into the galaxy and the results have been negligible.",
+          "If this money had been spent instead on improving literacy or sanitation in the third world, or on researching vaccines and treatments for deadly diseases, our lives would be much better than they currently are.",
+          "Given that private businesses such as Tesla and Virgin are now pouring money into space research, governments no longer need to waste their money on this fruitless pursuit."
+        ],
+        "sentence_count": 4,
+        "word_count": 103,
+        "structure_type": "PEEEL"
+      }
+    ],
+    "conclusion": "In conclusion, humanity’s thirst for knowledge is unquenchable. It is time, however, for private corporations to invest, and for governments to take responsibility for their real duty here on earth.",
+    "word_count": 280,
+    "id": "essay-016"
+  },
+  {
+    "source": "part1",
+    "topic": "Sport",
+    "question_text": "Some sports are considered extremely dangerous, but many people still like them. Why do people take part in dangerous sports? Give some suggestions on how to deal with these dangers.",
+    "question_type": "causes_solutions",
+    "introduction": "People around the world participate in a wide variety of sporting activities, from traditional ones like cricket and tennis to more modern and extreme activities such as snowboarding and mixed martial arts. While all sports carry some risk of injury, these extreme sports can have serious, even fatal, consequences when things go wrong. Nevertheless, they are growing in popularity for several reasons and, thankfully, there are measures that can be taken to mitigate the risks.",
+    "body_paragraphs": [
+      {
+        "text": "The main reason why people enjoy taking part in dangerous sports is the emotional high they can bring about. When a person flies through the air on their skis or summits a mountain without ropes, they experience a surge of dopamine, the feel-good chemical which, in many cases, can become addictive. For some extreme sports enthusiasts, their appetite for this feeling increases over time as they conquer more and more goals. In other words, they are motivated to keep climbing, boxing or rafting in order to chase the high.",
+        "sentences": [
+          "The main reason why people enjoy taking part in dangerous sports is the emotional high they can bring about.",
+          "When a person flies through the air on their skis or summits a mountain without ropes, they experience a surge of dopamine, the feel-good chemical which, in many cases, can become addictive.",
+          "For some extreme sports enthusiasts, their appetite for this feeling increases over time as they conquer more and more goals.",
+          "In other words, they are motivated to keep climbing, boxing or rafting in order to chase the high."
+        ],
+        "sentence_count": 4,
+        "word_count": 89,
+        "structure_type": "PEEEL"
+      },
+      {
+        "text": "Another motivating factor for some is the sense of accomplishment they feel. This sensation is common to all sports but is heightened when the sport itself is high-risk. Surfers, for instance, may dream of riding a huge pipeline, and when they do it, it means they have not just survived an extremely dangerous situation but also that they have attained a level of skill that few other people in the world have.",
+        "sentences": [
+          "Another motivating factor for some is the sense of accomplishment they feel.",
+          "This sensation is common to all sports but is heightened when the sport itself is high-risk.",
+          "Surfers, for instance, may dream of riding a huge pipeline, and when they do it, it means they have not just survived an extremely dangerous situation but also that they have attained a level of skill that few other people in the world have."
+        ],
+        "sentence_count": 3,
+        "word_count": 72,
+        "structure_type": "PEEEL"
+      },
+      {
+        "text": "It is important, however, that steps are taken to minimise the risks involved in these sports. First and foremost, participants need to educate themselves, be it on how to monitor waves and wind for surfers, or how to fall from a horse in the most careful way. In some cases, this extends to using suitable equipment and safety gear. In addition to the individual’s responsibility, there are also guidelines that should be put in place by authorities. When it comes to Olympic sports, for example, there are strict rules in sports like wrestling and boxing that reduce the risk of head and spinal injuries.",
+        "sentences": [
+          "It is important, however, that steps are taken to minimise the risks involved in these sports.",
+          "First and foremost, participants need to educate themselves, be it on how to monitor waves and wind for surfers, or how to fall from a horse in the most careful way.",
+          "In some cases, this extends to using suitable equipment and safety gear.",
+          "In addition to the individual’s responsibility, there are also guidelines that should be put in place by authorities.",
+          "When it comes to Olympic sports, for example, there are strict rules in sports like wrestling and boxing that reduce the risk of head and spinal injuries."
+        ],
+        "sentence_count": 5,
+        "word_count": 104,
+        "structure_type": "PEEEL"
+      }
+    ],
+    "conclusion": "In conclusion, driven by dopamine and the idea of success, people will always pursue extreme sports. If complying with regulations and acting responsibly, participants should be able to enjoy these activities without putting themselves in grave danger.",
+    "word_count": 377,
+    "id": "essay-017"
+  },
+  {
+    "source": "part1",
+    "topic": "Transport",
+    "question_text": "Despite improvements in vehicle technology, there are still large numbers of road accidents. Explain some of the causes of these accidents and suggest some measures that could be taken to address the problem.",
+    "question_type": "causes_solutions",
+    "introduction": "In recent times we have seen a huge increase in the number of people who drive. Even though their vehicles are more sophisticated than ever, many people are injured or killed on our roads. This essay will consider why there are so many accidents and suggest ways they could be reduced.",
+    "body_paragraphs": [
+      {
+        "text": "Advanced technology undoubtedly makes driving safer but, in many cases, accidents occur through driver error. This may be for several reasons, one of which is inattention at a critical moment caused perhaps by a call on the phone or a conversation with a passenger. Indeed, in the USA, distracted driving is the number one cause of road accidents. In Australia, the problem has become so serious that it is now illegal to use a mobile phone when in charge of a vehicle, even if it is stationary. Another cause of injuries and fatalities on the road is inexperience. In the UK, the number collisions involving 18 to 25-year-olds is more than double those where the driver was over 30.",
+        "sentences": [
+          "Advanced technology undoubtedly makes driving safer but, in many cases, accidents occur through driver error.",
+          "This may be for several reasons, one of which is inattention at a critical moment caused perhaps by a call on the phone or a conversation with a passenger.",
+          "Indeed, in the USA, distracted driving is the number one cause of road accidents.",
+          "In Australia, the problem has become so serious that it is now illegal to use a mobile phone when in charge of a vehicle, even if it is stationary.",
+          "Another cause of injuries and fatalities on the road is inexperience.",
+          "In the UK, the number collisions involving 18 to 25-year-olds is more than double those where the driver was over 30."
+        ],
+        "sentence_count": 6,
+        "word_count": 119,
+        "structure_type": "PEEEL"
+      },
+      {
+        "text": "Whether it is because of lack of attention or a small number of years driving on the road, there are ways these and other problems can be mitigated. The first measure that can be taken is to require all newly qualified drivers to attend a driving skills course. Designed to raise drivers’ awareness of dangers in various road situations and teach them how to deal with emergency scenarios, courses like these have been shown to dramatically reduce the accident rate among young drivers. Placing restrictions on new drivers for two to three years has also been successful in many countries in bringing down the frequency of accidents. In Australia, a new driver is restricted in several ways; their speed is limited, they can only take one passenger at a time, and they cannot drink any alcohol nor drive after 10pm. Such initiatives have had considerable success in cutting road accidents.",
+        "sentences": [
+          "Whether it is because of lack of attention or a small number of years driving on the road, there are ways these and other problems can be mitigated.",
+          "The first measure that can be taken is to require all newly qualified drivers to attend a driving skills course.",
+          "Designed to raise drivers’ awareness of dangers in various road situations and teach them how to deal with emergency scenarios, courses like these have been shown to dramatically reduce the accident rate among young drivers.",
+          "Placing restrictions on new drivers for two to three years has also been successful in many countries in bringing down the frequency of accidents.",
+          "In Australia, a new driver is restricted in several ways; their speed is limited, they can only take one passenger at a time, and they cannot drink any alcohol nor drive after 10pm.",
+          "Such initiatives have had considerable success in cutting road accidents."
+        ],
+        "sentence_count": 6,
+        "word_count": 150,
+        "structure_type": "PEEEL"
+      }
+    ],
+    "conclusion": "To conclude, the number of deaths and injuries on our roads caused by inattentive or inexperienced drivers will never be entirely eliminated but it need not be so high. Compulsory driver training for new drivers and restrictions on their driving are two ways of lowering the number of road accidents.",
+    "word_count": 370,
+    "id": "essay-018"
+  },
+  {
+    "source": "part1",
+    "topic": "Travel",
+    "question_text": "In many countries, tourism is a major part of the economy, but it also causes environmental damage and ruins the places it exploits. It is argued that tourists should pay an additional tax to compensate for this damage. Do you agree?",
+    "question_type": "discussion",
+    "introduction": "In the past two decades there has been an explosion in the number of people who are able to travel to places of interest and beauty. One of the results of this has been that the locations these tourists visit have been spoiled and even destroyed. I am partially in agreement with the view that tourists should pay a charge to repair the damage they bring about but feel that those responsible for looking after tourist attractions should also play their part in caring for them.",
+    "body_paragraphs": [
+      {
+        "text": "I support the practice of requiring visitors to help those who are responsible for maintaining tourist attractions with a monetary payment. When a town, city or place of beauty receives thousands of visitors every year the cost of, for instance, cleaning, disposal of rubbish, an increased number of staff and provision of services can be high, which places a strain on budgets. This is largely because the income that is at the disposal of, say, a town’s management is limited to what is made available from the taxes citizens pay. Venice charges all tourists an entrance fee to the city, which mitigates to some extent the impact of its millions of visitors annually, but has so far failed to fully protect this city from those who come to enjoy it. This is a good example of why other strategies need to be adopted.",
+        "sentences": [
+          "I support the practice of requiring visitors to help those who are responsible for maintaining tourist attractions with a monetary payment.",
+          "When a town, city or place of beauty receives thousands of visitors every year the cost of, for instance, cleaning, disposal of rubbish, an increased number of staff and provision of services can be high, which places a strain on budgets.",
+          "This is largely because the income that is at the disposal of, say, a town’s management is limited to what is made available from the taxes citizens pay.",
+          "Venice charges all tourists an entrance fee to the city, which mitigates to some extent the impact of its millions of visitors annually, but has so far failed to fully protect this city from those who come to enjoy it.",
+          "This is a good example of why other strategies need to be adopted."
+        ],
+        "sentence_count": 5,
+        "word_count": 143,
+        "structure_type": "PEEEL"
+      },
+      {
+        "text": "More can be done than just collecting fees from visitors. For any tourist destination to continue to be viable, not only for visitors, but also for those who live there or nearby, there must be a clear policy set and funded by central government in consultation with town or city councils as to how this rapidly increasing influx of visitors is going to be managed. In Germany, for instance, Berlin had the backing of the national government to control the letting of apartments through Airbnb so that owners of property in the city were only permitted to let out single apartments within their homes rather than their whole house. This had two positive effects: the price of accommodation for Berliners was kept at an affordable level and visitors to the city had the experience of living with a local.",
+        "sentences": [
+          "More can be done than just collecting fees from visitors.",
+          "For any tourist destination to continue to be viable, not only for visitors, but also for those who live there or nearby, there must be a clear policy set and funded by central government in consultation with town or city councils as to how this rapidly increasing influx of visitors is going to be managed.",
+          "In Germany, for instance, Berlin had the backing of the national government to control the letting of apartments through Airbnb so that owners of property in the city were only permitted to let out single apartments within their homes rather than their whole house.",
+          "This had two positive effects: the price of accommodation for Berliners was kept at an affordable level and visitors to the city had the experience of living with a local."
+        ],
+        "sentence_count": 4,
+        "word_count": 139,
+        "structure_type": "PEEEL"
+      }
+    ],
+    "conclusion": "In conclusion, the growing numbers of tourists travelling the world is producing problems to which there are no easy answers. One welcome strategy has been to charge tourists a visitor fee, but I believe closer cooperation between central government and those who are responsible for managing matters on the ground would prove productive.",
+    "word_count": 421,
+    "id": "essay-019"
+  },
+  {
+    "source": "part1",
+    "topic": "Work",
+    "question_text": "Nowadays many jobs are more stressful and the working day is longer. What are the reasons for this? What can employers do to help employees?",
+    "question_type": "causes_solutions",
+    "introduction": "Expectations on workers have changed greatly over the last few decades. Today they often have to work longer hours in situations which are increasingly emotionally and physically confronting. This essay will outline why this is and suggest how employers can assist those who work for them to deal with these challenges.",
+    "body_paragraphs": [
+      {
+        "text": "There are many reasons for this increased stress at work. One is the competitive nature of many workplaces. With an emphasis on productivity and shareholders’ returns, employers often require more of their staff than is reasonable or even humanly possible. McDonalds is one example of this where staff are forced to work long hours just to make a living wage in order to satisfy the demands of customers and the bosses they work for. Another stress employees experience is driven by the company policy of hiring inexperienced staff who are cheaper, and letting go of those who have been in the company for longer. Schools have been known to follow this practice because experienced teachers are much more expensive to employ than newly trained ones. The anxiety this may create for employees can be severe.",
+        "sentences": [
+          "There are many reasons for this increased stress at work.",
+          "One is the competitive nature of many workplaces.",
+          "With an emphasis on productivity and shareholders’ returns, employers often require more of their staff than is reasonable or even humanly possible.",
+          "McDonalds is one example of this where staff are forced to work long hours just to make a living wage in order to satisfy the demands of customers and the bosses they work for.",
+          "Another stress employees experience is driven by the company policy of hiring inexperienced staff who are cheaper, and letting go of those who have been in the company for longer.",
+          "Schools have been known to follow this practice because experienced teachers are much more expensive to employ than newly trained ones.",
+          "The anxiety this may create for employees can be severe."
+        ],
+        "sentence_count": 7,
+        "word_count": 135,
+        "structure_type": "PEEEL"
+      },
+      {
+        "text": "While changing the practices noted above may not be wholly within the power of an employer, there is much they can do to make working conditions less stressful. One way is for employers to always be willing to listen with an open mind to issues that staff may be having. In a school, for instance, the employer would ensure that the person directly responsible for managing teachers conducted regular meetings in which anything could be raised and that any issues not resolved in such meetings were followed up speedily and with care. For a working environment to be as welcoming and productive as it can be, employers should also be equally the representatives of those they employ as they are representatives of those who have the ultimate say in the business, such as investors and shareholders. An employer who is willing to push back against their demands that, for example, staff need to work longer hours by suggesting that a four day week would in fact raise production levels, would, indeed, help those who work for him.",
+        "sentences": [
+          "While changing the practices noted above may not be wholly within the power of an employer, there is much they can do to make working conditions less stressful.",
+          "One way is for employers to always be willing to listen with an open mind to issues that staff may be having.",
+          "In a school, for instance, the employer would ensure that the person directly responsible for managing teachers conducted regular meetings in which anything could be raised and that any issues not resolved in such meetings were followed up speedily and with care.",
+          "For a working environment to be as welcoming and productive as it can be, employers should also be equally the representatives of those they employ as they are representatives of those who have the ultimate say in the business, such as investors and shareholders.",
+          "An employer who is willing to push back against their demands that, for example, staff need to work longer hours by suggesting that a four day week would in fact raise production levels, would, indeed, help those who work for him."
+        ],
+        "sentence_count": 5,
+        "word_count": 177,
+        "structure_type": "PEEEL"
+      }
+    ],
+    "conclusion": "Many employees face difficult working conditions and unsociable hours, which causes stress. Employers can relieve this stress by making sure staff are consulted and by being willing to support them when unreasonable demands are being made of them.",
+    "word_count": 401,
+    "id": "essay-020"
+  },
+  {
+    "source": "part2",
+    "topic": "Money",
+    "question_text": "Nowadays celebrities earn more money than politicians. What are the reasons for this? Is it a positive or negative development?",
+    "question_type": "causes_solutions",
+    "introduction": "As a result of the internet and social media, celebrity profiles have increased, as have their pay packets. In fact, many celebrities earn more than than most professionals, including politicians. In this essay, I will examine two main reasons for this and explain why I feel this situation is a positive one.",
+    "body_paragraphs": [
+      {
+        "text": "Two key factors contribute to the hefty salaries of famous people. The first is that their talents tend to be unique. Stars like Oprah Winfrey or Lady Gaga are exceptionally talented, driven and industrious, which is why they have achieved such fame, and the pay check that accompanies it. A politician simply could not fill an arena the way they can. The second reason for the wealth of celebrities is the income they generate for others. When Michael Jordan became the face of Nike, for instance, he was paid so well because his association brought more sales for the company. The greater the value a celebrity brings, the more they can earn.",
+        "sentences": [
+          "Two key factors contribute to the hefty salaries of famous people.",
+          "The first is that their talents tend to be unique.",
+          "Stars like Oprah Winfrey or Lady Gaga are exceptionally talented, driven and industrious, which is why they have achieved such fame, and the pay check that accompanies it.",
+          "A politician simply could not fill an arena the way they can.",
+          "The second reason for the wealth of celebrities is the income they generate for others.",
+          "When Michael Jordan became the face of Nike, for instance, he was paid so well because his association brought more sales for the company.",
+          "The greater the value a celebrity brings, the more they can earn."
+        ],
+        "sentence_count": 7,
+        "word_count": 112,
+        "structure_type": "UPEPE"
+      },
+      {
+        "text": "Although many envy the lifestyles of the rich and famous, I feel that the fact that celebrities earn more than politicians is a positive development. The main reason is aspiration. When young people look to sports stars, actors, singers or even reality stars like the Kardashians who have made millions from their business ventures, they can understand that anything is possible with hard work and dedication. When those stars also make a contribution to charities and social welfare, as most do, this too sends powerful message to the general public, and young people especially. While politicians can also inspire us, I feel that successful, socially conscious celebs have more to offer.",
+        "sentences": [
+          "Although many envy the lifestyles of the rich and famous, I feel that the fact that celebrities earn more than politicians is a positive development.",
+          "The main reason is aspiration.",
+          "When young people look to sports stars, actors, singers or even reality stars like the Kardashians who have made millions from their business ventures, they can understand that anything is possible with hard work and dedication.",
+          "When those stars also make a contribution to charities and social welfare, as most do, this too sends powerful message to the general public, and young people especially.",
+          "While politicians can also inspire us, I feel that successful, socially conscious celebs have more to offer."
+        ],
+        "sentence_count": 5,
+        "word_count": 111,
+        "structure_type": "PEEEL"
+      }
+    ],
+    "conclusion": "In conclusion, there is no doubt that famous people earn more than politicians. In my view, this is justified given their unique talents, their ability to create wealth for others, and to redirect their own back into society.",
+    "word_count": 313,
+    "id": "essay-021"
+  },
+  {
+    "source": "part2",
+    "topic": "Animals",
+    "question_text": "A growing number of people feel that animals should not be exploited by people while others argue that humans must employ animals to satisfy their various needs, including for food and research. Discuss both views and give your opinion.",
+    "question_type": "discussion",
+    "introduction": "Throughout history, people have had a conflicted relationship with animals, adoring them as pets and yet exploiting them for food, entertainment and as research subjects. While some feel that this abuse is justified, others are strongly opposed. In this essay, I will discuss these views and explain why I feel that we should reduce our reliance on animals.",
+    "body_paragraphs": [
+      {
+        "text": "Many people claim that animals exist solely for our use and therefore, have few, if any, rights. The food industry, for instance, relies on the mass production of animals, most of which are kept in cramped and sometimes appalling conditions, which sometimes amount to torture. Since these animals are destined for slaughter anyway, some argue that their quality of life is irrelevant. The medical, scientific and cosmetics industries also use animals as objects, conducting painful and often fatal experiments on them, with little regard for their rights. Many people feel that the results of such tests are crucial to humankind and thus justify this inhumane treatment.",
+        "sentences": [
+          "Many people claim that animals exist solely for our use and therefore, have few, if any, rights.",
+          "The food industry, for instance, relies on the mass production of animals, most of which are kept in cramped and sometimes appalling conditions, which sometimes amount to torture.",
+          "Since these animals are destined for slaughter anyway, some argue that their quality of life is irrelevant.",
+          "The medical, scientific and cosmetics industries also use animals as objects, conducting painful and often fatal experiments on them, with little regard for their rights.",
+          "Many people feel that the results of such tests are crucial to humankind and thus justify this inhumane treatment."
+        ],
+        "sentence_count": 5,
+        "word_count": 106,
+        "structure_type": "PEEEL"
+      },
+      {
+        "text": "Despite this, however, the exploitation of animals must be reconsidered. As they are sentient beings, capable of feelings and relationships, they deserve more respect. To achieve this, although veganism may not suit everyone, it is certainly possible for people to cut down on meat consumption or at least make more ethical choices. Similarly, in medical research, the aim should be to reduce animal use, refine techniques, and to replace them with other means. Given the range of alternatives available, the mistreatment of animals can no longer be justified.",
+        "sentences": [
+          "Despite this, however, the exploitation of animals must be reconsidered.",
+          "As they are sentient beings, capable of feelings and relationships, they deserve more respect.",
+          "To achieve this, although veganism may not suit everyone, it is certainly possible for people to cut down on meat consumption or at least make more ethical choices.",
+          "Similarly, in medical research, the aim should be to reduce animal use, refine techniques, and to replace them with other means.",
+          "Given the range of alternatives available, the mistreatment of animals can no longer be justified."
+        ],
+        "sentence_count": 5,
+        "word_count": 88,
+        "structure_type": "PEEEL"
+      }
+    ],
+    "conclusion": "In conclusion, humans have built their lives on the backs of animals. While some feel comfortable continuing in this way, we now have other options available that allow us to protect their rights and still maintain our quality of life.",
+    "word_count": 292,
+    "id": "essay-022"
+  },
+  {
+    "source": "part2",
+    "topic": "Money",
+    "question_text": "Many governments invest a great deal of money in space research. What are the advantages and potential disadvantages of spending money on space exploration?",
+    "question_type": "advantages_disadvantages",
+    "introduction": "Humankind is curious by nature, and it is this curiosity that drives our fascination with outer space. Globally, there are several countries that spend billions annually on space programs that seek to send people to space, discover new planets or simply uncover new information. In this essay, I will outline what I consider to be the two main benefits that can be gained from spending on such research, as well as some drawbacks of this investment.",
+    "body_paragraphs": [
+      {
+        "text": "Certainly, space exploration can bring about many positive impacts. Perhaps the most significant ones, ironically, are the by-products of the technological developments. Everyday items such as sunglasses, non-stick cookware, and important medical devices like pacemakers all came about thanks to research and development in the space field. Another plus is the benefit to humanity of finding another habitable planet. Indeed, if we continue to deplete our natural resources and pollute our own environment, the money spent on discovering a new planet, or on creating liveable spaces on Mars, for instance, will be well worth it.",
+        "sentences": [
+          "Certainly, space exploration can bring about many positive impacts.",
+          "Perhaps the most significant ones, ironically, are the by-products of the technological developments.",
+          "Everyday items such as sunglasses, non-stick cookware, and important medical devices like pacemakers all came about thanks to research and development in the space field.",
+          "Another plus is the benefit to humanity of finding another habitable planet.",
+          "Indeed, if we continue to deplete our natural resources and pollute our own environment, the money spent on discovering a new planet, or on creating liveable spaces on Mars, for instance, will be well worth it."
+        ],
+        "sentence_count": 5,
+        "word_count": 95,
+        "structure_type": "PEEEL"
+      },
+      {
+        "text": "Despite these benefits, there are also serious negative outcomes that can result from state spending on space research. The primary one is the diversion of funds from vital public services like healthcare and education. In the USA, for example, despite rocketing numbers of homeless people, and prohibitively expensive hospital care, the government continues to pour money into space programs. There is also the problem of space junk. When rockets and satellites launch and fall into disuse, they become part of the litter that is already cluttering up space. This debris poses potential risks to future missions as well as simply contributing to the global pollution problem.",
+        "sentences": [
+          "Despite these benefits, there are also serious negative outcomes that can result from state spending on space research.",
+          "The primary one is the diversion of funds from vital public services like healthcare and education.",
+          "In the USA, for example, despite rocketing numbers of homeless people, and prohibitively expensive hospital care, the government continues to pour money into space programs.",
+          "There is also the problem of space junk.",
+          "When rockets and satellites launch and fall into disuse, they become part of the litter that is already cluttering up space.",
+          "This debris poses potential risks to future missions as well as simply contributing to the global pollution problem."
+        ],
+        "sentence_count": 6,
+        "word_count": 106,
+        "structure_type": "PEEEL"
+      }
+    ],
+    "conclusion": "In conclusion, space research can have life-changing impacts here on Earth. It does, however, come at a potentially huge cost if a nation does not prioritise its spending and neglects the environmental fallout of missions.",
+    "word_count": 312,
+    "id": "essay-023"
+  },
+  {
+    "source": "part2",
+    "topic": "Family",
+    "question_text": "There is an increasing trend around the world to have a small family rather than a large family. What are some of the advantages and disadvantages of having a small family rather than a large family?",
+    "question_type": "advantages_disadvantages",
+    "introduction": "Traditions and customs are changing rapidly. As a result, parents in many countries are now choosing to have fewer children than in the past. This essay will examine what the main advantages and potential drawbacks are, from both children's and parents' perspectives, of having smaller families.",
+    "body_paragraphs": [
+      {
+        "text": "The benefits of having only one or two children are obvious. On a very basic level, a smaller family means more money and more time together. Whereas parents with many children tend to spend their days juggling school drop-offs, and extracurricular activities, not to mention work and running a home, those with only one or two have far fewer demands on their time and wallets. From the child's point of view, if they are an only child or have just one sibling, they will receive far more attention and emotional support than if they were competing with four or five siblings for that attention. This can have long-term benefits not just for their self-esteem, but in their academic and professional lives too.",
+        "sentences": [
+          "The benefits of having only one or two children are obvious.",
+          "On a very basic level, a smaller family means more money and more time together.",
+          "Whereas parents with many children tend to spend their days juggling school drop-offs, and extracurricular activities, not to mention work and running a home, those with only one or two have far fewer demands on their time and wallets.",
+          "From the child's point of view, if they are an only child or have just one sibling, they will receive far more attention and emotional support than if they were competing with four or five siblings for that attention.",
+          "This can have long-term benefits not just for their self-esteem, but in their academic and professional lives too."
+        ],
+        "sentence_count": 5,
+        "word_count": 122,
+        "structure_type": "PEEEL"
+      },
+      {
+        "text": "Despite these positives, many people still consider a small family problematic. From the parents' viewpoint, there may be concern for their own welfare in old age. When they get older and start requiring physical assistance, there is a risk when a couple has no children or only one to care for them. In my country, such people often end up in state-owned aged care facilities, which can be impersonal and even isolating. Another concern some have with one child families is that parents are creating selfish ego-maniacs. Rather than benefiting from parents' attention as mentioned above, these youngsters can be over-parented and potentially grow up spoiled and entitled.",
+        "sentences": [
+          "Despite these positives, many people still consider a small family problematic.",
+          "From the parents' viewpoint, there may be concern for their own welfare in old age.",
+          "When they get older and start requiring physical assistance, there is a risk when a couple has no children or only one to care for them.",
+          "In my country, such people often end up in state-owned aged care facilities, which can be impersonal and even isolating.",
+          "Another concern some have with one child families is that parents are creating selfish ego-maniacs.",
+          "Rather than benefiting from parents' attention as mentioned above, these youngsters can be over-parented and potentially grow up spoiled and entitled."
+        ],
+        "sentence_count": 6,
+        "word_count": 108,
+        "structure_type": "PEEEL"
+      }
+    ],
+    "conclusion": "In conclusion, although families are getting smaller in general, whether this is positive or not depends on the individual. Personally, while I can acknowledge the potential problems, I feel that smaller families are ultimately better off.",
+    "word_count": 312,
+    "id": "essay-024"
+  },
+  {
+    "source": "part2",
+    "topic": "Education",
+    "question_text": "Computers are being used more in education nowadays than in the past. Discuss the advantages and disadvantages of this trend.",
+    "question_type": "advantages_disadvantages",
+    "introduction": "Technology is playing an increasingly important role in schools and universities. Most educational institutions use computers in the classroom and many rely on online platforms to deliver their courses and communicate with staff and students off campus too. This essay will discuss what I consider to be the main advantages and potential drawbacks of computers in education.",
+    "body_paragraphs": [
+      {
+        "text": "There are several key benefits stemming from the use of electronic devices in an educational context. The main one is the greater access it allows. Whereas in the past students had to physically attend lectures and tutorials, these days everything can be done remotely and even asynchronously. This means that education is more available and flexible than ever. Another key advantage is that computers allow teachers to better meet learners' needs. As content can be delivered using video, audio and even virtual reality nowadays, not to mention students' access to remedial and extension activities online, engagement and success rates are demonstrably higher.",
+        "sentences": [
+          "There are several key benefits stemming from the use of electronic devices in an educational context.",
+          "The main one is the greater access it allows.",
+          "Whereas in the past students had to physically attend lectures and tutorials, these days everything can be done remotely and even asynchronously.",
+          "This means that education is more available and flexible than ever.",
+          "Another key advantage is that computers allow teachers to better meet learners' needs.",
+          "As content can be delivered using video, audio and even virtual reality nowadays, not to mention students' access to remedial and extension activities online, engagement and success rates are demonstrably higher."
+        ],
+        "sentence_count": 6,
+        "word_count": 102,
+        "structure_type": "UPEPE"
+      },
+      {
+        "text": "There are, however, some drawbacks associated with the increasing reliance on computers. A decrease in face-to-face interaction is one of them. With more and more people studying remotely, there are fewer opportunities for interaction between students and their peers or teachers, which can be problematic for young people in particular. In addition to this social concern, there is the issue of cheating and plagiarism. Since most university work, including assessment, is now done without supervision, it is not difficult for students pay others to write in their place, and it can be difficult to detect. Such actions can undermine the integrity of the qualification and the institution.",
+        "sentences": [
+          "There are, however, some drawbacks associated with the increasing reliance on computers.",
+          "A decrease in face-to-face interaction is one of them.",
+          "With more and more people studying remotely, there are fewer opportunities for interaction between students and their peers or teachers, which can be problematic for young people in particular.",
+          "In addition to this social concern, there is the issue of cheating and plagiarism.",
+          "Since most university work, including assessment, is now done without supervision, it is not difficult for students pay others to write in their place, and it can be difficult to detect.",
+          "Such actions can undermine the integrity of the qualification and the institution."
+        ],
+        "sentence_count": 6,
+        "word_count": 107,
+        "structure_type": "PEEEL"
+      }
+    ],
+    "conclusion": "In conclusion, this essay discussed the impact of computers on education. It is clear that, despite the possible problems, there are great advantages to incorporating them into learning.",
+    "word_count": 294,
+    "id": "essay-025"
+  },
+  {
+    "source": "part2",
+    "topic": "Family",
+    "question_text": "Some people feel that playing computer games has a negative impact on children's health and social skills. Others say that it can have a positive impact. Discuss both these views.",
+    "question_type": "discussion",
+    "introduction": "Years ago, children used to spend their free time playing games outside with friends or engaging in imaginative play, but now they are more likely to be found glued to a screen playing computer games. Some worry that this can be detrimental in terms of health and socialisation, while others argue for the educational and cognitive benefits. Both views will be discussed in the essay, and why I feel gaming needs to be carefully monitored by parents.",
+    "body_paragraphs": [
+      {
+        "text": "Those who oppose gaming have strong points to make. The first, which is unrelated to the content of the games, is simply the impact on health of spending hours on a console or online. As young people have difficulty with moderation, unless a parent is supervising, they could end up spending over five hours per day doing this. Obviously, obesity, diabetes and posture problems can stem from such sedentary behaviour. The other issue is the social aspect. Since many games are played solo, opponents argue, there is little chance for interaction with peers. This lack of engagement during formative years can have long-term impacts on young people's ability to communicate, cooperate and collaborate.",
+        "sentences": [
+          "Those who oppose gaming have strong points to make.",
+          "The first, which is unrelated to the content of the games, is simply the impact on health of spending hours on a console or online.",
+          "As young people have difficulty with moderation, unless a parent is supervising, they could end up spending over five hours per day doing this.",
+          "Obviously, obesity, diabetes and posture problems can stem from such sedentary behaviour.",
+          "The other issue is the social aspect.",
+          "Since many games are played solo, opponents argue, there is little chance for interaction with peers.",
+          "This lack of engagement during formative years can have long-term impacts on young people's ability to communicate, cooperate and collaborate."
+        ],
+        "sentence_count": 7,
+        "word_count": 113,
+        "structure_type": "PEEEL"
+      },
+      {
+        "text": "Nevertheless, others claim that computer games can be beneficial. They suggest that creativity, problem-solving and even teamwork are by-products of many modern games. Minecraft, for instance, requires players to create an entire world on their own, to 'survive' attacks, and also, when played online, to work with others to achieve goals. These skills are valuable beyond gaming, and even beyond schooling, into the workforce. As long as parents are careful to monitor what games their child is playing, there can be positive outcomes.",
+        "sentences": [
+          "Nevertheless, others claim that computer games can be beneficial.",
+          "They suggest that creativity, problem-solving and even teamwork are by-products of many modern games.",
+          "Minecraft, for instance, requires players to create an entire world on their own, to 'survive' attacks, and also, when played online, to work with others to achieve goals.",
+          "These skills are valuable beyond gaming, and even beyond schooling, into the workforce.",
+          "As long as parents are careful to monitor what games their child is playing, there can be positive outcomes."
+        ],
+        "sentence_count": 5,
+        "word_count": 83,
+        "structure_type": "PEEEL"
+      }
+    ],
+    "conclusion": "In conclusion, sitting on a device for hours on end is definitely not a healthy way to spend leisure time. However, with supervision, children who play computer games can reap benefits which will serve them well in their adult lives.",
+    "word_count": 313,
+    "id": "essay-026"
+  },
+  {
+    "source": "part2",
+    "topic": "Crime",
+    "question_text": "Some people think that the best way to reduce crime is to give longer prison sentences. Others, however, believe there are better alternative ways of reducing crime. Discuss both views and give your opinion.",
+    "question_type": "discussion",
+    "introduction": "Globally, crime continues to be a pervasive problem. To tackle it, some support longer prison terms, while others feel that alternative measures, including rehabilitation and education, are better options. In this essay, I will examine both views and explain why I feel programs in prison are the key to crime prevention.",
+    "body_paragraphs": [
+      {
+        "text": "For many, the solution to crime seems to be simple; lock criminals up for longer. They claim that by removing dangerous people from society, citizens are safer. Indeed, when it comes to murderers or violent offenders who show no remorse for their crimes, such as Martin Bryant, a convicted Australian mass murderer, it does seem logical to just throw away the key. Supporters of this method argue that doing so teaches criminals a lesson, protects society, and serves to deter others as well.",
+        "sentences": [
+          "For many, the solution to crime seems to be simple; lock criminals up for longer.",
+          "They claim that by removing dangerous people from society, citizens are safer.",
+          "Indeed, when it comes to murderers or violent offenders who show no remorse for their crimes, such as Martin Bryant, a convicted Australian mass murderer, it does seem logical to just throw away the key.",
+          "Supporters of this method argue that doing so teaches criminals a lesson, protects society, and serves to deter others as well."
+        ],
+        "sentence_count": 4,
+        "word_count": 83,
+        "structure_type": "PEEEL"
+      },
+      {
+        "text": "Another group, however, feel that extending imprisonment is not the answer, and that other methods would be more effective. For them, it is more important to treat the underlying causes of the offences. If a criminal is addicted to drugs, for instance, simply putting them in prison will not prevent reoffending upon release. Instead, the prison program should include substance abuse counselling and rehabilitation. When a prisoner is helped to overcome addiction, manage mental illness or control anger issues, they are much less likely to reoffend upon release.",
+        "sentences": [
+          "Another group, however, feel that extending imprisonment is not the answer, and that other methods would be more effective.",
+          "For them, it is more important to treat the underlying causes of the offences.",
+          "If a criminal is addicted to drugs, for instance, simply putting them in prison will not prevent reoffending upon release.",
+          "Instead, the prison program should include substance abuse counselling and rehabilitation.",
+          "When a prisoner is helped to overcome addiction, manage mental illness or control anger issues, they are much less likely to reoffend upon release."
+        ],
+        "sentence_count": 5,
+        "word_count": 88,
+        "structure_type": "PEEEL"
+      },
+      {
+        "text": "In my view, I agree that alternative measures would be more effective in most situations. Given the high recidivism rates of ex-prisoners, over 80% in some areas, it is clear that what happens inside prison is important. For the majority of offenders, rehabilitation and education while incarcerated could change the course of their lives. Indeed, these have proven extremely effective in countries like Norway, where crime and reoffending rates have plummeted as a result. While such programs may be expensive, and perhaps unpopular with taxpayers, ultimately, reforming criminals can benefit society as a whole.",
+        "sentences": [
+          "In my view, I agree that alternative measures would be more effective in most situations.",
+          "Given the high recidivism rates of ex-prisoners, over 80% in some areas, it is clear that what happens inside prison is important.",
+          "For the majority of offenders, rehabilitation and education while incarcerated could change the course of their lives.",
+          "Indeed, these have proven extremely effective in countries like Norway, where crime and reoffending rates have plummeted as a result.",
+          "While such programs may be expensive, and perhaps unpopular with taxpayers, ultimately, reforming criminals can benefit society as a whole."
+        ],
+        "sentence_count": 5,
+        "word_count": 94,
+        "structure_type": "PEEEL"
+      }
+    ],
+    "conclusion": "In conclusion, lengthening jail terms may seem like a simple and effective solution, and a way to keep society safe, at least in the short term. In the long run, however, it is necessary to deal with the root causes of criminality and offer an offender a future beyond crime.",
+    "word_count": 366,
+    "id": "essay-027"
+  },
+  {
+    "source": "part2",
+    "topic": "Science/Technology",
+    "question_text": "Nowadays online shopping is rapidly replacing physical shopping in stores. Do the benefits outweigh the drawbacks, in your view?",
+    "question_type": "advantages_disadvantages",
+    "introduction": "Internet shopping used to be a novelty, fraught with danger both in terms of customer satisfaction and credit card security. Now, however, it has overtaken traditional shopping as more and more people choose to browse and purchase from the comfort of their homes. While this has led to some problems regarding unemployment and consumer experience, in this essay, I will explain why these are far outweighed by the benefits.",
+    "body_paragraphs": [
+      {
+        "text": "Certainly, the proliferation of internet shopping has had some negative effects. The first is on retail employment. Indeed, as people opt to buy their goods online, a large number of physical stores have closed down, and in turn, the number of people employed there has plummeted. In addition to the impact on retail staff, customers too may feel limited by the online experience. Unable to try items on and sometimes faced with difficult returns policies, some buyers are unhappy with the online experience.",
+        "sentences": [
+          "Certainly, the proliferation of internet shopping has had some negative effects.",
+          "The first is on retail employment.",
+          "Indeed, as people opt to buy their goods online, a large number of physical stores have closed down, and in turn, the number of people employed there has plummeted.",
+          "In addition to the impact on retail staff, customers too may feel limited by the online experience.",
+          "Unable to try items on and sometimes faced with difficult returns policies, some buyers are unhappy with the online experience."
+        ],
+        "sentence_count": 5,
+        "word_count": 83,
+        "structure_type": "PEEEL"
+      },
+      {
+        "text": "Despite these issues, the advantages to individuals and businesses are far more significant. While some customers may feel inconvenienced, there is no doubt that the vast majority find the online experience far superior. There is an infinite variety, the prices are generally cheaper, and most stores now offer convenient options to return or exchange. For the customer, this new retail world is unparalleled. For businesses too, there are massive savings to be had by closing physical stores and moving online. Less money is required for rent and staffing, and their market is no longer limited to the local area. Indeed, online shopping represents a global opportunity.",
+        "sentences": [
+          "Despite these issues, the advantages to individuals and businesses are far more significant.",
+          "While some customers may feel inconvenienced, there is no doubt that the vast majority find the online experience far superior.",
+          "There is an infinite variety, the prices are generally cheaper, and most stores now offer convenient options to return or exchange.",
+          "For the customer, this new retail world is unparalleled.",
+          "For businesses too, there are massive savings to be had by closing physical stores and moving online.",
+          "Less money is required for rent and staffing, and their market is no longer limited to the local area.",
+          "Indeed, online shopping represents a global opportunity."
+        ],
+        "sentence_count": 7,
+        "word_count": 106,
+        "structure_type": "PEEEL"
+      }
+    ],
+    "conclusion": "In conclusion, it is clear that the appetite for internet shopping is only going to increase. Although some people may find aspects of it problematic, I strongly believe that the advantages for shoppers and businesses are far greater.",
+    "word_count": 296,
+    "id": "essay-028"
+  },
+  {
+    "source": "part2",
+    "topic": "Culture and Society",
+    "question_text": "Homeschooling is becoming increasingly popular as more and more parents are choosing to educate their children in this way. Why do you think parents might choose homeschooling rather than traditional schools? Do you think homeschooling is more beneficial?",
+    "question_type": "discussion",
+    "introduction": "Education is fundamental to a child’s development. Some parents, however, prefer educating their offspring at home rather than sending them to a state or private school. This essay will discuss why some parents opt for this and will explain my own view that traditional schooling is usually the best option.",
+    "body_paragraphs": [
+      {
+        "text": "There are various reasons why some might believe that homeschooling is best for a child. The primary ones may be the convenience and comfort of learning in the home environment. Indeed, parents may feel that their child can learn more effectively when they feel safe and are less distracted by others. A further reason is that parents may believe that they are more aware of what their child needs, as well as his or her strengths and weaknesses. If, for instance, the child needs remedial reading help, the parent can concentrate on this whereas in a large class, such a matter may go unnoticed. Clearly, there are some attractions to homeschooling.",
+        "sentences": [
+          "There are various reasons why some might believe that homeschooling is best for a child.",
+          "The primary ones may be the convenience and comfort of learning in the home environment.",
+          "Indeed, parents may feel that their child can learn more effectively when they feel safe and are less distracted by others.",
+          "A further reason is that parents may believe that they are more aware of what their child needs, as well as his or her strengths and weaknesses.",
+          "If, for instance, the child needs remedial reading help, the parent can concentrate on this whereas in a large class, such a matter may go unnoticed.",
+          "Clearly, there are some attractions to homeschooling."
+        ],
+        "sentence_count": 6,
+        "word_count": 111,
+        "structure_type": "UPEPE"
+      },
+      {
+        "text": "In my view, however, traditional education is more beneficial. This is primarily because attending school involves more than just learning different subjects. As humans are social beings, there is no better place to learn to interact with others. Schools are places where friendships are formed and where young people learn to socialise and collaborate with their peers by, for example, joining a club or team and participating in extracurricular activities. Even though homeschooled children may have their family close by, this is no substitute for the diverse and strong network that can be built at school.",
+        "sentences": [
+          "In my view, however, traditional education is more beneficial.",
+          "This is primarily because attending school involves more than just learning different subjects.",
+          "As humans are social beings, there is no better place to learn to interact with others.",
+          "Schools are places where friendships are formed and where young people learn to socialise and collaborate with their peers by, for example, joining a club or team and participating in extracurricular activities.",
+          "Even though homeschooled children may have their family close by, this is no substitute for the diverse and strong network that can be built at school."
+        ],
+        "sentence_count": 5,
+        "word_count": 96,
+        "structure_type": "PEEEL"
+      }
+    ],
+    "conclusion": "In conclusion, education is a crucial part of life. Although homeschooling has certain perks, education in a regular school environment is more beneficial in my view because of the fact that a child needs to develop not only academically but socially as well.",
+    "word_count": 300,
+    "id": "essay-029"
+  },
+  {
+    "source": "part2",
+    "topic": "Communication",
+    "question_text": "Nowadays people use social media to keep up with the news. Why do they do this? Is it a positive or negative trend?",
+    "question_type": "advantages_disadvantages",
+    "introduction": "Our access to information is greater than it ever was thanks in large part to our connection to the internet. Many of us use this connectivity to stay informed of local and global events via social media. This essay will examine why people do this and explain how it can negatively impact society.",
+    "body_paragraphs": [
+      {
+        "text": "The main reason people turn to social media for their news is the convenience. Whereas in the past, it was necessary to wait for the TV news at 6pm or for the newspaper to be delivered, now this information is in our hands instantly via the apps on our phones. As soon as we click on Facebook or Twitter, we see the latest headlines and developments without even having to search for them. This allows us to be not only better informed about local current affairs, but about global events too. The more convenient it is to access this news on social media, the more people will rely on it.",
+        "sentences": [
+          "The main reason people turn to social media for their news is the convenience.",
+          "Whereas in the past, it was necessary to wait for the TV news at 6pm or for the newspaper to be delivered, now this information is in our hands instantly via the apps on our phones.",
+          "As soon as we click on Facebook or Twitter, we see the latest headlines and developments without even having to search for them.",
+          "This allows us to be not only better informed about local current affairs, but about global events too.",
+          "The more convenient it is to access this news on social media, the more people will rely on it."
+        ],
+        "sentence_count": 5,
+        "word_count": 110,
+        "structure_type": "PEEEL"
+      },
+      {
+        "text": "Despite the convenience, however, this trend has a worrying impact. This is because the information we receive is heavily biased. As our social media feeds are increasingly personalised by an algorithm, we tend to be served only the news and stories that appeal to us. This causes our feeds to be very limited. If you are politically left-wing, you will probably only encounter stories that align with those biases. As a result, we are blocked from engaging with views contrary to our own, which can give rise to greater prejudice and ignorance.",
+        "sentences": [
+          "Despite the convenience, however, this trend has a worrying impact.",
+          "This is because the information we receive is heavily biased.",
+          "As our social media feeds are increasingly personalised by an algorithm, we tend to be served only the news and stories that appeal to us.",
+          "This causes our feeds to be very limited.",
+          "If you are politically left-wing, you will probably only encounter stories that align with those biases.",
+          "As a result, we are blocked from engaging with views contrary to our own, which can give rise to greater prejudice and ignorance."
+        ],
+        "sentence_count": 6,
+        "word_count": 92,
+        "structure_type": "PEEEL"
+      }
+    ],
+    "conclusion": "While this is potentially valuable to have such easy access to the news, if people are not aware of the way their news feed is tailored to them, and do not seek information from other sources, the effects of accessing the news via social media can be damaging.",
+    "word_count": 303,
+    "id": "essay-030"
+  },
+  {
+    "source": "part2",
+    "topic": "Family",
+    "question_text": "Because of the rising cost of housing, many young people are increasingly being forced to live with their parents into their 30s. Do the advantages of this trend outweigh the disadvantages?",
+    "question_type": "advantages_disadvantages",
+    "introduction": "All around the world, accommodation has become less affordable. Due to this price surge, many young people now have to remain in the family home well past 30. While this can sometimes be beneficial, this essay will discuss why it is ultimately a negative trend.",
+    "body_paragraphs": [
+      {
+        "text": "This development can offer a number of advantages, both to children and to their parents. The main one is financial. Buying a property, or even renting one, is becoming prohibitively expensive. As a result, a new homeowner is often faced with unmanageable mortgage payments. By living at home longer, young people avoid paying rent and thus save money, allowing them to build towards a place of their own without the crippling debt. From the parents' perspective, there are also benefits. They may enjoy having their child around for company or extra help with household chores. For some families, this extra time together can strengthen the bonds between generations.",
+        "sentences": [
+          "This development can offer a number of advantages, both to children and to their parents.",
+          "The main one is financial.",
+          "Buying a property, or even renting one, is becoming prohibitively expensive.",
+          "As a result, a new homeowner is often faced with unmanageable mortgage payments.",
+          "By living at home longer, young people avoid paying rent and thus save money, allowing them to build towards a place of their own without the crippling debt.",
+          "From the parents' perspective, there are also benefits.",
+          "They may enjoy having their child around for company or extra help with household chores.",
+          "For some families, this extra time together can strengthen the bonds between generations."
+        ],
+        "sentence_count": 8,
+        "word_count": 108,
+        "structure_type": "UPEPE"
+      },
+      {
+        "text": "The downsides, however, outweigh the benefits. It can have negative financial implications for parents, particularly those who have retired or are planning to retire. Rather than providing for just one or two people, parents with adult children at home often have to support them as well, resulting in increased costs for utilities such as water and electricity. Even if the child contributes towards the upkeep of the house, this is unlikely to compensate fully for the expenses. Another issue is that in societies like Australia that value independence highly, parents may also feel a sense of failure. The longer children must stay with their parents, the slower they will grow up.",
+        "sentences": [
+          "The downsides, however, outweigh the benefits.",
+          "It can have negative financial implications for parents, particularly those who have retired or are planning to retire.",
+          "Rather than providing for just one or two people, parents with adult children at home often have to support them as well, resulting in increased costs for utilities such as water and electricity.",
+          "Even if the child contributes towards the upkeep of the house, this is unlikely to compensate fully for the expenses.",
+          "Another issue is that in societies like Australia that value independence highly, parents may also feel a sense of failure.",
+          "The longer children must stay with their parents, the slower they will grow up."
+        ],
+        "sentence_count": 6,
+        "word_count": 111,
+        "structure_type": "PEEEL"
+      }
+    ],
+    "conclusion": "In conclusion, as the cost-of-living soars, children may continue to live at home longer. Even though this may enable them to save money, the situation tends to have more problems than benefits, especially for the parents.",
+    "word_count": 300,
+    "id": "essay-031"
+  },
+  {
+    "source": "part2",
+    "topic": "Art",
+    "question_text": "Many museums charge admission fees while others are free. Do the advantages of charging people to visit a museum outweigh the disadvantages?",
+    "question_type": "advantages_disadvantages",
+    "introduction": "A visit to a museum is undoubtedly one of the most interesting ways to delve into and discover history. Although charging an admission fee to enter a museum is common, it is not always popular. This essay will discuss the advantages and potential drawbacks of charging such a fee and show that it is necessary.",
+    "body_paragraphs": [
+      {
+        "text": "There are a number of significant benefits to charging an entrance fee. As the main aim of a museum is to promote the enjoyment and sharing of cultural heritage, artefacts must be maintained carefully so they are unaffected by conditions which may impact their value, such as light, dust and accidental damage. Equipment and the hiring of professionals to care for and protect these valuable items would not always be possible without money from the public. Another point is that many museums do not have stable financial support. Those in the UK, for instance, had their funding slashed recently as a result of government policy changes. Clearly, without admission fees, many institutions would not be able to survive.",
+        "sentences": [
+          "There are a number of significant benefits to charging an entrance fee.",
+          "As the main aim of a museum is to promote the enjoyment and sharing of cultural heritage, artefacts must be maintained carefully so they are unaffected by conditions which may impact their value, such as light, dust and accidental damage.",
+          "Equipment and the hiring of professionals to care for and protect these valuable items would not always be possible without money from the public.",
+          "Another point is that many museums do not have stable financial support.",
+          "Those in the UK, for instance, had their funding slashed recently as a result of government policy changes.",
+          "Clearly, without admission fees, many institutions would not be able to survive."
+        ],
+        "sentence_count": 6,
+        "word_count": 118,
+        "structure_type": "UPEPE"
+      },
+      {
+        "text": "Admittedly, however, charging an admission fee may have some negative effects. From the visitors' perspective, this charge may deter them from visiting in the first place. If the fee were $20, families, low-income earners and students may not be able to afford it. In terms of the museum itself, this drop in visitor numbers could affect their ability to employ staff, host exhibitions and in some cases may even result in closure. While such concerns are valid, most museums do keep their prices low or offer discounts to prevent these scenarios.",
+        "sentences": [
+          "Admittedly, however, charging an admission fee may have some negative effects.",
+          "From the visitors' perspective, this charge may deter them from visiting in the first place.",
+          "If the fee were $20, families, low-income earners and students may not be able to afford it.",
+          "In terms of the museum itself, this drop in visitor numbers could affect their ability to employ staff, host exhibitions and in some cases may even result in closure.",
+          "While such concerns are valid, most museums do keep their prices low or offer discounts to prevent these scenarios."
+        ],
+        "sentence_count": 5,
+        "word_count": 91,
+        "structure_type": "PEEEL"
+      }
+    ],
+    "conclusion": "In conclusion, museums play an important role in our communities, which is why it is necessary to consider ways to keep them operating. While admission fees may deter some visitors, the benefits of such a cost, provided it is reasonable, far outweigh this concern.",
+    "word_count": 308,
+    "id": "essay-032"
+  },
+  {
+    "source": "part2",
+    "topic": "Animals",
+    "question_text": "Some people believe that it is wrong to keep animals in zoos, while others think that zoos are important for education and conservation. Discuss both views and give your opinion.",
+    "question_type": "discussion",
+    "introduction": "Traditionally places of entertainment, zoos have changed considerably, and mostly for the better. While some feel that they have a crucial role to play both in education and in conservation more broadly, others argue that they are unsuitable places for animals. This essay will discuss both views and outline why I feel zoos are cruel and pointless.",
+    "body_paragraphs": [
+      {
+        "text": "Advocates of zoos claim that they are an indispensable tool in raising awareness of environmental issues and fighting species extinction. Indeed, many zoos are engaged in captive breeding programs of endangered animals in order to provide a safety net for dwindling wild populations. In Australia, where the Tasmanian Devil population has been decimated by a contagious disease in recent years, Victorian zoos are breeding healthy Devils to bolster the numbers. Such programs, supporters claim, also help to educate the public and lead them towards more sustainable lives. In other words, contact encourages activism, in their view.",
+        "sentences": [
+          "Advocates of zoos claim that they are an indispensable tool in raising awareness of environmental issues and fighting species extinction.",
+          "Indeed, many zoos are engaged in captive breeding programs of endangered animals in order to provide a safety net for dwindling wild populations.",
+          "In Australia, where the Tasmanian Devil population has been decimated by a contagious disease in recent years, Victorian zoos are breeding healthy Devils to bolster the numbers.",
+          "Such programs, supporters claim, also help to educate the public and lead them towards more sustainable lives.",
+          "In other words, contact encourages activism, in their view."
+        ],
+        "sentence_count": 5,
+        "word_count": 96,
+        "structure_type": "PEEEL"
+      },
+      {
+        "text": "Despite these arguments, others, myself included, feel that keeping animals in captivity is unacceptable. Even though the Tasmanian Devils may thrive in captivity, most animals, particularly large wide-roaming species like lions and elephants, struggle to reproduce. For those that do, their life is spent in small enclosures with limited stimulation and little to no chance of ever returning to the wild. In terms of education, there is no evidence that seeing a captive animal leads to any meaningful shift in behaviour or attitudes. Clearly, zoo supporters' claims are unfounded.",
+        "sentences": [
+          "Despite these arguments, others, myself included, feel that keeping animals in captivity is unacceptable.",
+          "Even though the Tasmanian Devils may thrive in captivity, most animals, particularly large wide-roaming species like lions and elephants, struggle to reproduce.",
+          "For those that do, their life is spent in small enclosures with limited stimulation and little to no chance of ever returning to the wild.",
+          "In terms of education, there is no evidence that seeing a captive animal leads to any meaningful shift in behaviour or attitudes.",
+          "Clearly, zoo supporters' claims are unfounded."
+        ],
+        "sentence_count": 5,
+        "word_count": 89,
+        "structure_type": "PEEEL"
+      }
+    ],
+    "conclusion": "In conclusion, this essay discussed reasons why some people support zoos and others oppose them. In my view, while conservation efforts are vital, I feel that there are better ways to go about it than by locking animals up in zoos.",
+    "word_count": 283,
+    "id": "essay-033"
+  },
+  {
+    "source": "part2",
+    "topic": "Science/Technology",
+    "question_text": "Thanks to the development of technology, many employers are now offering employees the option to work from home. Is this a positive or negative development?",
+    "question_type": "advantages_disadvantages",
+    "introduction": "With the advancement of technology, the modern workplace has changed dramatically. As a result of the proliferation of communication tools like email, messaging and project management software systems, an increasing number of businesses are now allowing their staff to work from home. In my view, this is a positive step for both companies and workers.",
+    "body_paragraphs": [
+      {
+        "text": "From the businesses' perspective, there are two key benefits stemming from these flexible working arrangements. The first is a more productive workforce. Indeed, the recent isolation regulations of COVID-19 have proven beyond doubt that people can work even more efficiently and effectively from home. The office, it seems, is actually a distractor to many. The other advantage for a company is that working from home means employees can be recruited globally, not just within commuting distance from work. In other words, if a stellar marketing manager lives on the other side of the world, and is the best fit for the role, there is no reason not to hire them.",
+        "sentences": [
+          "From the businesses' perspective, there are two key benefits stemming from these flexible working arrangements.",
+          "The first is a more productive workforce.",
+          "Indeed, the recent isolation regulations of COVID-19 have proven beyond doubt that people can work even more efficiently and effectively from home.",
+          "The office, it seems, is actually a distractor to many.",
+          "The other advantage for a company is that working from home means employees can be recruited globally, not just within commuting distance from work.",
+          "In other words, if a stellar marketing manager lives on the other side of the world, and is the best fit for the role, there is no reason not to hire them."
+        ],
+        "sentence_count": 6,
+        "word_count": 110,
+        "structure_type": "UPEPE"
+      },
+      {
+        "text": "For the workers themselves the benefits abound. Chief among these is the ability to balance home and work life. Whereas, in the past, a typical working parent had to wake up early, prepare lunches, drive children to school, continue on to work, put in the 8-10 hours in the office before returning home to cook dinner, working from home reduces this load. A further plus is the flexibility the situation affords. Without the need to be present in office hours, workers can complete their tasks at a time that suits them, whether it is midnight or midday. This freedom not only improves the quality of their work, but of their life as well.",
+        "sentences": [
+          "For the workers themselves the benefits abound.",
+          "Chief among these is the ability to balance home and work life.",
+          "Whereas, in the past, a typical working parent had to wake up early, prepare lunches, drive children to school, continue on to work, put in the 8-10 hours in the office before returning home to cook dinner, working from home reduces this load.",
+          "A further plus is the flexibility the situation affords.",
+          "Without the need to be present in office hours, workers can complete their tasks at a time that suits them, whether it is midnight or midday.",
+          "This freedom not only improves the quality of their work, but of their life as well."
+        ],
+        "sentence_count": 6,
+        "word_count": 113,
+        "structure_type": "PEEEL"
+      }
+    ],
+    "conclusion": "In conclusion, although not every job can be done from home, if it is possible, it can be extremely beneficial. Companies can reap the rewards in terms of productivity and quality staff, while workers are able to manage their time better.",
+    "word_count": 319,
+    "id": "essay-034"
+  },
+  {
+    "source": "part2",
+    "topic": "Culture and Society",
+    "question_text": "Stress is now a major problem in many countries around the world. What are some of the factors in modern society that cause this stress, and how can we reduce it?",
+    "question_type": "causes_solutions",
+    "introduction": "Stress seems to have become synonymous with modern lifestyles, and it can have dire consequences for both mental and physical health. It is now a serious concern in many countries. This essay will discuss the two main causes of stress and suggest ways to manage it.",
+    "body_paragraphs": [
+      {
+        "text": "Certain features of modern society tend to induce stress. One is the stream of information about local and world events bombarding us daily. The internet and, more recently, smartphones have made such events inescapable. These constant notifications about a friend's personal crisis or a natural disaster somewhere in the world can elicit feelings of helplessness and, in turn, anxiety. The modern workplace also exacerbates stress for much the same reason. Whereas the working day used to end at 5:30pm in most cultures, now, employees, regardless of their role, are contactable and often work well beyond normal work hours. The more technology develops, the greater the stress becomes.",
+        "sentences": [
+          "Certain features of modern society tend to induce stress.",
+          "One is the stream of information about local and world events bombarding us daily.",
+          "The internet and, more recently, smartphones have made such events inescapable.",
+          "These constant notifications about a friend's personal crisis or a natural disaster somewhere in the world can elicit feelings of helplessness and, in turn, anxiety.",
+          "The modern workplace also exacerbates stress for much the same reason.",
+          "Whereas the working day used to end at 5:30pm in most cultures, now, employees, regardless of their role, are contactable and often work well beyond normal work hours.",
+          "The more technology develops, the greater the stress becomes."
+        ],
+        "sentence_count": 7,
+        "word_count": 107,
+        "structure_type": "PEEEL"
+      },
+      {
+        "text": "Reducing this everyday stress, however, is possible. The first step is to disconnect. We should curb our use of devices after work, turning off notifications, and switching off not only from work, but also from the news cycle and social media. If we do not set boundaries, the invasion of the outside world into our personal and mental space will only grow, inevitably leading to stress and other related illnesses. Another way to address this problem is physical exercise. Both rigorous activity like running or boxing, and even low-impact exercise like yoga and pilates can be beneficial and should be encouraged. They are the fastest way out of stress. The more we take care of our bodies, the healthier our minds will be.",
+        "sentences": [
+          "Reducing this everyday stress, however, is possible.",
+          "The first step is to disconnect.",
+          "We should curb our use of devices after work, turning off notifications, and switching off not only from work, but also from the news cycle and social media.",
+          "If we do not set boundaries, the invasion of the outside world into our personal and mental space will only grow, inevitably leading to stress and other related illnesses.",
+          "Another way to address this problem is physical exercise.",
+          "Both rigorous activity like running or boxing, and even low-impact exercise like yoga and pilates can be beneficial and should be encouraged.",
+          "They are the fastest way out of stress.",
+          "The more we take care of our bodies, the healthier our minds will be."
+        ],
+        "sentence_count": 8,
+        "word_count": 123,
+        "structure_type": "PEEEL"
+      }
+    ],
+    "conclusion": "Stress is undoubtedly a serious and pervasive problem, compounded by modern technology and work culture. If we draw personal boundaries with work and technology, we should see an overall improvement in our wellbeing.",
+    "word_count": 309,
+    "id": "essay-035"
+  },
+  {
+    "source": "part2",
+    "topic": "Money",
+    "question_text": "Many governments invest a great deal of money in space research. What are the advantages and potential disadvantages of spending money on space exploration?",
+    "question_type": "advantages_disadvantages",
+    "introduction": "Humankind is curious by nature, and it is this curiosity that drives our fascination with outer space. Globally, there are several countries that spend billions annually on space programs that seek to send people to space, discover new planets or simply uncover new information. In this essay, I will outline what I consider to be the two main benefits that can be gained from spending on such research, as well as some drawbacks of this investment.",
+    "body_paragraphs": [
+      {
+        "text": "Certainly, space exploration can bring about many positive impacts. Perhaps the most significant ones, ironically, are the by-products of the technological developments. Everyday items such as sunglasses, non-stick cookware, and important medical devices like pacemakers all came about thanks to research and development in the space field. Another plus is the benefit to humanity of finding another habitable planet. Indeed, if we continue to deplete our natural resources and pollute our own environment, the money spent on discovering a new planet, or on creating liveable spaces on Mars, for instance, will be well worth it.",
+        "sentences": [
+          "Certainly, space exploration can bring about many positive impacts.",
+          "Perhaps the most significant ones, ironically, are the by-products of the technological developments.",
+          "Everyday items such as sunglasses, non-stick cookware, and important medical devices like pacemakers all came about thanks to research and development in the space field.",
+          "Another plus is the benefit to humanity of finding another habitable planet.",
+          "Indeed, if we continue to deplete our natural resources and pollute our own environment, the money spent on discovering a new planet, or on creating liveable spaces on Mars, for instance, will be well worth it."
+        ],
+        "sentence_count": 5,
+        "word_count": 95,
+        "structure_type": "PEEEL"
+      },
+      {
+        "text": "Despite these benefits, there are also serious negative outcomes that can result from state spending on space research. The primary one is the diversion of funds from vital public services like healthcare and education. In the USA, for example, despite rocketing numbers of homeless people, and prohibitively expensive hospital care, the government continues to pour money into space programs. There is also the problem of space junk. When rockets and satellites launch and fall into disuse, they become part of the litter that is already cluttering up space. This debris poses potential risks to future missions as well as simply contributing to the global pollution problem.",
+        "sentences": [
+          "Despite these benefits, there are also serious negative outcomes that can result from state spending on space research.",
+          "The primary one is the diversion of funds from vital public services like healthcare and education.",
+          "In the USA, for example, despite rocketing numbers of homeless people, and prohibitively expensive hospital care, the government continues to pour money into space programs.",
+          "There is also the problem of space junk.",
+          "When rockets and satellites launch and fall into disuse, they become part of the litter that is already cluttering up space.",
+          "This debris poses potential risks to future missions as well as simply contributing to the global pollution problem."
+        ],
+        "sentence_count": 6,
+        "word_count": 106,
+        "structure_type": "PEEEL"
+      }
+    ],
+    "conclusion": "In conclusion, space research can have life-changing impacts here on Earth. It does, however, come at a potentially huge cost if a nation does not prioritise its spending and neglects the environmental fallout of missions.",
+    "word_count": 312,
+    "id": "essay-036"
+  },
+  {
+    "source": "part2",
+    "topic": "Family",
+    "question_text": "Many people believe that family has the greatest influence on a child’s development, while others argue that other factors such as television, friends and music are more significant. Discuss both views and give your opinion.",
+    "question_type": "discussion",
+    "introduction": "A child’s personality and character are formed in the early years of their life. While some people believe that the primary influence on this development is the child’s family, others feel that external factors, such as media and peers, are more important. In this essay, I will discuss both views and explain why I believe that the family remains the most significant influence.",
+    "body_paragraphs": [
+      {
+        "text": "On one hand, it is argued that the modern world offers many influences that can shape a child’s growth. Television, for instance, is a pervasive presence in most homes, and children are exposed to a wide range of content from a very young age. This can influence their language, their values, and even their aspirations. Similarly, as children grow older, their peer group becomes increasingly important. They may adopt the styles, interests, and even the behaviors of their friends in order to fit in. Music, too, can play a role, as it often forms a key part of a young person’s identity and can influence their outlook on the world.",
+        "sentences": [
+          "On one hand, it is argued that the modern world offers many influences that can shape a child’s growth.",
+          "Television, for instance, is a pervasive presence in most homes, and children are exposed to a wide range of content from a very young age.",
+          "This can influence their language, their values, and even their aspirations.",
+          "Similarly, as children grow older, their peer group becomes increasingly important.",
+          "They may adopt the styles, interests, and even the behaviors of their friends in order to fit in.",
+          "Music, too, can play a role, as it often forms a key part of a young person’s identity and can influence their outlook on the world."
+        ],
+        "sentence_count": 6,
+        "word_count": 110,
+        "structure_type": "PEEEL"
+      },
+      {
+        "text": "On the other hand, many people, myself included, believe that the family is the most fundamental influence. This is because the family is the first and most constant presence in a child’s life. It is within the family that a child learns their basic values, their sense of right and wrong, and their primary social skills. The influence of parents and siblings is often subconscious and deeply rooted, forming the foundation upon which all other influences are built. Even when children are exposed to media and peers, they often filter these experiences through the values and beliefs they have learned at home.",
+        "sentences": [
+          "On the other hand, many people, myself included, believe that the family is the most fundamental influence.",
+          "This is because the family is the first and most constant presence in a child’s life.",
+          "It is within the family that a child learns their basic values, their sense of right and wrong, and their primary social skills.",
+          "The influence of parents and siblings is often subconscious and deeply rooted, forming the foundation upon which all other influences are built.",
+          "Even when children are exposed to media and peers, they often filter these experiences through the values and beliefs they have learned at home."
+        ],
+        "sentence_count": 5,
+        "word_count": 102,
+        "structure_type": "PEEEL"
+      }
+    ],
+    "conclusion": "In conclusion, while it is true that many factors contribute to a child’s development, I believe that the family is the most significant. Although external influences like television and friends are undoubtedly important, they are secondary to the primary influence of the home environment.",
+    "word_count": 319,
+    "id": "essay-037"
+  }
+]

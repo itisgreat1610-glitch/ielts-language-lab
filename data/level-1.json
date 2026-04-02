@@ -1,0 +1,3424 @@
+{
+  "level": 1,
+  "title": "Word Recognition",
+  "description": "Master the 100 highest-frequency IELTS vocabulary words.",
+  "vocab_range": {
+    "tier": 1,
+    "min_rank": 1,
+    "max_rank": 100
+  },
+  "vocabulary": [
+    {
+      "id": "t1-0001",
+      "word": "research",
+      "tier": 1,
+      "rank": 1,
+      "score": 100,
+      "freq": 297,
+      "bookSpread": 11,
+      "awl": true,
+      "bridge": true,
+      "surfaceForms": [
+        "research",
+        "researchers",
+        "researcher",
+        "researched"
+      ],
+      "topics": [
+        "culture",
+        "environment",
+        "family",
+        "science",
+        "work"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0002",
+      "word": "environment",
+      "tier": 1,
+      "rank": 2,
+      "score": 100,
+      "freq": 144,
+      "bookSpread": 11,
+      "awl": true,
+      "bridge": true,
+      "surfaceForms": [
+        "environment",
+        "environmental",
+        "environments",
+        "environmentally"
+      ],
+      "topics": [
+        "crime",
+        "environment",
+        "family",
+        "society",
+        "transport",
+        "work"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0003",
+      "word": "process",
+      "tier": 1,
+      "rank": 3,
+      "score": 100,
+      "freq": 127,
+      "bookSpread": 11,
+      "awl": true,
+      "bridge": true,
+      "surfaceForms": [
+        "process",
+        "processes",
+        "processing",
+        "processed"
+      ],
+      "topics": [
+        "culture",
+        "health"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0004",
+      "word": "vary",
+      "tier": 1,
+      "rank": 4,
+      "score": 100,
+      "freq": 127,
+      "bookSpread": 11,
+      "awl": true,
+      "bridge": true,
+      "surfaceForms": [
+        "various",
+        "variety",
+        "vary",
+        "varied",
+        "variation"
+      ],
+      "topics": [
+        "education",
+        "health",
+        "society",
+        "technology",
+        "transport"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0005",
+      "word": "theory",
+      "tier": 1,
+      "rank": 5,
+      "score": 100,
+      "freq": 114,
+      "bookSpread": 11,
+      "awl": true,
+      "bridge": true,
+      "surfaceForms": [
+        "theory",
+        "theories",
+        "theoretical"
+      ],
+      "topics": [
+        "education",
+        "science"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0006",
+      "word": "design",
+      "tier": 1,
+      "rank": 6,
+      "score": 100,
+      "freq": 109,
+      "bookSpread": 11,
+      "awl": true,
+      "bridge": true,
+      "surfaceForms": [
+        "design",
+        "designed",
+        "designs",
+        "designing",
+        "designer"
+      ],
+      "topics": [
+        "health",
+        "technology",
+        "transport"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0007",
+      "word": "involve",
+      "tier": 1,
+      "rank": 7,
+      "score": 100,
+      "freq": 101,
+      "bookSpread": 11,
+      "awl": true,
+      "bridge": true,
+      "surfaceForms": [
+        "involved",
+        "involve",
+        "involves",
+        "involving",
+        "involvement"
+      ],
+      "topics": [
+        "crime",
+        "health",
+        "society",
+        "technology",
+        "transport"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0008",
+      "word": "technology",
+      "tier": 1,
+      "rank": 8,
+      "score": 100,
+      "freq": 96,
+      "bookSpread": 11,
+      "awl": true,
+      "bridge": true,
+      "surfaceForms": [
+        "technology",
+        "technologies",
+        "technological"
+      ],
+      "topics": [
+        "culture",
+        "education",
+        "media",
+        "society",
+        "technology",
+        "transport",
+        "work"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0009",
+      "word": "achieve",
+      "tier": 1,
+      "rank": 9,
+      "score": 100,
+      "freq": 84,
+      "bookSpread": 11,
+      "awl": true,
+      "bridge": true,
+      "surfaceForms": [
+        "achieve",
+        "achieved",
+        "achievement",
+        "achievements",
+        "achieving"
+      ],
+      "topics": [
+        "environment",
+        "family",
+        "work"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0010",
+      "word": "approach",
+      "tier": 1,
+      "rank": 10,
+      "score": 100,
+      "freq": 79,
+      "bookSpread": 11,
+      "awl": true,
+      "bridge": true,
+      "surfaceForms": [
+        "approach",
+        "approaches",
+        "approached",
+        "approaching"
+      ],
+      "topics": [
+        "education",
+        "science"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0011",
+      "word": "evidence",
+      "tier": 1,
+      "rank": 11,
+      "score": 100,
+      "freq": 78,
+      "bookSpread": 11,
+      "awl": true,
+      "bridge": true,
+      "surfaceForms": [
+        "evidence",
+        "evident",
+        "evidently"
+      ],
+      "topics": [
+        "culture",
+        "environment",
+        "food"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0012",
+      "word": "significant",
+      "tier": 1,
+      "rank": 12,
+      "score": 100,
+      "freq": 77,
+      "bookSpread": 11,
+      "awl": true,
+      "bridge": true,
+      "surfaceForms": [
+        "significant",
+        "significantly",
+        "significance"
+      ],
+      "topics": [
+        "culture",
+        "family",
+        "food",
+        "technology",
+        "work"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0013",
+      "word": "benefit",
+      "tier": 1,
+      "rank": 13,
+      "score": 100,
+      "freq": 74,
+      "bookSpread": 11,
+      "awl": true,
+      "bridge": true,
+      "surfaceForms": [
+        "benefit",
+        "benefits",
+        "beneficial"
+      ],
+      "topics": [
+        "crime",
+        "culture",
+        "education",
+        "family",
+        "society",
+        "technology",
+        "work"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0014",
+      "word": "require",
+      "tier": 1,
+      "rank": 14,
+      "score": 100,
+      "freq": 72,
+      "bookSpread": 11,
+      "awl": true,
+      "bridge": true,
+      "surfaceForms": [
+        "required",
+        "require",
+        "requirements",
+        "requiring",
+        "requires"
+      ],
+      "topics": [
+        "environment",
+        "family",
+        "food",
+        "society",
+        "technology",
+        "tourism",
+        "transport",
+        "work"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0015",
+      "word": "section",
+      "tier": 1,
+      "rank": 15,
+      "score": 100,
+      "freq": 71,
+      "bookSpread": 11,
+      "awl": true,
+      "bridge": true,
+      "surfaceForms": [
+        "section"
+      ],
+      "topics": [
+        "education"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0016",
+      "word": "major",
+      "tier": 1,
+      "rank": 16,
+      "score": 100,
+      "freq": 70,
+      "bookSpread": 11,
+      "awl": true,
+      "bridge": true,
+      "surfaceForms": [
+        "major"
+      ],
+      "topics": [
+        "crime",
+        "culture"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0017",
+      "word": "consider",
+      "tier": 1,
+      "rank": 17,
+      "score": 100,
+      "freq": 70,
+      "bookSpread": 11,
+      "awl": true,
+      "bridge": true,
+      "surfaceForms": [
+        "considered",
+        "consider",
+        "considerable",
+        "consideration",
+        "considers"
+      ],
+      "topics": [
+        "culture",
+        "education",
+        "environment",
+        "family",
+        "society",
+        "transport",
+        "work"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0018",
+      "word": "construct",
+      "tier": 1,
+      "rank": 18,
+      "score": 100,
+      "freq": 82,
+      "bookSpread": 10,
+      "awl": true,
+      "bridge": true,
+      "surfaceForms": [
+        "construction",
+        "constructed",
+        "construct",
+        "constructing"
+      ],
+      "topics": [
+        "housing",
+        "society"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0019",
+      "word": "evolve",
+      "tier": 1,
+      "rank": 19,
+      "score": 100,
+      "freq": 67,
+      "bookSpread": 10,
+      "awl": true,
+      "bridge": true,
+      "surfaceForms": [
+        "evolution",
+        "evolved",
+        "evolutionary",
+        "evolves",
+        "evolve"
+      ],
+      "topics": [
+        "environment",
+        "science"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0020",
+      "word": "transport",
+      "tier": 1,
+      "rank": 20,
+      "score": 100,
+      "freq": 93,
+      "bookSpread": 9,
+      "awl": true,
+      "bridge": true,
+      "surfaceForms": [
+        "transport",
+        "transportation",
+        "transported",
+        "transporting"
+      ],
+      "topics": [
+        "environment",
+        "transport"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0021",
+      "word": "economy",
+      "tier": 1,
+      "rank": 21,
+      "score": 100,
+      "freq": 78,
+      "bookSpread": 8,
+      "awl": true,
+      "bridge": true,
+      "surfaceForms": [
+        "economic",
+        "economy",
+        "economics",
+        "economically",
+        "economies"
+      ],
+      "topics": [
+        "family",
+        "media"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0022",
+      "word": "area",
+      "tier": 1,
+      "rank": 22,
+      "score": 99.8,
+      "freq": 66,
+      "bookSpread": 11,
+      "awl": true,
+      "bridge": true,
+      "surfaceForms": [
+        "area"
+      ],
+      "topics": [
+        "housing",
+        "science",
+        "technology"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0023",
+      "word": "respond",
+      "tier": 1,
+      "rank": 23,
+      "score": 98.6,
+      "freq": 62,
+      "bookSpread": 11,
+      "awl": true,
+      "bridge": true,
+      "surfaceForms": [
+        "response",
+        "responded",
+        "responses",
+        "responding",
+        "respond"
+      ],
+      "topics": [
+        "environment",
+        "technology"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0024",
+      "word": "impact",
+      "tier": 1,
+      "rank": 24,
+      "score": 98.3,
+      "freq": 61,
+      "bookSpread": 11,
+      "awl": true,
+      "bridge": true,
+      "surfaceForms": [
+        "impact"
+      ],
+      "topics": [
+        "culture",
+        "education",
+        "environment",
+        "family",
+        "food",
+        "health",
+        "media",
+        "society"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0025",
+      "word": "technique",
+      "tier": 1,
+      "rank": 25,
+      "score": 97.4,
+      "freq": 58,
+      "bookSpread": 11,
+      "awl": true,
+      "bridge": true,
+      "surfaceForms": [
+        "technical",
+        "techniques",
+        "technique",
+        "technically"
+      ],
+      "topics": [
+        "environment"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0026",
+      "word": "team",
+      "tier": 1,
+      "rank": 26,
+      "score": 97.4,
+      "freq": 58,
+      "bookSpread": 10,
+      "awl": true,
+      "bridge": true,
+      "surfaceForms": [
+        "team"
+      ],
+      "topics": [
+        "health",
+        "society"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0027",
+      "word": "source",
+      "tier": 1,
+      "rank": 27,
+      "score": 97.1,
+      "freq": 57,
+      "bookSpread": 10,
+      "awl": true,
+      "bridge": true,
+      "surfaceForms": [
+        "source",
+        "sources"
+      ],
+      "topics": [
+        "environment",
+        "media"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0028",
+      "word": "range",
+      "tier": 1,
+      "rank": 28,
+      "score": 96.8,
+      "freq": 56,
+      "bookSpread": 11,
+      "awl": true,
+      "bridge": true,
+      "surfaceForms": [
+        "range"
+      ],
+      "topics": [
+        "environment",
+        "family",
+        "technology"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0029",
+      "word": "energy",
+      "tier": 1,
+      "rank": 29,
+      "score": 96.8,
+      "freq": 56,
+      "bookSpread": 9,
+      "awl": true,
+      "bridge": true,
+      "surfaceForms": [
+        "energy",
+        "energies"
+      ],
+      "topics": [
+        "environment"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0030",
+      "word": "similar",
+      "tier": 1,
+      "rank": 30,
+      "score": 96.2,
+      "freq": 54,
+      "bookSpread": 11,
+      "awl": true,
+      "bridge": true,
+      "surfaceForms": [
+        "similar"
+      ],
+      "topics": [
+        "education",
+        "science"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0031",
+      "word": "data",
+      "tier": 1,
+      "rank": 31,
+      "score": 95.3,
+      "freq": 51,
+      "bookSpread": 11,
+      "awl": true,
+      "bridge": true,
+      "surfaceForms": [
+        "data"
+      ],
+      "topics": [
+        "science",
+        "technology"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0032",
+      "word": "region",
+      "tier": 1,
+      "rank": 32,
+      "score": 95,
+      "freq": 55,
+      "bookSpread": 11,
+      "awl": true,
+      "bridge": true,
+      "surfaceForms": [
+        "region",
+        "regions",
+        "regional"
+      ],
+      "topics": [
+        "environment"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0033",
+      "word": "potential",
+      "tier": 1,
+      "rank": 33,
+      "score": 95,
+      "freq": 50,
+      "bookSpread": 11,
+      "awl": true,
+      "bridge": true,
+      "surfaceForms": [
+        "potential"
+      ],
+      "topics": [
+        "culture",
+        "education",
+        "family",
+        "work"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0034",
+      "word": "survive",
+      "tier": 1,
+      "rank": 34,
+      "score": 95,
+      "freq": 50,
+      "bookSpread": 11,
+      "awl": true,
+      "bridge": true,
+      "surfaceForms": [
+        "survive",
+        "survival",
+        "survived",
+        "surviving",
+        "survives"
+      ],
+      "topics": [
+        "culture",
+        "environment",
+        "health"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0035",
+      "word": "role",
+      "tier": 1,
+      "rank": 35,
+      "score": 95,
+      "freq": 50,
+      "bookSpread": 11,
+      "awl": true,
+      "bridge": true,
+      "surfaceForms": [
+        "role"
+      ],
+      "topics": [
+        "culture",
+        "education",
+        "environment",
+        "family",
+        "society",
+        "technology"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0036",
+      "word": "contribute",
+      "tier": 1,
+      "rank": 36,
+      "score": 94.7,
+      "freq": 49,
+      "bookSpread": 11,
+      "awl": true,
+      "bridge": true,
+      "surfaceForms": [
+        "contribute",
+        "contributions",
+        "contributed",
+        "contribution",
+        "contributing"
+      ],
+      "topics": [
+        "education",
+        "environment",
+        "family",
+        "society",
+        "work"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0037",
+      "word": "analyse",
+      "tier": 1,
+      "rank": 37,
+      "score": 94.7,
+      "freq": 49,
+      "bookSpread": 10,
+      "awl": true,
+      "bridge": true,
+      "surfaceForms": [
+        "analysis",
+        "analytical",
+        "analysed",
+        "analyse",
+        "analyze"
+      ],
+      "topics": [
+        "education",
+        "science"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0038",
+      "word": "period",
+      "tier": 1,
+      "rank": 38,
+      "score": 94.4,
+      "freq": 48,
+      "bookSpread": 11,
+      "awl": true,
+      "bridge": true,
+      "surfaceForms": [
+        "period"
+      ],
+      "topics": [
+        "work"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0039",
+      "word": "identify",
+      "tier": 1,
+      "rank": 39,
+      "score": 94.4,
+      "freq": 48,
+      "bookSpread": 11,
+      "awl": true,
+      "bridge": true,
+      "surfaceForms": [
+        "identify",
+        "identified",
+        "identifying",
+        "identifies",
+        "identification"
+      ],
+      "topics": [
+        "education",
+        "science"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0040",
+      "word": "physical",
+      "tier": 1,
+      "rank": 40,
+      "score": 94.4,
+      "freq": 48,
+      "bookSpread": 10,
+      "awl": true,
+      "bridge": true,
+      "surfaceForms": [
+        "physical",
+        "physically"
+      ],
+      "topics": [
+        "education",
+        "family",
+        "media",
+        "society",
+        "technology",
+        "work"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0041",
+      "word": "feature",
+      "tier": 1,
+      "rank": 41,
+      "score": 94.4,
+      "freq": 48,
+      "bookSpread": 9,
+      "awl": true,
+      "bridge": true,
+      "surfaceForms": [
+        "features",
+        "feature",
+        "featured"
+      ],
+      "topics": [
+        "society"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0042",
+      "word": "indicate",
+      "tier": 1,
+      "rank": 42,
+      "score": 94.1,
+      "freq": 47,
+      "bookSpread": 11,
+      "awl": true,
+      "bridge": true,
+      "surfaceForms": [
+        "indicate",
+        "indicates",
+        "indicating",
+        "indicated",
+        "indication"
+      ],
+      "topics": [
+        "education",
+        "science"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0043",
+      "word": "strategy",
+      "tier": 1,
+      "rank": 43,
+      "score": 94.1,
+      "freq": 47,
+      "bookSpread": 9,
+      "awl": true,
+      "bridge": true,
+      "surfaceForms": [
+        "strategy",
+        "strategies",
+        "strategically",
+        "strategic"
+      ],
+      "topics": [
+        "health",
+        "tourism"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0044",
+      "word": "create",
+      "tier": 1,
+      "rank": 44,
+      "score": 93.8,
+      "freq": 46,
+      "bookSpread": 11,
+      "awl": true,
+      "bridge": true,
+      "surfaceForms": [
+        "create"
+      ],
+      "topics": [
+        "family",
+        "media",
+        "work"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0045",
+      "word": "method",
+      "tier": 1,
+      "rank": 45,
+      "score": 93.8,
+      "freq": 46,
+      "bookSpread": 10,
+      "awl": true,
+      "bridge": true,
+      "surfaceForms": [
+        "method"
+      ],
+      "topics": [
+        "crime"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0046",
+      "word": "aware",
+      "tier": 1,
+      "rank": 46,
+      "score": 93.2,
+      "freq": 44,
+      "bookSpread": 11,
+      "awl": true,
+      "bridge": true,
+      "surfaceForms": [
+        "aware",
+        "awareness",
+        "unaware"
+      ],
+      "topics": [
+        "environment",
+        "media",
+        "society",
+        "transport"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0047",
+      "word": "reveal",
+      "tier": 1,
+      "rank": 47,
+      "score": 93,
+      "freq": 45,
+      "bookSpread": 11,
+      "awl": true,
+      "bridge": true,
+      "surfaceForms": [
+        "revealed",
+        "reveal",
+        "reveals",
+        "revealing"
+      ],
+      "topics": [
+        "family"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0048",
+      "word": "rely",
+      "tier": 1,
+      "rank": 48,
+      "score": 92.6,
+      "freq": 42,
+      "bookSpread": 10,
+      "awl": true,
+      "bridge": true,
+      "surfaceForms": [
+        "reliable",
+        "rely",
+        "reliance",
+        "relied",
+        "relies"
+      ],
+      "topics": [
+        "culture",
+        "education",
+        "environment",
+        "media",
+        "work"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0049",
+      "word": "intelligence",
+      "tier": 1,
+      "rank": 49,
+      "score": 92.5,
+      "freq": 55,
+      "bookSpread": 6,
+      "awl": true,
+      "bridge": true,
+      "surfaceForms": [
+        "intelligence"
+      ],
+      "topics": [
+        "education",
+        "technology"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0050",
+      "word": "predict",
+      "tier": 1,
+      "rank": 50,
+      "score": 92.3,
+      "freq": 41,
+      "bookSpread": 11,
+      "awl": true,
+      "bridge": true,
+      "surfaceForms": [
+        "predict",
+        "predictions",
+        "predictable",
+        "predicted",
+        "predicts"
+      ],
+      "topics": [
+        "environment",
+        "science"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0051",
+      "word": "individual",
+      "tier": 1,
+      "rank": 51,
+      "score": 92.3,
+      "freq": 41,
+      "bookSpread": 11,
+      "awl": true,
+      "bridge": true,
+      "surfaceForms": [
+        "individual"
+      ],
+      "topics": [
+        "environment",
+        "family",
+        "health",
+        "society"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0052",
+      "word": "occur",
+      "tier": 1,
+      "rank": 52,
+      "score": 92.3,
+      "freq": 41,
+      "bookSpread": 10,
+      "awl": true,
+      "bridge": true,
+      "surfaceForms": [
+        "occurred",
+        "occur",
+        "occurs",
+        "occurring",
+        "occurrence"
+      ],
+      "topics": [
+        "media",
+        "transport"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0053",
+      "word": "tradition",
+      "tier": 1,
+      "rank": 53,
+      "score": 91.7,
+      "freq": 39,
+      "bookSpread": 11,
+      "awl": true,
+      "bridge": true,
+      "surfaceForms": [
+        "traditional",
+        "traditionally",
+        "tradition",
+        "traditions"
+      ],
+      "topics": [
+        "culture",
+        "environment",
+        "family",
+        "health",
+        "media",
+        "society",
+        "technology"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0054",
+      "word": "project",
+      "tier": 1,
+      "rank": 54,
+      "score": 91.4,
+      "freq": 38,
+      "bookSpread": 10,
+      "awl": true,
+      "bridge": true,
+      "surfaceForms": [
+        "project"
+      ],
+      "topics": [
+        "technology"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0055",
+      "word": "site",
+      "tier": 1,
+      "rank": 55,
+      "score": 91.4,
+      "freq": 38,
+      "bookSpread": 10,
+      "awl": true,
+      "bridge": true,
+      "surfaceForms": [
+        "site"
+      ],
+      "topics": [
+        "environment",
+        "housing"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0056",
+      "word": "challenge",
+      "tier": 1,
+      "rank": 56,
+      "score": 91.1,
+      "freq": 37,
+      "bookSpread": 10,
+      "awl": true,
+      "bridge": true,
+      "surfaceForms": [
+        "challenge",
+        "challenging",
+        "challenges",
+        "challenged"
+      ],
+      "topics": [
+        "culture",
+        "education",
+        "health",
+        "society",
+        "technology",
+        "work"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0057",
+      "word": "structure",
+      "tier": 1,
+      "rank": 57,
+      "score": 90.7,
+      "freq": 44,
+      "bookSpread": 10,
+      "awl": true,
+      "bridge": true,
+      "surfaceForms": [
+        "structure",
+        "structures",
+        "structured",
+        "structural"
+      ],
+      "topics": [
+        "culture"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0058",
+      "word": "complex",
+      "tier": 1,
+      "rank": 58,
+      "score": 90.5,
+      "freq": 35,
+      "bookSpread": 9,
+      "awl": true,
+      "bridge": true,
+      "surfaceForms": [
+        "complex",
+        "complexity"
+      ],
+      "topics": [
+        "crime",
+        "health"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0059",
+      "word": "innovation",
+      "tier": 1,
+      "rank": 59,
+      "score": 90.5,
+      "freq": 35,
+      "bookSpread": 7,
+      "awl": true,
+      "bridge": true,
+      "surfaceForms": [
+        "innovation"
+      ],
+      "topics": [
+        "technology",
+        "work"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0060",
+      "word": "factors",
+      "tier": 1,
+      "rank": 60,
+      "score": 90.2,
+      "freq": 39,
+      "bookSpread": 9,
+      "awl": true,
+      "bridge": true,
+      "surfaceForms": [
+        "factors"
+      ],
+      "topics": [
+        "education",
+        "family",
+        "technology",
+        "work"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0061",
+      "word": "adapt",
+      "tier": 1,
+      "rank": 61,
+      "score": 90.1,
+      "freq": 37,
+      "bookSpread": 10,
+      "awl": true,
+      "bridge": true,
+      "surfaceForms": [
+        "adapted",
+        "adapt",
+        "adaptation",
+        "adapting",
+        "adaptive"
+      ],
+      "topics": [
+        "society"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0062",
+      "word": "develop",
+      "tier": 1,
+      "rank": 62,
+      "score": 90,
+      "freq": 243,
+      "bookSpread": 11,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "development",
+        "developed",
+        "developing",
+        "develop",
+        "developments"
+      ],
+      "topics": [
+        "environment",
+        "family",
+        "media",
+        "society",
+        "work"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0063",
+      "word": "study",
+      "tier": 1,
+      "rank": 63,
+      "score": 90,
+      "freq": 237,
+      "bookSpread": 11,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "study",
+        "studies",
+        "studied",
+        "studying"
+      ],
+      "topics": [
+        "culture",
+        "education",
+        "family",
+        "science",
+        "technology",
+        "work"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0064",
+      "word": "differ",
+      "tier": 1,
+      "rank": 64,
+      "score": 90,
+      "freq": 228,
+      "bookSpread": 11,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "different",
+        "difference",
+        "differences",
+        "differently",
+        "differ"
+      ],
+      "topics": [
+        "culture",
+        "food",
+        "health",
+        "society",
+        "technology",
+        "transport"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0065",
+      "word": "science",
+      "tier": 1,
+      "rank": 65,
+      "score": 90,
+      "freq": 227,
+      "bookSpread": 11,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "scientists",
+        "science",
+        "scientific",
+        "sciences",
+        "scientist"
+      ],
+      "topics": [
+        "culture",
+        "environment",
+        "science"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0066",
+      "word": "produce",
+      "tier": 1,
+      "rank": 66,
+      "score": 90,
+      "freq": 210,
+      "bookSpread": 11,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "production",
+        "produce",
+        "produced",
+        "producing",
+        "productivity"
+      ],
+      "topics": [
+        "environment",
+        "technology",
+        "tourism",
+        "work"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0067",
+      "word": "world",
+      "tier": 1,
+      "rank": 67,
+      "score": 90,
+      "freq": 199,
+      "bookSpread": 11,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "world"
+      ],
+      "topics": [
+        "crime",
+        "education",
+        "environment",
+        "family",
+        "health",
+        "science",
+        "society",
+        "technology"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0068",
+      "word": "work",
+      "tier": 1,
+      "rank": 68,
+      "score": 90,
+      "freq": 183,
+      "bookSpread": 11,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "work"
+      ],
+      "topics": [
+        "crime",
+        "culture",
+        "education",
+        "environment",
+        "family",
+        "health",
+        "society",
+        "technology"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0069",
+      "word": "century",
+      "tier": 1,
+      "rank": 69,
+      "score": 90,
+      "freq": 183,
+      "bookSpread": 11,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "century",
+        "centuries"
+      ],
+      "topics": [
+        "science"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0070",
+      "word": "children",
+      "tier": 1,
+      "rank": 70,
+      "score": 90,
+      "freq": 174,
+      "bookSpread": 11,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "children",
+        "child",
+        "childhood"
+      ],
+      "topics": [
+        "culture",
+        "education",
+        "family",
+        "food",
+        "health",
+        "science",
+        "society",
+        "technology"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0071",
+      "word": "found",
+      "tier": 1,
+      "rank": 71,
+      "score": 90,
+      "freq": 156,
+      "bookSpread": 11,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "found"
+      ],
+      "topics": [
+        "family",
+        "health",
+        "science"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0072",
+      "word": "species",
+      "tier": 1,
+      "rank": 72,
+      "score": 90,
+      "freq": 152,
+      "bookSpread": 11,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "species"
+      ],
+      "topics": [
+        "environment",
+        "science"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0073",
+      "word": "human",
+      "tier": 1,
+      "rank": 73,
+      "score": 90,
+      "freq": 145,
+      "bookSpread": 11,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "human"
+      ],
+      "topics": [
+        "science",
+        "society"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0074",
+      "word": "suggest",
+      "tier": 1,
+      "rank": 74,
+      "score": 90,
+      "freq": 142,
+      "bookSpread": 11,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "suggest",
+        "suggests",
+        "suggested",
+        "suggestion",
+        "suggesting"
+      ],
+      "topics": [
+        "crime",
+        "education",
+        "environment",
+        "family",
+        "health",
+        "society",
+        "transport",
+        "work"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0075",
+      "word": "life",
+      "tier": 1,
+      "rank": 75,
+      "score": 90,
+      "freq": 141,
+      "bookSpread": 11,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "life"
+      ],
+      "topics": [
+        "crime",
+        "education",
+        "environment",
+        "family",
+        "science",
+        "society",
+        "technology",
+        "work"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0076",
+      "word": "increase",
+      "tier": 1,
+      "rank": 76,
+      "score": 90,
+      "freq": 141,
+      "bookSpread": 11,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "increase",
+        "increasingly",
+        "increased",
+        "increasing",
+        "increases"
+      ],
+      "topics": [
+        "crime",
+        "education",
+        "environment",
+        "family",
+        "health",
+        "media",
+        "society",
+        "technology"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0077",
+      "word": "result",
+      "tier": 1,
+      "rank": 77,
+      "score": 90,
+      "freq": 139,
+      "bookSpread": 11,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "result",
+        "results",
+        "resulting",
+        "resulted"
+      ],
+      "topics": [
+        "crime",
+        "culture",
+        "environment",
+        "family",
+        "health",
+        "media",
+        "science",
+        "technology"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0078",
+      "word": "like",
+      "tier": 1,
+      "rank": 78,
+      "score": 90,
+      "freq": 135,
+      "bookSpread": 11,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "like"
+      ],
+      "topics": [
+        "crime",
+        "culture",
+        "education",
+        "environment",
+        "family",
+        "food",
+        "health",
+        "housing"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0079",
+      "word": "plant",
+      "tier": 1,
+      "rank": 79,
+      "score": 90,
+      "freq": 134,
+      "bookSpread": 11,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "plants",
+        "plant",
+        "planting"
+      ],
+      "topics": [
+        "environment"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0080",
+      "word": "society",
+      "tier": 1,
+      "rank": 80,
+      "score": 90,
+      "freq": 130,
+      "bookSpread": 11,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "social",
+        "society",
+        "societies",
+        "socially",
+        "societal"
+      ],
+      "topics": [
+        "crime",
+        "culture",
+        "education",
+        "family",
+        "food",
+        "media",
+        "society",
+        "technology"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0081",
+      "word": "example",
+      "tier": 1,
+      "rank": 81,
+      "score": 90,
+      "freq": 128,
+      "bookSpread": 11,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "example"
+      ],
+      "topics": [
+        "environment",
+        "family",
+        "food",
+        "health",
+        "media",
+        "society",
+        "tourism",
+        "work"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0082",
+      "word": "animal",
+      "tier": 1,
+      "rank": 82,
+      "score": 90,
+      "freq": 125,
+      "bookSpread": 11,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "animals",
+        "animal"
+      ],
+      "topics": [
+        "environment"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0083",
+      "word": "effect",
+      "tier": 1,
+      "rank": 83,
+      "score": 90,
+      "freq": 123,
+      "bookSpread": 11,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "effects",
+        "effect",
+        "effective",
+        "effectively",
+        "effectiveness"
+      ],
+      "topics": [
+        "crime",
+        "culture",
+        "health",
+        "media",
+        "society",
+        "technology",
+        "tourism"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0084",
+      "word": "provide",
+      "tier": 1,
+      "rank": 84,
+      "score": 90,
+      "freq": 119,
+      "bookSpread": 11,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "provide",
+        "provided",
+        "provides",
+        "providing",
+        "provision"
+      ],
+      "topics": [
+        "crime",
+        "culture",
+        "environment",
+        "family",
+        "society",
+        "technology",
+        "tourism"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0085",
+      "word": "natural",
+      "tier": 1,
+      "rank": 85,
+      "score": 90,
+      "freq": 115,
+      "bookSpread": 11,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "natural",
+        "nature",
+        "naturally"
+      ],
+      "topics": [
+        "culture",
+        "environment",
+        "society",
+        "technology",
+        "work"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0086",
+      "word": "help",
+      "tier": 1,
+      "rank": 86,
+      "score": 90,
+      "freq": 113,
+      "bookSpread": 11,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "help"
+      ],
+      "topics": [
+        "crime",
+        "education",
+        "environment",
+        "family",
+        "health",
+        "society",
+        "tourism",
+        "work"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0087",
+      "word": "particular",
+      "tier": 1,
+      "rank": 87,
+      "score": 90,
+      "freq": 108,
+      "bookSpread": 11,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "particular",
+        "particularly"
+      ],
+      "topics": [
+        "education",
+        "environment",
+        "family",
+        "food",
+        "media"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0088",
+      "word": "university",
+      "tier": 1,
+      "rank": 88,
+      "score": 90,
+      "freq": 108,
+      "bookSpread": 11,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "university"
+      ],
+      "topics": [
+        "education",
+        "family"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0089",
+      "word": "today",
+      "tier": 1,
+      "rank": 89,
+      "score": 90,
+      "freq": 107,
+      "bookSpread": 11,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "today"
+      ],
+      "topics": [
+        "environment",
+        "family",
+        "health",
+        "technology",
+        "work"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0090",
+      "word": "discover",
+      "tier": 1,
+      "rank": 90,
+      "score": 90,
+      "freq": 106,
+      "bookSpread": 11,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "discovery",
+        "discovered",
+        "discoveries",
+        "discovering",
+        "discover"
+      ],
+      "topics": [
+        "culture",
+        "science",
+        "work"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0091",
+      "word": "system",
+      "tier": 1,
+      "rank": 91,
+      "score": 90,
+      "freq": 103,
+      "bookSpread": 11,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "system",
+        "systems",
+        "systematic"
+      ],
+      "topics": [
+        "environment",
+        "technology",
+        "transport"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0092",
+      "word": "change",
+      "tier": 1,
+      "rank": 92,
+      "score": 90,
+      "freq": 103,
+      "bookSpread": 11,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "change"
+      ],
+      "topics": [
+        "crime",
+        "culture",
+        "environment",
+        "transport"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0093",
+      "word": "important",
+      "tier": 1,
+      "rank": 93,
+      "score": 90,
+      "freq": 98,
+      "bookSpread": 11,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "important"
+      ],
+      "topics": [
+        "crime",
+        "culture",
+        "education",
+        "environment",
+        "family",
+        "food",
+        "health",
+        "science"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0094",
+      "word": "experience",
+      "tier": 1,
+      "rank": 94,
+      "score": 90,
+      "freq": 96,
+      "bookSpread": 11,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "experience",
+        "experiences",
+        "experiencing",
+        "experienced"
+      ],
+      "topics": [
+        "education",
+        "family",
+        "health",
+        "technology",
+        "tourism",
+        "work"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0095",
+      "word": "large",
+      "tier": 1,
+      "rank": 95,
+      "score": 90,
+      "freq": 96,
+      "bookSpread": 11,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "large"
+      ],
+      "topics": [
+        "environment",
+        "media",
+        "society",
+        "technology"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0096",
+      "word": "explain",
+      "tier": 1,
+      "rank": 96,
+      "score": 90,
+      "freq": 95,
+      "bookSpread": 11,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "explains",
+        "explain",
+        "explanation",
+        "explained",
+        "explanations"
+      ],
+      "topics": [
+        "crime",
+        "culture",
+        "environment",
+        "family",
+        "media",
+        "science",
+        "society",
+        "technology"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0097",
+      "word": "certain",
+      "tier": 1,
+      "rank": 97,
+      "score": 90,
+      "freq": 94,
+      "bookSpread": 11,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "certain"
+      ],
+      "topics": [
+        "society",
+        "technology"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0098",
+      "word": "others",
+      "tier": 1,
+      "rank": 98,
+      "score": 90,
+      "freq": 93,
+      "bookSpread": 11,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "others"
+      ],
+      "topics": [
+        "crime",
+        "culture",
+        "education",
+        "environment",
+        "family",
+        "science",
+        "society",
+        "technology"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0099",
+      "word": "long",
+      "tier": 1,
+      "rank": 99,
+      "score": 90,
+      "freq": 93,
+      "bookSpread": 11,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "long"
+      ],
+      "topics": [
+        "crime",
+        "culture",
+        "environment",
+        "family",
+        "health",
+        "housing",
+        "work"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    },
+    {
+      "id": "t1-0100",
+      "word": "reduce",
+      "tier": 1,
+      "rank": 100,
+      "score": 90,
+      "freq": 92,
+      "bookSpread": 11,
+      "awl": false,
+      "bridge": true,
+      "surfaceForms": [
+        "reduce",
+        "reducing",
+        "reduces",
+        "reduction",
+        "reduced"
+      ],
+      "topics": [
+        "crime",
+        "environment",
+        "food",
+        "health",
+        "society",
+        "technology",
+        "transport"
+      ],
+      "collocations": [],
+      "bandLadder": {}
+    }
+  ],
+  "exercises": {
+    "word_match": [
+      {
+        "id": "wm-001",
+        "items": [
+          {
+            "word": "research",
+            "definition": "systematic investigation or inquiry into a subject",
+            "word_id": "t1-0001"
+          },
+          {
+            "word": "environment",
+            "definition": "the surroundings or conditions in which a person or animal lives",
+            "word_id": "t1-0002"
+          },
+          {
+            "word": "process",
+            "definition": "a series of actions or steps taken to achieve a result",
+            "word_id": "t1-0003"
+          },
+          {
+            "word": "vary",
+            "definition": "to change or differ in nature, quantity, or level",
+            "word_id": "t1-0004"
+          },
+          {
+            "word": "theory",
+            "definition": "a set of principles or ideas intended to explain something",
+            "word_id": "t1-0005"
+          },
+          {
+            "word": "design",
+            "definition": "a plan or drawing showing the appearance or function of something",
+            "word_id": "t1-0006"
+          }
+        ]
+      },
+      {
+        "id": "wm-002",
+        "items": [
+          {
+            "word": "involve",
+            "definition": "to include someone or something as a necessary part",
+            "word_id": "t1-0007"
+          },
+          {
+            "word": "technology",
+            "definition": "practical application of scientific knowledge for industrial purposes",
+            "word_id": "t1-0008"
+          },
+          {
+            "word": "achieve",
+            "definition": "to successfully bring about or reach a desired objective",
+            "word_id": "t1-0009"
+          },
+          {
+            "word": "approach",
+            "definition": "a way of dealing with or treating something",
+            "word_id": "t1-0010"
+          },
+          {
+            "word": "evidence",
+            "definition": "facts or information indicating whether something is true",
+            "word_id": "t1-0011"
+          },
+          {
+            "word": "significant",
+            "definition": "important or large enough to have an effect or be noticed",
+            "word_id": "t1-0012"
+          }
+        ]
+      },
+      {
+        "id": "wm-003",
+        "items": [
+          {
+            "word": "benefit",
+            "definition": "an advantage or profit gained from something",
+            "word_id": "t1-0013"
+          },
+          {
+            "word": "require",
+            "definition": "to need someone or something as a necessary condition",
+            "word_id": "t1-0014"
+          },
+          {
+            "word": "section",
+            "definition": "a part or subdivision of something larger",
+            "word_id": "t1-0015"
+          },
+          {
+            "word": "major",
+            "definition": "of great importance, size, or extent",
+            "word_id": "t1-0016"
+          },
+          {
+            "word": "consider",
+            "definition": "to think carefully about something before deciding",
+            "word_id": "t1-0017"
+          },
+          {
+            "word": "construct",
+            "definition": "to build or put together something from parts or materials",
+            "word_id": "t1-0018"
+          }
+        ]
+      },
+      {
+        "id": "wm-004",
+        "items": [
+          {
+            "word": "evolve",
+            "definition": "to develop gradually or change over time",
+            "word_id": "t1-0019"
+          },
+          {
+            "word": "transport",
+            "definition": "to carry or move something from one place to another",
+            "word_id": "t1-0020"
+          },
+          {
+            "word": "economy",
+            "definition": "related to economy in an important way",
+            "word_id": "t1-0021"
+          },
+          {
+            "word": "area",
+            "definition": "related to area in an important way",
+            "word_id": "t1-0022"
+          },
+          {
+            "word": "respond",
+            "definition": "related to respond in an important way",
+            "word_id": "t1-0023"
+          },
+          {
+            "word": "impact",
+            "definition": "a marked effect or influence on something",
+            "word_id": "t1-0024"
+          }
+        ]
+      },
+      {
+        "id": "wm-005",
+        "items": [
+          {
+            "word": "technique",
+            "definition": "related to technique in an important way",
+            "word_id": "t1-0025"
+          },
+          {
+            "word": "team",
+            "definition": "related to team in an important way",
+            "word_id": "t1-0026"
+          },
+          {
+            "word": "source",
+            "definition": "related to source in an important way",
+            "word_id": "t1-0027"
+          },
+          {
+            "word": "range",
+            "definition": "related to range in an important way",
+            "word_id": "t1-0028"
+          },
+          {
+            "word": "energy",
+            "definition": "related to energy in an important way",
+            "word_id": "t1-0029"
+          },
+          {
+            "word": "similar",
+            "definition": "related to similar in an important way",
+            "word_id": "t1-0030"
+          }
+        ]
+      },
+      {
+        "id": "wm-006",
+        "items": [
+          {
+            "word": "data",
+            "definition": "related to data in an important way",
+            "word_id": "t1-0031"
+          },
+          {
+            "word": "region",
+            "definition": "related to region in an important way",
+            "word_id": "t1-0032"
+          },
+          {
+            "word": "potential",
+            "definition": "related to potential in an important way",
+            "word_id": "t1-0033"
+          },
+          {
+            "word": "survive",
+            "definition": "related to survive in an important way",
+            "word_id": "t1-0034"
+          },
+          {
+            "word": "role",
+            "definition": "a part or function that someone or something has",
+            "word_id": "t1-0035"
+          },
+          {
+            "word": "contribute",
+            "definition": "related to contribute in an important way",
+            "word_id": "t1-0036"
+          }
+        ]
+      },
+      {
+        "id": "wm-007",
+        "items": [
+          {
+            "word": "analyse",
+            "definition": "related to analyse in an important way",
+            "word_id": "t1-0037"
+          },
+          {
+            "word": "period",
+            "definition": "related to period in an important way",
+            "word_id": "t1-0038"
+          },
+          {
+            "word": "identify",
+            "definition": "related to identify in an important way",
+            "word_id": "t1-0039"
+          },
+          {
+            "word": "physical",
+            "definition": "related to physical in an important way",
+            "word_id": "t1-0040"
+          },
+          {
+            "word": "feature",
+            "definition": "a distinctive or characteristic part of something",
+            "word_id": "t1-0041"
+          },
+          {
+            "word": "indicate",
+            "definition": "related to indicate in an important way",
+            "word_id": "t1-0042"
+          }
+        ]
+      },
+      {
+        "id": "wm-008",
+        "items": [
+          {
+            "word": "strategy",
+            "definition": "related to strategy in an important way",
+            "word_id": "t1-0043"
+          },
+          {
+            "word": "create",
+            "definition": "related to create in an important way",
+            "word_id": "t1-0044"
+          },
+          {
+            "word": "method",
+            "definition": "related to method in an important way",
+            "word_id": "t1-0045"
+          },
+          {
+            "word": "aware",
+            "definition": "related to aware in an important way",
+            "word_id": "t1-0046"
+          },
+          {
+            "word": "reveal",
+            "definition": "related to reveal in an important way",
+            "word_id": "t1-0047"
+          },
+          {
+            "word": "rely",
+            "definition": "related to rely in an important way",
+            "word_id": "t1-0048"
+          }
+        ]
+      },
+      {
+        "id": "wm-009",
+        "items": [
+          {
+            "word": "intelligence",
+            "definition": "related to intelligence in an important way",
+            "word_id": "t1-0049"
+          },
+          {
+            "word": "predict",
+            "definition": "related to predict in an important way",
+            "word_id": "t1-0050"
+          },
+          {
+            "word": "individual",
+            "definition": "related to individual in an important way",
+            "word_id": "t1-0051"
+          },
+          {
+            "word": "occur",
+            "definition": "related to occur in an important way",
+            "word_id": "t1-0052"
+          },
+          {
+            "word": "tradition",
+            "definition": "related to tradition in an important way",
+            "word_id": "t1-0053"
+          },
+          {
+            "word": "project",
+            "definition": "related to project in an important way",
+            "word_id": "t1-0054"
+          }
+        ]
+      },
+      {
+        "id": "wm-010",
+        "items": [
+          {
+            "word": "site",
+            "definition": "related to site in an important way",
+            "word_id": "t1-0055"
+          },
+          {
+            "word": "challenge",
+            "definition": "related to challenge in an important way",
+            "word_id": "t1-0056"
+          },
+          {
+            "word": "structure",
+            "definition": "the arrangement of elements in something complex",
+            "word_id": "t1-0057"
+          },
+          {
+            "word": "complex",
+            "definition": "related to complex in an important way",
+            "word_id": "t1-0058"
+          },
+          {
+            "word": "innovation",
+            "definition": "related to innovation in an important way",
+            "word_id": "t1-0059"
+          },
+          {
+            "word": "factors",
+            "definition": "related to factors in an important way",
+            "word_id": "t1-0060"
+          }
+        ]
+      },
+      {
+        "id": "wm-011",
+        "items": [
+          {
+            "word": "adapt",
+            "definition": "related to adapt in an important way",
+            "word_id": "t1-0061"
+          },
+          {
+            "word": "develop",
+            "definition": "related to develop in an important way",
+            "word_id": "t1-0062"
+          },
+          {
+            "word": "study",
+            "definition": "related to study in an important way",
+            "word_id": "t1-0063"
+          },
+          {
+            "word": "differ",
+            "definition": "related to differ in an important way",
+            "word_id": "t1-0064"
+          },
+          {
+            "word": "science",
+            "definition": "related to science in an important way",
+            "word_id": "t1-0065"
+          },
+          {
+            "word": "produce",
+            "definition": "related to produce in an important way",
+            "word_id": "t1-0066"
+          }
+        ]
+      },
+      {
+        "id": "wm-012",
+        "items": [
+          {
+            "word": "world",
+            "definition": "related to world in an important way",
+            "word_id": "t1-0067"
+          },
+          {
+            "word": "work",
+            "definition": "related to work in an important way",
+            "word_id": "t1-0068"
+          },
+          {
+            "word": "century",
+            "definition": "related to century in an important way",
+            "word_id": "t1-0069"
+          },
+          {
+            "word": "children",
+            "definition": "related to children in an important way",
+            "word_id": "t1-0070"
+          },
+          {
+            "word": "found",
+            "definition": "related to found in an important way",
+            "word_id": "t1-0071"
+          },
+          {
+            "word": "species",
+            "definition": "related to species in an important way",
+            "word_id": "t1-0072"
+          }
+        ]
+      },
+      {
+        "id": "wm-013",
+        "items": [
+          {
+            "word": "human",
+            "definition": "related to human in an important way",
+            "word_id": "t1-0073"
+          },
+          {
+            "word": "suggest",
+            "definition": "related to suggest in an important way",
+            "word_id": "t1-0074"
+          },
+          {
+            "word": "life",
+            "definition": "related to life in an important way",
+            "word_id": "t1-0075"
+          },
+          {
+            "word": "increase",
+            "definition": "related to increase in an important way",
+            "word_id": "t1-0076"
+          },
+          {
+            "word": "result",
+            "definition": "related to result in an important way",
+            "word_id": "t1-0077"
+          },
+          {
+            "word": "like",
+            "definition": "related to like in an important way",
+            "word_id": "t1-0078"
+          }
+        ]
+      },
+      {
+        "id": "wm-014",
+        "items": [
+          {
+            "word": "plant",
+            "definition": "related to plant in an important way",
+            "word_id": "t1-0079"
+          },
+          {
+            "word": "society",
+            "definition": "related to society in an important way",
+            "word_id": "t1-0080"
+          },
+          {
+            "word": "example",
+            "definition": "related to example in an important way",
+            "word_id": "t1-0081"
+          },
+          {
+            "word": "animal",
+            "definition": "related to animal in an important way",
+            "word_id": "t1-0082"
+          },
+          {
+            "word": "effect",
+            "definition": "related to effect in an important way",
+            "word_id": "t1-0083"
+          },
+          {
+            "word": "provide",
+            "definition": "related to provide in an important way",
+            "word_id": "t1-0084"
+          }
+        ]
+      },
+      {
+        "id": "wm-015",
+        "items": [
+          {
+            "word": "natural",
+            "definition": "related to natural in an important way",
+            "word_id": "t1-0085"
+          },
+          {
+            "word": "help",
+            "definition": "related to help in an important way",
+            "word_id": "t1-0086"
+          },
+          {
+            "word": "particular",
+            "definition": "related to particular in an important way",
+            "word_id": "t1-0087"
+          },
+          {
+            "word": "university",
+            "definition": "related to university in an important way",
+            "word_id": "t1-0088"
+          },
+          {
+            "word": "today",
+            "definition": "related to today in an important way",
+            "word_id": "t1-0089"
+          },
+          {
+            "word": "discover",
+            "definition": "related to discover in an important way",
+            "word_id": "t1-0090"
+          }
+        ]
+      }
+    ],
+    "gap_fill": [
+      {
+        "id": "gf-001",
+        "sentence": "Scientists conduct extensive ___ to understand climate change.",
+        "answer": "research",
+        "options": [
+          "evolve",
+          "process",
+          "research",
+          "achieve"
+        ],
+        "word_id": "t1-0001"
+      },
+      {
+        "id": "gf-002",
+        "sentence": "A healthy ___ is essential for human wellbeing.",
+        "answer": "environment",
+        "options": [
+          "technology",
+          "contribute",
+          "environment",
+          "involve"
+        ],
+        "word_id": "t1-0002"
+      },
+      {
+        "id": "gf-003",
+        "sentence": "The manufacturing ___ requires careful quality control.",
+        "answer": "process",
+        "options": [
+          "involve",
+          "major",
+          "section",
+          "process"
+        ],
+        "word_id": "t1-0003"
+      },
+      {
+        "id": "gf-004",
+        "sentence": "Student performance tends to ___ depending on their motivation.",
+        "answer": "vary",
+        "options": [
+          "vary",
+          "contribute",
+          "range",
+          "major"
+        ],
+        "word_id": "t1-0004"
+      },
+      {
+        "id": "gf-005",
+        "sentence": "Darwin's ___ of evolution revolutionized biological science.",
+        "answer": "theory",
+        "options": [
+          "energy",
+          "theory",
+          "research",
+          "significant"
+        ],
+        "word_id": "t1-0005"
+      },
+      {
+        "id": "gf-006",
+        "sentence": "The ___ of the building combines modern and traditional elements.",
+        "answer": "design",
+        "options": [
+          "respond",
+          "technology",
+          "section",
+          "design"
+        ],
+        "word_id": "t1-0006"
+      },
+      {
+        "id": "gf-007",
+        "sentence": "The project ___s collaboration between multiple teams.",
+        "answer": "involve",
+        "options": [
+          "construct",
+          "impact",
+          "physical",
+          "involve"
+        ],
+        "word_id": "t1-0007"
+      },
+      {
+        "id": "gf-008",
+        "sentence": "___ has transformed how we communicate globally.",
+        "answer": "technology",
+        "options": [
+          "team",
+          "contribute",
+          "achieve",
+          "technology"
+        ],
+        "word_id": "t1-0008"
+      },
+      {
+        "id": "gf-009",
+        "sentence": "Hard work helps students ___ their academic goals.",
+        "answer": "achieve",
+        "options": [
+          "technique",
+          "period",
+          "require",
+          "achieve"
+        ],
+        "word_id": "t1-0009"
+      },
+      {
+        "id": "gf-010",
+        "sentence": "Different teachers use different ___es to teaching mathematics.",
+        "answer": "approach",
+        "options": [
+          "major",
+          "design",
+          "transport",
+          "approach"
+        ],
+        "word_id": "t1-0010"
+      },
+      {
+        "id": "gf-011",
+        "sentence": "Scientific ___ supports the existence of climate change.",
+        "answer": "evidence",
+        "options": [
+          "significant",
+          "evidence",
+          "data",
+          "technique"
+        ],
+        "word_id": "t1-0011"
+      },
+      {
+        "id": "gf-012",
+        "sentence": "The new technology represents a ___ breakthrough.",
+        "answer": "significant",
+        "options": [
+          "physical",
+          "significant",
+          "theory",
+          "evolve"
+        ],
+        "word_id": "t1-0012"
+      },
+      {
+        "id": "gf-013",
+        "sentence": "Regular exercise provides many health ___s.",
+        "answer": "benefit",
+        "options": [
+          "evidence",
+          "benefit",
+          "team",
+          "data"
+        ],
+        "word_id": "t1-0013"
+      },
+      {
+        "id": "gf-014",
+        "sentence": "Professional certification ___s years of study.",
+        "answer": "require",
+        "options": [
+          "major",
+          "vary",
+          "area",
+          "require"
+        ],
+        "word_id": "t1-0014"
+      },
+      {
+        "id": "gf-015",
+        "sentence": "The first ___ of the book introduces key concepts.",
+        "answer": "section",
+        "options": [
+          "require",
+          "evolve",
+          "section",
+          "theory"
+        ],
+        "word_id": "t1-0015"
+      },
+      {
+        "id": "gf-016",
+        "sentence": "Education is a ___ factor in economic development.",
+        "answer": "major",
+        "options": [
+          "source",
+          "approach",
+          "major",
+          "data"
+        ],
+        "word_id": "t1-0016"
+      },
+      {
+        "id": "gf-017",
+        "sentence": "We must ___ all perspectives before reaching a conclusion.",
+        "answer": "consider",
+        "options": [
+          "consider",
+          "analyse",
+          "contribute",
+          "construct"
+        ],
+        "word_id": "t1-0017"
+      },
+      {
+        "id": "gf-018",
+        "sentence": "The company will ___ a new office building downtown.",
+        "answer": "construct",
+        "options": [
+          "technique",
+          "section",
+          "construct",
+          "achieve"
+        ],
+        "word_id": "t1-0018"
+      },
+      {
+        "id": "gf-019",
+        "sentence": "Technology continues to ___ at a rapid pace.",
+        "answer": "evolve",
+        "options": [
+          "technology",
+          "evolve",
+          "approach",
+          "evidence"
+        ],
+        "word_id": "t1-0019"
+      },
+      {
+        "id": "gf-020",
+        "sentence": "Trucks ___ goods across the country every day.",
+        "answer": "transport",
+        "options": [
+          "team",
+          "transport",
+          "data",
+          "physical"
+        ],
+        "word_id": "t1-0020"
+      },
+      {
+        "id": "gf-021",
+        "sentence": "___ is an important concept in modern society.",
+        "answer": "economy",
+        "options": [
+          "construct",
+          "technology",
+          "economy",
+          "contribute"
+        ],
+        "word_id": "t1-0021"
+      },
+      {
+        "id": "gf-022",
+        "sentence": "___ is an important concept in modern society.",
+        "answer": "area",
+        "options": [
+          "data",
+          "energy",
+          "evidence",
+          "area"
+        ],
+        "word_id": "t1-0022"
+      },
+      {
+        "id": "gf-023",
+        "sentence": "___ is an important concept in modern society.",
+        "answer": "respond",
+        "options": [
+          "survive",
+          "respond",
+          "involve",
+          "significant"
+        ],
+        "word_id": "t1-0023"
+      },
+      {
+        "id": "gf-024",
+        "sentence": "Urbanization has a significant ___ on the environment.",
+        "answer": "impact",
+        "options": [
+          "evidence",
+          "approach",
+          "technique",
+          "impact"
+        ],
+        "word_id": "t1-0024"
+      },
+      {
+        "id": "gf-025",
+        "sentence": "___ is an important concept in modern society.",
+        "answer": "technique",
+        "options": [
+          "technology",
+          "technique",
+          "potential",
+          "environment"
+        ],
+        "word_id": "t1-0025"
+      },
+      {
+        "id": "gf-026",
+        "sentence": "___ is an important concept in modern society.",
+        "answer": "team",
+        "options": [
+          "major",
+          "vary",
+          "period",
+          "team"
+        ],
+        "word_id": "t1-0026"
+      },
+      {
+        "id": "gf-027",
+        "sentence": "___ is an important concept in modern society.",
+        "answer": "source",
+        "options": [
+          "source",
+          "achieve",
+          "contribute",
+          "theory"
+        ],
+        "word_id": "t1-0027"
+      },
+      {
+        "id": "gf-028",
+        "sentence": "___ is an important concept in modern society.",
+        "answer": "range",
+        "options": [
+          "analyse",
+          "evidence",
+          "range",
+          "consider"
+        ],
+        "word_id": "t1-0028"
+      },
+      {
+        "id": "gf-029",
+        "sentence": "___ is an important concept in modern society.",
+        "answer": "energy",
+        "options": [
+          "energy",
+          "transport",
+          "team",
+          "impact"
+        ],
+        "word_id": "t1-0029"
+      },
+      {
+        "id": "gf-030",
+        "sentence": "___ is an important concept in modern society.",
+        "answer": "similar",
+        "options": [
+          "major",
+          "section",
+          "technology",
+          "similar"
+        ],
+        "word_id": "t1-0030"
+      },
+      {
+        "id": "gf-031",
+        "sentence": "___ is an important concept in modern society.",
+        "answer": "data",
+        "options": [
+          "section",
+          "analyse",
+          "data",
+          "identify"
+        ],
+        "word_id": "t1-0031"
+      },
+      {
+        "id": "gf-032",
+        "sentence": "___ is an important concept in modern society.",
+        "answer": "region",
+        "options": [
+          "section",
+          "theory",
+          "vary",
+          "region"
+        ],
+        "word_id": "t1-0032"
+      },
+      {
+        "id": "gf-033",
+        "sentence": "___ is an important concept in modern society.",
+        "answer": "potential",
+        "options": [
+          "survive",
+          "major",
+          "potential",
+          "construct"
+        ],
+        "word_id": "t1-0033"
+      },
+      {
+        "id": "gf-034",
+        "sentence": "___ is an important concept in modern society.",
+        "answer": "survive",
+        "options": [
+          "data",
+          "survive",
+          "period",
+          "major"
+        ],
+        "word_id": "t1-0034"
+      },
+      {
+        "id": "gf-035",
+        "sentence": "Social media plays an important ___ in modern communication.",
+        "answer": "role",
+        "options": [
+          "role",
+          "range",
+          "involve",
+          "respond"
+        ],
+        "word_id": "t1-0035"
+      },
+      {
+        "id": "gf-036",
+        "sentence": "___ is an important concept in modern society.",
+        "answer": "contribute",
+        "options": [
+          "vary",
+          "team",
+          "contribute",
+          "involve"
+        ],
+        "word_id": "t1-0036"
+      },
+      {
+        "id": "gf-037",
+        "sentence": "___ is an important concept in modern society.",
+        "answer": "analyse",
+        "options": [
+          "role",
+          "analyse",
+          "energy",
+          "benefit"
+        ],
+        "word_id": "t1-0037"
+      },
+      {
+        "id": "gf-038",
+        "sentence": "___ is an important concept in modern society.",
+        "answer": "period",
+        "options": [
+          "similar",
+          "major",
+          "construct",
+          "period"
+        ],
+        "word_id": "t1-0038"
+      },
+      {
+        "id": "gf-039",
+        "sentence": "___ is an important concept in modern society.",
+        "answer": "identify",
+        "options": [
+          "vary",
+          "role",
+          "research",
+          "identify"
+        ],
+        "word_id": "t1-0039"
+      },
+      {
+        "id": "gf-040",
+        "sentence": "___ is an important concept in modern society.",
+        "answer": "physical",
+        "options": [
+          "region",
+          "physical",
+          "data",
+          "source"
+        ],
+        "word_id": "t1-0040"
+      }
+    ]
+  }
+}

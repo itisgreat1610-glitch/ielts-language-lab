@@ -1,0 +1,599 @@
+{
+  "level": 5,
+  "title": "GPS — Writing Skill",
+  "description": "Build paragraphs using GPS structure. Assemble sentences into correct PEEEL/UPEPE order.",
+  "vocab_range": null,
+  "exercises": {
+    "paragraph_assembly": [
+      {
+        "id": "asm-peeel-zoos",
+        "title": "PEEEL — Opinion Essay (Zoos)",
+        "type": "PEEEL",
+        "sentences": [
+          {
+            "text": "Although many zoos have made great improvements, there can be no doubt that captive animals suffer.",
+            "comp": "P",
+            "label": "Point"
+          },
+          {
+            "text": "Not only are the enclosures usually far too small, but the climate and conditions are often completely unsuitable.",
+            "comp": "E1",
+            "label": "Explanation"
+          },
+          {
+            "text": "Polar bears, for instance, travel across vast distances daily and yet, in some tropical regions, they are kept in small pens.",
+            "comp": "E2",
+            "label": "Example"
+          },
+          {
+            "text": "In addition to this discomfort, zoo animals can suffer stress as a result of unfamiliar cage-mates, not to mention noisy visitors.",
+            "comp": "E3",
+            "label": "Effect"
+          },
+          {
+            "text": "Clearly, the welfare of these animals is severely compromised.",
+            "comp": "L",
+            "label": "Link"
+          }
+        ],
+        "failTip": "Remember: Point (claim) → Explanation (why/how) → Example (specific proof) → Effect (consequence) → Link (back to thesis)."
+      },
+      {
+        "id": "asm-peeel-crime",
+        "title": "PEEEL — Problem-Solution (Crime)",
+        "type": "PEEEL",
+        "sentences": [
+          {
+            "text": "Despite the seriousness of the reoffending problem, there are a number of possible ways to remedy the situation.",
+            "comp": "P",
+            "label": "Point"
+          },
+          {
+            "text": "The key factor is the treatment of the underlying issues.",
+            "comp": "E1",
+            "label": "Explanation"
+          },
+          {
+            "text": "In many cases, this may mean addiction rehabilitation in prison or in the community.",
+            "comp": "E2",
+            "label": "Example"
+          },
+          {
+            "text": "Providing education programs or training can enhance employability, which would dramatically reduce their risk of reoffending.",
+            "comp": "E3",
+            "label": "Effect"
+          },
+          {
+            "text": "Clearly, addressing root causes is more effective than punishment alone.",
+            "comp": "L",
+            "label": "Link"
+          }
+        ],
+        "failTip": "The Explanation tells us WHAT the key factor is. The Example gives a specific case. The Effect shows the RESULT of that action."
+      },
+      {
+        "id": "asm-upepe-obesity",
+        "title": "UPEPE — Causes (Childhood Obesity)",
+        "type": "UPEPE",
+        "sentences": [
+          {
+            "text": "There are two main causes of weight problems among children.",
+            "comp": "U",
+            "label": "Umbrella"
+          },
+          {
+            "text": "The first one is poor diet.",
+            "comp": "P1",
+            "label": "Point 1"
+          },
+          {
+            "text": "Indeed, youngsters today consume vast quantities of fat, sugar and salt in fast food, which inevitably leads to weight gain.",
+            "comp": "E1",
+            "label": "Extend 1 (explain + evidence)"
+          },
+          {
+            "text": "The other major factor is sedentary lifestyles.",
+            "comp": "P2",
+            "label": "Point 2"
+          },
+          {
+            "text": "Modern children tend to spend their day sitting in front of screens, meaning they cannot burn the calories they consume.",
+            "comp": "E2",
+            "label": "Extend 2 (explain + effect)"
+          }
+        ],
+        "failTip": "UPEPE order: Umbrella (covers both) → Point 1 → Extend 1 (explain + prove it) → Point 2 → Extend 2 (explain + prove it). Each Extend does DOUBLE DUTY — it explains WHY and gives evidence."
+      },
+      {
+        "id": "asm-upepe-behav",
+        "title": "UPEPE — Solutions (School Behaviour)",
+        "type": "UPEPE",
+        "sentences": [
+          {
+            "text": "Clearly, in order to manage the problem, it must be tackled both at school and at home.",
+            "comp": "U",
+            "label": "Umbrella"
+          },
+          {
+            "text": "On an institutional level, school authorities need to get tough on bad behaviour.",
+            "comp": "P1",
+            "label": "Point 1"
+          },
+          {
+            "text": "That means they need to set rules regarding uniforms, homework, and classroom conduct, with consequences like detention if broken.",
+            "comp": "E1",
+            "label": "Extend 1 (explain + example)"
+          },
+          {
+            "text": "On the home front, parents too need to step up.",
+            "comp": "P2",
+            "label": "Point 2"
+          },
+          {
+            "text": "Without expectations and limitations around behaviour, they are setting their child up for a life of trouble.",
+            "comp": "E2",
+            "label": "Extend 2 (explain + effect)"
+          }
+        ],
+        "failTip": "Notice how 'On an institutional level' and 'On the home front' signal the TWO solutions. Each Extend gives concrete detail about HOW that solution works."
+      },
+      {
+        "id": "asm-intro-art",
+        "title": "Introduction — Discussion Essay (Art Funding)",
+        "type": "INTRO",
+        "sentences": [
+          {
+            "text": "It is generally accepted that art enriches a society and plays a valuable role in its culture and history.",
+            "comp": "S1",
+            "label": "Hook"
+          },
+          {
+            "text": "Although some support government investment in galleries and artistic organisations, others feel that this money should be spent on public services.",
+            "comp": "S2",
+            "label": "Background"
+          },
+          {
+            "text": "In this essay, I will consider both views and explain why I agree that state funding of the arts should be redirected.",
+            "comp": "S3",
+            "label": "Thesis"
+          }
+        ],
+        "failTip": "Introduction order is always: Hook (general topic) → Background (the debate/narrowing) → Thesis (your plan/position). The Hook is the widest; the Thesis is the most specific."
+      },
+      {
+        "id": "asm-conc-space",
+        "title": "Conclusion — Opinion Essay (Space)",
+        "type": "CONCLUSION",
+        "sentences": [
+          {
+            "text": "In conclusion, humanity's thirst for knowledge is unquenchable.",
+            "comp": "C1",
+            "label": "Signal + Restatement"
+          },
+          {
+            "text": "It is time, however, for private corporations to invest.",
+            "comp": "C2",
+            "label": "Concession + Shift"
+          },
+          {
+            "text": "Governments must take responsibility for their real duty here on earth.",
+            "comp": "C3",
+            "label": "Final Position"
+          }
+        ],
+        "failTip": "Conclusion order: Signal ('In conclusion') → Concession (acknowledge other side) → Final Position (your strongest statement). Always end on YOUR position, not the concession."
+      }
+    ],
+    "gps_builder": [
+      {
+        "id": "bu0",
+        "title": "PEEEL — Opinion Essay",
+        "topic": "\"Social media harms children's mental health.\"",
+        "slots": [
+          {
+            "label": "P — Point",
+            "gps": "gps-point",
+            "opts": [
+              "a significant concern",
+              "a pervasive problem",
+              "a growing number",
+              "a detrimental effect"
+            ],
+            "co": "a significant concern",
+            "tpl": "Perhaps the most _____ regarding children's social media use is the impact on their mental health."
+          },
+          {
+            "label": "E — Explanation",
+            "gps": "gps-explain",
+            "opts": [
+              "stems from",
+              "leads to",
+              "has plummeted",
+              "enhances"
+            ],
+            "co": "stems from",
+            "tpl": "This _____ the constant comparison with peers' curated lives online, which triggers anxiety."
+          },
+          {
+            "label": "E — Example",
+            "gps": "gps-example",
+            "opts": [
+              "a significant number of",
+              "the vast majority of",
+              "individuals",
+              "the underlying causes"
+            ],
+            "co": "a significant number of",
+            "tpl": "Indeed, research found that _____ teenagers on social media reported symptoms of depression."
+          },
+          {
+            "label": "E — Effect",
+            "gps": "gps-effect",
+            "opts": [
+              "can have severe impacts on",
+              "is crucial",
+              "stems from",
+              "a pervasive problem"
+            ],
+            "co": "can have severe impacts on",
+            "tpl": "If left unaddressed, this _____ young people's self-esteem and academic performance."
+          },
+          {
+            "label": "L — Link",
+            "gps": "gps-link",
+            "opts": [
+              "crucial",
+              "dramatic",
+              "pervasive",
+              "detrimental"
+            ],
+            "co": "crucial",
+            "tpl": "Clearly, protecting children from these harmful effects is _____."
+          }
+        ]
+      },
+      {
+        "id": "bu1",
+        "title": "UPEPE — Causes (Problem-Solution)",
+        "topic": "\"What are the causes of childhood obesity?\"",
+        "slots": [
+          {
+            "label": "U — Umbrella",
+            "gps": "gps-umbrella",
+            "opts": [
+              "key drivers",
+              "underlying causes",
+              "significant concerns",
+              "far-reaching effects"
+            ],
+            "co": "key drivers",
+            "tpl": "There are two _____ of weight problems among children."
+          },
+          {
+            "label": "P1 — Point 1",
+            "gps": "gps-point",
+            "opts": [
+              "a sedentary lifestyle",
+              "the root causes",
+              "a poor diet",
+              "a growing number"
+            ],
+            "co": "a poor diet",
+            "tpl": "The first one is _____."
+          },
+          {
+            "label": "E1 — Extend 1",
+            "gps": "gps-explain",
+            "opts": [
+              "leads to",
+              "stems from",
+              "enhances",
+              "curbs"
+            ],
+            "co": "leads to",
+            "tpl": "Youngsters consume vast quantities of fat and sugar, which inevitably _____ weight gain."
+          },
+          {
+            "label": "P2 — Point 2",
+            "gps": "gps-point",
+            "opts": [
+              "a sedentary lifestyle",
+              "the root causes",
+              "a vicious cycle",
+              "severe consequences"
+            ],
+            "co": "a sedentary lifestyle",
+            "tpl": "The other major factor is _____."
+          },
+          {
+            "label": "E2 — Extend 2",
+            "gps": "gps-explain",
+            "opts": [
+              "results in",
+              "stems from",
+              "enhances",
+              "ought to be phased out"
+            ],
+            "co": "results in",
+            "tpl": "Modern children spend their day in front of screens, _____ them being unable to burn calories."
+          }
+        ]
+      },
+      {
+        "id": "bu2",
+        "title": "PEEEL — Discussion Essay (Reporter Mode)",
+        "topic": "\"Some feel zoos should be closed. Discuss both views.\"",
+        "slots": [
+          {
+            "label": "P — Point (Reporter)",
+            "gps": "gps-point",
+            "opts": [
+              "advocates of zoos claim",
+              "the underlying causes show",
+              "a pervasive problem exists",
+              "it is crucial to note"
+            ],
+            "co": "advocates of zoos claim",
+            "tpl": "_____ that they serve an indispensable role in conservation."
+          },
+          {
+            "label": "E — Explanation",
+            "gps": "gps-explain",
+            "opts": [
+              "contributes to",
+              "stems from",
+              "it is claimed",
+              "exacerbates"
+            ],
+            "co": "contributes to",
+            "tpl": "Breeding rare species in captivity _____ the survival of endangered populations."
+          },
+          {
+            "label": "E — Example",
+            "gps": "gps-example",
+            "opts": [
+              "such institutions",
+              "a growing number",
+              "the vast majority",
+              "the underlying causes"
+            ],
+            "co": "such institutions",
+            "tpl": "Indeed, _____ have successfully reintroduced pandas and condors into the wild."
+          },
+          {
+            "label": "E — Effect",
+            "gps": "gps-effect",
+            "opts": [
+              "poses potential risks",
+              "reaps benefits",
+              "faces challenges",
+              "suffers from"
+            ],
+            "co": "reaps benefits",
+            "tpl": "Without these programs, many species would face extinction rather than _____ from conservation."
+          },
+          {
+            "label": "L — Link",
+            "gps": "gps-link",
+            "opts": [
+              "essential",
+              "futile",
+              "pervasive",
+              "detrimental"
+            ],
+            "co": "essential",
+            "tpl": "Clearly, the role of zoos in species preservation is _____."
+          }
+        ]
+      },
+      {
+        "id": "bu3",
+        "title": "UPEPE — Solutions (Problem-Solution)",
+        "topic": "\"How can youth unemployment be reduced?\"",
+        "slots": [
+          {
+            "label": "U — Umbrella",
+            "gps": "gps-umbrella",
+            "opts": [
+              "practical measures",
+              "underlying causes",
+              "significant concerns",
+              "detrimental effects"
+            ],
+            "co": "practical measures",
+            "tpl": "There are several _____ that can be taken to address this issue."
+          },
+          {
+            "label": "P1 — Point 1",
+            "gps": "gps-point",
+            "opts": [
+              "enhance",
+              "phase out",
+              "subsidise",
+              "monitor"
+            ],
+            "co": "subsidise",
+            "tpl": "Firstly, governments could _____ apprenticeship programmes in key industries."
+          },
+          {
+            "label": "E1 — Extend 1",
+            "gps": "gps-explain",
+            "opts": [
+              "enhance",
+              "exacerbate",
+              "curb",
+              "mitigate"
+            ],
+            "co": "enhance",
+            "tpl": "This would _____ young graduates' practical skills and make them more attractive to employers."
+          },
+          {
+            "label": "P2 — Point 2",
+            "gps": "gps-point",
+            "opts": [
+              "impose stricter regulations on",
+              "stems from",
+              "leads to",
+              "a pervasive problem"
+            ],
+            "co": "impose stricter regulations on",
+            "tpl": "In addition, authorities could _____ companies that discriminate based on age."
+          },
+          {
+            "label": "E2 — Extend 2",
+            "gps": "gps-explain",
+            "opts": [
+              "mitigate",
+              "exacerbate",
+              "enhance",
+              "phase out"
+            ],
+            "co": "mitigate",
+            "tpl": "Such legislation would _____ the disadvantages young people face when competing with experienced candidates."
+          }
+        ]
+      },
+      {
+        "id": "bu4",
+        "title": "Effect + Link Combo — Any Essay",
+        "topic": "\"Universities should offer more practical courses.\"",
+        "slots": [
+          {
+            "label": "E — Effect (adverb)",
+            "gps": "gps-effect",
+            "opts": [
+              "inevitably",
+              "dramatically",
+              "increasingly",
+              "largely"
+            ],
+            "co": "inevitably",
+            "tpl": "Without practical training, graduates would _____ struggle to compete."
+          },
+          {
+            "label": "E — Effect (noun)",
+            "gps": "gps-effect",
+            "opts": [
+              "long-term impacts",
+              "far-reaching effect",
+              "detrimental effect",
+              "knock-on effect"
+            ],
+            "co": "long-term impacts",
+            "tpl": "This could have _____ on both their careers and the economy."
+          },
+          {
+            "label": "L — Link (adjective)",
+            "gps": "gps-link",
+            "opts": [
+              "essential",
+              "futile",
+              "pervasive",
+              "dramatic"
+            ],
+            "co": "essential",
+            "tpl": "Clearly, curriculum reform is _____."
+          }
+        ]
+      }
+    ],
+    "shared_vs_specialist": [
+      {
+        "id": "sv0",
+        "ph": "leads to / stems from / contributes to",
+        "co": "shared",
+        "tip": "Causation verbs work in ALL 5 essay types. Highest-ROI items in the bank."
+      },
+      {
+        "id": "sv1",
+        "ph": "a far-reaching effect / long-term benefits",
+        "co": "shared",
+        "tip": "Impact nouns are universal — every essay type needs Effect sentences."
+      },
+      {
+        "id": "sv2",
+        "ph": "crucial / vital / essential",
+        "co": "shared",
+        "tip": "Evaluative adjectives work everywhere: Points, Links, Conclusions."
+      },
+      {
+        "id": "sv3",
+        "ph": "dramatically / inevitably / increasingly",
+        "co": "shared",
+        "tip": "Intensity adverbs amplify any claim in any essay type."
+      },
+      {
+        "id": "sv4",
+        "ph": "a pervasive problem / a growing concern",
+        "co": "shared",
+        "tip": "Problem nouns are universal. Every essay type can name problems."
+      },
+      {
+        "id": "sv5",
+        "ph": "enhance / exacerbate / curb / mitigate",
+        "co": "shared",
+        "tip": "Change verbs work everywhere. They show HOW things get better or worse."
+      },
+      {
+        "id": "sv6",
+        "ph": "the vast majority / a growing number / individuals",
+        "co": "shared",
+        "tip": "Quantifiers and academic people-words are universal. Every essay type needs hedging and formal register."
+      },
+      {
+        "id": "sv7",
+        "ph": "X faces challenges / X poses risks / X suffers from",
+        "co": "shared",
+        "tip": "Existence verbs are universal. \"Poses risks\" appears in ALL 5 types in the Shareability Matrix."
+      },
+      {
+        "id": "sv8",
+        "ph": "it is claimed / supporters argue / it is felt",
+        "co": "discussion",
+        "tip": "Reporter verbs are ONLY for Discussion essays — reporting others' views neutrally. In Opinion, you state YOUR view. In P-S, you describe objectively."
+      },
+      {
+        "id": "sv9",
+        "ph": "supporters / advocates / opponents / critics",
+        "co": "discussion",
+        "tip": "Reporter people-nouns name WHO holds each view. Only Discussion essays present named groups of supporters vs. opponents."
+      },
+      {
+        "id": "svA",
+        "ph": "phase out / impose laws",
+        "co": "opinion-ps",
+        "tip": "The Shareability Matrix shows these in Opinion ✅, P-S ✅, and Two-Part ✅. NOT in Discussion or A-D. They prescribe actions — Opinion essays assert change, P-S essays propose solutions."
+      },
+      {
+        "id": "svB",
+        "ph": "subsidise / fund / invest in",
+        "co": "problem",
+        "tip": "Funding verbs are P-S specialists (+Two-Part). They name specific financial actions. You wouldn't \"subsidise\" in a Discussion or Opinion essay."
+      },
+      {
+        "id": "svC",
+        "ph": "far outweigh",
+        "co": "opinion-ad",
+        "tip": "The matrix shows \"far outweigh\" in Opinion ✅ and A-D ✅. It compares two sides on a scale — used in Opinion conclusions and A-D \"outweigh\" questions."
+      },
+      {
+        "id": "svD",
+        "ph": "a further plus / the downside / a serious drawback",
+        "co": "advdis",
+        "tip": "These nouns FRAME the discussion as advantages vs. disadvantages. \"The downside\" only makes sense when you've discussed the upside."
+      },
+      {
+        "id": "svE",
+        "ph": "ought to be [phased out / reconsidered]",
+        "co": "opinion",
+        "tip": "Strong assertive language expressing YOUR position. Discussion uses reporter verbs; P-S stays more objective with \"should\" not \"ought to be.\""
+      },
+      {
+        "id": "svF",
+        "ph": "legitimate concerns / the diversion of funds",
+        "co": "opinion-disc-ad",
+        "tip": "The matrix shows these in Opinion ✅, Discussion ✅, and A-D ✅. They evaluate negatives — useful whenever you judge a downside, regardless of essay structure."
+      }
+    ]
+  }
+}
