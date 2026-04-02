@@ -132,6 +132,9 @@ export function startExercise(container, options) {
 
   /**
    * Handle answer submission from exercise module
+   * Supports both signatures:
+   *   handleAnswer(userAnswer, isCorrect, details)  — direct call
+   *   callbacks.onAnswer(itemId, isCorrect, details) — object call
    */
   function handleAnswer(userAnswer, isCorrect, details = {}) {
     // Record result
@@ -168,6 +171,39 @@ export function startExercise(container, options) {
       }
     }, 1500);
   }
+
+  /**
+   * Handle skip from exercise module
+   */
+  function handleSkip(itemId) {
+    // Record as skipped (incorrect with no answer)
+    const result = {
+      index: currentIndex,
+      item: items[currentIndex],
+      userAnswer: null,
+      isCorrect: false,
+      details: { skipped: true }
+    };
+    results.push(result);
+
+    // Advance to next item
+    currentIndex += 1;
+    if (currentIndex < totalItems) {
+      renderItem();
+    } else {
+      finishExercise();
+    }
+  }
+
+  /**
+   * Callbacks object passed to exercise modules
+   * Exercise modules call callbacks.onAnswer(itemId, isCorrect, details)
+   * or callbacks.onSkip(itemId)
+   */
+  const exerciseCallbacks = {
+    onAnswer: handleAnswer,
+    onSkip: handleSkip
+  };
 
   /**
    * Show feedback animation and message
@@ -210,7 +246,7 @@ export function startExercise(container, options) {
     // Render exercise item
     const item = items[currentIndex];
     try {
-      exerciseModule.render(body, item, handleAnswer);
+      exerciseModule.render(body, item, exerciseCallbacks);
     } catch (error) {
       console.error('Error rendering exercise item:', error);
       body.innerHTML = '<p class="error">Error loading exercise. Please try again.</p>';
