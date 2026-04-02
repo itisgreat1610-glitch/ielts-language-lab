@@ -632,6 +632,7 @@ async function initApp() {
     const navButtons = {
       'nav-home': 'home',
       'nav-levels': 'levels',
+      'nav-practice': 'exercise',
       'nav-dashboard': 'dashboard',
       'nav-settings': 'settings'
     };

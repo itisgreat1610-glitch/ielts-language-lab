@@ -37,14 +37,19 @@
             </div>
         </div>
 
-        <!-- Main content area (screens will swap here) -->
+        <!-- Main content area (screens swap via router) -->
         <div id="screens-container" class="screens-container">
-            <!-- Screens will be injected here by app.js -->
+            <div class="screen" data-screen="login"></div>
+            <div class="screen" data-screen="home"></div>
+            <div class="screen" data-screen="levels"></div>
+            <div class="screen" data-screen="exercise"></div>
+            <div class="screen" data-screen="dashboard"></div>
+            <div class="screen" data-screen="settings"></div>
         </div>
 
         <!-- Bottom Navigation Bar -->
         <nav class="nav-bar" role="navigation" aria-label="Main navigation">
-            <button class="nav-item nav-home" data-screen="home" aria-label="Home" title="Home">
+            <button class="nav-item" id="nav-home" data-nav="home" aria-label="Home" title="Home">
                 <svg class="nav-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
                     <path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"></path>
                     <polyline points="9 22 9 12 15 12 15 22"></polyline>
@@ -52,7 +57,7 @@
                 <span class="nav-label">Home</span>
             </button>
 
-            <button class="nav-item nav-levels" data-screen="levels" aria-label="Levels" title="Levels">
+            <button class="nav-item" id="nav-levels" data-nav="levels" aria-label="Levels" title="Levels">
                 <svg class="nav-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
                     <rect x="3" y="3" width="7" height="7"></rect>
                     <rect x="14" y="3" width="7" height="7"></rect>
@@ -62,7 +67,7 @@
                 <span class="nav-label">Levels</span>
             </button>
 
-            <button class="nav-item nav-practice" data-screen="practice" aria-label="Practice" title="Practice">
+            <button class="nav-item" id="nav-practice" data-nav="exercise" aria-label="Practice" title="Practice">
                 <svg class="nav-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
                     <circle cx="12" cy="12" r="10"></circle>
                     <polyline points="12 6 12 12 16 14"></polyline>
@@ -70,7 +75,7 @@
                 <span class="nav-label">Practice</span>
             </button>
 
-            <button class="nav-item nav-dashboard" data-screen="dashboard" aria-label="Dashboard" title="Dashboard">
+            <button class="nav-item" id="nav-dashboard" data-nav="dashboard" aria-label="Dashboard" title="Dashboard">
                 <svg class="nav-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
                     <line x1="12" y1="2" x2="12" y2="22"></line>
                     <path d="M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6"></path>
@@ -78,7 +83,7 @@
                 <span class="nav-label">Stats</span>
             </button>
 
-            <button class="nav-item nav-settings" data-screen="settings" aria-label="Settings" title="Settings">
+            <button class="nav-item" id="nav-settings" data-nav="settings" aria-label="Settings" title="Settings">
                 <svg class="nav-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
                     <circle cx="12" cy="12" r="3"></circle>
                     <path d="M12 1v6m0 6v6M4.22 4.22l4.24 4.24m3.08 3.08l4.24 4.24M1 12h6m6 0h6m-17.78 7.78l4.24-4.24m3.08-3.08l4.24-4.24"></path>
