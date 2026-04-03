@@ -28,19 +28,19 @@ const essayTypes = {
     keywords: ['discuss both', 'advantages and disadvantages', 'pros and cons', 'both views'],
     description: 'Present both sides of an argument, then give your opinion.'
   },
-  advantages_disadvantages: {
+  advdis: {
     name: 'Advantages/Disadvantages',
     color: '#2ecc71',
     keywords: ['advantages', 'disadvantages', 'benefits', 'drawbacks', 'positive', 'negative'],
     description: 'Discuss the advantages and disadvantages of a topic in separate paragraphs.'
   },
-  problem_solution: {
+  problem: {
     name: 'Problem/Solution',
     color: '#f1c40f',
     keywords: ['problem', 'solution', 'causes', 'remedy', 'address', 'solve'],
     description: 'Identify problems and propose practical solutions with explanation.'
   },
-  two_part: {
+  twopart: {
     name: 'Two-Part Question',
     color: '#9b59b6',
     keywords: ['to what extent', 'how far', 'how much', 'and', 'also', 'as well'],
@@ -63,8 +63,12 @@ export function render(container, itemData, callbacks) {
     return;
   }
 
-  // Normalize correct type to match our keys
-  const normalizedCorrect = correct.toLowerCase().replace(/\s+/g, '_');
+  // Normalize correct type(s) â data may provide an array of valid types
+  const correctTypes = Array.isArray(correct)
+    ? correct.map(c => c.toLowerCase().replace(/\s+/g, '_'))
+    : [correct.toLowerCase().replace(/\s+/g, '_')];
+  // Use the first correct type as the primary answer for display
+  const normalizedCorrect = correctTypes[0];
 
   // State tracking
   const exerciseState = {
@@ -130,13 +134,13 @@ export function render(container, itemData, callbacks) {
     if (isCorrect) {
       feedbackDiv.classList.add('correct');
       feedbackDiv.innerHTML = `
-        <span class="exercise-feedback-icon">✓</span>
+        <span class="exercise-feedback-icon">â</span>
         <span class="exercise-feedback-text">${message}</span>
       `;
     } else {
       feedbackDiv.classList.add('incorrect');
       feedbackDiv.innerHTML = `
-        <span class="exercise-feedback-icon">✗</span>
+        <span class="exercise-feedback-icon">â</span>
         <span class="exercise-feedback-text">${message}</span>
       `;
     }
@@ -163,7 +167,7 @@ export function render(container, itemData, callbacks) {
 
     exerciseState.attemptCount++;
     const selectedType = button.dataset.type;
-    const isCorrect = selectedType === normalizedCorrect;
+    const isCorrect = correctTypes.includes(selectedType);
 
     exerciseState.answered = true;
     exerciseState.isCorrect = isCorrect;
@@ -172,7 +176,7 @@ export function render(container, itemData, callbacks) {
     // Visual feedback on button
     if (isCorrect) {
       button.classList.add('correct');
-      showFeedback(
+      showFeedback(true,
         `Correct! This is a ${essayTypes[selectedType].name} question.`
       );
       showExplanation(selectedType);
@@ -189,9 +193,12 @@ export function render(container, itemData, callbacks) {
       button.classList.add('incorrect');
       button.style.opacity = '0.5';
 
-      const correctType = essayTypes[normalizedCorrect];
-      showFeedback(
-        `Not quite. This is a ${correctType.name} question, not ${essayTypes[selectedType].name}.`
+      const validNames = correctTypes
+        .map(t => essayTypes[t]?.name)
+        .filter(Boolean)
+        .join(' / ');
+      showFeedback(false,
+        `Not quite. Valid type(s): ${validNames}. Not ${essayTypes[selectedType]?.name || selectedType}.`
       );
       showExplanation(normalizedCorrect);
 
@@ -213,8 +220,8 @@ export function render(container, itemData, callbacks) {
       correctBtn.classList.add('revealed-answer');
 
       const correctType = essayTypes[normalizedCorrect];
-      showFeedback(
-        `The correct answer is: ${correctType.name}`
+      showFeedback(false,
+        `The correct answer is: ${correctType?.name || normalizedCorrect}`
       );
       showExplanation(normalizedCorrect);
       exerciseState.answered = true;
