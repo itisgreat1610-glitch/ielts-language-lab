@@ -7,7 +7,7 @@ import { state, setState, getState, emit, subscribe, getDueCards, getNewCards, i
 import { initRouter, navigate, registerRoute } from './router.js';
 import { loadShared, loadLevel, preloadLevel } from './loader.js';
 import { createCard } from './srs.js';
-import { startExercise } from './ui/exercise-shell.js';
+import { startExercise } from './ui/exercise-shell.js?v=4';
 
 // Exercise modules registry
 const exerciseModules = {};
@@ -15,7 +15,7 @@ const exerciseModules = {};
 async function loadExerciseModule(type) {
   if (exerciseModules[type]) return exerciseModules[type];
   try {
-    const mod = await import(`./exercises/${type}.js?v=3`);
+    const mod = await import(`./exercises/${type}.js?v=4`);
     exerciseModules[type] = mod;
     return mod;
   } catch (err) {

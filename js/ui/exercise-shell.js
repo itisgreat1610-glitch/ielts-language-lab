@@ -143,8 +143,8 @@ export function startExercise(container, options) {
   function handleAnswer(userAnswer, isCorrect, details = {}) {
     // Record result
     const result = {
-      index: currentIndex,
-      item: items[currentIndex],
+      index: batchMode ? results.length : currentIndex,
+      item: batchMode ? { id: userAnswer } : items[currentIndex],
       userAnswer,
       isCorrect,
       details
@@ -155,11 +155,17 @@ export function startExercise(container, options) {
       score += 1;
     } else {
       mistakes.push({
-        index: currentIndex,
-        item: items[currentIndex],
+        index: batchMode ? results.length - 1 : currentIndex,
+        item: batchMode ? { id: userAnswer } : items[currentIndex],
         userAnswer,
         correctAnswer: details.correct
       });
+    }
+
+    // In batchMode, the module handles its own UI/feedback/advancement.
+    // We just accumulate results and wait for onSkip to signal completion.
+    if (batchMode) {
+      return;
     }
 
     // Show feedback
@@ -180,6 +186,16 @@ export function startExercise(container, options) {
    * Handle skip from exercise module
    */
   function handleSkip(itemId) {
+    // In batchMode, modules signal completion via onSkip (e.g., 'collocation-complete').
+    // When this happens, update totalItems to reflect actual answers and finish.
+    if (batchMode) {
+      totalItems = results.length || 1;
+      // Update the results screen total display
+      shell.querySelectorAll('.total').forEach(el => el.textContent = totalItems);
+      finishExercise();
+      return;
+    }
+
     // Record as skipped (incorrect with no answer)
     const result = {
       index: currentIndex,
