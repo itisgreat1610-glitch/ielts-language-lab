@@ -142,7 +142,7 @@ function createLevelCardHTML(levelNum, isUnlocked) {
   const percentage = progress.total > 0 ? Math.round((progress.completed / progress.total) * 100) : 0;
 
   const locked = !isUnlocked ? 'locked' : '';
-  const lockIcon = !isUnlocked ? 'ð' : '';
+  const lockIcon = !isUnlocked ? '🔒' : '';
 
   return `
     <div class="level-card ${locked}" data-level="${levelNum}">
@@ -157,127 +157,377 @@ function createLevelCardHTML(levelNum, isUnlocked) {
     </div>
   `;
 }
-ËÈOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOBËÈØÜY[[\\ÂËÈOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOBÊ
-[\ÛYHØÜY[
-Â[Ý[Û[\ÛYTØÜY[
-HÂÛÛÝÛÛZ[\HØÝ[Y[]Y\TÙ[XÝÜ	ÖÙ]K\ØÜY[HÛYHIÊNÂY
-XÛÛZ[\H]\ÂÛÛÝÈYUÝ[]ÕÝ[HHÙ]Z[TÝ[[X\J
-NÂÛÛÝZ[QÛØ[HÝ]KÙ][ÜËZ[QÛØ[ÂÛÛÝÙ^HH]È]J
-KÒTÓÔÝ[Ê
-KÜ]
-	Õ	ÊVÌNÂÛÛZ[\[\SH]Û\ÜÏHØÜY[XÛÛ[Ù[ÛÛYIÜÝ]K\Ù\È	Ë	È
-È
-Ý]K\Ù\\Ü^S[YH	ÓX\\ÊH	ÉßHOÚ]Û\ÜÏHZ[K\Ý[[X\H]Û\ÜÏHÝ[[X\KXØ\]Û\ÜÏHÝ[[X\K[[X\ÙYUÝ[OÙ]]Û\ÜÏHÝ[[X\K[X[YHÙ^OÙ]Ù]]Û\ÜÏHÝ[[X\KXØ\]Û\ÜÏHÝ[[X\K[[X\Û]ÕÝ[OÙ]]Û\ÜÏHÝ[[X\K[X[]ÈØ\ÏÙ]Ù]]Û\ÜÏHÝ[[X\KXØ\]Û\ÜÏHÝ[[X\K[[X\ÙZ[QÛØ[OÙ]]Û\ÜÏHÝ[[X\K[X[Z[HÛØ[Ù]Ù]Ù]]ÛÛ\ÜÏH\[X\HYHÝ\\XÝXÙKXÝ\XÝXÙH
-	ÙYUÝ[È	Ô]Y]ÉÈ	ÓX\ßJBØ]Û]Û\ÜÏH]ZXÚË\Ý]ÈÏ]ZXÚÈÝ]ÏÚÏ	ÓØXÝÙ^\ÊÝ]KÙÜ\ÜÊK[ÝOOHÈ	ÏÈ][ÈÝ\YY]ÚÛÜÙHH][ÈYÚ[OÜÈ	ÉßBÙ]	ÜÝ]K\Ù\È]ÛÛ\ÜÏH\ÙXÛÛ\HYHÚYÛ[Ý]XÚYÛÝ]Ø]Û	ÉßBÙ]ÂËÈ][\Ý[\ÂÛÛÝÝ\HÛÛZ[\]Y\TÙ[XÝÜ	ÈÜÝ\\XÝXÙKXÊNÂY
-Ý\HÂÝ\Y][\Ý[\	ØÛXÚÉË
 
-HOÂ]YØ]J^\Ú\ÙX
-NÂJNÂBÛÛÝÚYÛÝ]HÛÛZ[\]Y\TÙ[XÝÜ	ÈÜÚYÛ[Ý]XÊNÂY
-ÚYÛÝ]HÂÚYÛÝ]Y][\Ý[\	ØÛXÚÉË
+// ============================================================================
+// Screen Renderers
+// ============================================================================
 
-HOÂ]]ÚYÛÝ]
+/**
+ * Render home screen
+ */
+function renderHomeScreen() {
+  const container = document.querySelector('[data-screen="home"]');
+  if (!container) return;
 
-NÂ]YØ]J	ÛÙÚ[ÊNÂJNÂBBÊ
-[\][ÈØÜY[
-Â[Ý[Û[\][ÔØÜY[
-HÂÛÛÝÛÛZ[\HØÝ[Y[]Y\TÙ[XÝÜ	ÖÙ]K\ØÜY[H][ÈIÊNÂY
-XÛÛZ[\H]\ÂÛÛÝ][ÛÝ[HLÂ][H	Ï]Û\ÜÏHØÜY[XÛÛ[QSÈ][ÏÚ]Û\ÜÏH][ËYÜYÎÂÜ
-]HHNÈHH][ÛÝ[ÈJÊÊHÂÛÛÝ\Õ[ØÚÙYHÝ]KÝ\[][HNÂ[
-ÏHÜX]S][Ø\S
-K\Õ[ØÚÙY
-NÂB[
-ÏH	ÏÙ]Ù]ÎÂÛÛZ[\[\SH[ÂËÈYÛXÚÈ\Ý[\ÈÈ][Ø\ÂÛÛZ[\]Y\TÙ[XÝÜ[
-	Ë][XØ\Ý
-ØÚÙY
-IÊKÜXXÚ
-Ø\OÂØ\Y][\Ý[\	ØÛXÚÉË
+  const { dueTotal, newTotal } = getDailySummary();
+  const dailyGoal = state.settings.dailyGoal;
+  const today = new Date().toISOString().split('T')[0];
 
-HOÂÛÛÝ][[HH\ÙR[
-Ø\]\Ù]][
-NÂÙ]Ý]JÈÝ\[][][[HJNÂ]YØ]J^\Ú\ÙX
-NÂJNÂJNÂBÊ
-[\ÙÚ[ØÜY[
-Â[Ý[Û[\ÙÚ[ØÜY[
-HÂÛÛÝÛÛZ[\HØÝ[Y[]Y\TÙ[XÝÜ	ÖÙ]K\ØÜY[HÙÚ[IÊNÂY
-XÛÛZ[\H]\ÂÛÛZ[\[\SH]Û\ÜÏHØÜY[XÛÛ[ÙÚ[XÛÛ[OQSÈ[ÝXYÙHXÚOÛ\ÜÏHÝX]HX\Ý\[Û\ÚÜHQSÈ^[OÜ]Û\ÜÏHÙÚ[X]ÛÈ]ÛÛ\ÜÏHYÛÛÙÛHYHÛÛÙÛK\ÚYÛZ[XÚYÛ[Ú]ÛÛÙÛBØ]Û]ÛÛ\ÜÏHY[[ÈYH[[Ë\ÚYÛZ[XÛÛ[YH\È[[È\Ù\Ø]ÛÙ]Û\ÜÏHÙÚ[[ÝHÈXØÛÝ[ÈÙIÛÜX]HÛHÜ[ÝKÜÙ]ÂËÈ[[ÈÚYÛ[ÛÛÝ[[ÐHÛÛZ[\]Y\TÙ[XÝÜ	ÈÙ[[Ë\ÚYÛZ[XÊNÂY
-[[ÐHÂ[[ÐY][\Ý[\	ØÛXÚÉË\Þ[È
+  container.innerHTML = `
+    <div class="screen-content">
+      <h2>Welcome${state.user ? ', ' + (state.user.displayName || 'Learner') : ''}!</h2>
 
-HOÂÛÛÝ[[Õ\Ù\HÂZY	Ù[[Ë]\Ù\Ë[XZ[	Ù[[Ð^[\KÛÛIË\Ü^S[YN	Ñ[[È\Ù\ÂNÂØØ[ÝÜYÙKÙ]][J	Ý\Ù\ËÓÓÝ[ÚYJ[[Õ\Ù\JNÂÙ]Ý]JÈ\Ù\[[Õ\Ù\JNÂ]ØZ][]X[^U\Ù\]J
-NÂ]YØ]J	ÚÛYIÊNÂJNÂBËÈÛÛÙÛHÚYÛ[
-XÙZÛ\BÛÛÝÛÛÙÛPHÛÛZ[\]Y\TÙ[XÝÜ	ÈÙÛÛÙÛK\ÚYÛZ[XÊNÂY
-ÛÛÙÛPHÂÛÛÙÛPY][\Ý[\	ØÛXÚÉË
+      <div class="daily-summary">
+        <div class="summary-card">
+          <div class="summary-number">${dueTotal}</div>
+          <div class="summary-label">Due Today</div>
+        </div>
+        <div class="summary-card">
+          <div class="summary-number">${newTotal}</div>
+          <div class="summary-label">New Cards</div>
+        </div>
+        <div class="summary-card">
+          <div class="summary-number">${dailyGoal}</div>
+          <div class="summary-label">Daily Goal</div>
+        </div>
+      </div>
 
-HOÂ[\
-	ÑÛÛÙÛHÚYÛR[Ú[H[\[Y[Y[\ÙHÚ]\X\ÙIÊNÂJNÂBBÊ
-[\\ÚØ\ØÜY[
-Â[Ý[Û[\\ÚØ\ØÜY[
-HÂÛÛÝÛÛZ[\HØÝ[Y[]Y\TÙ[XÝÜ	ÖÙ]K\ØÜY[H\ÚØ\IÊNÂY
-XÛÛZ[\H]\ÂÛÛÝÝ[ÛÛ\]YHØXÝ[Y\ÊÝ]KÙÜ\ÜÊKYXÙJ
-Ý[K
-HOÝ[H
-ÈÛÛ\]Y
-NÂÛÛÝÝ[Ø\ÈHØXÝ[Y\ÊÝ]KÙÜ\ÜÊKYXÙJ
-Ý[K
-HOÝ[H
-ÈÝ[
-NÂÛÛZ[\[\SH]Û\ÜÏHØÜY[XÛÛ[\ÚØ\Ú]Û\ÜÏHÝ]ËYÜY]Û\ÜÏHÝ]XÞ]Û\ÜÏHÝ][[X\ÝÝ[Ø\ßOÙ]]Û\ÜÏHÝ][X[Ý[Ø\ÏÙ]Ù]]Û\ÜÏHÝ]XÞ]Û\ÜÏHÝ][[X\ÝÝ[ÛÛ\]YOÙ]]Û\ÜÏHÝ][X[ÛÛ\]YÙ]Ù]]Û\ÜÏHÝ]XÞ]Û\ÜÏHÝ][[X\ÝÝ[Ø\ÈÈX]Ý[
+      <button class="btn btn-primary" id="start-practice-btn">
+        Start Practice (${dueTotal > 0 ? 'Review' : 'Learn'})
+      </button>
 
-Ý[ÛÛ\]YÈÝ[Ø\ÊH
-L
-HIOÙ]]Û\ÜÏHÝ][X[Ý\[ÙÜ\ÜÏÙ]Ù]Ù]]Û\ÜÏHÝ]ËXK[][ÏÙÜ\ÜÈH][ÚÏ	ÓØXÝÙ^\ÊÝ]KÙÜ\ÜÊKX\
-][YOÂÛÛÝ][H\ÙR[
-][Y
-NÂÛÛÝHÝ]KÙÜ\ÜÖÛ][YNÂÛÛÝÝHÝ[ÈX]Ý[
+      <div class="quick-stats">
+        <h3>Quick Stats</h3>
+        ${Object.keys(state.progress).length === 0 ? '<p>No levels started yet. Choose a level to begin!</p>' : ''}
+      </div>
 
-ÛÛ\]YÈÝ[
-H
-L
-HÂ]\]Û\ÜÏH][\Ý]Ü[Û\ÜÏH][[[YH][	Û][OÜÜ[]Û\ÜÏHZ[KX\]Û\ÜÏHZ[KY[Ý[OHÚY	ÜÝIHÙ]Ù]Ü[Û\ÜÏH][\ÝÜÝIOÜÜ[Ù]ÂJKÚ[	ÉÊ_BÙ]Ù]ÂBÊ
-[\Ù][ÜÈØÜY[
-Â[Ý[Û[\Ù][ÜÔØÜY[
-HÂÛÛÝÛÛZ[\HØÝ[Y[]Y\TÙ[XÝÜ	ÖÙ]K\ØÜY[HÙ][ÜÈIÊNÂY
-XÛÛZ[\H]\ÂÛÛZ[\[\SH]Û\ÜÏHØÜY[XÛÛ[Ù][ÜÏÚ]Û\ÜÏHÙ][ÜËYÜÝ\X[Z[HÛØ[
-Ø\ÊOÛX[]Û\ÜÏHÙ][ËXÛÛÛ[]\OH[X\YHZ[KYÛØ[Z[][YOHÜÝ]KÙ][ÜËZ[QÛØ[HZ[HHX^HLÙ]Ù]]Û\ÜÏHÙ][ÜËYÜÝ\X[ÝYXØ][ÛÏÛX[]Û\ÜÏHÙ][ËXÛÛÛ[]\OHÚXÚØÞYHÝYXØ][ÛË]ÙÙÛH	ÜÝ]KÙ][ÜËÝYXØ][ÛÑ[XYÈ	ØÚXÚÙY	È	ÉßOÜ[ÜÝ]KÙ][ÜËÝYXØ][ÛÑ[XYÈ	Ñ[XY	È	Ñ\ØXY	ßOÜÜ[Ù]Ù]]Û\ÜÏHÙ][ÜËYÜÝ\X[[YOÛX[]Û\ÜÏHÙ][ËXÛÛÛÙ[XÝYH[YK\Ù[XÝÜ[Û[YOHYÚ	ÜÝ]KÙ][ÜË[YHOOH	ÛYÚ	ÈÈ	ÜÙ[XÝY	È	ÉßOYÚÛÜ[ÛÜ[Û[YOH\È	ÜÝ]KÙ][ÜË[YHOOH	Ù\ÉÈÈ	ÜÙ[XÝY	È	ÉßO\ÏÛÜ[ÛÜÙ[XÝÙ]Ù]]ÛÛ\ÜÏH\ÙXÛÛ\HYHØ]K\Ù][ÜËXØ]HÙ][ÜÏØ]ÛÙ]ÂËÈ][\Ý[\ÂÛÛÝØ]PHÛÛZ[\]Y\TÙ[XÝÜ	ÈÜØ]K\Ù][ÜËXÊNÂY
-Ø]PHÂØ]PY][\Ý[\	ØÛXÚÉË
+      ${state.user ? `
+        <button class="btn btn-secondary" id="sign-out-btn">Sign Out</button>
+      ` : ''}
+    </div>
+  `;
 
-HOÂÛÛÝ]ÔÙ][ÜÈHÂZ[QÛØ[\ÙR[
-ÛÛZ[\]Y\TÙ[XÝÜ	ÈÙZ[KYÛØ[Z[]	ÊK[YJKÝYXØ][ÛÑ[XYÛÛZ[\]Y\TÙ[XÝÜ	ÈÛÝYXØ][ÛË]ÙÙÛIÊKÚXÚÙY[YNÛÛZ[\]Y\TÙ[XÝÜ	ÈÝ[YK\Ù[XÝ	ÊK[YBNÂÙ]Ý]JÈÙ][ÜÎÈÝ]KÙ][ÜË]ÔÙ][ÜÈHJNÂ[\
-	ÔÙ][ÜÈØ]YIÊNÂJNÂBBÊ
-[\^\Ú\ÙHØÜY[8 %ØYÈ[Ý\ÈX[^\Ú\ÙH[Ù[\Â
-Â\Þ[È[Ý[Û[\^\Ú\ÙTØÜY[]\[\ÊHÂÛÛÝÛÛZ[\HØÝ[Y[]Y\TÙ[XÝÜ	ÖÙ]K\ØÜY[H^\Ú\ÙHIÊNÂY
-XÛÛZ[\H]\ÂÛÛÝ^\Ú\ÙU\HH\[\Ë\NÂÛÛÝ][HÝ]KÝ\[][ÂËÈYÈÜXÚYXÈ\H\]Y\ÝYÚÝÈ^\Ú\ÙHXÚÙ\Ü\È][Y
-Y^\Ú\ÙU\HY^\Ú\ÙU\UÑ]RÙ^VÙ^\Ú\ÙU\WJHÂ[\^\Ú\ÙTXÚÙ\ÛÛZ[\][
-NÂ]\ÂBËÈÚÝÈØY[ÈÝ]BÛÛZ[\[\SH]Û\ÜÏHØÜY[XÛÛ[ØY[È^\Ú\ÙKÜÙ]ÂHÂËÈØYH^\Ú\ÙH[Ù[H[][]H[\[[ÛÛÝÙ^\Ú\ÙS[Ù[K][]WHH]ØZ]ÛZ\ÙK[
-ÂØY^\Ú\ÙS[Ù[J^\Ú\ÙU\JKØY][
-][
-BJNÂY
-Y^\Ú\ÙS[Ù[JHÂÛÛZ[\[\SH]Û\ÜÏHØÜY[XÛÛ[^\Ú\ÙHÝ]Z[XHY]Ü]ÛÛ\ÜÏH\ÙXÛÛ\HYHXÚËXXÚÏØ]ÛÙ]ÂÛÛZ[\]Y\TÙ[XÝÜ	ÈØXÚËXÊOËY][\Ý[\	ØÛXÚÉË
+  // Event listeners
+  const startBtn = container.querySelector('#start-practice-btn');
+  if (startBtn) {
+    startBtn.addEventListener('click', () => {
+      navigate(`exercise`);
+    });
+  }
 
-HO]YØ]J	Û][ÉÊJNÂ]\ÂBËÈÙ]H^\Ú\ÙH][\ÈÛH][]BÛÛÝ]RÙ^HH^\Ú\ÙU\UÑ]RÙ^VÙ^\Ú\ÙU\WNÂÛÛÝ][\ÈH][]K^\Ú\Ù\ÏËÙ]RÙ^WH×NÂY
-][\Ë[ÝOOH
-HÂÛÛZ[\[\SH]Û\ÜÏHØÜY[XÛÛ[È^\Ú\Ù\È]Z[XHÜ\È\H]][	Û][KÜ]ÛÛ\ÜÏH\ÙXÛÛ\HYHXÚËXXÚÈÈ][ÏØ]ÛÙ]ÂÛÛZ[\]Y\TÙ[XÝÜ	ÈØXÚËXÊOËY][\Ý[\	ØÛXÚÉË
+  const signOutBtn = container.querySelector('#sign-out-btn');
+  if (signOutBtn) {
+    signOutBtn.addEventListener('click', () => {
+      auth.signOut();
+      navigate('login');
+    });
+  }
+}
 
-HO]YØ]J	Û][ÉÊJNÂ]\ÂBËÈÝ\H^\Ú\ÙH\Ú[ÈHÚ[Ý\^\Ú\ÙJÛÛZ[\Â^\Ú\ÙU\K][]N][\Ë^\Ú\ÙS[Ù[KÝ\[][][ÛÛÛ\]N
-\Ý[ÊHOÂÛÛÛÛKÙÊ	Ñ^\Ú\ÙHÛÛ\]NË\Ý[ÊNÂËÈØ]HÙÜ\ÜÂÛÛÝÙÜ\ÜÈHÝ]KÙÜ\ÜÖÔÝ[Ê][
-WHÈÛÛ\]YÝ[][\Ë[ÝYUÙ^NNÂÙÜ\ÜËÛÛ\]YHX]X^
-ÙÜ\ÜËÛÛ\]Y\Ý[ËØÛÜJNÂÙ]Ý]JÈÙÜ\ÜÎÈÝ]KÙÜ\ÜËÔÝ[Ê][
-WNÙÜ\ÜÈHJNÂËÈØ]HÈØØ[ÝÜYÙBØ]U\Ù\]JÈØ\ÎÝ]KØ\ËÙÜ\ÜÎÝ]KÙÜ\ÜËÙ][ÜÎÝ]KÙ][ÜÈJNÂBJNÂHØ]Ú
-\HÂÛÛÛÛK\Ü	ÑZ[YÈÝ\^\Ú\ÙNË\NÂÛÛZ[\[\SH]Û\ÜÏHØÜY[XÛÛ[\ÜØY[È^\Ú\ÙKX\ÙHHYØZ[Ü]ÛÛ\ÜÏH\ÙXÛÛ\HYHXÚËXXÚÏØ]ÛÙ]ÂÛÛZ[\]Y\TÙ[XÝÜ	ÈØXÚËXÊOËY][\Ý[\	ØÛXÚÉË
+/**
+ * Render levels screen
+ */
+function renderLevelsScreen() {
+  const container = document.querySelector('[data-screen="levels"]');
+  if (!container) return;
 
-HO]YØ]J	Û][ÉÊJNÂBBÊ
-ÚÝÈ^\Ú\ÙH\HXÚÙ\ÜHÚ][][
-Â[Ý[Û[\^\Ú\ÙTXÚÙ\ÛÛZ[\][
-HÂÛÛÝ\\ÈH][^\Ú\ÙU\\ÖÛ][H×NÂY
-\\Ë[ÝOOH
-HÂÛÛZ[\[\SH]Û\ÜÏHØÜY[XÛÛ[][	Û][OÚ^\Ú\Ù\ÈÜ\È][\HÛÛZ[ÈÛÛÛOÜ]ÛÛ\ÜÏH\ÙXÛÛ\HYHXÚËXXÚÈÈ][ÏØ]ÛÙ]ÂÛÛZ[\]Y\TÙ[XÝÜ	ÈØXÚËXÊOËY][\Ý[\	ØÛXÚÉË
+  const levelCount = 10;
+  let html = '<div class="screen-content"><h2>IELTS Levels</h2><div class="levels-grid">';
 
-HO]YØ]J	Û][ÉÊJNÂ]\ÂBÛÛÝ\S[Y\ÈHÂ	ÝÛÜ[X]Ú	ÎÈ[YN	ÕÛÜX]Ú	Ë\ØÎ	ÓX]ÚÛÜÈÈZ\Y[][ÛÉËXÛÛ	ü'å)	ÈK	ÙØ\Y[	ÎÈ[YN	ÑØ\[	Ë\ØÎ	ÐÛÛ\]HÙ[[Ù\ÈÚ]HYÚÛÜ	ËXÛÛ	ü'äçIÈK	ØÛÛØØ][ÛÎÈ[YN	ÐÛÛØØ][ÛX]Ú	Ë\ØÎ	Ñ[]\[ÛÜ\\ÉËXÛÛ	ü'é'IÈK	ØKX]\ÜYIÎÈ[YN	Ðx¡¤\ÜYIË\ØÎ	Õ\ÜYH\ÚXÈÛÜÈÈ[
-ÊÉËXÛÛ	ø«!»î#ÉÈK	Ü\\\ÙK[X]Ú	ÎÈ[YN	Ô\\\ÙHX]Ú	Ë\ØÎ	ÓX]Ú^ÈÈZ\\\\Ù\ÉËXÛÛ	ü'å!	ÈK	ÜÙ[[ÙK]\KZY	ÎÈ[YN	ÔÙ[[ÙH\HQ	Ë\ØÎ	ÒY[YHÙ[[ÙHÝXÝ\\ÉËXÛÛ	ü'å#IÈK	ÜÙ[[ÙK][ÙÜIÎÈ[YN	ÔÙ[[ÙH[ÙÜIË\ØÎ	Õ[ÙÜHÙ[[ÙH\\ÉËXÛÛ	ø§#ûî#ÉÈK	ÙÜË\XÙ[Y[	ÎÈ[YN	ÑÔÈXÙ[Y[	Ë\ØÎ	ÔXÙH\Ù\È[QQSÕTTHÛÝÉËXÛÛ	ü'äãIÈK	Ü\YÜ\X\ÜÙ[XIÎÈ[YN	Ô\YÜ\\ÜÙ[XIË\ØÎ	ÐZ[ÔË\ÝXÝ\Y\YÜ\ÉËXÛÛ	ü'ãåûî#ÉÈK	Ù\ÜØ^K]\KZY	ÎÈ[YN	Ñ\ÜØ^H\HQ	Ë\ØÎ	ÒY[YHQSÈ\ÜØ^H\\ÉËXÛÛ	ü'äâÉÈBNÂÛÛZ[\[\SH]Û\ÜÏHØÜY[XÛÛ[][	Û][H^\Ú\Ù\ÏÚ]Û\ÜÏH^\Ú\ÙK\XÚÙ\	Ý\\ËX\
-\HOÂÛÛÝ[ÈH\S[Y\ÖÝ\WHÈ[YN\K\ØÎ	ÉËXÛÛ	ü'äæÈNÂ]\]Û\ÜÏH^\Ú\ÙK\XÚËXØ\]K]\OHÝ\_HÜ[Û\ÜÏH^\Ú\ÙK\XÚËZXÛÛÚ[ËXÛÛOÜÜ[]Û\ÜÏH^\Ú\ÙK\XÚËZ[ÈÝÛÏÚ[Ë[Y_OÜÝÛÏÜ[Ú[Ë\ØßOÜÜ[Ù]Ù]ÂJKÚ[	ÉÊ_BÙ]]ÛÛ\ÜÏH\ÙXÛÛ\HYHXÚËXÝ[OHX\Ú[]ÜK\[HXÚÈÈ][ÏØ]ÛÙ]ÂËÈYÛXÚÈ[\ÂÛÛZ[\]Y\TÙ[XÝÜ[
-	Ë^\Ú\ÙK\XÚËXØ\	ÊKÜXXÚ
-Ø\OÂØ\Y][\Ý[\	ØÛXÚÉË
+  for (let i = 1; i <= levelCount; i++) {
+    const isUnlocked = state.currentLevel >= i;
+    html += createLevelCardHTML(i, isUnlocked);
+  }
 
-HOÂ  navigate(`exercise/${card.dataset.type}`);
+  html += '</div></div>';
+  container.innerHTML = html;
+
+  // Add click listeners to level cards
+  container.querySelectorAll('.level-card:not(.locked)').forEach(card => {
+    card.addEventListener('click', () => {
+      const levelNum = parseInt(card.dataset.level);
+      setState({ currentLevel: levelNum });
+      navigate(`exercise`);
+    });
+  });
+}
+
+/**
+ * Render login screen
+ */
+function renderLoginScreen() {
+  const container = document.querySelector('[data-screen="login"]');
+  if (!container) return;
+
+  container.innerHTML = `
+    <div class="screen-content login-content">
+      <h1>IELTS Language Lab</h1>
+      <p class="subtitle">Master English for the IELTS exam</p>
+
+      <div class="login-buttons">
+        <button class="btn btn-google" id="google-sign-in-btn">
+          Sign in with Google
+        </button>
+        <button class="btn btn-demo" id="demo-sign-in-btn">
+          Continue as Demo User
+        </button>
+      </div>
+
+      <p class="login-note">No account? We'll create one for you.</p>
+    </div>
+  `;
+
+  // Demo sign in
+  const demoBtn = container.querySelector('#demo-sign-in-btn');
+  if (demoBtn) {
+    demoBtn.addEventListener('click', async () => {
+      const demoUser = {
+        uid: 'demo-user',
+        email: 'demo@example.com',
+        displayName: 'Demo User'
+      };
+      localStorage.setItem('user', JSON.stringify(demoUser));
+      setState({ user: demoUser });
+      await initializeUserData();
+      navigate('home');
+    });
+  }
+
+  // Google sign in (placeholder)
+  const googleBtn = container.querySelector('#google-sign-in-btn');
+  if (googleBtn) {
+    googleBtn.addEventListener('click', () => {
+      alert('Google Sign-In will be implemented in Phase 2 with Firebase');
+    });
+  }
+}
+
+/**
+ * Render dashboard screen
+ */
+function renderDashboardScreen() {
+  const container = document.querySelector('[data-screen="dashboard"]');
+  if (!container) return;
+
+  const totalCompleted = Object.values(state.progress).reduce((sum, p) => sum + p.completed, 0);
+  const totalCards = Object.values(state.progress).reduce((sum, p) => sum + p.total, 0);
+
+  container.innerHTML = `
+    <div class="screen-content">
+      <h2>Dashboard</h2>
+
+      <div class="stats-grid">
+        <div class="stat-box">
+          <div class="stat-number">${totalCards}</div>
+          <div class="stat-label">Total Cards</div>
+        </div>
+        <div class="stat-box">
+          <div class="stat-number">${totalCompleted}</div>
+          <div class="stat-label">Completed</div>
+        </div>
+        <div class="stat-box">
+          <div class="stat-number">${totalCards > 0 ? Math.round((totalCompleted / totalCards) * 100) : 0}%</div>
+          <div class="stat-label">Overall Progress</div>
+        </div>
+      </div>
+
+      <div class="stats-by-level">
+        <h3>Progress by Level</h3>
+        ${Object.keys(state.progress).map(levelId => {
+          const level = parseInt(levelId);
+          const p = state.progress[levelId];
+          const pct = p.total > 0 ? Math.round((p.completed / p.total) * 100) : 0;
+          return `
+            <div class="level-stat">
+              <span class="level-name">Level ${level}</span>
+              <div class="mini-bar">
+                <div class="mini-fill" style="width: ${pct}%"></div>
+              </div>
+              <span class="level-pct">${pct}%</span>
+            </div>
+          `;
+        }).join('')}
+      </div>
+    </div>
+  `;
+}
+
+/**
+ * Render settings screen
+ */
+function renderSettingsScreen() {
+  const container = document.querySelector('[data-screen="settings"]');
+  if (!container) return;
+
+  container.innerHTML = `
+    <div class="screen-content">
+      <h2>Settings</h2>
+
+      <div class="settings-group">
+        <label>Daily Goal (cards)</label>
+        <div class="setting-control">
+          <input type="number" id="daily-goal-input" value="${state.settings.dailyGoal}" min="1" max="50">
+        </div>
+      </div>
+
+      <div class="settings-group">
+        <label>Notifications</label>
+        <div class="setting-control">
+          <input type="checkbox" id="notifications-toggle" ${state.settings.notificationsEnabled ? 'checked' : ''}>
+          <span>${state.settings.notificationsEnabled ? 'Enabled' : 'Disabled'}</span>
+        </div>
+      </div>
+
+      <div class="settings-group">
+        <label>Theme</label>
+        <div class="setting-control">
+          <select id="theme-select">
+            <option value="light" ${state.settings.theme === 'light' ? 'selected' : ''}>Light</option>
+            <option value="dark" ${state.settings.theme === 'dark' ? 'selected' : ''}>Dark</option>
+          </select>
+        </div>
+      </div>
+
+      <button class="btn btn-secondary" id="save-settings-btn">Save Settings</button>
+    </div>
+  `;
+
+  // Event listeners
+  const saveBtn = container.querySelector('#save-settings-btn');
+  if (saveBtn) {
+    saveBtn.addEventListener('click', () => {
+      const newSettings = {
+        dailyGoal: parseInt(container.querySelector('#daily-goal-input').value),
+        notificationsEnabled: container.querySelector('#notifications-toggle').checked,
+        theme: container.querySelector('#theme-select').value
+      };
+      setState({ settings: { ...state.settings, ...newSettings } });
+      alert('Settings saved!');
+    });
+  }
+}
+
+/**
+ * Render exercise screen — loads and starts real exercise modules
+ */
+async function renderExerciseScreen(path, params) {
+  const container = document.querySelector('[data-screen="exercise"]');
+  if (!container) return;
+
+  const exerciseType = params.type;
+  const level = state.currentLevel;
+
+  // If no specific type requested, show exercise picker for this level
+  if (!exerciseType || !exerciseTypeToDataKey[exerciseType]) {
+    renderExercisePicker(container, level);
+    return;
+  }
+
+  // Show loading state
+  container.innerHTML = `<div class="screen-content"><p>Loading exercise...</p></div>`;
+
+  try {
+    // Load the exercise module and level data in parallel
+    const [exerciseModule, levelData] = await Promise.all([
+      loadExerciseModule(exerciseType),
+      loadLevel(level)
+    ]);
+
+    if (!exerciseModule) {
+      container.innerHTML = `<div class="screen-content"><p>Exercise not available yet.</p>
+        <button class="btn btn-secondary" id="back-btn">Back</button></div>`;
+      container.querySelector('#back-btn')?.addEventListener('click', () => navigate('levels'));
+      return;
+    }
+
+    // Get the exercise items from level data
+    const dataKey = exerciseTypeToDataKey[exerciseType];
+    const items = levelData.exercises?.[dataKey] || [];
+
+    if (items.length === 0) {
+      container.innerHTML = `<div class="screen-content">
+        <p>No exercises available for this type at Level ${level}.</p>
+        <button class="btn btn-secondary" id="back-btn">Back to Levels</button></div>`;
+      container.querySelector('#back-btn')?.addEventListener('click', () => navigate('levels'));
+      return;
+    }
+
+    // Start the exercise using the shell
+    startExercise(container, {
+      exerciseType,
+      levelData: items,
+      exerciseModule,
+      currentLevel: level,
+      onComplete: (results) => {
+        console.log('Exercise complete:', results);
+        // Save progress
+        const progress = state.progress[String(level)] || { completed: 0, total: items.length, dueToday: 0 };
+        progress.completed = Math.max(progress.completed, results.score);
+        setState({ progress: { ...state.progress, [String(level)]: progress } });
+        // Save to localStorage
+        db.saveUserData({ cards: state.cards, progress: state.progress, settings: state.settings });
+      }
+    });
+  } catch (err) {
+    console.error('Failed to start exercise:', err);
+    container.innerHTML = `<div class="screen-content"><p>Error loading exercise. Please try again.</p>
+      <button class="btn btn-secondary" id="back-btn">Back</button></div>`;
+    container.querySelector('#back-btn')?.addEventListener('click', () => navigate('levels'));
+  }
+}
+
+/**
+ * Show exercise type picker for a given level
+ */
+function renderExercisePicker(container, level) {
+  const types = levelExerciseTypes[level] || [];
+
+  if (types.length === 0) {
+    container.innerHTML = `<div class="screen-content">
+      <h2>Level ${level}</h2>
+      <p>Exercises for this level are coming soon!</p>
+      <button class="btn btn-secondary" id="back-btn">Back to Levels</button></div>`;
+    container.querySelector('#back-btn')?.addEventListener('click', () => navigate('levels'));
+    return;
+  }
+
+  const typeNames = {
+    'word-match': { name: 'Word Match', desc: 'Match words to their definitions', icon: '🔤' },
+    'gap-fill': { name: 'Gap Fill', desc: 'Complete sentences with the right word', icon: '📝' },
+    'collocation': { name: 'Collocation Match', desc: 'Find natural word partners', icon: '🤝' },
+    'b1-b2-upgrade': { name: 'B1→B2 Upgrade', desc: 'Upgrade basic words to Band 7+', icon: '⬆️' },
+    'paraphrase-match': { name: 'Paraphrase Match', desc: 'Match texts to their paraphrases', icon: '🔄' },
+    'sentence-type-id': { name: 'Sentence Type ID', desc: 'Identify sentence structures', icon: '🔍' },
+    'sentence-transform': { name: 'Sentence Transform', desc: 'Transform sentence types', icon: '✏️' },
+    'gps-placement': { name: 'GPS Placement', desc: 'Place phrases in PEEEL/UPEPE slots', icon: '📍' },
+    'paragraph-assembly': { name: 'Paragraph Assembly', desc: 'Build GPS-structured paragraphs', icon: '🏗️' },
+    'essay-type-id': { name: 'Essay Type ID', desc: 'Identify IELTS essay types', icon: '📋' }
+  };
+
+  container.innerHTML = `
+    <div class="screen-content">
+      <h2>Level ${level} Exercises</h2>
+      <div class="exercise-picker">
+        ${types.map(type => {
+          const info = typeNames[type] || { name: type, desc: '', icon: '📚' };
+          return `
+            <div class="exercise-pick-card" data-type="${type}">
+              <span class="exercise-pick-icon">${info.icon}</span>
+              <div class="exercise-pick-info">
+                <strong>${info.name}</strong>
+                <span>${info.desc}</span>
+              </div>
+            </div>`;
+        }).join('')}
+      </div>
+      <button class="btn btn-secondary" id="back-btn" style="margin-top:1.5rem">Back to Levels</button>
+    </div>
+  `;
+
+  // Add click handlers
+  container.querySelectorAll('.exercise-pick-card').forEach(card => {
+    card.addEventListener('click', () => {
+      navigate(`exercise/${card.dataset.type}`);
     });
   });
   container.querySelector('#back-btn')?.addEventListener('click', () => navigate('levels'));
