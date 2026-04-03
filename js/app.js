@@ -613,6 +613,15 @@ async function initApp() {
     // Initialize online/offline detection
     offline.init();
 
+    // Restore currentLevel from localStorage BEFORE any rendering
+    const savedLevel = localStorage.getItem('currentLevel');
+    if (savedLevel) {
+      const parsedLevel = parseInt(savedLevel, 10);
+      if (parsedLevel >= 1 && parsedLevel <= 10) {
+        setState({ currentLevel: parsedLevel });
+      }
+    }
+
     // Register all routes FIRST (before any navigate() calls)
     registerRoute('home', renderHomeScreen);
     registerRoute('levels', renderLevelsScreen);
@@ -638,15 +647,6 @@ async function initApp() {
         navigate('login');
       }
     });
-
-    // Restore currentLevel from localStorage
-    const savedLevel = localStorage.getItem('currentLevel');
-    if (savedLevel) {
-      const parsedLevel = parseInt(savedLevel, 10);
-      if (parsedLevel >= 1 && parsedLevel <= 10) {
-        setState({ currentLevel: parsedLevel });
-      }
-    }
 
     // Check if already logged in
     const savedUser = localStorage.getItem('user');
