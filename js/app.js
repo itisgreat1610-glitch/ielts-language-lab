@@ -591,6 +591,17 @@ async function initApp() {
     // Initialize online/offline detection
     offline.init();
 
+    // Register all routes FIRST (before any navigate() calls)
+    registerRoute('home', renderHomeScreen);
+    registerRoute('levels', renderLevelsScreen);
+    registerRoute('login', renderLoginScreen);
+    registerRoute('dashboard', renderDashboardScreen);
+    registerRoute('settings', renderSettingsScreen);
+    registerRoute('exercise', renderExerciseScreen);
+
+    // Initialize router (must be after registering routes)
+    initRouter();
+
     // Set up auth listener
     auth.onAuthChange(async (user) => {
       if (user) {
@@ -616,17 +627,6 @@ async function initApp() {
     } else {
       navigate('login');
     }
-
-    // Register all routes
-    registerRoute('home', renderHomeScreen);
-    registerRoute('levels', renderLevelsScreen);
-    registerRoute('login', renderLoginScreen);
-    registerRoute('dashboard', renderDashboardScreen);
-    registerRoute('settings', renderSettingsScreen);
-    registerRoute('exercise', renderExerciseScreen);
-
-    // Initialize router (must be after registering routes)
-    initRouter();
 
     // Set up bottom navigation
     const navButtons = {
