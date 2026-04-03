@@ -229,7 +229,9 @@ export function startExercise(container, options) {
    * Show feedback animation and message
    */
   function showFeedback(isCorrect, details = {}) {
-    const feedbackEl = shell.querySelector('.exercise-feedback');
+    // Use stored reference — NOT querySelector, which could match
+    // an exercise module's own .exercise-feedback element first.
+    const feedbackEl = feedbackContainer;
     const icon = feedbackEl.querySelector('.feedback-icon');
     const text = feedbackEl.querySelector('.feedback-text');
 
@@ -331,7 +333,7 @@ export function startExercise(container, options) {
    * Display results screen
    */
   function showResults() {
-    const resultsEl = shell.querySelector('.exercise-results');
+    const resultsEl = resultsContainer;
     resultsEl.classList.remove('hidden');
 
     // Update stats
