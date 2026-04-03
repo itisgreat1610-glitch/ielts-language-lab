@@ -247,6 +247,7 @@ function renderLevelsScreen() {
     card.addEventListener('click', () => {
       const levelNum = parseInt(card.dataset.level);
       setState({ currentLevel: levelNum });
+      localStorage.setItem('currentLevel', String(state.currentLevel));
       navigate(`exercise`);
     });
   });
@@ -469,6 +470,11 @@ async function renderExerciseScreen(path, params) {
         const progress = state.progress[String(level)] || { completed: 0, total: items.length, dueToday: 0 };
         progress.completed = Math.max(progress.completed, results.score);
         setState({ progress: { ...state.progress, [String(level)]: progress } });
+        // Unlock next level if this level is completed
+        if (level >= state.currentLevel && level < 10) {
+          setState({ currentLevel: level + 1 });
+          localStorage.setItem('currentLevel', String(state.currentLevel));
+        }
         // Save to localStorage
         db.saveUserData({ cards: state.cards, progress: state.progress, settings: state.settings });
         // Navigate back to exercise picker for this level
@@ -490,10 +496,19 @@ function renderExercisePicker(container, level) {
   const types = levelExerciseTypes[level] || [];
 
   if (types.length === 0) {
+    const canUnlock = level >= state.currentLevel && level < 10;
     container.innerHTML = `<div class="screen-content">
       <h2>Level ${level}</h2>
       <p>Exercises for this level are coming soon!</p>
+      ${canUnlock ? `<button class="btn btn-primary" id="unlock-next-btn">Complete Level ${level} & Unlock Level ${level + 1}</button>` : ''}
       <button class="btn btn-secondary" id="back-btn">Back to Levels</button></div>`;
+    if (canUnlock) {
+      container.querySelector('#unlock-next-btn')?.addEventListener('click', () => {
+        setState({ currentLevel: level + 1 });
+        localStorage.setItem('currentLevel', String(state.currentLevel));
+        navigate('levels');
+      });
+    }
     container.querySelector('#back-btn')?.addEventListener('click', () => navigate('levels'));
     return;
   }
@@ -623,6 +638,15 @@ async function initApp() {
         navigate('login');
       }
     });
+
+    // Restore currentLevel from localStorage
+    const savedLevel = localStorage.getItem('currentLevel');
+    if (savedLevel) {
+      const parsedLevel = parseInt(savedLevel, 10);
+      if (parsedLevel >= 1 && parsedLevel <= 10) {
+        setState({ currentLevel: parsedLevel });
+      }
+    }
 
     // Check if already logged in
     const savedUser = localStorage.getItem('user');
