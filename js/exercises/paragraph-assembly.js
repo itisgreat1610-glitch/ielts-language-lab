@@ -21,7 +21,18 @@ const gpsColors = {
   'E-example': '#f1c40f',  // Amber
   'E-effect': '#e74c3c',   // Coral
   'L': '#9b59b6',          // Purple
-  'U': '#e84393'           // Pink
+  'U': '#e84393',          // Pink
+  // Data comp codes
+  'E1': '#2ecc71',         // Explanation - Green
+  'E2': '#f1c40f',         // Example - Amber
+  'E3': '#e74c3c',         // Effect - Coral
+  'U1': '#e84393',         // Understanding
+  'U2': '#e84393',         // Understanding
+  'Point': '#3498db',
+  'Explanation': '#2ecc71',
+  'Example': '#f1c40f',
+  'Effect': '#e74c3c',
+  'Link': '#9b59b6'
 };
 
 /**
@@ -40,10 +51,9 @@ export function render(container, itemData, callbacks) {
   }
 
   // Create ordered list of sentences for verification
-  const correctOrder = sentences
-    .slice()
-    .sort((a, b) => (a.order || 0) - (b.order || 0));
-  const correctSlotOrder = correctOrder.map(s => s.slot);
+  // Data uses original array order as correct order; each sentence has comp/label (not slot/order)
+  const correctOrder = sentences.slice();
+  const correctSlotOrder = correctOrder.map(s => s.slot || s.comp || s.label);
 
   // Shuffle sentences for display
   const shuffledSentences = sentences
@@ -78,8 +88,8 @@ export function render(container, itemData, callbacks) {
                 <span class="pa-card-number">${idx + 1}</span>
                 <span class="pa-card-text">${escapeHtml(sent.text)}</span>
                 <div class="pa-card-controls">
-                  <button class="pa-btn-up" title="Move up">▲</button>
-                  <button class="pa-btn-down" title="Move down">▼</button>
+                  <button class="pa-btn-up" title="Move up">â²</button>
+                  <button class="pa-btn-down" title="Move down">â¼</button>
                 </div>
               </div>
             `).join('')}
@@ -89,12 +99,14 @@ export function render(container, itemData, callbacks) {
         <div class="pa-ordered-area">
           <h3>Ordered Sequence:</h3>
           <div class="pa-ordered-list" id="pa-ordered-list">
-            ${shuffledSentences.map((sent, idx) => `
-              <div class="pa-slot" data-index="${idx}" style="border-left: 4px solid ${gpsColors[sent.slot] || '#999'}">
-                <span class="pa-slot-label">${sent.slot}</span>
+            ${shuffledSentences.map((sent, idx) => {
+              const slotKey = sent.slot || sent.comp || sent.label;
+              return `
+              <div class="pa-slot" data-index="${idx}" style="border-left: 4px solid ${gpsColors[slotKey] || '#999'}">
+                <span class="pa-slot-label">${escapeHtml(slotKey)}</span>
                 <span class="pa-slot-text">${escapeHtml(sent.text)}</span>
               </div>
-            `).join('')}
+            `}).join('')}
           </div>
         </div>
       </div>
@@ -126,13 +138,13 @@ export function render(container, itemData, callbacks) {
     if (isSuccess) {
       feedbackDiv.classList.add('correct');
       feedbackDiv.innerHTML = `
-        <span class="exercise-feedback-icon">✓</span>
+        <span class="exercise-feedback-icon">â</span>
         <span class="exercise-feedback-text">${message}</span>
       `;
     } else {
       feedbackDiv.classList.add('incorrect');
       feedbackDiv.innerHTML = `
-        <span class="exercise-feedback-icon">✗</span>
+        <span class="exercise-feedback-icon">â</span>
         <div class="exercise-feedback-text">
           <div>${message}</div>
           ${details ? `<div class="feedback-details">${details}</div>` : ''}
@@ -149,12 +161,13 @@ export function render(container, itemData, callbacks) {
   function updateOrderedDisplay() {
     orderedList.innerHTML = '';
     exerciseState.currentOrder.forEach((sent, idx) => {
+      const slotKey = sent.slot || sent.comp || sent.label;
       const slot = document.createElement('div');
       slot.className = 'pa-slot';
       slot.dataset.index = idx;
-      slot.style.borderLeftColor = gpsColors[sent.slot] || '#999';
+      slot.style.borderLeftColor = gpsColors[slotKey] || '#999';
       slot.innerHTML = `
-        <span class="pa-slot-label">${sent.slot}</span>
+        <span class="pa-slot-label">${escapeHtml(slotKey)}</span>
         <span class="pa-slot-text">${escapeHtml(sent.text)}</span>
       `;
       orderedList.appendChild(slot);
@@ -205,7 +218,8 @@ export function render(container, itemData, callbacks) {
 
     exerciseState.currentOrder.forEach((sent, idx) => {
       const expectedSlot = correctSlotOrder[idx];
-      if (sent.slot !== expectedSlot) {
+      const sentSlot = sent.slot || sent.comp || sent.label;
+      if (sentSlot !== expectedSlot) {
         allCorrect = false;
         wrongPositions.push(idx + 1);
       }
