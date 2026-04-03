@@ -459,6 +459,11 @@ async function renderExerciseScreen(path, params) {
       exerciseModule,
       currentLevel: level,
       onComplete: (results) => {
+        // Back button sends null — just navigate back
+        if (!results) {
+          navigate('levels');
+          return;
+        }
         console.log('Exercise complete:', results);
         // Save progress
         const progress = state.progress[String(level)] || { completed: 0, total: items.length, dueToday: 0 };
@@ -466,6 +471,8 @@ async function renderExerciseScreen(path, params) {
         setState({ progress: { ...state.progress, [String(level)]: progress } });
         // Save to localStorage
         db.saveUserData({ cards: state.cards, progress: state.progress, settings: state.settings });
+        // Navigate back to exercise picker for this level
+        navigate('exercise');
       }
     });
   } catch (err) {
