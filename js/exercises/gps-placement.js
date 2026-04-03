@@ -16,12 +16,26 @@ export const meta = {
  * GPS color map for visual feedback
  */
 const gpsColors = {
+  // GPS letter codes
   'P': '#3498db',          // Blue
   'E-explain': '#2ecc71',  // Green
   'E-example': '#f1c40f',  // Amber
   'E-effect': '#e74c3c',   // Coral
   'L': '#9b59b6',          // Purple
-  'U': '#e84393'           // Pink
+  'U': '#e84393',          // Pink
+  // Data key codes (from level JSON)
+  'hook': '#3498db',       // Blue
+  'background': '#2ecc71', // Green
+  'thesis': '#f1c40f',     // Amber
+  'point': '#3498db',      // Blue
+  'explain': '#2ecc71',    // Green
+  'example': '#f1c40f',    // Amber
+  'effect': '#e74c3c',     // Coral
+  'link': '#9b59b6',       // Purple
+  'understanding': '#e84393', // Pink
+  'problem': '#3498db',    // Blue
+  'evidence': '#f1c40f',   // Amber
+  'position': '#e84393'    // Pink
 };
 
 /**
@@ -55,14 +69,18 @@ export function render(container, itemData, callbacks) {
       <div class="gps-placement-title">${escapeHtml(title)}</div>
 
       <div class="gps-placement-zones">
-        ${zones.map((zone, idx) => `
-          <div class="gps-zone" data-zone-index="${idx}" style="border-color: ${gpsColors[zone]}">
-            <div class="gps-zone-label" style="background-color: ${gpsColors[zone]}">${zone}</div>
+        ${zones.map((zone, idx) => {
+          const zoneLabel = typeof zone === 'object' ? zone.label : zone;
+          const zoneKey = typeof zone === 'object' ? (zone.key || zone.label) : zone;
+          const color = gpsColors[zoneKey] || gpsColors[zone] || '#888';
+          return `
+          <div class="gps-zone" data-zone-index="${idx}" data-zone-key="${escapeHtml(zoneKey)}" style="border-color: ${color}">
+            <div class="gps-zone-label" style="background-color: ${color}">${escapeHtml(zoneLabel)}</div>
             <div class="gps-zone-slots">
               <!-- Phrases will be placed here -->
             </div>
           </div>
-        `).join('')}
+        `}).join('')}
       </div>
 
       <div class="gps-placement-phrases">
@@ -102,13 +120,13 @@ export function render(container, itemData, callbacks) {
     if (isSuccess) {
       feedbackDiv.classList.add('correct');
       feedbackDiv.innerHTML = `
-        <span class="exercise-feedback-icon">✓</span>
+        <span class="exercise-feedback-icon">â</span>
         <span class="exercise-feedback-text">${message}</span>
       `;
     } else {
       feedbackDiv.classList.add('incorrect');
       feedbackDiv.innerHTML = `
-        <span class="exercise-feedback-icon">✗</span>
+        <span class="exercise-feedback-icon">â</span>
         <span class="exercise-feedback-text">${message}</span>
       `;
     }
@@ -195,7 +213,11 @@ export function render(container, itemData, callbacks) {
     items.forEach((item, itemIndex) => {
       const itemId = item.id || String(itemIndex);
       const placedZoneIndex = exerciseState.placedItems.get(itemId);
-      const correctZoneIndex = zones.indexOf(item.correct_zone);
+      // Match by key: data uses item.correct (a key string), zones are objects with .key
+      const correctKey = item.correct_zone || item.correct;
+      const correctZoneIndex = zones.findIndex(z =>
+        (typeof z === 'object' ? z.key : z) === correctKey
+      );
 
       if (placedZoneIndex === correctZoneIndex) {
         correctCount++;
