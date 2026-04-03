@@ -63,7 +63,7 @@ export function render(container, itemData, callbacks) {
     return;
   }
 
-  // Normalize correct type(s) — data may provide an array of valid types
+  // Normalize correct type(s) â data may provide an array of valid types
   const correctTypes = Array.isArray(correct)
     ? correct.map(c => c.toLowerCase().replace(/\s+/g, '_'))
     : [correct.toLowerCase().replace(/\s+/g, '_')];
@@ -134,13 +134,13 @@ export function render(container, itemData, callbacks) {
     if (isCorrect) {
       feedbackDiv.classList.add('correct');
       feedbackDiv.innerHTML = `
-        <span class="exercise-feedback-icon">✓</span>
+        <span class="exercise-feedback-icon">â</span>
         <span class="exercise-feedback-text">${message}</span>
       `;
     } else {
       feedbackDiv.classList.add('incorrect');
       feedbackDiv.innerHTML = `
-        <span class="exercise-feedback-icon">✗</span>
+        <span class="exercise-feedback-icon">â</span>
         <span class="exercise-feedback-text">${message}</span>
       `;
     }

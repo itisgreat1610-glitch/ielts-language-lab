@@ -88,8 +88,8 @@ export function render(container, itemData, callbacks) {
                 <span class="pa-card-number">${idx + 1}</span>
                 <span class="pa-card-text">${escapeHtml(sent.text)}</span>
                 <div class="pa-card-controls">
-                  <button class="pa-btn-up" title="Move up">▲</button>
-                  <button class="pa-btn-down" title="Move down">▼</button>
+                  <button class="pa-btn-up" title="Move up">â²</button>
+                  <button class="pa-btn-down" title="Move down">â¼</button>
                 </div>
               </div>
             `).join('')}
@@ -138,13 +138,13 @@ export function render(container, itemData, callbacks) {
     if (isSuccess) {
       feedbackDiv.classList.add('correct');
       feedbackDiv.innerHTML = `
-        <span class="exercise-feedback-icon">✓</span>
+        <span class="exercise-feedback-icon">â</span>
         <span class="exercise-feedback-text">${message}</span>
       `;
     } else {
       feedbackDiv.classList.add('incorrect');
       feedbackDiv.innerHTML = `
-        <span class="exercise-feedback-icon">✗</span>
+        <span class="exercise-feedback-icon">â</span>
         <div class="exercise-feedback-text">
           <div>${message}</div>
           ${details ? `<div class="feedback-details">${details}</div>` : ''}

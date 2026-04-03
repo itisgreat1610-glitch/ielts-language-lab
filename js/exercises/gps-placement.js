@@ -120,13 +120,13 @@ export function render(container, itemData, callbacks) {
     if (isSuccess) {
       feedbackDiv.classList.add('correct');
       feedbackDiv.innerHTML = `
-        <span class="exercise-feedback-icon">✓</span>
+        <span class="exercise-feedback-icon">â</span>
         <span class="exercise-feedback-text">${message}</span>
       `;
     } else {
       feedbackDiv.classList.add('incorrect');
       feedbackDiv.innerHTML = `
-        <span class="exercise-feedback-icon">✗</span>
+        <span class="exercise-feedback-icon">â</span>
         <span class="exercise-feedback-text">${message}</span>
       `;
     }
