@@ -133,20 +133,19 @@ export function render(container, itemData, callbacks) {
     if (isCorrect) {
       button.classList.add('correct');
       fillInBlank(selectedValue);
-      showFeedback(true, 'Correct! Great choice.');
 
-      // Call onAnswer callback after a brief delay
+      // Let the exercise shell handle the feedback toast — don't show our own
+      // Call onAnswer callback after a brief delay for the button animation
       setTimeout(() => {
         callbacks.onAnswer(itemData.id, true, {
           exerciseType: 'gap-fill',
           selectedAnswer: selectedValue,
           attempts: exerciseState.attemptCount
         });
-      }, 800);
+      }, 400);
     } else {
       button.classList.add('incorrect');
       button.style.opacity = '0.5';
-      showFeedback(false, 'Incorrect. Try another option.');
 
       // Mark this option as disabled for future attempts
       exerciseState.disabledOptions.add(button.dataset.index);
@@ -161,18 +160,18 @@ export function render(container, itemData, callbacks) {
           );
           if (correctBtn && !correctBtn.classList.contains('incorrect')) {
             correctBtn.classList.add('revealed-answer');
-            showFeedback(false, `The correct answer is: ${answer}`);
+            fillInBlank(answer);
             exerciseState.answered = true;
 
-            // Call onAnswer as incorrect
+            // Call onAnswer as incorrect — shell will show feedback
             setTimeout(() => {
               callbacks.onAnswer(itemData.id, false, {
                 exerciseType: 'gap-fill',
-                correctAnswer: answer,
+                correct: answer,
                 selectedAnswer: selectedValue,
                 attempts: exerciseState.attemptCount
               });
-            }, 800);
+            }, 400);
           }
         }, 600);
       }
